@@ -1,0 +1,31 @@
+
+.. |image next| image:: ../Images/next.png
+   :alt: click on 'next'
+   :class: screenshot-detail
+.. :width: 168px
+.. :height: 123px
+
+.. |image previous| image:: ../Images/previous.png
+   :alt: click on 'previous'
+   :class: screenshot-detail
+.. :width: 163px
+.. :height: 134px
+
+.. |image selectAdaptiveWidthLayout| image:: ../Images/selectAdaptiveWidthLayout.png
+   :alt: select the adaptive width layout
+   :class: screenshot-detail
+.. :width: 264px
+.. :height: 148px
+
+.. |image selectFixedWidthLayout| image:: ../Images/selectFixedWidthLayout.png
+   :alt: select the fixed width layout
+   :class: screenshot-detail
+.. :width: 207px
+.. :height: 150px
+
+.. |image up| image::  ../Images/up.png
+   :alt: click on 'up'
+   :class: screenshot-detail
+   
+.. :width: 239px
+.. :height: 136px

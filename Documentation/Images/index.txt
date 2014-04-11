@@ -1,0 +1,64 @@
+﻿
+.. created by: E:\toolsmb\Scripts\generateImgIndexTxtForRst.py
+
+
+.. existing images:
+.. | |image next|
+.. | |image previous|
+.. | |image selectAdaptiveWidthLayout|
+.. | |image selectFixedWidthLayout|
+.. | |image up|
+
+
+.. existing images:
+  next
+  ====
+  
+  |image next|
+  
+  previous
+  ========
+  
+  |image previous|
+  
+  selectAdaptiveWidthLayout
+  =========================
+  
+  |image selectAdaptiveWidthLayout|
+  
+  selectFixedWidthLayout
+  ======================
+  
+  |image selectFixedWidthLayout|
+  
+  up
+  ==
+  
+  |image up|
+  
+
+.. |image next| image:: Images/next.png
+   :alt: image next.png
+   :width: 168px
+   :height: 123px
+
+.. |image previous| image:: Images/previous.png
+   :alt: image previous.png
+   :width: 163px
+   :height: 134px
+
+.. |image selectAdaptiveWidthLayout| image:: Images/selectAdaptiveWidthLayout.png
+   :alt: image selectAdaptiveWidthLayout.png
+   :width: 264px
+   :height: 148px
+
+.. |image selectFixedWidthLayout| image:: Images/selectFixedWidthLayout.png
+   :alt: image selectFixedWidthLayout.png
+   :width: 207px
+   :height: 150px
+
+.. |image up| image:: Images/up.png
+   :alt: image up.png
+   :width: 239px
+   :height: 136px
+

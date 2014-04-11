@@ -1,0 +1,13 @@
+# Settings.yml
+---
+conf.py:
+  ##==========================================
+  ## define configuration data for conf.py as
+  ## "parameter: value" pairs here:
+  ##------------------------------------------
+  exampleParameter: example value
+  copyright: 2013
+  project: Welcome!
+  version: 1.0
+  release: 1.0.0
+...
