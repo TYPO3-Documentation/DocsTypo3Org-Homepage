@@ -255,9 +255,8 @@ __ http://docs.typo3.org/~mbless/git.typo3.org/
 
 To save some clicks you also may start here:
 
-- Request rebuild for `Documentation/TYPO3 <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/TYPO3/>`_ manuals
-- Request rebuild for `TYPO3v4/\Extensions (git) <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3v4/Extensions>`_ extension manuals
-- Request rebuild for `TYPO3v4/\Extensions (svn) <http://docs.typo3.org/~mbless/svn.typo3.org/TYPO3v4/Extensions>`_ extension manuals
+- Request rebuild for `Documentation/TYPO3 <http://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_ manuals
+- Request rebuild for `TYPO3CMS/\Extensions <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_ extension manuals
 - Request rebuild for `Packages/ (Neos, Flow) <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_ manuals
 - Request rebuild for `GITHUB <http://docs.typo3.org/~mbless/github.com>`_ manuals
 
@@ -315,4 +314,4 @@ Table of Contents
    
 
 
-   
+
