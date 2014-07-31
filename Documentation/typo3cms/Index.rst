@@ -248,17 +248,14 @@ Trigger documentation rendering
 ===============================
 
 To trigger a rebuild of a manual, click the "request_rebuild.php" file
-in the respective .../\*.git.make folder. A rebuild for any manual 
-known here can be requested from here: `git.typo3.org/\*`__
+in the respective .../\*.git.make folder.
 
-__ http://docs.typo3.org/~mbless/git.typo3.org/
+Here are the links:
 
-To save some clicks you also may start here:
-
-- Request rebuild for `Documentation/TYPO3 <http://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_ manuals
-- Request rebuild for `TYPO3CMS/\Extensions <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_ extension manuals
-- Request rebuild for `Packages/ (Neos, Flow) <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_ manuals
-- Request rebuild for `GITHUB <http://docs.typo3.org/~mbless/github.com>`_ manuals
+- Request rebuild for `the official TYPO3 CMS manuals <http://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_
+- Request rebuild for `TYPO3 system extension manuals <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_
+- Request rebuild for `manuals of Neos and Flow <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_
+- Request rebuild for `manuals of extensions hosted on GitHub <http://docs.typo3.org/~mbless/github.com>`_
 
 
 **Note:** After the rebuild, the \*.git.make folder also contains some
