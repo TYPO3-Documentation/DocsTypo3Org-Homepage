@@ -45,13 +45,6 @@ TYPO3 CMS Documentation
    :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/InstallationGuide/singlehtml/>`__
    :Comment:      
    
- - :Manual:       :ref:`t3maintenance:start`
-   :Shortcut:     t3maintenance
-   :Type:         Guide
-   :URI:          `Maintenance Guide <http://docs.typo3.org/typo3cms/MaintenanceGuide>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/MaintenanceGuide/singlehtml/>`__
-   :Comment:      
-   
  - :Manual:       :ref:`t3security:start`
    :Shortcut:     t3security
    :Type:         Guide

@@ -49,10 +49,6 @@ conf.py:
     - http://docs.typo3.org/typo3cms/FrontendLocalizationGuide
     - null
 
-    t3maintenance:
-    - http://docs.typo3.org/typo3cms/MaintenanceGuide
-    - null
-
     t3security:
     - http://docs.typo3.org/typo3cms/SecurityGuide
     - null

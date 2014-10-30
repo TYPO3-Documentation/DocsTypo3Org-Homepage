@@ -21,14 +21,12 @@ informed about proceedings in content and layout.
 
 
 
-Spellings, Maintenance Guide
-----------------------------
+Spellings
+---------
 
 2012-12-21.
 In the menu it's now "API" instead of "Api" and "TypoScript" instead of 
-"Typoscript". We don't have an "Administrator's Guide". Instead a 
-:ref:`t3maintenance:start` is on the way. Pointers were adjusted 
-accordingly.
+"Typoscript".
 
 
 Layout news
