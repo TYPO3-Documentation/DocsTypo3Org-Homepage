@@ -68,7 +68,7 @@ This collection is still in the process of being established.
    :Description:  Everything around Extbase and Fluid: Extension directory structure, TypoScript settings, API for ActionController, View and Request. And for Fluid: Fluidtemplate and usage of ViewHelpers.
    :Provided by:  Patrick Lobacher
    :Type:         PDF
-   :Download:     `Download <http://www.typovision.de/fileadmin/slides/ExtbaseFluidCheatSheetTypovision.pdf>`__
+   :Download:     `Download <http://www.lobacher.de/files/cs/ExtbaseFluidCheatSheet_3.02_pluswerk.pdf>`__
    :Update:       n/a
 
  - :Sheet:        TCA Cheat Sheet
