@@ -245,7 +245,7 @@ Here are the links:
 
 - Request rebuild for `the official TYPO3 CMS manuals <http://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_
 - Request rebuild for `TYPO3 system extension manuals <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_
-- Request rebuild for `manuals of Neos and Flow <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_
+- Request rebuild for `manuals of Neos, Flow and Surf <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_
 - Request rebuild for `manuals of extensions hosted on GitHub <http://docs.typo3.org/~mbless/github.com>`_
 
 
