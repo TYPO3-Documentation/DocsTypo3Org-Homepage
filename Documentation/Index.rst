@@ -30,18 +30,6 @@ TYPO3 CMS
 
 
 
-TYPO3 Flow
-==========
-
-* `TYPO3 Flow Documentation <http://docs.typo3.org/flow/>`__
-
-TYPO3 Neos
-==========
-
-* `TYPO3 Neos Documentation <http://docs.typo3.org/neos/>`__
-
-
-
 Contents of Documentation Overview
 ==================================
 

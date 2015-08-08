@@ -12,6 +12,29 @@ What's new?
 Content news
 ============
 
+TYPO3 Flow and Neos Documentations have moved
+---------------------------------------------
+
+2015.
+In the effort to separate Neos and Flow development from TYPO3 CMS,
+the official TYPO3 Neos Documentation and TYPO3 Flow Documentation
+have moved to a new place. Old links get redirected.
+
+TYPO3 Surf
+----------
+
+2015.
+The official TYPO3 Surf documentation got added to docs.typo3.org.
+
+PDF rendering
+-------------
+
+2014.
+The official documentation has been made available in PDF format.
+The current version can always be downloaded using the "PDF" link
+in the menu of the according documentation project.
+
+
 New: "What's new?" page
 -----------------------
 
