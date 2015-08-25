@@ -40,31 +40,31 @@ This collection is still in the process of being established.
 
 
  - :Sheet:        TYPO3 CGL on just one page
-   :Scope:        `TYPO3 CMS Coding Guidelines <http://docs.typo3.org/typo3cms/CodingGuidelinesReference/>`__
+   :Scope:        `TYPO3 CMS Coding Guidelines <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>`__
    :Description:  This is a condensed version of the TYPO3 CGLs. All the important things on just one single page.
    :Provided by:  Documentation Team
    :Type:         PDF
-   :Download:     `Download <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.pdf>`__
-   :Update:       `Edit <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.odt>`__
+   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.pdf>`__
+   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.odt>`__
 
  - :Sheet:        stdWrap overview for cObjects
-   :Scope:        `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a cObject. It uses the cObject "TEXT" as example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
-   :Download:     `Download <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
-   :Update:       `Edit <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
+   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
+   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
    
  - :Sheet:        stdWrap overview for menu objects
-   :Scope:        `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a menu. It uses the menu type "HMENU" as an example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
-   :Download:     `Download <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
-   :Update:       `Edit <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
    
  - :Sheet:        2 Extbase Cheat Sheets and 2 Fluid Cheat Sheets
-   :Scope:        `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  Everything around Extbase and Fluid: Extension directory structure, TypoScript settings, API for ActionController, View and Request. And for Fluid: Fluidtemplate and usage of ViewHelpers.
    :Provided by:  Patrick Lobacher
    :Type:         PDF
@@ -72,7 +72,7 @@ This collection is still in the process of being established.
    :Update:       n/a
 
  - :Sheet:        TCA Cheat Sheet
-   :Scope:        `TCA Reference <http://docs.typo3.org/typo3cms/TCAReference>`__
+   :Scope:        `TCA Reference <https://docs.typo3.org/typo3cms/TCAReference>`__
    :Description:  Compact overview of TCA settings and values.
    :Provided by:  Stefan Frömken
    :Type:         PDF
@@ -80,7 +80,7 @@ This collection is still in the process of being established.
    :Update:       n/a
 
  - :Sheet:        New Website Cheat Sheet
-   :Scope:        `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  Overview of common TypoScript settings for a new TYPO3 website.
    :Provided by:  Leon D.
    :Type:         PDF
@@ -88,15 +88,15 @@ This collection is still in the process of being established.
    :Update:       n/a
 
  - :Sheet:        TYPO3 Page Includes
-   :Scope:        `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
    :Provided by:  Steffen Kamper
    :Type:         PDF
-   :Download:     `Download <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
-   :Update:       `Edit <http://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
+   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
+   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
  - :Sheet:        Creating and using mocks in PHPUnit
-   :Scope:        `PHP unit testing <http://docs.typo3.org/typo3cms/extensions/phpunit/>`__
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
    :Description:  Creating and using mocks in PHPUnit
    :Provided by:  Oliver Klee
    :Type:         PDF

@@ -26,7 +26,7 @@ TYPO3 CMS Documentation
  - :Manual:       :ref:`t3extbasebook:start`
    :Shortcut:     t3extbasebook
    :Type:         Book 
-   :URI:          `Developing TYPO3 CMS Extensions with Extbase and Fluid <http://docs.typo3.org/typo3cms/ExtbaseFluidBook/>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/ExtbaseFluidBook/singlehtml/>`__
+   :URI:          `Developing TYPO3 CMS Extensions with Extbase and Fluid <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/singlehtml/>`__
    :Comment:      
    

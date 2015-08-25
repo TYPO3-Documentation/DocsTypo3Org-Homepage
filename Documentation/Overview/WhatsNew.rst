@@ -88,7 +88,7 @@ __ http://lists.typo3.org/pipermail/typo3-project-documentation/2012-December/00
 2. Select "adaptive" layout.
 3. Resize the width of your browser window.
 
-__ http://docs.typo3.org/typo3cms/GettingStartedTutorial/GeneralPrinciples/GeneralBackendStructure/Index.html
+__ https://docs.typo3.org/typo3cms/GettingStartedTutorial/GeneralPrinciples/GeneralBackendStructure/Index.html
 
 
 
@@ -98,7 +98,7 @@ How to make small screenshots look nice
 2012-12-18: `first info and comments`__, example__
 
 __ http://lists.typo3.org/pipermail/typo3-project-documentation/2012-December/004288.html
-__ http://docs.typo3.org/Overview/Tips.html#access-key-n-next-page
+__ https://docs.typo3.org/Overview/Tips.html#access-key-n-next-page
 
 Updated recommendation: **Do** use class "screenshot-detail", **do not**
 use "screenshot-fullsize".

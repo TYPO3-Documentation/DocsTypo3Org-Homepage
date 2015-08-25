@@ -26,7 +26,7 @@ TYPO3 CMS Documentation
  - :Manual:       
    :Shortcut:     
    :Type:         Example
-   :URI:          `Extension Manual <http://docs.typo3.org/typo3cms/ExtensionManualExample>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/ExtensionManualExample/singlehtml/>`__
+   :URI:          `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtensionManualExample/singlehtml/>`__
    :Comment:      
    

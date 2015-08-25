@@ -92,14 +92,14 @@ documentclass
 Lines 12 to 15 should be kept as they are. Especially the exact content of line 15 is important:
 This code actually is the "trigger" for PDF rendering.
 
-When activated, your PDF automatically gets rendered on http://docs.typo3.org under
-:file:`http://docs.typo3.org/typo3cms/extensions/{extension-key}/_pdf/`. E.g.,
-http://docs.typo3.org/typo3cms/extensions/sphinx/_pdf/.
+When activated, your PDF automatically gets rendered on https://docs.typo3.org under
+:file:`https://docs.typo3.org/typo3cms/extensions/{extension-key}/_pdf/`. E.g.,
+https://docs.typo3.org/typo3cms/extensions/sphinx/_pdf/.
 
 
 (Information taken from the `documentation of the sphinx extension`__ by Xavier Perseguers.)
 
-__ http://docs.typo3.org/typo3cms/extensions/sphinx/WritersManual/DocsTypo3Org/Index.html#pdf-rendering
+__ https://docs.typo3.org/typo3cms/extensions/sphinx/WritersManual/DocsTypo3Org/Index.html#pdf-rendering
 
 
 

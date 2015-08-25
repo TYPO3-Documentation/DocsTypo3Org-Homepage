@@ -15,7 +15,7 @@ Page rendered at |today|.
 TYPO3 CMS Extensions
 ====================
 
-`TYPO3 CMS extension manuals <http://docs.typo3.org/typo3cms/extensions/>`__
+`TYPO3 CMS extension manuals <https://docs.typo3.org/typo3cms/extensions/>`__
 
 
 .. this is comment ...
@@ -52,7 +52,7 @@ TYPO3 CMS Extensions
 Official Manuals: All Types
 ===========================
 
-.. note:: **New:** We now also have a collection of "`cheat sheets <http://docs.typo3.org/typo3cms/CheatSheets.html>`__" available!
+.. note:: **New:** We now also have a collection of "`cheat sheets <https://docs.typo3.org/typo3cms/CheatSheets.html>`__" available!
 
 |
 
@@ -69,123 +69,123 @@ Official Manuals: All Types
  - :Manual:       :ref:`t3extbasebook:start`
    :Shortcut:     t3extbasebook
    :Type:         Book 
-   :URI:          `Developing TYPO3 CMS Extensions with Extbase and Fluid <http://docs.typo3.org/typo3cms/ExtbaseFluidBook/>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/ExtbaseFluidBook/singlehtml/>`__
+   :URI:          `Developing TYPO3 CMS Extensions with Extbase and Fluid <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/singlehtml/>`__
    :Comment:      
    
  - :Manual:       
    :Shortcut:     
    :Type:         Example
-   :URI:          `Official Manual <http://docs.typo3.org/typo3cms/OfficialManualExample>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/OfficialManualExample/singlehtml/>`__
+   :URI:          `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/OfficialManualExample/singlehtml/>`__
    :Comment:      
    
  - :Manual:       
    :Shortcut:     
    :Type:         Example
-   :URI:          `Extension Manual <http://docs.typo3.org/typo3cms/ExtensionManualExample>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/ExtensionManualExample/singlehtml/>`__
+   :URI:          `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtensionManualExample/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3extbase:start`
    :Shortcut:     t3extbase
    :Type:         Guide
-   :URI:          `Extbase and Fluid Guide <http://docs.typo3.org/typo3cms/ExtbaseGuide>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/ExtbaseGuide/singlehtml/>`__
+   :URI:          `Extbase and Fluid Guide <https://docs.typo3.org/typo3cms/ExtbaseGuide>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtbaseGuide/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3l10n:start`
    :Shortcut:     t3l10n
    :Type:         Guide
-   :URI:          `Frontend Localization Guide <http://docs.typo3.org/typo3cms/FrontendLocalizationGuide>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/FrontendLocalizationGuide/singlehtml/>`__
+   :URI:          `Frontend Localization Guide <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/singlehtml/>`__
    :Comment:      This manual is currently unmaintained. If you want to help maintain it,
                   just drop us a line at documentation@typo3.org!
    
  - :Manual:       :ref:`t3install:start`
    :Shortcut:     t3install
    :Type:         Guide
-   :URI:          `Installation and Upgrade Guide <http://docs.typo3.org/typo3cms/InstallationGuide>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/InstallationGuide/singlehtml/>`__
+   :URI:          `Installation and Upgrade Guide <https://docs.typo3.org/typo3cms/InstallationGuide>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/InstallationGuide/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3security:start`
    :Shortcut:     t3security
    :Type:         Guide
-   :URI:          `Security Guide <http://docs.typo3.org/typo3cms/SecurityGuide>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/SecurityGuide/singlehtml/>`__
+   :URI:          `Security Guide <https://docs.typo3.org/typo3cms/SecurityGuide>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SecurityGuide/singlehtml/>`__
    :Comment:      
 
  - :Manual:       :ref:`t3cgl:start`
    :Shortcut:     t3cgl
    :Type:         Reference
-   :URI:          `Coding Guidelines <http://docs.typo3.org/typo3cms/CodingGuidelinesReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/CodingGuidelinesReference/singlehtml/>`__
+   :URI:          `Coding Guidelines <https://docs.typo3.org/typo3cms/CodingGuidelinesReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3api:start`
    :Shortcut:     t3api
    :Type:         Reference
-   :URI:          `Core API Reference <http://docs.typo3.org/typo3cms/CoreApiReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/CoreApiReference/singlehtml/>`__
+   :URI:          `Core API Reference <https://docs.typo3.org/typo3cms/CoreApiReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/CoreApiReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3fal:start`
    :Shortcut:     t3fal
    :Type:         Reference
-   :URI:          `File Abstraction Layer <http://docs.typo3.org/typo3cms/FileAbstractionLayerReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/FileAbstractionLayerReference/singlehtml/>`__
+   :URI:          `File Abstraction Layer <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3inside:start`
    :Shortcut:     t3inside
    :Type:         Reference
-   :URI:          `Inside TYPO3 <http://docs.typo3.org/typo3cms/InsideTypo3Reference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/InsideTypo3Reference/singlehtml/>`__
+   :URI:          `Inside TYPO3 <https://docs.typo3.org/typo3cms/InsideTypo3Reference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/InsideTypo3Reference/singlehtml/>`__
    :Comment:      This manual is currently unmaintained. If you want to help maintain it,
                   just drop us a line at documentation@typo3.org!
    
  - :Manual:       :ref:`t3skinning:start`
    :Shortcut:     t3skinning
    :Type:         Reference
-   :URI:          `Skinning Reference <http://docs.typo3.org/typo3cms/SkinningReference/>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/SkinningReference//singlehtml/>`__
+   :URI:          `Skinning Reference <https://docs.typo3.org/typo3cms/SkinningReference/>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SkinningReference//singlehtml/>`__
    :Comment:      This manual is currently unmaintained. If you want to help maintain it,
                   just drop us a line at documentation@typo3.org!
    
  - :Manual:       :ref:`t3tca:start`
    :Shortcut:     t3tca
    :Type:         Reference
-   :URI:          `TCA Reference <http://docs.typo3.org/typo3cms/TCAReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TCAReference/singlehtml/>`__
+   :URI:          `TCA Reference <https://docs.typo3.org/typo3cms/TCAReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TCAReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3tsconfig:start`
    :Shortcut:     t3tsconfig
    :Type:         Reference
-   :URI:          `TSconfig Reference <http://docs.typo3.org/typo3cms/TSconfigReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TSconfigReference/singlehtml/>`__
+   :URI:          `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TSconfigReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3tsref:start`
    :Shortcut:     t3tsref
    :Type:         Reference
-   :URI:          `TypoScript Reference <http://docs.typo3.org/typo3cms/TyposcriptReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TyposcriptReference/singlehtml/>`__
+   :URI:          `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TyposcriptReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3tssyntax:start`
    :Shortcut:     t3tssyntax
    :Type:         Reference
-   :URI:          `TypoScript Syntax <http://docs.typo3.org/typo3cms/TyposcriptSyntaxReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/singlehtml/>`__
+   :URI:          `TypoScript Syntax <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3services:start`
    :Shortcut:     t3services
    :Type:         Reference
-   :URI:          `TYPO3 Services <http://docs.typo3.org/typo3cms/Typo3ServicesReference>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/Typo3ServicesReference/singlehtml/>`__
+   :URI:          `TYPO3 Services <https://docs.typo3.org/typo3cms/Typo3ServicesReference>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/Typo3ServicesReference/singlehtml/>`__
    :Comment:      This manual is currently unmaintained. If you want to help maintain it,
                   just drop us a line at documentation@typo3.org!
    
@@ -194,29 +194,29 @@ Official Manuals: All Types
  - :Manual:       :ref:`t3editors:start`
    :Shortcut:     t3editors
    :Type:         Tutorial
-   :URI:          `Editors Tutorial <http://docs.typo3.org/typo3cms/EditorsTutorial>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/EditorsTutorial/singlehtml/>`__
+   :URI:          `Editors Tutorial <https://docs.typo3.org/typo3cms/EditorsTutorial>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/EditorsTutorial/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3start:start`
    :Shortcut:     t3start
    :Type:         Tutorial
-   :URI:          `Getting Started <http://docs.typo3.org/typo3cms/GettingStartedTutorial>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/GettingStartedTutorial/singlehtml/>`__
+   :URI:          `Getting Started <https://docs.typo3.org/typo3cms/GettingStartedTutorial>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/GettingStartedTutorial/singlehtml/>`__
    :Comment:      
    
  - :Manual:       :ref:`t3templating:start`
    :Shortcut:     t3templating
    :Type:         Tutorial
-   :URI:          `Templating Tutorial <http://docs.typo3.org/typo3cms/TemplatingTutorial>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TemplatingTutorial/singlehtml/>`__
+   :URI:          `Templating Tutorial <https://docs.typo3.org/typo3cms/TemplatingTutorial>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TemplatingTutorial/singlehtml/>`__
    :Comment:      
 
  - :Manual:       :ref:`t3ts45:start`
    :Shortcut:     t3ts45
    :Type:         Tutorial
-   :URI:          `TypoScript in 45 Minutes <http://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial>`__
-   :Single file:  `singlehtml <http://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/singlehtml/>`__
+   :URI:          `TypoScript in 45 Minutes <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/singlehtml/>`__
    :Comment:      
 
 
@@ -243,10 +243,10 @@ in the respective .../\*.git.make folder.
 
 Here are the links:
 
-- Request rebuild for `the official TYPO3 CMS manuals <http://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_
-- Request rebuild for `TYPO3 system extension manuals <http://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_
-- Request rebuild for `manuals of Neos, Flow and Surf <http://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_
-- Request rebuild for `manuals of extensions hosted on GitHub <http://docs.typo3.org/~mbless/github.com>`_
+- Request rebuild for `the official TYPO3 CMS manuals <https://docs.typo3.org/~mbless/github.com/TYPO3-Documentation/TYPO3/>`_
+- Request rebuild for `TYPO3 system extension manuals <https://docs.typo3.org/~mbless/git.typo3.org/TYPO3CMS/Extensions>`_
+- Request rebuild for `the manual of Surf <https://docs.typo3.org/~mbless/git.typo3.org/Packages/>`_
+- Request rebuild for `manuals of extensions hosted on GitHub <https://docs.typo3.org/~mbless/github.com>`_
 
 
 **Note:** After the rebuild, the \*.git.make folder also contains some
@@ -294,7 +294,7 @@ Table of Contents
 
    Books
    Examples
-   Extensions <http://docs.typo3.org/typo3cms/extensions>
+   Extensions <https://docs.typo3.org/typo3cms/extensions>
    Guides
    References
    Tutorials

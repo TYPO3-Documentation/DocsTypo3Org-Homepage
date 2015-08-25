@@ -6,87 +6,67 @@ conf.py:
   ## "parameter: value" pairs here:
   ##------------------------------------------
   exampleParameter: example value
-  copyright: 2014
+  copyright: 2015
   project: Welcome!
   version: 1.0
   release: 1.0.0
-
   intersphinx_mapping:
-
     t3api:
-    - http://docs.typo3.org/typo3cms/CoreApiReference
+    - https://docs.typo3.org/typo3cms/CoreApiReference
     - null
-
     t3cgl:
-    - http://docs.typo3.org/typo3cms/CodingGuidelinesReference
+    - https://docs.typo3.org/typo3cms/CodingGuidelinesReference
     - null
-
     t3editors:
-    - http://docs.typo3.org/typo3cms/EditorsTutorial
+    - https://docs.typo3.org/typo3cms/EditorsTutorial
     - null
-
     t3extbase:
-    - http://docs.typo3.org/typo3cms/ExtbaseGuide
+    - https://docs.typo3.org/typo3cms/ExtbaseGuide
     - null
-
     t3extbasebook:
-    - http://docs.typo3.org/typo3cms/ExtbaseFluidBook
+    - https://docs.typo3.org/typo3cms/ExtbaseFluidBook
     - null
-
     t3fal:
-    - http://docs.typo3.org/typo3cms/FileAbstractionLayerReference
+    - https://docs.typo3.org/typo3cms/FileAbstractionLayerReference
     - null
-
     t3inside:
-    - http://docs.typo3.org/typo3cms/InsideTypo3Reference
+    - https://docs.typo3.org/typo3cms/InsideTypo3Reference
     - null
-
     t3install:
-    - http://docs.typo3.org/typo3cms/InstallationGuide
+    - https://docs.typo3.org/typo3cms/InstallationGuide
     - null
-
     t3l10n:
-    - http://docs.typo3.org/typo3cms/FrontendLocalizationGuide
+    - https://docs.typo3.org/typo3cms/FrontendLocalizationGuide
     - null
-
     t3security:
-    - http://docs.typo3.org/typo3cms/SecurityGuide
+    - https://docs.typo3.org/typo3cms/SecurityGuide
     - null
-
     t3services:
-    - http://docs.typo3.org/typo3cms/Typo3ServicesReference
+    - https://docs.typo3.org/typo3cms/Typo3ServicesReference
     - null
-
     t3skinning:
-    - http://docs.typo3.org/typo3cms/SkinningReference
+    - https://docs.typo3.org/typo3cms/SkinningReference
     - null
-
     t3start:
-    - http://docs.typo3.org/typo3cms/GettingStartedTutorial
+    - https://docs.typo3.org/typo3cms/GettingStartedTutorial
     - null
-
     t3tca:
-    - http://docs.typo3.org/typo3cms/TCAReference
+    - https://docs.typo3.org/typo3cms/TCAReference
     - null
-
     t3templating:
-    - http://docs.typo3.org/typo3cms/TemplatingTutorial
+    - https://docs.typo3.org/typo3cms/TemplatingTutorial
     - null
-
     t3ts45:
-    - http://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial
+    - https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial
     - null
-
     t3tsconfig:
-    - http://docs.typo3.org/typo3cms/TSconfigReference
+    - https://docs.typo3.org/typo3cms/TSconfigReference
     - null
-
     t3tsref:
-    - http://docs.typo3.org/typo3cms/TyposcriptReference
+    - https://docs.typo3.org/typo3cms/TyposcriptReference
     - null
-
     t3tssyntax:
-    - http://docs.typo3.org/typo3cms/TyposcriptSyntaxReference
+    - https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference
     - null
 
 ...
