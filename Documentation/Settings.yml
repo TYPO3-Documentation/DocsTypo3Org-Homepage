@@ -20,9 +20,6 @@ conf.py:
     t3editors:
     - https://docs.typo3.org/typo3cms/EditorsTutorial
     - null
-    t3extbase:
-    - https://docs.typo3.org/typo3cms/ExtbaseGuide
-    - null
     t3extbasebook:
     - https://docs.typo3.org/typo3cms/ExtbaseFluidBook
     - null
