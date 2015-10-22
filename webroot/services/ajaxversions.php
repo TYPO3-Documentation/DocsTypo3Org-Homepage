@@ -18,7 +18,7 @@ class VersionMatcher
     protected $urlPart1 = 'https://docs.typo3.org'; // 'https://docs.typo3.org'
     protected $urlPart2 = '';                       // '/typo3cms/'
     protected $urlPart3 = '';                       // 'TyposcriptReference/en-us/4.7/Setup/Page/Index.html?id=3#abc'
-    protected $filePathToUrlPart2 = '';                       // '/typo3cms/'
+    protected $filePathToUrlPart2 = '';             // '/typo3cms/'
 
     protected $baseFolder = '';                     // 'TyposcriptReference'
     protected $localePath = '';                     // 'en-us'
@@ -136,6 +136,7 @@ class VersionMatcher
             $this->cont = false;
         }
         # urlPart3PathSegments: array('TyposcriptReference', 'en-us', '4.7', 'Setup', 'Page', 'Index.html');
+        # urlPart3PathSegments: array('TyposcriptReference', 'en-us', '4.7', 'singlehtml', 'Index.html');
         if ($this->cont and (count($this->urlPart3PathSegments) < 2)) {
             $this->cont = false;
         }
@@ -158,6 +159,13 @@ class VersionMatcher
             if ($this->isValidVersionFolderName($segment)) {
                 // '4.7'
                 $this->versionPath = $segment;
+                $i += 1;
+            }
+        }
+        if ($this->cont) {
+            $segment = $this->urlPart3PathSegments[$i];
+            if ($segment === 'singlehtml') {
+                // 'singlehtml' - skip!
                 $i += 1;
             }
         }
@@ -204,6 +212,8 @@ class VersionMatcher
                 // master document of other version
                 $baseFound = false;
                 $baseHtmlFile = '';
+                $singleHtmlFound = false;
+                $singleHtmlFile = '';
 
                 // exactly the same file in subdirs of other version?
                 $directFound = false;
@@ -218,6 +228,13 @@ class VersionMatcher
                         if (file_exists($absPathToHtmlFile)) {
                             $baseHtmlFile = $htmlFile; // 'Index.html'
                             $baseFound = true;
+                        }
+                    }
+                    if (!$singleHtmlFound) {
+                        $absPathToSingleHtmlFile = implode('/', array($absPathToManual, $versionFolder, 'singlehtml', $htmlFile));
+                        if (file_exists($absPathToSingleHtmlFile)) {
+                            $singleHtmlFile = $htmlFile; // 'Index.html'
+                            $singleHtmlFound = true;
                         }
                     }
                     if (!$directFound) {
@@ -247,6 +264,8 @@ class VersionMatcher
                     $this->resultVersions[$key][$localeKey] = array(
                         'absPathToHtmlFile' => $absPathToHtmlFile,
                         // '/home/mbless/public_html/typo3cms/TyposcriptReference/latest/Setup/Page/Index.html'
+                        'absPathToSingleHtmlFile' => $absPathToSingleHtmlFile,
+                        // '/home/mbless/public_html/typo3cms/TyposcriptReference/latest/singlehtml/Index.html' || ''
                         'fragment' => $this->fragment,
                         // '#abc'
                         'urlPart1' => $this->urlPart1,
@@ -262,6 +281,8 @@ class VersionMatcher
                         'relativePath' => $this->relativePath,
                         // 'Setup/Page'
                         'baseHtmlFile' => $baseHtmlFile,
+                        // 'Index.html'
+                        'singleHtmlFile' => $singleHtmlFile,
                         // 'Index.html'
                         'directHtmlFile' => $directHtmlFile,
                         // 'Index.html'
@@ -458,6 +479,7 @@ class VersionMatcher
                     // Always loop through locales in the same order
                     foreach ($this->localeKeys as $localeKey) {
                         $valueBase = '-';
+                        $valueSingleHtml = '-';
                         $valueDirect = '-';
 
                         if (isset($localeData[$localeKey])) {
@@ -476,6 +498,23 @@ class VersionMatcher
                                 }
                                 $linkText = $localeKey === '_' ? $versionName : $versionName . ' ' . $localeKey;
                                 $valueBase = '<a href="' . htmlspecialchars($destUrl) . '">' . htmlspecialchars($linkText) . '</a>';
+                            }
+
+                            if (strlen($v['absPathToSingleHtmlFile'])) {
+                                $destUrl = $v['urlPart1'] . $v['urlPart2'] . $v['baseFolder'] . '/';
+                                if (strlen($v['localeSegment'])) {
+                                    $destUrl .= $v['localeSegment'] . '/';
+                                }
+                                if (strlen($v['versionFolder']) and $v['versionFolder'] !== 'stable') {
+                                    $destUrl .= $v['versionFolder'] . '/';
+                                }
+                                $destUrl .= 'singlehtml/';
+                                if (!(strlen($v['singleHtmlFile'] === 'Index.html' or $v['singleHtmlFile'] === 'index.html'))) {
+                                    $destUrl .= $v['singleHtmlFile'];
+                                }
+                                $linkText = $localeKey === '_' ? $versionName : $versionName . ' ' . $localeKey;
+                                $linkText .= ' (in one file)';
+                                $valueSingleHtml = '<a href="' . htmlspecialchars($destUrl) . '">' . htmlspecialchars($linkText) . '</a>';
                             }
 
                             if (strlen($v['directHtmlFile'])) {
@@ -499,9 +538,17 @@ class VersionMatcher
                         }
 
                         if ($valueDirect !== '-') {
-                            $result .= '<dd>' . $valueDirect . '</dd>' . $NL;
+                            $result .= '<dd>' . $valueDirect;
+                            if ($valueSingleHtml !== '-') {
+                                $result .= $valueSingleHtml;
+                            }
+                            $result .= '</dd>' . $NL;
                         } elseif ($valueBase !== '-') {
-                            $result .= '<dd>' . $valueBase . '</dd>' . $NL;
+                            $result .= '<dd>' . $valueBase;
+                            if ($valueSingleHtml !== '-') {
+                                $result .= $valueSingleHtml;
+                            }
+                            $result .= '</dd>' . $NL;
                         } elseif (0) {
                             $result .= '<td class="nolink">' . $valueBase . '</td>' . $NL;
                         }
