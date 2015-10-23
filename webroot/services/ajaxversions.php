@@ -440,6 +440,7 @@ class VersionMatcher
     {
         $NL = "\n";
         $result = $NL;
+        $resultSingleHtml = '';
         $rowCount = 0;
 
         // 'absPathToHtmlFile' => $absPathToHtmlFile,
@@ -538,26 +539,21 @@ class VersionMatcher
                         }
 
                         if ($valueDirect !== '-') {
-                            $result .= '<dd>' . $valueDirect;
-                            if ($valueSingleHtml !== '-') {
-                                $result .= $valueSingleHtml;
-                            }
-                            $result .= '</dd>' . $NL;
+                            $result .= '<dd>' . $valueDirect .'</dd>' . $NL;
                         } elseif ($valueBase !== '-') {
-                            $result .= '<dd>' . $valueBase;
-                            if ($valueSingleHtml !== '-') {
-                                $result .= $valueSingleHtml;
-                            }
-                            $result .= '</dd>' . $NL;
+                            $result .= '<dd>' . $valueBase . '</dd>' . $NL;
                         } elseif (0) {
                             $result .= '<td class="nolink">' . $valueBase . '</td>' . $NL;
+                        }
+                        if ($valueSingleHtml !== '-') {
+                            $resultSingleHtml .= '<dd>' . $valueSingleHtml .'</dd>' . $NL;
                         }
                     }
 
                     $rowCount += 1;
                 }
             }
-            $result .= $this->htmlResultTrailer . $NL;
+            $result .= $resultSingleHtml . $this->htmlResultTrailer . $NL;
         }
 
         return $result;
