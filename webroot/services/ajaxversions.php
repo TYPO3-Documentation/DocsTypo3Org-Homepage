@@ -513,8 +513,8 @@ class VersionMatcher
                                 if (!(strlen($v['singleHtmlFile'] === 'Index.html' or $v['singleHtmlFile'] === 'index.html'))) {
                                     $destUrl .= $v['singleHtmlFile'];
                                 }
-                                $linkText = $localeKey === '_' ? $versionName : $versionName . ' ' . $localeKey;
-                                $linkText .= ' (in one file)';
+                                $linkText = 'In one file: ';
+                                $linkText .= $localeKey === '_' ? $versionName : $versionName . ' ' . $localeKey;
                                 $valueSingleHtml = '<a href="' . htmlspecialchars($destUrl) . '">' . htmlspecialchars($linkText) . '</a>';
                             }
 
