@@ -1,8 +1,4 @@
-﻿.. ==================================================
-.. FOR YOUR INFORMATION
-.. --------------------------------------------------
-.. -*- coding: utf-8 -*- with BOM.
-
+﻿
 .. include:: ../Includes.txt
 
 
@@ -28,7 +24,7 @@ This collection is still in the process of being established.
 
 .. t3-field-list-table::
  :header-rows: 1
- 
+
  - :Sheet:        Title
    :Scope:        Scope
    :Description:  Description
@@ -36,7 +32,7 @@ This collection is still in the process of being established.
    :Type:         File type
    :Download:     Download
    :Update:       Want to update the file? `Send <documentation@typo3.org>`__ us the result!
-   
+
 
 
  - :Sheet:        TYPO3 CGL on just one page
@@ -54,7 +50,7 @@ This collection is still in the process of being established.
    :Type:         PNG
    :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
    :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
-   
+
  - :Sheet:        stdWrap overview for menu objects
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a menu. It uses the menu type "HMENU" as an example to demonstrate where they are applied.
@@ -62,14 +58,14 @@ This collection is still in the process of being established.
    :Type:         PNG
    :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
    :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
-   
+
  - :Sheet:        2 Extbase Cheat Sheets and 2 Fluid Cheat Sheets
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  Everything around Extbase and Fluid: Extension directory structure, TypoScript settings, API for ActionController, View and Request. And for Fluid: Fluidtemplate and usage of ViewHelpers.
    :Provided by:  Patrick Lobacher
    :Type:         PDF
    :Download:     `Download <http://www.lobacher.de/files/cs/ExtbaseFluidCheatSheet_3.02_pluswerk.pdf>`__
-   :Update:       n/a
+   :Update:       -
 
  - :Sheet:        TCA Cheat Sheet
    :Scope:        `TCA Reference <https://docs.typo3.org/typo3cms/TCAReference>`__
@@ -77,7 +73,7 @@ This collection is still in the process of being established.
    :Provided by:  Stefan Frömken
    :Type:         PDF
    :Download:     `Download <http://www.typo3lexikon.de/fileadmin/templates/downloads/TCA-Cheat-Sheet-Schoko-Vanille-Mint.pdf>`__
-   :Update:       n/a
+   :Update:       -
 
  - :Sheet:        New Website Cheat Sheet
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
@@ -85,7 +81,7 @@ This collection is still in the process of being established.
    :Provided by:  Leon D.
    :Type:         PDF
    :Download:     `Download <http://www.cheatography.com/achjaderleon/cheat-sheets/typo3-new-website/pdf/>`__
-   :Update:       n/a
+   :Update:       -
 
  - :Sheet:        TYPO3 Page Includes
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
@@ -97,13 +93,23 @@ This collection is still in the process of being established.
 
  - :Sheet:        Creating and using mocks in PHPUnit
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
-   :Description:  Creating and using mocks in PHPUnit
+   :Description:  -
    :Provided by:  Oliver Klee
    :Type:         PDF
-   :Download:     `Download <https://dl.dropboxusercontent.com/u/27225645/mocking-cheatsheet.pdf>`__
-   :Update:       n/a
+   :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/additional-documents/mocking-cheatsheet.pdf>`__
+   :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
+
+
+ - :Sheet:        Test Driven Development with TYPO3 CMS
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
+   :Description:  -
+   :Provided by:  Oliver Klee
+   :Type:         PDF
+   :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/tdd-cheatsheet.pdf>`__
+   :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
 
 The Documentation Team kindly thanks all authors for their work!
 
 TYPO3 - inspiring people to share.
+
