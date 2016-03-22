@@ -20,11 +20,11 @@ When HTML content is cut off
 
 Firefox and wide code-blocks within tables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  
+
 Firefox does things correctly: It displays wide code-blocks as desired
 and then adjusts column widths of tables appropriately. This may lead
 to hidden content though in fixed width layout.
-See this :ref:`example page <t3api:high-priority-functions>`.
+See this :ref:`example page <t3coreapi:high-priority-functions>`.
 
 **Tip:**
 Use "adaptive" layout and a wide monitor in that case or switch to
@@ -46,4 +46,3 @@ __ https://bitbucket.org/birkenfeld/sphinx/issue/1050
 __ https://groups.google.com/forum/?fromgroups=#!topic/sphinx-users/159KrjLnUpQ
 
 
-   

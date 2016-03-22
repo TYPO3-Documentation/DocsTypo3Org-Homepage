@@ -1,8 +1,6 @@
-typo3-docstypo3org-glue-pages
-=============================
+Contents of the docs.typo3.org homepage and the "glue"-pages
+============================================================
 
-Keep the docs.typo3.org glue pages
-
-Find them at ~/HTDOCS/Documentation/DocsTypo3Org.git
-
-Have fun :-)
+:Repository:   https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
+:Rendered at:  https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/DocsTypo3Org-Homepage
+:Authors:      TYPO3 Documentation Team
