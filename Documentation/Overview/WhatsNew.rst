@@ -12,6 +12,13 @@ What's new?
 Content news
 ============
 
+Surf manual has moved
+---------------------
+
+2016.
+The Surf manual has been moved to a new location. Old links get
+redirected.
+
 TYPO3 Flow and Neos Documentations have moved
 ---------------------------------------------
 
