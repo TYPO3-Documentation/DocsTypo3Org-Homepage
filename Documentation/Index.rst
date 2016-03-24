@@ -6,33 +6,23 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-Page rendered at |today|.
+
+**Draft of a new start page**
 
 
-Please **choose from the menu above** or go to:
+.. do not insert headlines here - only teaser
 
-TYPO3 CMS
-=========
+:ref:`((teaser image 'Latest News')) <latest>`
 
-* `TYPO3 CMS documentation <https://docs.typo3.org/typo3cms/>`__
-* `TYPO3 CMS extension manuals <https://docs.typo3.org/typo3cms/extensions/>`__
-
-  **Tip:** Also see the *single file version!*
-  The list of :ref:`list-of-typo3-cms-official-manuals` now offers a
-  *single file version* of each manual as well.
-  The rendering may not be perfect as it hasn't been tuned yet. But since
-  having a single file can be advantageous in a lot of situations, they
-  are offered here already as well.
+:ref:`((teaser image 'Yesterday's News')) <news>`
 
 
-
-Contents of Documentation Overview
-==================================
 
 .. toctree::
-   :maxdepth: 5
-   :titlesonly:
    :glob:
+   :hidden:
 
+   Latest/*
+   News/*
    typo3cms/Index
    Overview/*
