@@ -45,3 +45,10 @@ TYPO3 CMS Documentation
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SecurityGuide/singlehtml/>`__
    :Comment:
 
+ - :Manual:       :ref:`t3contribwalk:TYPO3.Tutorial.ContributionWorkflow.Index`
+   :Shortcut:     t3contribwalk
+   :Type:         Guide
+   :URI:          `TYPO3 Contribution Workflow <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__
+   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/singlehtml/>`__
+   :Comment:
+
