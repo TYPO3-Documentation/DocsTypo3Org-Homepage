@@ -17,7 +17,7 @@ Welcome to the official TYPO3 Documentation
 
 .. as a first quick hack let's insert some buttons here
 
-.. raw:: html
+.. raw:: html t3html
 
    <p><a href="Latest/Index.html"         class="btn btn-primary btn-lg" role="button">Latest Documentation News</a></p>
    <p><a href="typo3cms/Books.html"       class="btn btn-primary btn-lg" role="button">Books</a></p>
