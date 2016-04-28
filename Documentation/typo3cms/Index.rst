@@ -78,8 +78,8 @@ Official Manuals: All Types
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SecurityGuide/singlehtml/>`__
    :Comment:
 
- - :Manual:       :ref:`t3contribwalk:TYPO3.Tutorial.ContributionWorkflow.Index`
-   :Shortcut:     t3contribwalk
+ - :Manual:       :ref:`t3contribute:TYPO3.Tutorial.ContributionWorkflow.Index`
+   :Shortcut:     t3contribute
    :Type:         Guide
    :URI:          `TYPO3 Contribution Workflow <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/singlehtml/>`__
