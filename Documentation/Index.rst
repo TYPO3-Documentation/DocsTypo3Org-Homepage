@@ -17,6 +17,12 @@ Welcome to the official TYPO3 Documentation
 
 .. as a first quick hack let's insert some buttons here
 
+:ref:`Latest Documentation News <latest>`:
+
+- 2016-05-12 Templating Tutorial updated
+- 2016-04-28 New Guide: Contribution Workflow
+- 2016-03-24 Old and new classnames
+
 .. raw:: html
 
    <p><a href="Latest/Index.html"         class="btn btn-primary btn-lg" role="button">Latest Documentation News</a></p>

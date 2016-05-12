@@ -14,7 +14,9 @@ Latest Documentation News
 Templating Tutorial updated
 ---------------------------
 
-May 12, 2016, Francois Suter
+2016-05-12
+
+François Suter
 
 The `Templating Tutorial (Basics)
 <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__
