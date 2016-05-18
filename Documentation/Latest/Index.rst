@@ -11,6 +11,27 @@ Latest Documentation News
 -------------------------
 
 
+
+TypoScript Syntax Reference has new outfit
+------------------------------------------
+
+2016-05-18
+
+The `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
+is coming along in the new theme now as well.
+
+
+
+TSconfig Reference switched to new theme
+----------------------------------------
+
+2016-05-08
+
+The `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__ now has
+the new theme as well.
+
+
+
 Templating Tutorial updated
 ---------------------------
 
