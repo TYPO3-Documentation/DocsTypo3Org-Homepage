@@ -21,9 +21,9 @@ Welcome to the official TYPO3 Documentation
 
 - 2016-05-18 New theme for the `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
 - 2016-05-08 New theme for the `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__
-- 2016-05-12 Templating Tutorial updated
-- 2016-04-28 New Guide: Contribution Workflow
-- 2016-03-24 Old and new classnames
+- 2016-05-12 `Templating Tutorial <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__ updated
+- 2016-04-28 New Guide: `Contribution Workflow <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__
+- 2016-03-24 `Old and new classnames <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/ApiOverview/Namespaces/Index.html#classaliasmap-php>`__
 
 .. raw:: html
 
