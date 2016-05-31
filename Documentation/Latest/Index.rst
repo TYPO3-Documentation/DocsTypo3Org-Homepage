@@ -12,6 +12,21 @@ Latest Documentation News
 
 
 
+TypoScript Syntax Reference updated
+-----------------------------------
+
+2016-05-31
+
+François Suter
+
+The `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
+is now up to date again for TYPO3 CMS 7. It was partly restructured
+to remove redundancies and globally make for a more consistent reading.
+Some obsolete parts were dropped.
+
+Original news: https://forge.typo3.org/news/800
+
+
 TypoScript Syntax Reference has new outfit
 ------------------------------------------
 

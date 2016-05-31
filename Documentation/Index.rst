@@ -19,6 +19,7 @@ Welcome to the official TYPO3 Documentation
 
 :ref:`Latest Documentation News <latest>`:
 
+- 2016-05-31 `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__ updated
 - 2016-05-18 New theme for the `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
 - 2016-05-08 New theme for the `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__
 - 2016-05-12 `Templating Tutorial <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__ updated
