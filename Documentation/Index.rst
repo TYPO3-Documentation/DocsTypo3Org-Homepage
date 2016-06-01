@@ -19,12 +19,12 @@ Welcome to the official TYPO3 Documentation
 
 :ref:`Latest Documentation News <latest>`:
 
-- 2016-05-31 `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__ updated
-- 2016-05-18 New theme for the `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
-- 2016-05-08 New theme for the `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__
-- 2016-05-12 `Templating Tutorial <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__ updated
-- 2016-04-28 New Guide: `Contribution Workflow <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>`__
-- 2016-03-24 `Old and new classnames <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/ApiOverview/Namespaces/Index.html#classaliasmap-php>`__
+- 2016-05-31 :ref:`TypoScript Syntax Reference updated <news-typoscript-syntax-updated>`
+- 2016-05-18 :ref:`New theme for the TypoScript Syntax Reference <news-typoscript-syntax-new-theme>`
+- 2016-05-08 :ref:`New theme for the TSconfig Reference <news-tsconfig-new-theme>`
+- 2016-05-12 :ref:`Templating Tutorial updated <news-templating-tutorial-updated>`
+- 2016-04-28 :ref:`New Guide: Contribution Workflow <news-contribution-workflow-new>`
+- 2016-03-24 :ref:`Old and new classnames <news-old-new-classnames>`
 
 .. raw:: html
 

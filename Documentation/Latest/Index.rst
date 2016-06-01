@@ -11,6 +11,7 @@ Latest Documentation News
 -------------------------
 
 
+.. _news-typoscript-syntax-updated:
 
 TypoScript Syntax Reference updated
 -----------------------------------
@@ -27,6 +28,8 @@ Some obsolete parts were dropped.
 Original news: https://forge.typo3.org/news/800
 
 
+.. _news-typoscript-syntax-new-theme:
+
 TypoScript Syntax Reference has new outfit
 ------------------------------------------
 
@@ -37,6 +40,8 @@ is coming along in the new theme now as well.
 
 
 
+.. _news-tsconfig-new-theme:
+
 TSconfig Reference switched to new theme
 ----------------------------------------
 
@@ -46,6 +51,8 @@ The `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__ 
 the new theme as well.
 
 
+
+.. _news-templating-tutorial-updated:
 
 Templating Tutorial updated
 ---------------------------
@@ -72,6 +79,8 @@ https://forge.typo3.org/news/799
 
 
 
+.. _news-contribution-workflow-new:
+
 New Guide: Contribution Workflow
 --------------------------------
 
@@ -85,6 +94,8 @@ Yippie, we have a new guide:
 
 
 
+
+.. _news-old-new-classnames:
 
 Old and new classnames
 ----------------------
