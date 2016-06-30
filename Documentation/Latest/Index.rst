@@ -1,5 +1,4 @@
 
-
 .. _latest:
 
 ================
@@ -10,15 +9,46 @@ What's going on?
 Latest Documentation News
 -------------------------
 
+.. default-role:: code
+.. highlight:: shell
+
+
+
+.. _news-2016-06-30:
+.. rst-class:: panel panel-default
+
+Improved Theme: Now it's version 3.6.0
+--------------------------------------
+
+2016-06-30 by Martin Bless
+
+`Several issues <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/commit/e22dd5d567165dbad817a983fcae1dabdc3efab2>`__
+with the theme are fixed now. And the `README of the repository
+<https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__
+now has a pointer to the DEMO DOCS `t3SphinxThemeRtdDemoDocs
+<https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
+which are kind of a "stresstest" for the theme and demonstrate what's possible.
+
+New: A `.. rst-class:: panel panel-default` right before a section (headline) will give it a Twitter-Bootstrap
+-like "panel" styling as you can see on this page with the latest news.
+
+New: The theme is version 3.6.0 now. Get it the regular way from `PyPi <https://pypi.python.org/pypi>`__
+by doing:
+
+`sudo pip install --upgrade t3SphinxThemeRtd`
+
+Enjoy!
+
+
+
 
 .. _news-typoscript-syntax-updated:
+.. rst-class:: panel panel-default
 
 TypoScript Syntax Reference updated
 -----------------------------------
 
-2016-05-31
-
-François Suter
+2016-05-31 by François Suter
 
 The `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
 is now up to date again for TYPO3 CMS 7. It was partly restructured
@@ -29,9 +59,11 @@ Original news: https://forge.typo3.org/news/800
 
 
 .. _news-typoscript-syntax-new-theme:
+.. rst-class:: panel panel-default
 
 TypoScript Syntax Reference has new outfit
 ------------------------------------------
+
 
 2016-05-18
 
@@ -41,6 +73,7 @@ is coming along in the new theme now as well.
 
 
 .. _news-tsconfig-new-theme:
+.. rst-class:: panel panel-default
 
 TSconfig Reference switched to new theme
 ----------------------------------------
@@ -53,13 +86,12 @@ the new theme as well.
 
 
 .. _news-templating-tutorial-updated:
+.. rst-class:: panel panel-default
 
 Templating Tutorial updated
 ---------------------------
 
-2016-05-12
-
-François Suter
+2016-05-12 by François Suter
 
 The `Templating Tutorial (Basics)
 <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__
@@ -80,6 +112,7 @@ https://forge.typo3.org/news/799
 
 
 .. _news-contribution-workflow-new:
+.. rst-class:: panel panel-default
 
 New Guide: Contribution Workflow
 --------------------------------
@@ -93,14 +126,13 @@ Yippie, we have a new guide:
 
 
 
-
-
 .. _news-old-new-classnames:
+.. rst-class:: panel panel-default
 
 Old and new classnames
 ----------------------
 
-2016-03-24
+2016-03-24 by Martin Bless
 
 What are the new namespaced classnames that replace outdated old ones
 of TYPO3 v4? You can now `find the answer in the documentation.
