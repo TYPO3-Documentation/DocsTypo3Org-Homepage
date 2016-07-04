@@ -46,5 +46,6 @@ and more!
 
    Latest/*
    News/*
+   Extensions/*
    typo3cms/Index
    Overview/*
