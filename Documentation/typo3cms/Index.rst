@@ -111,8 +111,7 @@ Official Manuals: All Types
    :Type:         Reference
    :URI:          `Inside TYPO3 <https://docs.typo3.org/typo3cms/InsideTypo3Reference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/InsideTypo3Reference/singlehtml/>`__
-   :Comment:      This manual is currently unmaintained. If you want to help maintain it,
-                  just drop us a line at documentation@typo3.org!
+   :Comment:
 
  - :Manual:       :ref:`t3skinning:start`
    :Shortcut:     t3skinning
@@ -155,8 +154,7 @@ Official Manuals: All Types
    :Type:         Reference
    :URI:          `TYPO3 Services <https://docs.typo3.org/typo3cms/Typo3ServicesReference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/Typo3ServicesReference/singlehtml/>`__
-   :Comment:      This manual is currently unmaintained. If you want to help maintain it,
-                  just drop us a line at documentation@typo3.org!
+   :Comment:      
 
  - :Manual:       :ref:`t3editors:start`
    :Shortcut:     t3editors

@@ -14,6 +14,23 @@ Latest Documentation News
 
 
 
+.. _news-2016-08-05:
+.. rst-class:: panel panel-default
+
+Inside TYPO3 updated
+--------------------
+
+2016-08-05 by Francois Suter
+
+The `Inside TYPO3 Reference <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>`__
+is finally up to date for TYPO3 CMS 7. A lot of content was fully
+rewritten, while many obsolete parts were removed.
+
+Original news: https://forge.typo3.org/news/807
+
+
+
+
 .. _news-2016-06-30:
 .. rst-class:: panel panel-default
 
