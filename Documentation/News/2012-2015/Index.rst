@@ -5,8 +5,6 @@
 2012 - 2015
 ===========
 
-See :ref:`latest` for latest news!
-
 
 TYPO3 Flow and Neos Documentations have moved
 ---------------------------------------------

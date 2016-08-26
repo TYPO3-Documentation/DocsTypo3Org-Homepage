@@ -68,8 +68,7 @@ All manuals
    :glob:
    :hidden:
 
-   Latest/*
+   typo3cms/*
    News/*
    Extensions/*
-   typo3cms/Index
    Overview/*
