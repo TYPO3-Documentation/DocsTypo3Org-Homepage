@@ -7,7 +7,7 @@ Welcome to the official TYPO3 Documentation
 ===========================================
 
 
-.. do not insert headlines here - only teaser
+.. do not insert headlines here - only teaser, 5 news max.
 
    for example:
 
@@ -15,31 +15,54 @@ Welcome to the official TYPO3 Documentation
 
       :ref:`((teaser image 'Yesterday's News')) <news>`
 
-.. as a first quick hack let's insert some buttons here
 
-.. raw:: html
+Latest news
+-----------
 
-   <p><a href="Latest/Index.html"         class="btn btn-primary btn-lg" role="button">Latest Documentation News</a></p>
+.. sidebar:: New to TYPO3 CMS?
 
-including
+   If you are new to TYPO3 CMS, please start by reading the
+   :ref:`Tutorials <tutorials>`, which will help you progressively
+   your knowledge of TYPO3 CMS.
+
+   When you feel ready, you can move on to :ref:`Guides <guides>`,
+   which provide an in-depth look into specific topics and
+   :ref:`References <references>` which contain exhaustive listings
+   of properties, options, APIs, etc.
+
 
 - 2016-08-05 :ref:`news-2016-08-05`
 - 2016-06-30 :ref:`news-2016-06-30`
 - 2016-05-31 :ref:`TypoScript Syntax Reference updated <news-typoscript-syntax-updated>`
 - 2016-05-18 :ref:`New theme for the TypoScript Syntax Reference <news-typoscript-syntax-new-theme>`
 
-and more!
+:ref:`View all the latest news <latest>`
 
-.. raw:: html
 
-   <p><a href="typo3cms/Books.html"       class="btn btn-primary btn-lg" role="button">Books</a></p>
-   <p><a href="typo3cms/CheatSheets.html" class="btn btn-primary btn-lg" role="button">Cheat Sheets</a></p>
-   <p><a href="typo3cms/Examples.html"    class="btn btn-primary btn-lg" role="button">Examples</a></p>
-   <p><a href="typo3cms/extensions/"      class="btn btn-primary btn-lg" role="button">Extensions</a></p>
-   <p><a href="typo3cms/Guides.html"      class="btn btn-primary btn-lg" role="button">Guides</a></p>
-   <p><a href="typo3cms/References.html"  class="btn btn-primary btn-lg" role="button">References</a></p>
-   <p><a href="typo3cms/Tutorials.html"   class="btn btn-primary btn-lg" role="button">Tutorials</a></p>
-   <p><a href="News/Index.html"           class="btn btn-primary btn-lg" role="button">Yesterday's News</a></p>
+All manuals
+-----------
+
+:ref:`Tutorials <tutorials>`
+  Introductory manuals into the world of TYPO3 CMS.
+
+:ref:`Guides <guides>`
+  In-depth exploration of specific topics.
+
+:ref:`References <references>`
+  Exhaustive listings of properties, options, APIs, etc.
+
+:ref:`Books <books>`
+  Community translations of published books.
+
+`Extensions <https://docs.typo3.org/typo3cms/extensions/>`__
+  Manuals for all public TYPO3 CMS extensions.
+
+:ref:`Cheat sheets <cheat-sheets>`
+  Summarized help notes about various topics.
+
+:ref:`Examples <examples>`
+  Structure and markup examples for official manuals and extension manuals.
+
 
 .. toctree::
    :glob:

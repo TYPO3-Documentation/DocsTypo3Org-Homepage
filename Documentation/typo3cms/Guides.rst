@@ -1,11 +1,14 @@
 .. include:: ../Includes.txt
 
 
+.. _guides:
+
 ==================================
 Guides
 ==================================
 
-TYPO3 CMS Documentation
+Guides provide an in-depth exploration of a particular topic,
+like installation of TYPO3 CMS or security.
 
 
 .. t3-field-list-table::

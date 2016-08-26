@@ -2,6 +2,8 @@
 .. include:: ../Includes.txt
 
 
+.. _cheat-sheets:
+
 ==================================
 Cheat Sheets
 ==================================
@@ -9,9 +11,9 @@ Cheat Sheets
 TYPO3 CMS cheat sheets
 
 This section holds files, which are related to the TYPO3 CMS Core
-documentation, but which do not really fit into the according manual itself.
+documentation, but which do not really fit into any specific manual.
 
-This collection is still in the process of being established.
+This collection is permanent work in progress.
 
 .. note:: **Do you have a cheat sheet yourself?**
 

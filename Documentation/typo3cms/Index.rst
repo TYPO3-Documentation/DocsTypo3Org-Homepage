@@ -2,6 +2,8 @@
 .. include:: ../Includes.txt
 
 
+.. _manuals:
+
 ==================================
 TYPO3 CMS Documentation
 ==================================
@@ -104,7 +106,7 @@ Official Manuals: All Types
    :Type:         Reference
    :URI:          `File Abstraction Layer <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/singlehtml/>`__
-   :Comment:
+   :Comment:      **Work in progress** Please help the community by contributing!
 
  - :Manual:       :ref:`t3inside:start`
    :Shortcut:     t3inside
@@ -112,14 +114,6 @@ Official Manuals: All Types
    :URI:          `Inside TYPO3 <https://docs.typo3.org/typo3cms/InsideTypo3Reference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/InsideTypo3Reference/singlehtml/>`__
    :Comment:
-
- - :Manual:       :ref:`t3skinning:start`
-   :Shortcut:     t3skinning
-   :Type:         Reference
-   :URI:          `Skinning Reference <https://docs.typo3.org/typo3cms/SkinningReference/>`__
-   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SkinningReference//singlehtml/>`__
-   :Comment:      This manual is currently unmaintained. If you want to help maintain it,
-                  just drop us a line at documentation@typo3.org!
 
  - :Manual:       :ref:`t3tca:start`
    :Shortcut:     t3tca
@@ -154,7 +148,7 @@ Official Manuals: All Types
    :Type:         Reference
    :URI:          `TYPO3 Services <https://docs.typo3.org/typo3cms/Typo3ServicesReference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/Typo3ServicesReference/singlehtml/>`__
-   :Comment:      
+   :Comment:
 
  - :Manual:       :ref:`t3editors:start`
    :Shortcut:     t3editors

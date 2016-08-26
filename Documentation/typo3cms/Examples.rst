@@ -1,11 +1,14 @@
 .. include:: ../Includes.txt
 
 
+.. _examples:
+
 ==================================
 Examples
 ==================================
 
-TYPO3 CMS Documentation
+Example manuals for both extensions and official manuals,
+which also serve as guidelines to the usage of reStructuredText.
 
 
 .. t3-field-list-table::

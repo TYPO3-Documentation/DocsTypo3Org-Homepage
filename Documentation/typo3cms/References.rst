@@ -1,11 +1,17 @@
 .. include:: ../Includes.txt
 
 
+.. _references:
+
 ==================================
 References
 ==================================
 
-TYPO3 CMS Documentation
+Reference manuals are exhaustive documents about one particular aspect of TYPO3 CMS:
+important APIs, TypoScript options, TCA properties, etc.
+
+If you are new to TYPO3 CMS and feel lost in such documents, please make sure
+that you have been through :ref:`all the available tutorials <tutorials>`.
 
 
 .. t3-field-list-table::
@@ -40,7 +46,7 @@ TYPO3 CMS Documentation
    :Type:         Reference
    :URI:          `File Abstraction Layer <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/singlehtml/>`__
-   :Comment:
+   :Comment:      **Work in progress** Please help the community by contributing!
 
  - :Manual:       :ref:`t3inside:start`
    :Shortcut:     t3inside
@@ -48,14 +54,6 @@ TYPO3 CMS Documentation
    :URI:          `Inside TYPO3 <https://docs.typo3.org/typo3cms/InsideTypo3Reference>`__
    :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/InsideTypo3Reference/singlehtml/>`__
    :Comment:
-
- - :Manual:       :ref:`t3skinning:start`
-   :Shortcut:     t3skinning
-   :Type:         Reference
-   :URI:          `Skinning <https://docs.typo3.org/typo3cms/SkinningReference/>`__
-   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/SkinningReference//singlehtml/>`__
-   :Comment:      This manual is currently unmaintained. If you want to help maintain it,
-                  just drop us a line at documentation@typo3.org!
 
  - :Manual:       :ref:`t3tca:start`
    :Shortcut:     t3tca
