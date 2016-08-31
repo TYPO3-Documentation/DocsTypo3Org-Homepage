@@ -1,11 +1,13 @@
-﻿.. include:: ../Includes.txt
+﻿.. include:: ../../../Includes.txt
 
-==============================
+.. _pdf-rendering:
+
+========================
 Setting up PDF rendering
-==============================
+========================
 
 Preface
-========================
+=======
 
 docs.typo3.org can automatically generate a PDF file in TYPO3 look out of your documentation.
 

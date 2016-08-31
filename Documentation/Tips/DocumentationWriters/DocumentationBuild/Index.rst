@@ -1,5 +1,7 @@
+.. include:: ../../../Includes.txt
 
-.. include:: ../Includes.txt
+
+.. _build:
 
 ===================
 Documentation build

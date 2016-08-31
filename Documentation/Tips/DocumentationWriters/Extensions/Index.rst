@@ -1,9 +1,11 @@
+.. include:: ../../../Includes.txt
 
-.. _Extensions:
 
-================
+.. _extensions:
+
+==========
 Extensions
-================
+==========
 
 
 .. default-role:: code

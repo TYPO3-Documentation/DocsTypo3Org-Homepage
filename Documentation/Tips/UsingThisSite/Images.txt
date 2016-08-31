@@ -1,17 +1,17 @@
 
-.. |image next| image:: ../Images/next.png
+.. |image next| image:: ../../Images/next.png
    :alt: click on 'next'
    :class: screenshot-detail
 .. :width: 168px
 .. :height: 123px
 
-.. |image previous| image:: ../Images/previous.png
+.. |image previous| image:: ../../Images/previous.png
    :alt: click on 'previous'
    :class: screenshot-detail
 .. :width: 163px
 .. :height: 134px
 
-.. |image up| image::  ../Images/up.png
+.. |image up| image::  ../../Images/up.png
    :alt: click on 'up'
    :class: screenshot-detail
 

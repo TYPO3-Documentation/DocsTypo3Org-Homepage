@@ -1,7 +1,7 @@
-﻿.. include:: ../Includes.txt
+﻿.. include:: ../../Includes.txt
 .. include:: Images.txt
 
-.. _tips:
+.. _usage-tips:
 
 ==========
 Usage Tips
@@ -69,4 +69,3 @@ Press the "access key + u" or click "Up" to go back to the superiore
 page. The tooltip shows the title of that page.
 
 |image up|
-
