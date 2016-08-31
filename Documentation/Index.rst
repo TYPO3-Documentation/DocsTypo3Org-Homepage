@@ -70,5 +70,5 @@ All manuals
 
    typo3cms/*
    News/*
-   Overview/Contribute
+   Contribute/*
    Tips/*
