@@ -11,6 +11,28 @@
 .. highlight:: shell
 
 
+.. _news-2016-08-31:
+.. rst-class:: panel panel-default
+
+Improved home page and menu structure
+-------------------------------------
+
+2016-08-31 by Francois Suter
+
+At Martin's request - and after an exchange of ideas - I worked on
+improving the content and layout of the docs.typo3.org home page.
+This new version should be more useful and includes a side panel
+with information for newcomers to TYPO3 CMS.
+
+All others pages were also reviewed and quite a few were restructured
+and improved, or placed in a more logical structure. This has
+largely improved the main navigation on the left.
+
+If you want to give some feedback, the best way is via the
+"typo3-documentation" Slack channel.
+
+
+
 
 .. _news-2016-08-05:
 .. rst-class:: panel panel-default
