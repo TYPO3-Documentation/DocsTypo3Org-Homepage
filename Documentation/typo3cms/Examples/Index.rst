@@ -14,24 +14,19 @@ which also serve as guidelines to the usage of reStructuredText.
 .. t3-field-list-table::
  :header-rows: 1
 
- - :URI:          Manual
+ - :Manual:       Manual
    :Type:         Type
    :Shortcut:     Shortcut
-   :Manual:       Title
-   :Single file:  as single file (experimental)
+   :Title:        Title
    :Comment:      Comment
 
- - :Manual:
+ - :Manual:       `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
    :Shortcut:
    :Type:         Example
-   :URI:          `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
-   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/ExtensionManualExample/singlehtml/>`__
    :Comment:
 
- - :Manual:
+ - :Manual:       `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
    :Shortcut:
    :Type:         Example
-   :URI:          `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
-   :Single file:  `singlehtml <https://docs.typo3.org/typo3cms/OfficialManualExample/singlehtml/>`__
    :Comment:
 
