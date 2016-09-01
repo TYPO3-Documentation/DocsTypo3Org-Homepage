@@ -65,6 +65,11 @@ TYPO3 CMS Documentation
    :Shortcut:     t3contribute
    :Comment:
 
+ - :Manual:       `TYPO3 CMS ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+   :Type:         Reference
+   :Shortcut:
+   :Comment:      New Features, Breaking Changes, Deprecations, per Release
+
  - :Manual:       :ref:`t3cgl:start`
    :Type:         Reference
    :Shortcut:     t3cgl
