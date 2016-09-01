@@ -13,6 +13,8 @@ TYPO3 CMS Documentation
    :hidden:
 
    Books/Index
+   Changelog (latest) <https://docs.typo3.org/typo3cms/extensions/core/latest/>
+   Changelog (stable) <https://docs.typo3.org/typo3cms/extensions/core/>
    Examples/Index
    Extensions <https://docs.typo3.org/typo3cms/extensions>
    Guides/Index
@@ -65,8 +67,13 @@ TYPO3 CMS Documentation
    :Shortcut:     t3contribute
    :Comment:
 
- - :Manual:       `TYPO3 CMS ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Type:         Reference
+ - :Manual:       `TYPO3 CMS Core ChangeLog (latest) <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+   :Type:         ChangeLog Reference
+   :Shortcut:
+   :Comment:      New Features, Breaking Changes, Deprecations, per Release
+
+ - :Manual:       `TYPO3 CMS Core ChangeLog (stable) <https://docs.typo3.org/typo3cms/extensions/core/>`__
+   :Type:         ChangeLog Reference
    :Shortcut:
    :Comment:      New Features, Breaking Changes, Deprecations, per Release
 
