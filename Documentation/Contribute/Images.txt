@@ -1,6 +1,0 @@
-
-.. |image github| image:: ../Images/edit_me_on_github.png
-   :alt: Edit me on GitHub icon
-   :class: screenshot-detail
-.. :width: 442px
-.. :height: 262px

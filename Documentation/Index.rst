@@ -38,6 +38,10 @@ Latest news
 
 :ref:`View all the latest news <latest>`
 
+Tip of the day
+--------------
+
+*Do you know this tip:* :ref:`Are-there-open-pull-requests`
 
 All manuals
 -----------
