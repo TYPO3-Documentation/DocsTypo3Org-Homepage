@@ -54,7 +54,7 @@ class VersionMatcher
             }
         }
         if (!$isValid) { // numbered versions (like 1.2.3...)
-            $pattern = '~\d+\.\d+(\.\d+)*~is';
+            $pattern = '~\d+\.\d+(\.\d+)*(-dev)?|\d+-dev~is';
             $subpattern = array();
             $result = preg_match($pattern, $filename, $subpattern);
             if ($result and ($subpattern[0] === $filename)) {
