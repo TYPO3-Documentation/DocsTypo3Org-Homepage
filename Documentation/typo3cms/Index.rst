@@ -13,10 +13,10 @@ TYPO3 CMS Documentation
    :hidden:
 
    Books/Index
-   Changelog (latest) <https://docs.typo3.org/typo3cms/extensions/core/latest/>
-   Changelog (stable) <https://docs.typo3.org/typo3cms/extensions/core/>
+   Changelog 8-dev <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
+   Changelog 7     <https://docs.typo3.org/typo3cms/extensions/core/>
    Examples/Index
-   Extensions <https://docs.typo3.org/typo3cms/extensions>
+   Extensions      <https://docs.typo3.org/typo3cms/extensions>
    Guides/Index
    References/Index
    Tutorials/Index
