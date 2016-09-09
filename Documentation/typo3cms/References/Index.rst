@@ -42,6 +42,11 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3api
    :Comment:
 
+ - :Manual:       :ref:`t3coreapi:start`
+   :Type:         Reference
+   :Shortcut:     t3coreapi
+   :Comment:
+
  - :Manual:       :ref:`t3fal:start`
    :Type:         Reference
    :Shortcut:     t3fal
@@ -78,3 +83,14 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Comment:
 
 
+.. toctree::
+
+   Api: Code Details   <https://typo3.org/api/typo3cms/>
+   Api: The Manual     <https://docs.typo3.org/typo3cms/CoreApiReference/>
+   Coding Guidelines   <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
+   Fal                 <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
+   Inside TYPO3        <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
+   Services            <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
+   Tca                 <https://docs.typo3.org/typo3cms/TCAReference/>
+   TSconfig            <https://docs.typo3.org/typo3cms/TSconfigReference/>
+   TypoScript          <https://docs.typo3.org/typo3cms/TyposcriptReference/>
