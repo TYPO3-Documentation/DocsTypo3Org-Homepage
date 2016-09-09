@@ -39,3 +39,11 @@ like installation of TYPO3 CMS or security.
    :Type:         Guide
    :Shortcut:     t3contribute
    :Comment:
+
+
+.. toctree::
+
+   Contribution Workflow    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Frontend Localization    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
+   Installation and Upgrade <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Security                 <https://docs.typo3.org/typo3cms/SecurityGuide/>

@@ -41,3 +41,10 @@ represents a logical progression in the knowledge of the product.
    :Shortcut:     t3templating
    :Comment:
 
+
+.. toctree::
+
+   For Editors              <https://docs.typo3.org/typo3cms/EditorsTutorial/>
+   Getting Started          <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
+   Templating: Basics       <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   TypoScript in 45 Minutes <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
