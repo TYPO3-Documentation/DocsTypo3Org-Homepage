@@ -41,7 +41,7 @@ Latest news
 Tip of the day
 --------------
 
-*Do you know this tip:* :ref:`Are-there-open-pull-requests`
+*Did you know?:* :ref:`Tip-of-the-day`
 
 All manuals
 -----------

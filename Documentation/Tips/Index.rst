@@ -8,7 +8,7 @@ Tips & Tricks
 =============
 
 .. toctree::
-   :glob:
 
+   TipOfTheDay/Index
    UsingThisSite/Index
    DocumentationWriters/Index
