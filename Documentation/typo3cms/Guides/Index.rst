@@ -42,6 +42,7 @@ like installation of TYPO3 CMS or security.
 
 
 .. toctree::
+   :hidden:
 
    Contribution Workflow    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Frontend Localization    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>

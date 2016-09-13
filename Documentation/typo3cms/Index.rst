@@ -9,7 +9,6 @@ TYPO3 CMS Documentation
 =======================
 
 .. toctree::
-   :glob:
    :hidden:
 
    Books/Index
@@ -35,11 +34,6 @@ TYPO3 CMS Documentation
    :Type:         Book
    :Shortcut:     t3extbasebook
    :Comment:
-
-.. - :Manual:       `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
-..   :Type:         Example
-..   :Shortcut:
-..   :Comment:
 
  - :Manual:       `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
    :Type:         Example
@@ -149,3 +143,8 @@ TYPO3 CMS Documentation
    :Shortcut:     t3extbase
    :Comment:
 
+.. removed
+ - :Manual:       `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
+   :Type:         Example
+   :Shortcut:
+   :Comment:

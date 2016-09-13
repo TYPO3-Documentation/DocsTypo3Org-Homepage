@@ -43,6 +43,7 @@ represents a logical progression in the knowledge of the product.
 
 
 .. toctree::
+   :hidden:
 
    For Editors              <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    Getting Started          <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>

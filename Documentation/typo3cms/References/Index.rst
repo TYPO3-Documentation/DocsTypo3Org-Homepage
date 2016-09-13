@@ -84,6 +84,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
 
 
 .. toctree::
+   :hidden:
 
    Coding Guidelines   <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
    Core Api (Code)     <https://typo3.org/api/typo3cms/>
