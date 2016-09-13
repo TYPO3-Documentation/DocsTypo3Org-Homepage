@@ -11,6 +11,22 @@
 .. highlight:: shell
 
 
+.. _news-2016-09-07:
+.. rst-class:: panel panel-default
+
+TYPO3 Services Reference updated and expanded
+---------------------------------------------
+
+2016-09-07 by Francois Suter
+
+The :ref:`TYPO3 Services References <t3services:start>` manual is finally up to date again
+(for TYPO3 CMS 7). What's more it contains a whole new chapter
+about authentication services. This chapter also describes the
+TYPO3 CMS authentication process on a very general level, the
+focus being on services.
+
+
+
 .. _news-2016-08-31:
 .. rst-class:: panel panel-default
 
@@ -42,7 +58,7 @@ Inside TYPO3 updated
 
 2016-08-05 by Francois Suter
 
-The `Inside TYPO3 Reference <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>`__
+The :ref:`Inside TYPO3 Reference <t3inside:start>`
 is finally up to date for TYPO3 CMS 7. A lot of content was fully
 rewritten, while many obsolete parts were removed.
 
