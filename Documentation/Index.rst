@@ -23,7 +23,7 @@ Latest news
 
    If you are new to TYPO3 CMS, please start by reading the
    :ref:`Tutorials <tutorials>`, which will help you progressively
-   your knowledge of TYPO3 CMS.
+   increase your knowledge of TYPO3 CMS.
 
    When you feel ready, you can move on to :ref:`Guides <guides>`,
    which provide an in-depth look into specific topics and
