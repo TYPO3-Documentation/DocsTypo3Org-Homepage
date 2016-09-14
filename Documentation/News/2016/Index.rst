@@ -23,7 +23,7 @@ Cool stuff for nerds: Special templates available!
 2016-09-14 by Martin Bless
 
 Admitted: This is an information for the very advanced reST user. But it's cool! I'm talking of
-`t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxTheme>`__.
+`t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__.
 Usual pages are rendered from an html template
 `page.html <https://github.com/sphinx-doc/sphinx/blob/master/sphinx/themes/basic/page.html>`__.
 Now there are two more templates.
