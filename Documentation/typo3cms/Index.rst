@@ -15,7 +15,7 @@ TYPO3 CMS Documentation
    Changelog 7     <https://docs.typo3.org/typo3cms/extensions/core/>
    Changelog 8-dev <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
    Examples/Index
-   Extensions      <https://docs.typo3.org/typo3cms/extensions>
+   extensions/Index
    Guides/Index
    References/Index
    Tutorials/Index
