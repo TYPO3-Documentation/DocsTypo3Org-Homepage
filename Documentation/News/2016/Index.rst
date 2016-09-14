@@ -1,3 +1,6 @@
+
+.. include:: ../../Includes.txt
+
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
 
 .. _latest:
@@ -7,8 +10,47 @@
 2016
 ====
 
-.. default-role:: code
+
 .. highlight:: shell
+
+
+.. _news-2016-09-14:
+.. rst-class:: panel panel-default
+
+Cool stuff for nerds: Special templates available!
+--------------------------------------------------
+
+2016-09-14 by Martin Bless
+
+Admitted: This is an information for the very advanced reST user. But it's cool! I'm talking of
+`t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxTheme>`__.
+Usual pages are rendered from an html template
+`page.html <https://github.com/sphinx-doc/sphinx/blob/master/sphinx/themes/basic/page.html>`__.
+Now there are two more templates.
+`sitemap.html <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/blob/master/t3SphinxThemeRtd/sitemap.html>`__
+will fill in a complete sitemap after the contents. And
+`extensions.html <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/blob/master/t3SphinxThemeRtd/extensions.html>`__
+fills in the javascript driven search. The logic is in the
+`module code of t3SphinxThemeRtd <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/blob/master/t3SphinxThemeRtd/__init__.py>`__.
+It now has a new
+`setup() <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/blob/master/t3SphinxThemeRtd/__init__.py#L45>`__
+function that makes it a valid Sphinx extension as well besides being a theme. And in our
+`conf.py <https://github.com/marble/typo3-docs-typo3-org-resources/blob/master/userroot/scripts/bin/conf-2015-10.py#L153>`__
+we are loading `t3SphinxThemeRtd` as a Sphinx extension. As a result the
+`file-wide-metadata <http://www.sphinx-doc.org/en/stable/markup/misc.html#file-wide-metadata>`__
+of each document is checked. And if there's a field `template` its value is used as
+templatename for the rendering of that document.
+
+Are you still there?
+
+See the `extensions page <https://docs.typo3.org/typo3cms/extensions/Index.html>`__ for example.
+And look at `the source <https://docs.typo3.org/_sources/typo3cms/extensions/Index.txt>`__.
+A sitemap `like this <https://docs.typo3.org/typo3cms/CoreApiReference/Sitemap/Index.html>`__
+is another example. And again: Look at `the source <https://docs.typo3.org/typo3cms/CoreApiReference/_sources/Sitemap/Index.txt>`__.
+
+I bet you noticed: That's a general mechanism opening new doors. Hooray!
+
+
 
 
 .. _news-2016-09-07:

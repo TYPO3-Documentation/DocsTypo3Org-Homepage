@@ -31,6 +31,7 @@ Latest news
    of properties, options, APIs, etc.
 
 
+- 2016-09-14 :ref:`news-2016-09-14`
 - 2016-09-07 :ref:`news-2016-09-07`
 - 2016-08-31 :ref:`news-2016-08-31`
 - 2016-08-05 :ref:`news-2016-08-05`

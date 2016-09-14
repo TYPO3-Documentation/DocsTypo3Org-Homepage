@@ -5,8 +5,9 @@
 News
 ====
 
-.. toctree::
-   :glob:
+.. container:: sitemap
 
-   2016/Index
-   2012-2015/Index
+   .. toctree::
+
+      2016/Index
+      2012-2015/Index
