@@ -40,6 +40,17 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     t3contribute
    :Comment:
 
+ - :Manual:       :ref:`rendert3docs:start`
+   :Type:         Guide
+   :Shortcut:     rendert3docs
+   :Comment:
+
+
+
+
+
+
+
 
 .. toctree::
    :hidden:

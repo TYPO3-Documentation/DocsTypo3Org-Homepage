@@ -61,6 +61,11 @@ TYPO3 CMS Documentation
    :Shortcut:     t3contribute
    :Comment:
 
+ - :Manual:       :ref:`rendert3docs:start`
+   :Type:         Guide
+   :Shortcut:     rendert3docs
+   :Comment:
+
  - :Manual:       `TYPO3 CMS Core ChangeLog (latest) <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :Type:         ChangeLog Reference
    :Shortcut:
