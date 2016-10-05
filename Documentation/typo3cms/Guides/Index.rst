@@ -22,8 +22,7 @@ like installation of TYPO3 CMS or security.
  - :Manual:       :ref:`t3l10n:start`
    :Type:         Guide
    :Shortcut:     t3l10n
-   :Comment:      This manual is currently unmaintained. If you want to help maintain it,
-                  just drop us a line at documentation@typo3.org!
+   :Comment:      
 
  - :Manual:       :ref:`t3install:start`
    :Type:         Guide
