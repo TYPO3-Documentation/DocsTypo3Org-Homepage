@@ -14,6 +14,26 @@
 .. highlight:: shell
 
 
+
+.. _news-2016-10-05:
+.. rst-class:: panel panel-default
+
+TYPO3 Frontend Localization Guide updated
+-----------------------------------------
+
+2016-10-05 by Francois Suter
+
+The :ref:`TYPO3 Frontend Localization Guide <t3l10n:start>` manual
+was purged of many of its old parts this spring by Christopher,
+but still remained out of date, in particular with regards to screenshost.
+It is now fully up to date again for TYPO3 7. It is also restructured,
+reflecting the fact that it has less content than before.
+
+And now that it has proper anchors on every heading, I plan
+to add relevant cross-links to it from quite a few other manuals.
+
+
+
 .. _news-2016-09-14:
 .. rst-class:: panel panel-default
 

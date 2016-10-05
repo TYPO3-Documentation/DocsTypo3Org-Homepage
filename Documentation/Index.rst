@@ -31,11 +31,11 @@ Latest news
    of properties, options, APIs, etc.
 
 
+- 2016-10-05 :ref:`news-2016-10-05`
 - 2016-09-14 :ref:`news-2016-09-14`
 - 2016-09-07 :ref:`news-2016-09-07`
 - 2016-08-31 :ref:`news-2016-08-31`
 - 2016-08-05 :ref:`news-2016-08-05`
-- 2016-06-30 :ref:`news-2016-06-30`
 
 :ref:`View all the latest news <latest>`
 
