@@ -15,6 +15,48 @@
 
 
 
+
+
+
+
+
+.. _news-2016-10-07:
+.. rst-class:: panel panel-default
+
+NEW: Doctrine Database API documented in CoreApi Manual
+-------------------------------------------------------
+
+2016-10-07 by Christian Kuhn
+
+.. image:: files/2016-10-08-doctrine.png
+   :alt: Go to new TYPO3 Doctrine Database Documentation
+   :target: https://docs.typo3.org/typo3cms/CoreApiReference/Database/
+
+For TYPO3 CMS version ≥ 8.3
+
+**TYPO3 CMS v8** comes with a new database API based on `doctrine-dbal`_.
+The core code has been fully migrated over the past months consuming uncounted
+hours of community work.
+
+**Documentation** of `doctrine-dbal`_ API within the TYPO3 ecosystem has just been
+added to the official `TYPO3 API documentation`_ explaining all important
+blows and whistles ready to be used since TYPO3 CMS **version 8.3**.
+
+**Extension authors** are encouraged to switch their own extensions to the new
+`Doctrine based database API`_. It comes with a much better abstraction of different
+database platforms and it is an important foundation of further evolution.
+Don't hesitate to push your database queries to this new level.
+
+**Contribute:** And don't hesitate to use the "Edit me on Github" button
+to improve the documentation.
+
+Have fun!
+
+.. _doctrine-dbal: http://www.doctrine-project.org/projects/dbal.html
+.. _Doctrine based database API: https://docs.typo3.org/typo3cms/CoreApiReference/Database/
+.. _TYPO3 API documentation: https://docs.typo3.org/typo3cms/CoreApiReference/
+
+
 .. _news-2016-10-05:
 .. rst-class:: panel panel-default
 

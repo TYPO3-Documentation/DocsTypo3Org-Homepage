@@ -31,18 +31,24 @@ Latest news
    of properties, options, APIs, etc.
 
 
-- 2016-10-05 :ref:`news-2016-10-05`
-- 2016-09-14 :ref:`news-2016-09-14`
-- 2016-09-07 :ref:`news-2016-09-07`
-- 2016-08-31 :ref:`news-2016-08-31`
-- 2016-08-05 :ref:`news-2016-08-05`
+-  2016-10-07 :ref:`news-2016-10-07`
+-  2016-10-05 :ref:`news-2016-10-05`
+-  2016-09-14 :ref:`news-2016-09-14`
+-  2016-09-07 :ref:`news-2016-09-07`
+-  2016-08-31 :ref:`news-2016-08-31`
+-  :ref:`View all the latest news <latest>`
 
-:ref:`View all the latest news <latest>`
 
-Tip of the day
---------------
 
-*Did you know?:* :ref:`Tip-of-the-day`
+Tip of the day - did you know?
+------------------------------
+
+-  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
+-  2016-09-11 :ref:`tip-of-the-day-2016-09-11`
+-  2016-09-02 :ref:`tip-of-the-day-2016-09-02`
+-  Find all: :ref:`Tip-of-the-day`
+
+
 
 All manuals
 -----------
