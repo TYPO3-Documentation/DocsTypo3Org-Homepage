@@ -22,7 +22,7 @@ like installation of TYPO3 CMS or security.
  - :Manual:       :ref:`t3l10n:start`
    :Type:         Guide
    :Shortcut:     t3l10n
-   :Comment:      
+   :Comment:
 
  - :Manual:       :ref:`t3install:start`
    :Type:         Guide
@@ -44,9 +44,10 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     rendert3docs
    :Comment:
 
-
-
-
+ - :Manual:       ((WIP: :ref:`t3extbase:start`))
+   :Type:         Guide
+   :Shortcut:     t3extbase
+   :Comment:      Very unsufficient, but better then nothing.
 
 
 

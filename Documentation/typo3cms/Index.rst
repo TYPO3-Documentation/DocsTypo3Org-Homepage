@@ -40,6 +40,11 @@ TYPO3 CMS Documentation
    :Shortcut:
    :Comment:
 
+ - :Manual:       ((WIP: :ref:`t3extbase:start`))
+   :Type:         Guide
+   :Shortcut:     t3extbase
+   :Comment:      Very unsufficient, but better then nothing.
+
  - :Manual:       :ref:`t3l10n:start`
    :Type:         Guide
    :Shortcut:     t3l10n
@@ -138,13 +143,6 @@ TYPO3 CMS Documentation
  - :Manual:       :ref:`t3ts45:start`
    :Type:         Tutorial
    :Shortcut:     t3ts45
-   :Comment:
-
-
-.. removed: ExtbaseGuide
- - :Manual:       :ref:`t3extbase:start`
-   :Type:         Guide
-   :Shortcut:     t3extbase
    :Comment:
 
 .. removed
