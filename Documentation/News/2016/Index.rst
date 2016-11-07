@@ -15,8 +15,14 @@
 
 
 
+.. _news-2016-11-07:
+.. rst-class:: panel panel-default
 
+2016-11-07 by Christian Kuhn
 
+I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is 
+explained a bit better in detail now. See `TCA, Pointing to a Data Structure
+<https://docs.typo3.org/typo3cms/TCAReference/8-dev/Reference/Columns/Flex/#pointing-to-a-data-structure>`__.
 
 
 
