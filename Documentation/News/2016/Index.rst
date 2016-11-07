@@ -18,6 +18,9 @@
 .. _news-2016-11-07:
 .. rst-class:: panel panel-default
 
+Better explained: TCA type "flex"
+---------------------------------
+
 2016-11-07 by Christian Kuhn
 
 I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is 
