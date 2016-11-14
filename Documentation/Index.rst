@@ -81,6 +81,7 @@ All manuals
    :hidden:
 
    typo3cms/*
+   CommunityWritings/Index
    News/*
    Contribute/*
    Tips/*
