@@ -15,6 +15,27 @@
 
 
 
+.. _news-2016-11-18:
+.. rst-class:: panel panel-default
+
+The FAL Reference has landed
+----------------------------
+
+2016-11-18 by François Suter
+
+Until recently the :ref:`File Abstraction Layer Reference <t3fal:start>` was
+pretty much an empty husk and users had to rely on a wiki page which was
+not always up to date.
+
+I have completely restructured the FAL Reference, with TYPO3 7 LTS
+as a target version. I have completed every chapter and integrated everything
+that was relevant from the wiki.
+
+Please now use this official manual as reference and submit changes via
+pull requests. The wiki page has been emptied.
+
+
+
 .. _news-2016-11-07:
 .. rst-class:: panel panel-default
 
@@ -23,7 +44,7 @@ Better explained: TCA type "flex"
 
 2016-11-07 by Christian Kuhn
 
-I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is 
+I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is
 explained a bit better in detail now. See `TCA, Pointing to a Data Structure
 <https://docs.typo3.org/typo3cms/TCAReference/8-dev/Reference/Columns/Flex/#pointing-to-a-data-structure>`__.
 
