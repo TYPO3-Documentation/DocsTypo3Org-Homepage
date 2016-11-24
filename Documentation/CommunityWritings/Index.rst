@@ -12,6 +12,11 @@ Extensions in the focus
 
 What developers and users say about extensions.
 
+.. contents::
+   :local:
+   :backlink: top
+
+
 ext:devlog
 ----------
 
@@ -35,6 +40,13 @@ ext:devlog
    Last but not least, I moved the extension to GitHub. Hopefully this will help people contribute and
    maybe also shift ownership to someone else, as I don't feel like continuing to maintain this extension.
    New home: https://github.com/fsuter/devlog
+
+
+ext:templavoilà
+---------------
+
+2016: Alexander Schnitzler is working on code refactoring and achieving
+compatibility with TYPO3 7 LTS (= 7.6). `Read more! <https://www.templavoila.support/>`__
 
 
 External Blogposts and Writings
