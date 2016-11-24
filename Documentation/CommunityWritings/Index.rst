@@ -12,7 +12,7 @@ Extensions in the focus
 
 What developers and users say about extensions.
 
-.. contents::
+.. contents:: Contents:
    :local:
    :backlinks: top
 
@@ -49,17 +49,23 @@ ext:templavoilà
 compatibility with TYPO3 7 LTS (= 7.6). `Read more! <https://www.templavoila.support/>`__
 
 
+
+
 External Blogposts and Writings
 ===============================
 
+-  2016-11-21 Bernd Wilke has started writing on `"TYPO3 and StackOverflow"
+   <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-009/>`__.
+   You are invited to help and contribute.
+
 -  ...
 
--  2016-11-11 `“Let’s encrypt” on localhost by Marcus Schwemer
+-  2016-11-11 Blogpost by Marcus Schwemer: `“Let’s encrypt” on localhost
    <http://typo3worx.eu/2016/11/lets-encrypt-on-localhost/>`__
 
 -  ...
 
--  2016-07-27 `5 Ways to Publish a TYPO3 Extension by Marcus Schwemer
+-  2016-07-27 Blogpost by Marcus Schwemer: `5 Ways to Publish a TYPO3 Extension
    <http://typo3worx.eu/2016/07/5-ways-to-publish-a-typo3-extension/>`__
 
 -  ...
