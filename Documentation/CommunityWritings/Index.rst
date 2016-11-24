@@ -14,7 +14,7 @@ What developers and users say about extensions.
 
 .. contents::
    :local:
-   :backlink: top
+   :backlinks: top
 
 
 ext:devlog
