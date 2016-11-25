@@ -69,6 +69,21 @@ ext:external_import
    Happy request pulling!
 
 
+ext:powermail_finisher_ftp
+--------------------------
+
+From the README:
+
+   This extension acts as finisher for the extension powermail and does 2 things:
+   1. create an XML file with the data of the form
+   2. upload the XML by means of FTP
+
+2016-11-25 Georg Ringer `tweeted <https://twitter.com/georg_ringer/status/802083310449082368>`__:
+
+   In case you ever need powermail form data transferred as XML via FTP,
+   you could use my extension `powermail_finisher_ftp
+   <https://github.com/georgringer/powermail_finisher_ftp>`__.
+
 
 ext:templavoilà
 ---------------
