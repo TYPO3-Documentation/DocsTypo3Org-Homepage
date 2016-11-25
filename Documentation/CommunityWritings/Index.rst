@@ -12,6 +12,15 @@ Extensions in the focus
 
 What developers and users say about extensions.
 
+Why have this here?
+Choosing the right extension often is a difficult thing. While TER provides a list
+of all available extensions and these (hopefully!) have their own documentation
+it's often important to know: Is it under active development? Who is the maintainer?
+Is it planned to keep it compatible with future TYPO3 versions? Futureproof?
+The idea is to place information here that's helpful in decision making about
+which extension to choose.
+
+
 .. contents:: Contents:
    :local:
    :backlinks: top
@@ -40,6 +49,25 @@ ext:devlog
    Last but not least, I moved the extension to GitHub. Hopefully this will help people contribute and
    maybe also shift ownership to someone else, as I don't feel like continuing to maintain this extension.
    New home: https://github.com/fsuter/devlog
+
+
+ext:external_import
+-------------------
+
+2016-11-17 by François Suter: External Import moving to GitHub
+
+   The repositories for extension "external_import" and all related projects
+   were moved to GitHub. Here's the list of involved extensions and the URL
+   of their new home:
+   `external_import    <https://github.com/cobwebch/external_import>`__,
+   `externalimport_tut <https://github.com/cobwebch/externalimport_tut>`__,
+   `svconnector        <https://github.com/cobwebch/svconnector>`__,
+   `svconnector_csv    <https://github.com/cobwebch/svconnector_csv>`__,
+   `svconnector_feed   <https://github.com/cobwebch/svconnector_feed>`__,
+   `svconnector_json   <https://github.com/cobwebch/svconnector_json>`__,
+   `svconnector_sql    <https://github.com/cobwebch/svconnector_sql>`__.
+   Happy request pulling!
+
 
 
 ext:templavoilà
