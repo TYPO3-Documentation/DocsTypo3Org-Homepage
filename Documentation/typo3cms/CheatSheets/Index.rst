@@ -1,4 +1,4 @@
-﻿
+?
 .. include:: ../../Includes.txt
 
 
@@ -42,24 +42,24 @@ This collection is permanent work in progress.
    :Description:  This is a condensed version of the TYPO3 CGLs. All the important things on just one single page.
    :Provided by:  Documentation Team
    :Type:         PDF
-   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.pdf>`__
-   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.odt>`__
+   :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.pdf>`__
+   :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.odt>`__
 
  - :Sheet:        stdWrap overview for cObjects
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a cObject. It uses the cObject "TEXT" as example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
-   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
-   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap.png>`__
+   :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
+   :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
 
  - :Sheet:        stdWrap overview for menu objects
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a menu. It uses the menu type "HMENU" as an example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
-   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
-   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+   :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
+   :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
 
  - :Sheet:        2 Extbase Cheat Sheets and 2 Fluid Cheat Sheets
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
@@ -90,8 +90,8 @@ This collection is permanent work in progress.
    :Description:  An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
    :Provided by:  Steffen Kamper
    :Type:         PDF
-   :Download:     `Download <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
-   :Update:       `Edit <https://docs.typo3.org/~mbless/git.typo3.org/Documentation/DocsTypo3Org.git/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
+   :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
+   :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
  - :Sheet:        Creating and using mocks in PHPUnit
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
