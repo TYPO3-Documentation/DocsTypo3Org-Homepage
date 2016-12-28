@@ -28,7 +28,7 @@ function does? Maybe, but better do a quick check:
 What is the result of :ts:`wrap = a|*|r|||||||*|z`?
 The wish to really understand :ts:`optionSplit` came up and in return
 I reworked the :ref:`optionSplit chapter
-<t3tsref:optionSplit>` in the :ref:`TypoScript reference <tstsref:start>`.
+<t3tsref:objects-optionSplit>` in the :ref:`TypoScript reference <t3tsref:start>`.
 Hopefully it's the "ultimate explanation" of :ts:`optionSplit`.
 
 Is there something still missing?
