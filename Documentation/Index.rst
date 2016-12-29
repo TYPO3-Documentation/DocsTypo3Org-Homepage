@@ -8,7 +8,11 @@ Welcome to the official TYPO3 Documentation
 
 .. tip::
 
-   Extension writers: Read :ref:`tip-of-the-day-2016-12-29`!
+   You are an **extension writer** and want to add documentation?
+
+   Please read:
+
+   :ref:`tip-of-the-day-2016-12-29`
 
 
 Latest news

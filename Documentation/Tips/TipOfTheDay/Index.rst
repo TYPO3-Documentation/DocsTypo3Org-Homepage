@@ -17,7 +17,7 @@ Tip Of The Day
 .. _tip-of-the-day-2016-12-29:
 .. rst-class:: panel panel-default
 
-How to start Documentation for your TYPO3 extension
+How to start Documentation for Your TYPO3 Extension
 ===================================================
 
 2016-12-29 by Martin Bless
@@ -39,8 +39,9 @@ How to start Documentation for your TYPO3 extension
 -  To become the owner of a starter project send a mail with your **Github username**
    to the docteam to documentation@typo3.org and ask for a T3DocumentationStarter project.
 
--  Later: Copy the ./Documentation folder of the starter project to your extension.
-   Write your documentation. Edit the metadata in ./Documentation/Settings.cfg and you are done.
+-  Later: Copy the :file:`./Documentation` folder of the starter project to your extension.
+   Write your documentation. Edit the metadata in :file:`./Documentation/Settings.cfg` and
+   you are done.
 
 Come to the sunny side of documentation - have fun!
 
