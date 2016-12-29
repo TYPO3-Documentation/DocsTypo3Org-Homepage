@@ -6,14 +6,9 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
+.. tip::
 
-.. do not insert headlines here - only teaser, 5 news max.
-
-   for example:
-
-      :ref:`((teaser image 'Latest News')) <latest>`
-
-      :ref:`((teaser image 'Yesterday's News')) <news>`
+   Extension writers: Read :ref:`tip-of-the-day-2016-12-29`!
 
 
 Latest news
@@ -43,6 +38,7 @@ Latest news
 Tip of the day - did you know?
 ------------------------------
 
+-  2016-12-29 :ref:`tip-of-the-day-2016-12-29`
 -  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
 -  2016-09-11 :ref:`tip-of-the-day-2016-09-11`
 -  2016-09-02 :ref:`tip-of-the-day-2016-09-02`
