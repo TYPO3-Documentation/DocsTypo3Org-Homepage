@@ -44,7 +44,7 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     rendert3docs
    :Comment:
 
- - :Manual:       ((WIP: :ref:`t3extbase:start`))
+ - :Manual:       WIP: :ref:`t3extbase:start`
    :Type:         Guide
    :Shortcut:     t3extbase
    :Comment:      Very unsufficient, but better then nothing.
@@ -56,6 +56,8 @@ like installation of TYPO3 CMS or security.
    :hidden:
 
    Contribution Workflow    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Documentation Rendering  <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
+   Extbase & Fluid          <https://docs.typo3.org/typo3cms/ExtbaseGuide/>  
    Frontend Localization    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Installation and Upgrade <https://docs.typo3.org/typo3cms/InstallationGuide/>
    Security                 <https://docs.typo3.org/typo3cms/SecurityGuide/>
