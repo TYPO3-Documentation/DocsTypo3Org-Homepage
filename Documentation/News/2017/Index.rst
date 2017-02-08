@@ -25,5 +25,5 @@ New: TYPO3 Code Snippets Have Moved To docs.typo3.org
 
 Great news: Code snippets that we had been collecting on typo3.org
 until now finally have arrived `here at docs.typo3.org.
-<https://docs.typo3.org/typo3cms/Index.html>`__
+<https://docs.typo3.org/typo3cms/Snippets/>`__
 
