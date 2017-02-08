@@ -3,7 +3,6 @@
 
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
 
-.. _latest:
 .. _news-2016:
 
 ====

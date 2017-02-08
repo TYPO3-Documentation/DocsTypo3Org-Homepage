@@ -18,6 +18,7 @@ TYPO3 CMS Documentation
    extensions/Index
    Guides/Index
    References/Index
+   Snippets        <https://docs.typo3.org/typo3cms/Snippets/>
    Tutorials/Index
    CheatSheets/Index
 
