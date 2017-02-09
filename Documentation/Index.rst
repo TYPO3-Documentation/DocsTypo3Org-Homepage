@@ -15,8 +15,8 @@ Welcome to the official TYPO3 Documentation
    :ref:`tip-of-the-day-2016-12-29`
 
 
-Latest news
------------
+Latest documentation news
+-------------------------
 
 .. sidebar:: New to TYPO3 CMS?
 
@@ -33,7 +33,7 @@ Latest news
 -  2017-02-08 :ref:`news-2017-02-08`
 
    .. figure:: News/2017/files/2017-02-08-typo3-snippets.png
-      :target: https://docs.typo3.org/typo3cms/Index.html
+      :target: https://docs.typo3.org/typo3cms/Snippets/
       :alt:    TYPO3 snippets
 
    **Please contribute** and `start sending code SNIPPETS again!
