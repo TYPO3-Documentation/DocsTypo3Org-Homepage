@@ -32,7 +32,7 @@ Latest news
 
 -  2017-02-08 :ref:`news-2017-02-08`
 
-   .. figure:: ../files/2017-02-08-typo3-snippets.png
+   .. figure:: News/2017/files/2017-02-08-typo3-snippets.png
       :target: https://docs.typo3.org/typo3cms/Index.html
       :alt:    TYPO3 snippets
 
