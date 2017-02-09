@@ -12,13 +12,13 @@ TYPO3 CMS Documentation
    :hidden:
 
    Books/Index
-   Changelog 7     <https://docs.typo3.org/typo3cms/extensions/core/>
-   Changelog 8-dev <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
+   Changelog 7      <https://docs.typo3.org/typo3cms/extensions/core/>
+   Changelog 8-dev  <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
    Examples/Index
    extensions/Index
    Guides/Index
    References/Index
-   Snippets        <https://docs.typo3.org/typo3cms/Snippets/>
+   Snippets (NEW!)  <https://docs.typo3.org/typo3cms/Snippets/>
    Tutorials/Index
    CheatSheets/Index
 
@@ -41,10 +41,10 @@ TYPO3 CMS Documentation
    :Shortcut:
    :Comment:
 
- - :Manual:       ((WIP: :ref:`t3extbase:start`))
+ - :Manual:       WIP: :ref:`t3extbase:start`
    :Type:         Guide
    :Shortcut:     t3extbase
-   :Comment:      Very unsufficient, but better then nothing.
+   :Comment:      Unsufficient, but better then nothing.
 
  - :Manual:       :ref:`t3l10n:start`
    :Type:         Guide

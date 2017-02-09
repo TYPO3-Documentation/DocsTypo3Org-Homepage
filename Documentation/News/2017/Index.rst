@@ -18,12 +18,17 @@
 .. _news-2017-02-08:
 .. rst-class:: panel panel-default
 
-New: TYPO3 Code Snippets Have Moved To docs.typo3.org
------------------------------------------------------
+TYPO3 Code Snippets Have Moved To docs.typo3.org
+------------------------------------------------
 
 2017-02-08 by Martin Bless
+
+.. figure:: ../files/2017-02-08-typo3-snippets.png
+   :target: https://docs.typo3.org/typo3cms/Index.html
+   :alt:    TYPO3 snippets
 
 Great news: Code snippets that we had been collecting on typo3.org
 until now finally have arrived `here at docs.typo3.org.
 <https://docs.typo3.org/typo3cms/Snippets/>`__
 
+**Please contribute** and start adding your snippets again!

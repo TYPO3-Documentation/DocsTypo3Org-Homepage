@@ -31,6 +31,14 @@ Latest news
 
 
 -  2017-02-08 :ref:`news-2017-02-08`
+
+   .. figure:: ../files/2017-02-08-typo3-snippets.png
+      :target: https://docs.typo3.org/typo3cms/Index.html
+      :alt:    TYPO3 snippets
+
+   **Please contribute** and `start sending code SNIPPETS again!
+   <https://docs.typo3.org/typo3cms/Snippets/>`__
+
 -  2016-12-28 :ref:`news-2016-12-28`
 -  2016-11-18 :ref:`news-2016-11-18`
 -  2016-11-07 :ref:`news-2016-11-07`
