@@ -44,7 +44,7 @@ TYPO3 CMS Documentation
  - :Manual:       WIP: :ref:`t3extbase:start`
    :Type:         Guide
    :Shortcut:     t3extbase
-   :Comment:      Unsufficient, but better then nothing.
+   :Comment:      Unsufficient, but better than nothing.
 
  - :Manual:       :ref:`t3l10n:start`
    :Type:         Guide
