@@ -38,7 +38,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Comment:
 
  - :Manual:       :ref:`t3api:start`
-   :Type:         Reference
+   :Type:         Browsable class reference
    :Shortcut:     t3api
    :Comment:
 
