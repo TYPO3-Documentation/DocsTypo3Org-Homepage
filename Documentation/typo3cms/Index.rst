@@ -87,8 +87,13 @@ TYPO3 CMS Documentation
    :Comment:
 
  - :Manual:       :ref:`t3api:start`
-   :Type:         Reference
+   :Type:         Browsable class reference
    :Shortcut:     t3api
+   :Comment:
+
+ - :Manual:       :ref:`t3coreapi:start`
+   :Type:         Reference
+   :Shortcut:     t3coreapi
    :Comment:
 
  - :Manual:       :ref:`t3fal:start`
