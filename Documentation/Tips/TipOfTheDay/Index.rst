@@ -32,7 +32,8 @@ Note:
 
 #. The sublevel refers to the *current level*.
 
-#. Sometimes you don't get what you expect. Example of such a **problem**:
+Problem
+   Sometimes you don't get what you expect:
 
    .. code-block:: rst
 
@@ -54,26 +55,24 @@ Note:
    The example feels very natural. We are thinking of the introduction
    follwed by the single chapters. Unfortunately we get something different.
    The chapters will all be a *subpart* of *Introduction* and not at the same level.
-   It is exactly what the Sphinx documentation states and there is no way to
-   "tweak" this.
+   It is exactly what the Sphinx documentation states and there is no easy way to
+   "tweak" this behavior.
 
-#. **Solution:**
-
-   The solution comes with these rules of thumb:
+Solution
+   Use these rules of thumb:
 
    #. All or nothing: Pull in *all* content of a given level via `toctree`
-      or none. If none, that would mean: Don't use `toctree` and write the
-      chapters directly in the file.
+      or none. Nould mean: Don't use `toctree` and sublevel in a specific file.
 
-   #. In other words:
+   #. Or, in other words:
       Do not use a headline ("section") in a document before a `.. toctree::`
-      directive unless you really want that the pulled in documents
-      go to a *sublevel* of that section.
+      directive unless you really want to place the pulled in documents
+      at a *sublevel of that section*.
 
-   Here is how we can fix the example.
-   Move the introduction to an extra file and pull it in just like the others.
+   Here is how we can fix the example: Move the introduction to an extra
+   file and pull it in just like the others.
 
-   **Fixed examples:**
+   **Fixed example:**
 
    .. code-block:: rst
 
@@ -90,6 +89,10 @@ Note:
          Chapter-1
          Chapter-2
          Chapter-3
+
+   Now the *document titles* (not shown here) of the files :file:`Introduction.rst`,
+   :file:`Chapter-1.rst`, :file:`Chapter-2` and :file:`Chapter-3` will all be at the
+   sublevel of `My Documentation` in the menu.
 
 
 
