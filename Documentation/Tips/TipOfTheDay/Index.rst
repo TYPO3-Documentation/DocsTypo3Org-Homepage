@@ -25,10 +25,10 @@ Tip Of The Day
 TYPO3 documentation usually starts with a textfile :file:`PROJECT/Documentation/Index.rst`.
 The text may go into more than one textfile and these can be "pulled in" and
 referenced by the
-`.. toctree:: directive <http://www.sphinx-doc.org/en/stable/markup/toctree.html>`__.
-Note:
+`.. toctree:: <http://www.sphinx-doc.org/en/stable/markup/toctree.html>`__
+directive. Note:
 
-#. Each `.. toctree::` directive creates a sublevel of headlines in the menu.
+#. Each `.. toctree::` directive creates a *sublevel* of headlines in the menu.
 
 #. The sublevel refers to the *current level*.
 
@@ -62,7 +62,7 @@ Solution
    Use these rules of thumb:
 
    #. All or nothing: Pull in *all* content of a given level via `toctree`
-      or none. Nould mean: Don't use `toctree` and sublevel in a specific file.
+      or don't use `toctree` at all.
 
    #. Or, in other words:
       Do not use a headline ("section") in a document before a `.. toctree::`
