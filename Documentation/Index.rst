@@ -50,10 +50,10 @@ Latest documentation news
 Tip of the day - did you know?
 ------------------------------
 
+-  2017-02-13 :ref:`tip-of-the-day-2017-02-13`
 -  2016-12-29 :ref:`tip-of-the-day-2016-12-29`
 -  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
 -  2016-09-11 :ref:`tip-of-the-day-2016-09-11`
--  2016-09-02 :ref:`tip-of-the-day-2016-09-02`
 -  Find all: :ref:`Tip-of-the-day`
 
 
