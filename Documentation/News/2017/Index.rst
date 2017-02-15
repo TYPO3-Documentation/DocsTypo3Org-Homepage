@@ -22,18 +22,20 @@ FormEngine docs added
 
 2017-02-15 by Christian Kuhn
 
+.. figure:: files/2017-02-15-form-engine.png
+   :class: with-border
+
 The FormEngine code construct of the core has been refactored since version 6.2
 and is much more flexible in version 7 LTS and 8 LTS.
 
-An overview of the `FormEngine API`_ has now been added to `TYPO3 API documentation`_.
+An overview of the :ref:`FormEngine API <t3coreapi:FormEngine>` has now been added
+to :ref:`TYPO3 API documentation <t3coreapi:start>`.
 
 **Contribute:** Don't hesitate to use the "Edit me on Github" button
 to improve the documentation.
 
 May the docs be with you!
 
-.. _FormEngine API: https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/FormEngine/
-.. _TYPO3 API documentation: https://docs.typo3.org/typo3cms/CoreApiReference/
 
 
 .. _news-2017-02-08:
