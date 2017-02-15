@@ -30,6 +30,7 @@ Latest documentation news
    of properties, options, APIs, etc.
 
 
+-  2017-02-15 :ref:`news-2017-02-15`
 -  2017-02-08 :ref:`news-2017-02-08`
 
    .. figure:: News/2017/files/2017-02-08-typo3-snippets.png
