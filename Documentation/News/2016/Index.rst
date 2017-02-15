@@ -101,7 +101,7 @@ to improve the documentation.
 Have fun!
 
 .. _doctrine-dbal: http://www.doctrine-project.org/projects/dbal.html
-.. _Doctrine based database API: https://docs.typo3.org/typo3cms/CoreApiReference/Database/
+.. _Doctrine based database API: https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/Database/
 .. _TYPO3 API documentation: https://docs.typo3.org/typo3cms/CoreApiReference/
 
 
