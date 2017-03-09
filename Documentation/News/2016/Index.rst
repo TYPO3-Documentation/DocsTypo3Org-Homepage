@@ -64,7 +64,7 @@ Better explained: TCA type "flex"
 
 I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is
 explained a bit better in detail now. See `TCA, Pointing to a Data Structure
-<https://docs.typo3.org/typo3cms/TCAReference/8-dev/Reference/Columns/Flex/#pointing-to-a-data-structure>`__.
+<https://docs.typo3.org/typo3cms/TCAReference/8-dev/ColumnsConfig/Type/Flex.html#pointing-to-a-data-structure>`__.
 
 
 
