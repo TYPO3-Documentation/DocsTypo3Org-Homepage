@@ -30,6 +30,7 @@ Latest documentation news
    of properties, options, APIs, etc.
 
 
+-  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`
 -  2017-02-08 :ref:`news-2017-02-08`
 

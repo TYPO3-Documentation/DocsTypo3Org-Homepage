@@ -14,6 +14,18 @@
 .. highlight:: shell
 
 
+.. _news-2017-03-14:
+.. rst-class:: panel panel-default
+
+TCA Reference overhaul
+----------------------
+
+2017-03-14 by Christian Kuhn
+
+The :ref:`TCA Reference <t3tca:start>` got a major overhaul and should be ready for TYPO3 v8 LTS now.
+
+
+
 .. _news-2017-02-15:
 .. rst-class:: panel panel-default
 
