@@ -1,5 +1,6 @@
 
 .. include:: ../../Includes.txt
+.. highlight:: shell
 
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
 
@@ -9,9 +10,6 @@
 ====
 2017
 ====
-
-
-.. highlight:: shell
 
 
 .. _news-2017-03-14:

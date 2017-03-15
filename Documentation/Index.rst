@@ -43,7 +43,6 @@ Latest documentation news
 
 -  2016-12-28 :ref:`news-2016-12-28`
 -  2016-11-18 :ref:`news-2016-11-18`
--  2016-11-07 :ref:`news-2016-11-07`
 -  :ref:`View all the latest news <latest>`
 
 
