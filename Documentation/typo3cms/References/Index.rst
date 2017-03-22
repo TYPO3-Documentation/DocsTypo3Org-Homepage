@@ -1,11 +1,11 @@
-.. include:: ../../Includes.txt
 
+.. include:: ../../Includes.txt
 
 .. _references:
 
-==================================
+==========
 References
-==================================
+==========
 
 Reference manuals are exhaustive documents about one particular aspect of TYPO3 CMS:
 important APIs, TypoScript options, TCA properties, etc.
@@ -37,8 +37,8 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3cgl
    :Comment:
 
- - :Manual:       :ref:`t3api:start`
-   :Type:         Browsable class reference
+ - :Manual:       https://typo3.org/api/typo3cms/
+   :Type:         Browsable phpdoc class reference
    :Shortcut:     t3api
    :Comment:
 
@@ -86,12 +86,12 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
 .. toctree::
    :hidden:
 
-   Coding Guidelines   <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
-   Core Api (Code)     <https://typo3.org/api/typo3cms/>
-   Core Api (Manual)   <https://docs.typo3.org/typo3cms/CoreApiReference/>
-   Fal                 <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
-   Inside TYPO3        <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
-   Services            <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
-   Tca                 <https://docs.typo3.org/typo3cms/TCAReference/>
-   TSconfig            <https://docs.typo3.org/typo3cms/TSconfigReference/>
-   TypoScript          <https://docs.typo3.org/typo3cms/TyposcriptReference/>
+   Coding Guidelines ➜ <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
+   Core Api (Code) ➜   <https://typo3.org/api/typo3cms/>
+   Core Api (Manual) ➜ <https://docs.typo3.org/typo3cms/CoreApiReference/>
+   Fal ➜               <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
+   Inside TYPO3 ➜      <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
+   Services ➜          <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
+   Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
+   TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
+   TypoScript ➜        <https://docs.typo3.org/typo3cms/TyposcriptReference/>

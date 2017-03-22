@@ -1,11 +1,11 @@
-.. include:: ../../Includes.txt
 
+.. include:: ../../Includes.txt
 
 .. _books:
 
-==================================
+=====
 Books
-==================================
+=====
 
 This section contains community translations of published TYPO3 CMS-related books.
 

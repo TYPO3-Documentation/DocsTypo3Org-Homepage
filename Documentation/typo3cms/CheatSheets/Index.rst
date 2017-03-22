@@ -1,12 +1,11 @@
-?
-.. include:: ../../Includes.txt
 
+.. include:: ../../Includes.txt
 
 .. _cheat-sheets:
 
-==================================
+============
 Cheat Sheets
-==================================
+============
 
 TYPO3 CMS cheat sheets
 
@@ -15,13 +14,15 @@ documentation, but which do not really fit into any specific manual.
 
 This collection is permanent work in progress.
 
-.. note:: **Do you have a cheat sheet yourself?**
+.. note::
 
-          Do you want **your** cheat sheets to be featured on docs.typo3.org as well?
+   **Do you have a cheat sheet yourself?**
 
-          Then don't hesitate to `drop us a line <documentation@typo3.org>`__!
+   Do you want **your** cheat sheets to be featured on docs.typo3.org as well?
 
-          Every contribution is welcome!
+   Then don't hesitate to `drop us a line <documentation@typo3.org>`__!
+
+   Every contribution is welcome!
 
 
 .. t3-field-list-table::
@@ -114,4 +115,3 @@ This collection is permanent work in progress.
 The Documentation Team kindly thanks all authors for their work!
 
 TYPO3 - inspiring people to share.
-
