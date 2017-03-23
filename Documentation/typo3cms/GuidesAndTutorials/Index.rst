@@ -22,6 +22,7 @@ Guides and Tutorials
    Security ➜                 <https://docs.typo3.org/typo3cms/SecurityGuide/>
    Tutorial for Editors ➜     <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜ <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
+   Writing Documentation ➜    <https://docs.typo3.org/typo3cms/HowToDocument/>
 
 
 List of Example- and Starter-manuals
@@ -97,6 +98,11 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     t3extbase
    :Comment:      Very unsufficient, but better then nothing.
 
+ - :Manual:       WIP: How to document
+   :Type:         Guide
+   :Shortcut:     h2document
+   :Comment:
+
 
 
 List of Tutorials
@@ -134,4 +140,4 @@ represents a logical progression in the knowledge of the product.
  - :Manual:       :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:
+   :Comment:      About 'writing documentation'
