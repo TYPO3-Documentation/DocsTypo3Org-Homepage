@@ -7,6 +7,7 @@ About TYPO3 Documentation
 ===========================================
 
 .. toctree::
+   :hidden:
    :glob:
 
    CommunityWritings/Index
