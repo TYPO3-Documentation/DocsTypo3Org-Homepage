@@ -6,6 +6,16 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
+Quicklinks:
+
+.. rst-class:: horizbuttons-typo3-xxl
+
+- :ref:`API <t3coreapi:Start>`
+- :ref:`Sec <t3security:Start>`
+- :ref:`TCA <t3tca:Start>`
+- :ref:`TS  <t3tsref:Start>`
+
+
 .. tip::
 
    You are an **extension writer** and want to add documentation?
