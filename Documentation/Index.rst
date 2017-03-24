@@ -10,10 +10,10 @@ Quicklinks:
 
 .. rst-class:: horizbuttons-typo3-xxl
 
-- :ref:`API <t3coreapi:Start>`
-- :ref:`Sec <t3security:Start>`
-- :ref:`TCA <t3tca:Start>`
-- :ref:`TS  <t3tsref:Start>`
+- :ref:`TCA Reference <t3tca:Start>`
+- :ref:`TYPO3 Core APIs <t3coreapi:Start>`
+- :ref:`TYPO3 Security Guide <t3security:Start>`
+- :ref:`TypoScript Reference <t3tsref:Start>`
 
 
 .. tip::
