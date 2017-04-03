@@ -6,9 +6,15 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
+.. rst-class:: horizbuttons-striking-xxl
+
+-  What :ref:`April brings ... <news-2017-04-03>`
+
+
+
 Quicklinks:
 
-.. rst-class:: horizbuttons-typo3-xxl
+.. rst-class:: horizbuttons-primary-xxl
 
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TYPO3 Core APIs <t3coreapi:Start>`
@@ -40,19 +46,12 @@ Latest documentation news
    of properties, options, APIs, etc.
 
 
+-  2017-04-03 :ref:`news-2017-04-03`
 -  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`
 -  2017-02-08 :ref:`news-2017-02-08`
-
-   .. figure:: News/2017/files/2017-02-08-typo3-snippets.png
-      :target: https://docs.typo3.org/typo3cms/Snippets/
-      :alt:    TYPO3 snippets
-
-   **Please contribute** and `start sending code SNIPPETS again!
-   <https://docs.typo3.org/typo3cms/Snippets/>`__
-
 -  2016-12-28 :ref:`news-2016-12-28`
--  2016-11-18 :ref:`news-2016-11-18`
+
 -  :ref:`View all the latest news <latest>`
 
 

@@ -12,6 +12,38 @@
 ====
 
 
+.. _news-2017-04-03:
+.. rst-class:: panel panel-default
+
+What April brings: Style buttons and "bignums"
+----------------------------------------------
+
+2017-04-03 by Martin Bless
+
+Along with April there comes a new release of our theme `t3SphinxThemeRtd`.
+It offers some cool and brandnew stylings for lists with standard reST markup.
+You only have to add a `.. rst-class:: THESTYLE` in front of the list.
+
+You can now easily create well readable step-by-step instructions!
+
+.. rst-class:: bignums-tip
+
+#. Be excited!
+
+#. See `more examples of buttons <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__ like
+
+   .. rst-class:: horizbuttons-note-m
+   - one
+   - two
+   - three
+
+#. See `more examples of styles for "big numbers"
+   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
+
+**Please:** Use wisely!
+
+
+
 .. _news-2017-03-14:
 .. rst-class:: panel panel-default
 
