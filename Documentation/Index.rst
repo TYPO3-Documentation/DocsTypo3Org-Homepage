@@ -41,6 +41,11 @@ Latest documentation news
 
 
 -  2017-04-03 :ref:`news-2017-04-03`
+
+   .. rst-class:: horizbuttons-attention-xxl
+
+   - :ref:`NEW: Buttons + Bignums <news-2017-04-03>`
+
 -  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`
 -  2017-02-08 :ref:`news-2017-02-08`
