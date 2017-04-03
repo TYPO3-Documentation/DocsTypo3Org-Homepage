@@ -26,7 +26,7 @@ in standard reST markup. You only have to add a `.. rst-class:: the-style` in fr
 
 You can now easily create very well readable step-by-step instructions!
 
-.. rst-class:: bignums-tip
+.. rst-class:: bignums-note
 
 #. Be excited!
 
