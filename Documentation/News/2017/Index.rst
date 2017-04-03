@@ -15,8 +15,8 @@
 .. _news-2017-04-03:
 .. rst-class:: panel panel-default
 
-What April brings: Cool styles for buttons and "bignums"
---------------------------------------------------------
+What April brings: Cool buttons and "bignums"
+---------------------------------------------
 
 2017-04-03 by Martin Bless
 
