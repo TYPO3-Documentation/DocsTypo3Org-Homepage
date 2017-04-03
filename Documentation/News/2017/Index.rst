@@ -46,7 +46,7 @@ In short:
 
 .. rst-class:: horizbuttons-tip-m
 
--  `Buttons <<https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
+-  `Buttons <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
 -  `Bignums <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
 
 Use wisely!
