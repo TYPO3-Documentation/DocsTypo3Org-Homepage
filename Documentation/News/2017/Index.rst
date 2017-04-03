@@ -30,17 +30,31 @@ You can now easily create well readable step-by-step instructions!
 
 #. Be excited!
 
-#. See `more examples of buttons <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__ like
+   Something new and powerful is now around.
+
+#. About buttons
+
+   See `some examples
+   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__ like
 
    .. rst-class:: horizbuttons-note-m
    - one
    - two
    - three
 
-#. See `more examples of styles for "big numbers"
+#. About "big numbers"
+
+   See `some examples
    <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
 
-**Please:** Use wisely!
+In short:
+
+.. rst-class:: horizbuttons-tip-xxl
+
+-  `Buttons <<https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>>`__
+-  `Bignums <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
+
+Use wisely!
 
 
 

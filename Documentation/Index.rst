@@ -6,12 +6,6 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. rst-class:: horizbuttons-striking-xxl
-
--  What :ref:`April brings ... <news-2017-04-03>`
-
-
-
 Quicklinks:
 
 .. rst-class:: horizbuttons-primary-xxl
