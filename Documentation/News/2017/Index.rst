@@ -34,24 +34,19 @@ You can now easily create well readable step-by-step instructions!
 
 #. About buttons
 
-   See `some examples
-   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__ like
-
-   .. rst-class:: horizbuttons-note-m
-   - one
-   - two
-   - three
+   See `some examples.
+   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
 
 #. About "big numbers"
 
-   See `some examples
+   See `some examples.
    <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
 
 In short:
 
-.. rst-class:: horizbuttons-tip-xxl
+.. rst-class:: horizbuttons-tip-m
 
--  `Buttons <<https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>>`__
+-  `Buttons <<https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
 -  `Bignums <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
 
 Use wisely!
