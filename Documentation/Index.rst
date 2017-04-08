@@ -97,8 +97,9 @@ All manuals
 
    typo3cms/Books/Index
    typo3cms/CheatSheets/Index
-   Changelog 7 ➜      <https://docs.typo3.org/typo3cms/extensions/core/>
-   Changelog 8-dev ➜  <https://docs.typo3.org/typo3cms/extensions/core/8-dev>
+   Changelog 9-dev ➜  <https://docs.typo3.org/typo3cms/extensions/core/9-dev/>
+   Changelog 8.6 ➜    <https://docs.typo3.org/typo3cms/extensions/core/>
+   Changelog 7.6 ➜    <https://docs.typo3.org/typo3cms/extensions/core/7.6/>
    typo3cms/extensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
