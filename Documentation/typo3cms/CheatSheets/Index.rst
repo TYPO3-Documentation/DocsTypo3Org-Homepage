@@ -38,14 +38,6 @@ This collection is permanent work in progress.
 
 
 
- - :Sheet:        TYPO3 CGL on just one page
-   :Scope:        `TYPO3 CMS Coding Guidelines <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>`__
-   :Description:  This is a condensed version of the TYPO3 CGLs. All the important things on just one single page.
-   :Provided by:  Documentation Team
-   :Type:         PDF
-   :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.pdf>`__
-   :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/TYPO3%20CMS%20Coding%20Guidelines%20on%20one%20page%20v1.odt>`__
-
  - :Sheet:        stdWrap overview for cObjects
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a cObject. It uses the cObject "TEXT" as example to demonstrate where they are applied.
