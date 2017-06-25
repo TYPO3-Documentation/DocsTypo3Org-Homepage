@@ -174,7 +174,7 @@ System extension 'form'
   <https://docs.typo3.org/typo3cms/drafts/code.tritum.de/TYPO3.CMS/Form_Documentation/>`__
 
 - Read versions <= 7.6 of at their ordinary place `extensions/form
-  <https://docs.typo3.org/typo3cms/extensions/form/`__.
+  <https://docs.typo3.org/typo3cms/extensions/form/>`__.
 
 .. rst-class:: clear-both
 
