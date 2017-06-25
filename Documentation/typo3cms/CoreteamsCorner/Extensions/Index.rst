@@ -164,23 +164,19 @@ System extension 'form'
 
 .. |teaser-image-form-extension| image:: files/teaser-image-form-extension.png
    :class: float-left with-shadow
-   :target: https://docs.typo3.org/typo3cms/extensions/form/
    :alt: The manual of system extension 'form'
 
 |teaser-image-form-extension|
 
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
+- **Attention:**
+  Version 8 (=latest) of the 'form' manual is currently
+  being worked on and in *draft state*. `Find it here!
+  <https://docs.typo3.org/typo3cms/drafts/code.tritum.de/TYPO3.CMS/Form_Documentation/>`__
 
-<-- Click teaser.
+- Read versions <= 7.6 of at their ordinary place `extensions/form
+  <https://docs.typo3.org/typo3cms/extensions/form/`__.
 
 .. rst-class:: clear-both
-
-Below teaser.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-
 
 
 
