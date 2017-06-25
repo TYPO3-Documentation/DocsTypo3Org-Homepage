@@ -9,6 +9,31 @@ Core Extensions
 
 
 
+System extension 'adodb'
+========================
+
+.. |teaser-image-core-extension| image:: https://docs.typo3.org/services/dummyimage/code.php?x=216x1.63:1/2994ff/fff&text=adodb
+   :class: float-left with-shadow
+   :target: https://docs.typo3.org/typo3cms/extensions/adodb/
+   :alt: The manual of system extension 'adodb'
+
+|teaser-image-adodb-extension|
+
+Writing about the system extension. Writing about the system extension. Writing about the system extension.
+Writing about the system extension. Writing about the system extension. Writing about the system extension.
+
+<-- Click teaser.
+
+.. rst-class:: clear-both
+
+Below teaser.
+Writing about the system extension. Writing about the system extension. Writing about the system extension.
+Writing about the system extension. Writing about the system extension. Writing about the system extension.
+Writing about the system extension. Writing about the system extension. Writing about the system extension.
+
+
+
+
 System extension 'core'
 =======================
 
