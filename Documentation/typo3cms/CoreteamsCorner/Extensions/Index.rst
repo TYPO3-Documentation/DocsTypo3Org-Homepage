@@ -189,12 +189,16 @@ System extension 'form'
 
 .. |teaser-image-form-extension| image:: files/teaser-image-form-extension.png
    :class: float-left with-shadow
+   :target: https://docs.typo3.org/typo3cms/extensions/form/
    :alt: The manual of system extension 'form'
 
 |teaser-image-form-extension|
 
-- **Attention:**
-  A brand new manual has come with version 8.7!
+**Attention:**
+A brand new manual has come with version 8.7!
+  
+<-- Click teaser.
+  
 
 .. rst-class:: clear-both
 
