@@ -194,12 +194,7 @@ System extension 'form'
 |teaser-image-form-extension|
 
 - **Attention:**
-  Version 8 (=latest) of the 'form' manual is currently
-  being worked on and in *draft state*. `Find it here!
-  <https://docs.typo3.org/typo3cms/drafts/code.tritum.de/TYPO3.CMS/Form_Documentation/>`__
-
-- Read versions <= 7.6 of at their ordinary place `extensions/form
-  <https://docs.typo3.org/typo3cms/extensions/form/>`__.
+  A brand new manual has come with version 8.7!
 
 .. rst-class:: clear-both
 
