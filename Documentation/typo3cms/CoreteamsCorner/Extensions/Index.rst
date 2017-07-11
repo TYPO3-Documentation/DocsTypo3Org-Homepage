@@ -19,8 +19,9 @@ System extension 'adodb'
 
 |teaser-image-adodb-extension|
 
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
+TYPO3 <= 7.6
+
+((to be written))
 
 <-- Click teaser.
 
@@ -73,8 +74,9 @@ System extension 'css_styled_content'
 
 |teaser-image-css_styled_content-extension|
 
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
+TYPO3 <= 8.7
+
+((to be written))
 
 <-- Click teaser.
 
@@ -95,8 +97,9 @@ System extension 'dbal'
 
 |teaser-image-dbal-extension|
 
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
+TYPO3 <= 7.6
+
+((to be written))
 
 <-- Click teaser.
 
@@ -264,8 +267,9 @@ System extension 'openid'
 
 |teaser-image-openid-extension|
 
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
-Writing about the system extension. Writing about the system extension. Writing about the system extension.
+TYPO3 <= 6.2
+
+((to be written))
 
 <-- Click teaser.
 
