@@ -14,6 +14,7 @@ Quicklinks:
 - :ref:`TYPO3 Core APIs <t3coreapi:Start>`
 - :ref:`TYPO3 Security Guide <t3security:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
+- :ref:`Extbase Guide <t3extbase:Start>`
 
 
 .. tip::
