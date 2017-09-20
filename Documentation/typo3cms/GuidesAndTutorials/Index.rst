@@ -122,7 +122,7 @@ represents a logical progression in the knowledge of the product.
    :Shortcut:     Shortcut
    :Comment:      Comment
 
- - :Manual:       :ref:`t3start:start`
+ - :Manual:       `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Type:         Tutorial
    :Shortcut:     t3start
    :Comment:
