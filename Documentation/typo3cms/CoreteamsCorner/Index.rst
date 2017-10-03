@@ -16,7 +16,7 @@ Words from the core team.
 
    Changelog 7 ➜      <https://docs.typo3.org/typo3cms/extensions/core/7.6/>
    Changelog 8 ➜      <https://docs.typo3.org/typo3cms/extensions/core/8.7/>
-   Changelog 9-dev ➜  <https://docs.typo3.org/typo3cms/extensions/core/9-dev/>
+   Changelog latest (9-dev) ➜  <https://docs.typo3.org/typo3cms/extensions/core/>
    Extensions/Index
    More/Index
 
