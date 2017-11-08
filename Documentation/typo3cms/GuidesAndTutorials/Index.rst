@@ -91,17 +91,17 @@ like installation of TYPO3 CMS or security.
  - :Manual:       :ref:`rendert3docs:start`
    :Type:         Guide
    :Shortcut:     rendert3docs
-   :Comment:
+   :Comment:      Work in progress!
 
  - :Manual:       WIP: :ref:`t3extbase:start`
    :Type:         Guide
    :Shortcut:     t3extbase
    :Comment:      Very unsufficient, but better then nothing.
 
- - :Manual:       WIP: How to document
+ - :Manual:       WIP: :ref:`h2document:start`
    :Type:         Guide
    :Shortcut:     h2document
-   :Comment:
+   :Comment:      Work in progress!
 
 
 
