@@ -93,7 +93,6 @@ All manuals
 
 
 .. toctree::
-   :glob:
    :hidden:
 
    typo3cms/Books/Index
@@ -102,5 +101,5 @@ All manuals
    typo3cms/extensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
-   Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
+   Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    About
