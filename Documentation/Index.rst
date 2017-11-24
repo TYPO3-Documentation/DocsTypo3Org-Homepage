@@ -97,10 +97,9 @@ All manuals
 
    typo3cms/Books/Index
    typo3cms/CheatSheets/Index
-   typo3cms/CoreteamsCorner/Index
    typo3cms/extensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
-   typo3cms/Teams/
+   typo3cms/Teams/Index
    About
