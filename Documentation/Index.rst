@@ -102,4 +102,5 @@ All manuals
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
+   typo3cms/Teams/
    About
