@@ -1,4 +1,4 @@
-.. include:: ../../../Includes.txt
+.. include:: ../../../../Includes.txt
 
 .. _Coreteam-Extensions:
 
@@ -199,9 +199,9 @@ System extension 'form'
 
 **Attention:**
 A brand new manual has come with version 8.7!
-  
+
 <-- Click teaser.
-  
+
 
 .. rst-class:: clear-both
 
