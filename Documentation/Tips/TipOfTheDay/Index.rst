@@ -158,7 +158,6 @@ Preferred: Use single backticks ` ... `
    code             ``:code:`result = (1 + x) * 32```                 :code:`result = (1 + x) * 32`
    file             ``:file:`/etc/passwd```                           :file:`/etc/passwd`
    js               ``:js:`var f = function () {return 1;}```         :js:`var f = function () {return 1;}`
-   jts              ``:jts:`(javascript) typescript```                :jts:`...`                                   WIP - planned
    html             ``:html:`<a href="#">```                          :html:`<a href="#">`
    ts               ``:ts:`lib.hello.value = Hello World!```          :ts:`lib.hello.value = Hello World!`
    typoscript       ``:typoscript:`lib.hello.value = Hello World!```  :typoscript:`lib.hello.value = Hello World!`
