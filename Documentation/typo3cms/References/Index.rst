@@ -42,15 +42,10 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3api
    :Comment:
 
- - :Manual:       :ref:`t3coreapi:start`
+ - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Type:         Reference
    :Shortcut:     t3coreapi
    :Comment:
-
- - :Manual:       :ref:`t3fal:start`
-   :Type:         Reference
-   :Shortcut:     t3fal
-   :Comment:      **Work in progress** Please help the community by contributing!
 
  - :Manual:       :ref:`t3inside:start`
    :Type:         Reference
@@ -82,15 +77,21 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3services
    :Comment:
 
+ - :Manual:       :ref:`File Abstraction Layer (OLD) <t3fal:start>`
+   :Type:         Reference
+   :Shortcut:     t3fal
+   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:fal>`
+
+
 
 .. toctree::
    :hidden:
 
    Coding Guidelines ➜ <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
    Core Api ➜          <https://docs.typo3.org/typo3cms/CoreApiReference/>
-   Fal ➜               <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
    Inside TYPO3 ➜      <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
    Services ➜          <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript ➜        <https://docs.typo3.org/typo3cms/TyposcriptReference/>
+   Fal (OLD) ➜         <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
