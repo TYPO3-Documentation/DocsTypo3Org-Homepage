@@ -27,7 +27,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:
    :Comment:      New Features, Breaking Changes, Deprecations, per Release
 
- - :Manual:       :ref:`t3cgl:start`
+ - :Manual:       :ref:`Core Coding Guidelines <t3cgl:start>`
    :Type:         Reference
    :Shortcut:     t3cgl
    :Comment:
