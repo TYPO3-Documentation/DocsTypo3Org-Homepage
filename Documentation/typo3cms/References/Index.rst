@@ -32,11 +32,6 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3cgl
    :Comment:
 
- - :Manual:       https://typo3.org/api/typo3cms/
-   :Type:         Browsable phpdoc class reference
-   :Shortcut:     t3api
-   :Comment:
-
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Type:         Reference
    :Shortcut:     t3coreapi
