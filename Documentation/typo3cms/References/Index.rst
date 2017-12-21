@@ -22,12 +22,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     Shortcut
    :Comment:      Comment
 
- - :Manual:       `TYPO3 CMS Core ChangeLog (latest) <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Type:         ChangeLog Reference
-   :Shortcut:
-   :Comment:      New Features, Breaking Changes, Deprecations, per Release
-
- - :Manual:       `TYPO3 CMS Core ChangeLog (stable) <https://docs.typo3.org/typo3cms/extensions/core/>`__
+ - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
    :Type:         ChangeLog Reference
    :Shortcut:
    :Comment:      New Features, Breaking Changes, Deprecations, per Release
