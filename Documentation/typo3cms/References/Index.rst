@@ -37,7 +37,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3coreapi
    :Comment:
 
- - :Manual:       :ref:`t3inside:start`
+ - :Manual:       :ref:`Inside TYPO3 <t3inside:start>`
    :Type:         Reference
    :Shortcut:     t3inside
    :Comment:
