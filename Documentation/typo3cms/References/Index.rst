@@ -77,11 +77,13 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
 .. toctree::
    :hidden:
 
+   Core Changelog    ➜ <https://docs.typo3.org/typo3cms/extensions/core/latest/>
    Coding Guidelines ➜ <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
    Core Api ➜          <https://docs.typo3.org/typo3cms/CoreApiReference/>
    Inside TYPO3 ➜      <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
-   Services ➜          <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
-   TypoScript ➜        <https://docs.typo3.org/typo3cms/TyposcriptReference/>
+   TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
+   TypoScript Study ➜  <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>
+   Services ➜          <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
    Fal (OLD) ➜         <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
