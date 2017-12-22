@@ -62,12 +62,12 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3tssyntax
    :Comment:
 
- - :Manual:       :ref:`t3services:start`
+ - :Manual:       :ref:`(OLD) Services API <t3services:start>`
    :Type:         Reference
    :Shortcut:     t3services
-   :Comment:
+   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:services>`
 
- - :Manual:       :ref:`File Abstraction Layer (OLD) <t3fal:start>`
+ - :Manual:       :ref:`(OLD) File Abstraction Layer <t3fal:start>`
    :Type:         Reference
    :Shortcut:     t3fal
    :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:fal>`
@@ -85,5 +85,3 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
    TypoScript Study ➜  <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>
-   Services ➜          <https://docs.typo3.org/typo3cms/Typo3ServicesReference/>
-   Fal (OLD) ➜         <https://docs.typo3.org/typo3cms/FileAbstractionLayerReference/>
