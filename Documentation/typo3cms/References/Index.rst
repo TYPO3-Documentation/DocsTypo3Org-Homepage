@@ -35,7 +35,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Type:         Reference
    :Shortcut:     t3coreapi
-   :Comment:
+   :Comment:      Main core explanation document
 
  - :Manual:       :ref:`Inside TYPO3 <t3inside:start>`
    :Type:         Reference
@@ -57,10 +57,10 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3tsref
    :Comment:
 
- - :Manual:       :ref:`t3tssyntax:start`
+ - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
    :Type:         Reference
    :Shortcut:     t3tssyntax
-   :Comment:
+   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:typoscript-syntax-start>`
 
  - :Manual:       :ref:`(OLD) Services API <t3services:start>`
    :Type:         Reference
@@ -84,4 +84,3 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
-   TypoScript Study ➜  <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>
