@@ -12,8 +12,6 @@ TYPO3 CMS cheat sheets
 This section holds files, which are related to the TYPO3 CMS Core
 documentation, but which do not really fit into any specific manual.
 
-This collection is permanent work in progress.
-
 .. note::
 
    **Do you have a cheat sheet yourself?**
