@@ -53,8 +53,8 @@ which also serve as guidelines to the usage of reStructuredText.
 
 
 
-List of Guides
-==============
+List of Guides and books
+========================
 
 *Guides* provide an in-depth exploration of a particular topic,
 like installation of TYPO3 CMS or security.
@@ -88,15 +88,20 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     t3contribute
    :Comment:
 
+ - :Manual:       :ref:`t3extbasebook:start`
+   :Type:         Book
+   :Shortcut:     t3extbasebook
+   :Comment:      The extbase book
+
+ - :Manual:       :ref:`t3extbase:start`
+   :Type:         Guide
+   :Shortcut:     t3extbase
+   :Comment:      Very unsufficient, but better than nothing.
+
  - :Manual:       :ref:`rendert3docs:start`
    :Type:         Guide
    :Shortcut:     rendert3docs
    :Comment:      Work in progress!
-
- - :Manual:       WIP: :ref:`t3extbase:start`
-   :Type:         Guide
-   :Shortcut:     t3extbase
-   :Comment:      Very unsufficient, but better then nothing.
 
  - :Manual:       WIP: :ref:`h2document:start`
    :Type:         Guide
