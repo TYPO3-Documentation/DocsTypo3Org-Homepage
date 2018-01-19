@@ -99,7 +99,7 @@ Solution
 .. _tip-of-the-day-2016-12-29:
 .. rst-class:: panel panel-default
 
-How to start Documentation for Your TYPO3 Extension
+How to start Documentation for your TYPO3 Extension
 ===================================================
 
 2016-12-29 by Martin Bless
