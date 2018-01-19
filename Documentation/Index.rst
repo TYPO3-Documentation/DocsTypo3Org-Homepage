@@ -6,24 +6,16 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-Quicklinks:
+
+Common quick links
+------------------
 
 .. rst-class:: horizbuttons-primary-xxl
 
-- :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TYPO3 Core APIs <t3coreapi:Start>`
-- :ref:`TYPO3 Security Guide <t3security:Start>`
+- :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
-- :ref:`Extbase Guide <t3extbase:Start>`
-
-
-.. tip::
-
-   You are an **extension writer** and want to add documentation?
-
-   Please read:
-
-   :ref:`tip-of-the-day-2016-12-29`
+- :ref:`TYPO3 Security Guide <t3security:Start>`
 
 
 Latest documentation news
@@ -39,7 +31,6 @@ Latest documentation news
    which provide an in-depth look into specific topics and
    :ref:`References <references>` which contain exhaustive listings
    of properties, options, APIs, etc.
-
 
 -  2017-04-03 :ref:`news-2017-04-03`
 
@@ -59,6 +50,11 @@ Latest documentation news
 Tip of the day - did you know?
 ------------------------------
 
+.. sidebar:: Quick starting extension documentation
+
+   You are an extension author and want to add documentation?
+   Please read :ref:`tip-of-the-day-2016-12-29`
+
 -  2017-02-13 :ref:`tip-of-the-day-2017-02-13`
 -  2016-12-29 :ref:`tip-of-the-day-2016-12-29`
 -  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
@@ -67,35 +63,9 @@ Tip of the day - did you know?
 
 
 
-All manuals
------------
-
-:ref:`Tutorials <tutorials>`
-  Introductory manuals into the world of TYPO3 CMS.
-
-:ref:`Guides <guides>`
-  In-depth exploration of specific topics.
-
-:ref:`References <references>`
-  Exhaustive listings of properties, options, APIs, etc.
-
-:ref:`Books <books>`
-  Community translations of published books.
-
-`Extensions <https://docs.typo3.org/typo3cms/extensions/>`__
-  Manuals for all public TYPO3 CMS extensions.
-
-:ref:`Cheat sheets <cheat-sheets>`
-  Summarized help notes about various topics.
-
-:ref:`Examples <examples>`
-  Structure and markup examples for official manuals and extension manuals.
-
-
 .. toctree::
    :hidden:
 
-   typo3cms/Books/Index
    typo3cms/CheatSheets/Index
    typo3cms/extensions/Index
    typo3cms/GuidesAndTutorials/Index
