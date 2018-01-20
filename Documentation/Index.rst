@@ -32,6 +32,7 @@ Latest documentation news
    :ref:`References <references>` which contain exhaustive listings
    of properties, options, APIs, etc.
 
+-  2018-01-20 :ref:`news-2018-01-20`
 -  2017-04-03 :ref:`news-2017-04-03`
 -  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`
