@@ -33,11 +33,6 @@ Latest documentation news
    of properties, options, APIs, etc.
 
 -  2017-04-03 :ref:`news-2017-04-03`
-
-   .. rst-class:: horizbuttons-attention-xxl
-
-   - :ref:`NEW: Buttons + Bignums <news-2017-04-03>`
-
 -  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`
 -  2017-02-08 :ref:`news-2017-02-08`
@@ -68,6 +63,7 @@ Tip of the day - did you know?
 
    typo3cms/CheatSheets/Index
    typo3cms/extensions/Index
+   typo3cms/SystemExtensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>

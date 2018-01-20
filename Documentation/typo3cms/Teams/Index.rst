@@ -14,6 +14,5 @@ Directory:
 
 .. toctree::
 
-   Core Team  ➜  <https://docs.typo3.org/typo3cms/Teams/CoreTeam/>
    T3O Team   ➜  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>
 
