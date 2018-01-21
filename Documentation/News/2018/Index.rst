@@ -22,8 +22,8 @@ Document restructurings
 
 Next to many contributors fixing various documentation parts,
 we're currently in a bigger restructuring process of main
-manual: Various documents are merged into one,
-the Homepage gets some love to find stuff quicker and further
+manuals: Various documents are merged into one,
+the Homepage gets some love to find stuff quicker and other
 good stuff.
 
 Stay tuned!
