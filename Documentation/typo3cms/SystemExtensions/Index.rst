@@ -61,7 +61,7 @@ part of the core and extracted at some point in time.
 
    - :Manual: `Form framework <https://docs.typo3.org/typo3cms/extensions/form/>`_
      :ExtKey: form
-     :Comment:
+     :Comment: Extensive manual
 
    - :Manual: `Indexed Search <https://docs.typo3.org/typo3cms/extensions/indexed_search/>`_
      :ExtKey: indexed_search
@@ -85,7 +85,7 @@ part of the core and extracted at some point in time.
 
    - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
-     :Comment:
+     :Comment: Recently reworked
 
    - :Manual: `System Actions <https://docs.typo3.org/typo3cms/extensions/sys_action/>`_
      :ExtKey: sys_action
