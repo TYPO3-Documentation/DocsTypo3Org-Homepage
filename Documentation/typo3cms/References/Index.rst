@@ -27,11 +27,6 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:
    :Comment:      New Features, Breaking Changes, Deprecations, per Release
 
- - :Manual:       :ref:`Core Coding Guidelines <t3cgl:start>`
-   :Type:         Reference
-   :Shortcut:     t3cgl
-   :Comment:
-
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Type:         Reference
    :Shortcut:     t3coreapi
@@ -57,6 +52,11 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3tsref
    :Comment:
 
+ - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
+   :Type:         Reference
+   :Shortcut:     t3cgl
+   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:cgl>`
+
  - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
    :Type:         Reference
    :Shortcut:     t3tssyntax
@@ -78,7 +78,6 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :hidden:
 
    Core Changelog    ➜ <https://docs.typo3.org/typo3cms/extensions/core/latest/>
-   Coding Guidelines ➜ <https://docs.typo3.org/typo3cms/CodingGuidelinesReference/>
    Core Api ➜          <https://docs.typo3.org/typo3cms/CoreApiReference/>
    Inside TYPO3 ➜      <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
