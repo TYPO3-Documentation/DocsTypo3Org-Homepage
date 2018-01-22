@@ -32,7 +32,18 @@ Latest documentation news
    :ref:`References <references>` which contain exhaustive listings
    of properties, options, APIs, etc.
 
+.. End of sidebar
+
+.. |youtube-teaser-wNxO-aXY5Yw| image:: News/2018/youtube-teaser-wNxO-aXY5Yw.png
+   :target: News/2018/Index.html#news-2018-01-19
+   :class:  with-shadow
+   :alt:    screenshot of youtube video
+
 -  2018-01-20 :ref:`news-2018-01-20`
+-  2018-01-19 :ref:`news-2018-01-19`
+
+   |youtube-teaser-wNxO-aXY5Yw|
+
 -  2017-04-03 :ref:`news-2017-04-03`
 -  2017-03-14 :ref:`news-2017-03-14`
 -  2017-02-15 :ref:`news-2017-02-15`

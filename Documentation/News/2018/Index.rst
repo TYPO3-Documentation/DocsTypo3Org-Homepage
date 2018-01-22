@@ -27,3 +27,16 @@ the Homepage gets some love to find stuff quicker and other
 good stuff.
 
 Stay tuned!
+
+
+
+.. _news-2018-01-19:
+.. rst-class:: panel panel-default
+
+Youtube Tutorial - Contribute to docs.typo3.org
+-----------------------------------------------
+
+2018-01-19 by Mathias Schreiber
+
+.. youtube:: wNxO-aXY5Yw
+
