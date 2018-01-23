@@ -18,11 +18,11 @@ Guides and Tutorials
    Extbase & Fluid ➜                <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
    Frontend Localization ➜          <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Getting Started ➜                <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
+   How To Document TYPO3 Projects ➜ <https://docs.typo3.org/typo3cms/HowToDocument/>
    Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
    Security ➜                       <https://docs.typo3.org/typo3cms/SecurityGuide/>
    Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
-   How To Document TYPO3 Projects ➜ <https://docs.typo3.org/typo3cms/HowToDocument/>
 
 
 List of Example- and Starter-manuals
