@@ -12,17 +12,17 @@ Guides and Tutorials
 .. toctree::
    :hidden:
 
-   Basics of Templating ➜     <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
-   Contribution Workflow ➜    <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
-   Documentation Rendering ➜  <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
-   Extbase & Fluid ➜          <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
-   Frontend Localization ➜    <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
-   Getting Started ➜          <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
-   Installation and Upgrade ➜ <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Security ➜                 <https://docs.typo3.org/typo3cms/SecurityGuide/>
-   Tutorial for Editors ➜     <https://docs.typo3.org/typo3cms/EditorsTutorial/>
-   TypoScript in 45 Minutes ➜ <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
-   Writing Documentation ➜    <https://docs.typo3.org/typo3cms/HowToDocument/>
+   Basics of Templating ➜           <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Contribution Workflow ➜          <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Documentation Rendering ➜        <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
+   Extbase & Fluid ➜                <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
+   Frontend Localization ➜          <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
+   Getting Started ➜                <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
+   Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Security ➜                       <https://docs.typo3.org/typo3cms/SecurityGuide/>
+   Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
+   TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
+   How To Document TYPO3 Projects ➜ <https://docs.typo3.org/typo3cms/HowToDocument/>
 
 
 List of Example- and Starter-manuals
@@ -103,7 +103,7 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     rendert3docs
    :Comment:      Work in progress!
 
- - :Manual:       WIP: :ref:`h2document:start`
+ - :Manual:       :ref:`h2document:start`
    :Type:         Guide
    :Shortcut:     h2document
    :Comment:      Work in progress!
@@ -145,4 +145,4 @@ represents a logical progression in the knowledge of the product.
  - :Manual:       :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:      About 'writing documentation'
+   :Comment:
