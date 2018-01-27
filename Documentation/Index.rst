@@ -57,7 +57,7 @@ Latest documentation news
 Tip of the day - did you know?
 ------------------------------
 
-.. sidebar:: Quick starting extension documentation
+.. sidebar:: Quickstart extension documentation
 
    You are an extension author and want to add documentation?
    Please read :ref:`tip-of-the-day-2016-12-29`
