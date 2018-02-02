@@ -80,5 +80,5 @@ Tip of the day - did you know?
    typo3cms/References/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    typo3cms/Teams/Index
-   Tell me something about    ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   Tell me something about X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
