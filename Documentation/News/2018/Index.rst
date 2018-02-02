@@ -12,6 +12,30 @@
 ====
 
 
+.. _news-2018-02-02:
+.. rst-class:: panel panel-default
+
+New manual: "Tell me something about topic X"
+---------------------------------------------
+
+2018-02-02 by Martin Bless
+
+Often questions are centered around topics: How does TYPO3
+caching work? How can I improve performance? How to use
+composer with TYPO3? And often answers are given in 
+blogpostings, slides, videos and so on.
+
+`The new manual <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>`__
+is the dedicated spot to list and collect
+those topics. And it's up to you and everybody in the
+community to come up with explanations, helpful texts
+and links.
+
+Can we make that manual a success? Yes, we can!
+Everybody is counting on YOU!
+
+
+
 .. _news-2018-01-20:
 .. rst-class:: panel panel-default
 
