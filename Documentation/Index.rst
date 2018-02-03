@@ -17,6 +17,11 @@ Common quick links
 - :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`TYPO3 Security Guide <t3security:Start>`
 
+.. rst-class:: horizbuttons-striking-xxl
+
+- Find your answer here
+
+
 
 Latest documentation news
 -------------------------
