@@ -6,6 +6,10 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
+.. rst-class:: horizbuttons-tip-xxl
+
+- How to find my answer here
+
 
 Common quick links
 ------------------
@@ -16,10 +20,6 @@ Common quick links
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`TYPO3 Security Guide <t3security:Start>`
-
-.. rst-class:: horizbuttons-striking-xxl
-
-- Find your answer here
 
 
 
