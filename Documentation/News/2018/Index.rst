@@ -24,13 +24,11 @@ That is actually a good sign. Why? Read on!
 
 Shortly after an extension upload to the TER the documentation server will
 render the documentation that (hopefully!) comes with that version.
-
 BUT: At the moment this automatic rendering process still uses the old layout.
 Unfortunately the current server is very old and can't run the new toolchain.
 And we haven't managed to switch everything to a new server yet. That is why
 you initially may feel you've done something wrong because that outdated
 layout is used.
-
 At the moment I'm running the new toolchain manually "every now and then" from my
 local machine. In general that should happen at least once a day. The plan is,
 of course, to set up a fully automated process for that. But we can't foresee
@@ -39,7 +37,9 @@ at the moment when exactly that will be.
 What does this mean? If you see your documentation in the old layout that
 actually is a good sign. It proofs that the documentation can be found and
 rendered. Just stay calm and patient until the new layout appears. That's the
-only thing you need to do. Easy - you can do it!
+only thing you need to do.
+
+Easy - you can do it!
 
 
 .. _news-2018-02-02:
