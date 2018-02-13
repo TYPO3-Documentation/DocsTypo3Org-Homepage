@@ -44,6 +44,7 @@ Latest documentation news
    :class:  with-shadow
    :alt:    screenshot of youtube video
 
+-  2018-02-02 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
 -  2018-01-20 :ref:`news-2018-01-20`
 -  2018-01-19 :ref:`news-2018-01-19`
@@ -51,7 +52,6 @@ Latest documentation news
    |youtube-teaser-wNxO-aXY5Yw|
 
 -  2017-04-03 :ref:`news-2017-04-03`
--  2017-03-14 :ref:`news-2017-03-14`
 
 -  :ref:`View all the latest news <latest>`
 
