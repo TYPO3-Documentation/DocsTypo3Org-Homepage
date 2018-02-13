@@ -44,7 +44,7 @@ Latest documentation news
    :class:  with-shadow
    :alt:    screenshot of youtube video
 
--  2018-02-02 :ref:`news-2018-02-13`
+-  2018-02-13 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
 -  2018-01-20 :ref:`news-2018-01-20`
 -  2018-01-19 :ref:`news-2018-01-19`
