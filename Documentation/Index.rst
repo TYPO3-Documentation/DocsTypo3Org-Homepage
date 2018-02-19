@@ -6,9 +6,9 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. rst-class:: horizbuttons-tip-xxl
-
-- How to find my answer here
+.. .. rst-class:: horizbuttons-tip-xxl
+.. 
+.. - How to find my answer here
 
 
 Common quick links
