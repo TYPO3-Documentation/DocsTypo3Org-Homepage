@@ -89,7 +89,7 @@ documentation, but which do not really fit into any specific manual.
    :Description:  -
    :Provided by:  Oliver Klee
    :Type:         PDF
-   :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/additional-documents/mocking-cheatsheet.pdf>`__
+   :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/mocking-cheatsheet.pdf>`__
    :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
 
