@@ -7,7 +7,7 @@ Welcome to the official TYPO3 Documentation
 ===========================================
 
 .. .. rst-class:: horizbuttons-tip-xxl
-.. 
+..
 .. - How to find my answer here
 
 
@@ -44,14 +44,13 @@ Latest documentation news
    :class:  with-shadow
    :alt:    screenshot of youtube video
 
+-  2018-03-28 :ref:`news-2018-03-28`
 -  2018-02-13 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
 -  2018-01-20 :ref:`news-2018-01-20`
 -  2018-01-19 :ref:`news-2018-01-19`
 
    |youtube-teaser-wNxO-aXY5Yw|
-
--  2017-04-03 :ref:`news-2017-04-03`
 
 -  :ref:`View all the latest news <latest>`
 

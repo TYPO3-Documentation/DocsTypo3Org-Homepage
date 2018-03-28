@@ -12,6 +12,36 @@
 ====
 
 
+.. _news-2018-03-28:
+.. rst-class:: panel panel-default
+
+Become a TYPO3 Documentation Team member
+----------------------------------------
+
+2018-03-28 by Martin Bless
+
+We are about to re-establish regular, monthly online meetings of the TYPO3
+Documentation Team. Please consider becoming a team member. This means: You are
+willing to participate in the monthly meetings and you are willing to take over
+a task or another on a regular and not just random basis. You have that
+feeling? Great! Please get yourself a `Slack invite
+<https://forger.typo3.com/slack>`__, if you haven't yet, and let us know
+in the `#typo3-documentation channel
+<https://typo3.slack.com/archives/C028JEPJL/p1522245664000027>`__.
+
+And please, participate in this `Doodle
+<https://doodle.com/poll/yk89nh4qk4kc3cii>`__ and vote for date and time of the
+first meeting. To just join the meeting you don't need to become a member or
+vote. Meetings are always open for guests.
+
+Please vote: https://doodle.com/poll/yk89nh4qk4kc3cii
+
+.. figure:: files/2018-03-28-doodle-teaser.png
+   :target: https://doodle.com/poll/yk89nh4qk4kc3cii
+   :class: with-shadow
+   :alt: Teaser image of the Doodle survey
+
+
 .. _news-2018-02-13:
 .. rst-class:: panel panel-default
 
