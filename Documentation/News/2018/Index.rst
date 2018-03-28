@@ -36,6 +36,8 @@ vote. Meetings are always open for guests.
 
 Please vote: https://doodle.com/poll/yk89nh4qk4kc3cii
 
+First possible dates are in the range of April 12-16, 2018.
+
 .. figure:: files/2018-03-28-doodle-teaser.png
    :target: https://doodle.com/poll/yk89nh4qk4kc3cii
    :class: with-shadow
