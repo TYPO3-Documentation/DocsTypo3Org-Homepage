@@ -83,7 +83,7 @@ like installation of TYPO3 CMS or security.
    :Shortcut:     t3security
    :Comment:
 
- - :Manual:       :ref:`t3contribute:TYPO3.Tutorial.ContributionWorkflow.Index`
+ - :Manual:       :ref:`t3contribute:start`
    :Type:         Guide
    :Shortcut:     t3contribute
    :Comment:
