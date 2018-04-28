@@ -32,11 +32,6 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Shortcut:     t3coreapi
    :Comment:      Main core explanation document
 
- - :Manual:       :ref:`Inside TYPO3 <t3inside:start>`
-   :Type:         Reference
-   :Shortcut:     t3inside
-   :Comment:
-
  - :Manual:       :ref:`t3tca:start`
    :Type:         Reference
    :Shortcut:     t3tca
@@ -51,6 +46,25 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
    :Type:         Reference
    :Shortcut:     t3tsref
    :Comment:
+
+
+With our ongoing consolidation efforts, some documents have been merged into other documents
+for better overview, less duplication and confusion. The latest versions of these documents only
+show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
+for, these obsoleted documents are listed here:
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Manual:       Manual
+   :Type:         Type
+   :Shortcut:     Shortcut
+   :Comment:      Comment
+
+ - :Manual:        :ref:`(OLD) Inside TYPO3 <t3inside:start>`
+   :Type:         Reference
+   :Shortcut:     t3inside
+   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:start>`
 
  - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
    :Type:         Reference
@@ -79,7 +93,6 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
 
    Core Changelog    ➜ <https://docs.typo3.org/typo3cms/extensions/core/latest/>
    Core Api ➜          <https://docs.typo3.org/typo3cms/CoreApiReference/>
-   Inside TYPO3 ➜      <https://docs.typo3.org/typo3cms/InsideTypo3Reference/>
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
