@@ -12,6 +12,33 @@
 ====
 
 
+.. _news-2018-05-02:
+.. rst-class:: panel panel-default
+
+Revamped TSconfig Reference
+---------------------------
+
+2018-05-02 by Christian Kuhn
+
+We modernized some of the main TYPO3 core documents with more than 100
+single commits the last days:
+
+* The old "Inside TYPO3" document is gone and all information has been merged into the
+  :ref:`TYPO3 Core API <t3coreapi:start>`. The Core API document more and more evolves
+  into **the** TYPO3 core documentation compendium where all conceptual core related
+  information should be looked up in. The term "Core API" will probably change at
+  some point to reflect this, too.
+
+* The :ref:`TSconfig Reference <t3tsconfig:start>` received a major overhaul. This document
+  is one of the most important documents next to the other two references, namely the
+  :ref:`TypoScript Reference <t3tsref:start>` and the :ref:`TCA Reference <t3tca:start>`.
+  The TSconfig Reference didn't receive too much love within the last years, but now it comes with
+  a reworked menu structure, a lot of streamlined information and a simplified property listing
+  with more examples. Various chapters have been moved around between the main core documents
+  to make them more consistent and confined, readers should now find information at places
+  they expect them to be.
+
+
 .. _news-2018-03-28:
 .. rst-class:: panel panel-default
 

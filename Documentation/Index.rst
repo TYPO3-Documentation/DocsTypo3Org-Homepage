@@ -19,6 +19,7 @@ Common quick links
 - :ref:`TYPO3 Core APIs <t3coreapi:Start>`
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
+- :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TYPO3 Security Guide <t3security:Start>`
 
 
@@ -44,6 +45,7 @@ Latest documentation news
    :class:  with-shadow
    :alt:    screenshot of youtube video
 
+-  2018-05-02 :ref:`news-2018-05-02`
 -  2018-03-28 :ref:`news-2018-03-28`
 -  2018-02-13 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
