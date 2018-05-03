@@ -14,6 +14,6 @@ Directory:
 
 .. toctree::
 
-   T3DocTeam  ➜  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-054/>
+   T3DocTeam  ➜  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>
    T3O Team   ➜  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>
 
