@@ -145,4 +145,4 @@ represents a logical progression in the knowledge of the product.
  - :Manual:       :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:
+   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. 
