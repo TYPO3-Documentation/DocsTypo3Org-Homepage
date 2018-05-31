@@ -20,7 +20,8 @@
 
 2018-05-31 by Martin Bless
 
-All this is about documentation at the docs.typo3.org server.
+All this is about documentation published at `docs.typo3.org 
+<https://docs.typo3.org>`__.
 
 Sometimes it's difficult to do all the necessary things simultaneously.
 Informing the public is an easy candidate to be forgotten. Let's try to fix
