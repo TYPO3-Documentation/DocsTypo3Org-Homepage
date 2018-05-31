@@ -12,6 +12,90 @@
 ====
 
 
+.. _news-2018-05-31:
+.. rst-class:: panel panel-default
+
+"Secret" plans of better documentation rendering
+------------------------------------------------
+
+2018-05-31 by Martin Bless
+
+All this is about documentation at the docs.typo3.org server.
+
+Sometimes it's difficult to do all the necessary things simultaneously.
+Informing the public is an easy candidate to be forgotten. Let's try to fix
+this.
+
+A small number of people met in March 2018 in Düsseldorf. Main goals: Get an
+overview of the current state and design a strategy for the "new documentation
+server". Results of that meeting:
+
+* The documentation team provides an improved and up to date Docker image that
+  will serve as model for the server setup. It will be much smaller, since
+  we drop the capability of reading OpenOffice files and the capability to
+  generate LaTeX and PDF.
+
+**Note: As of today this first step has been achieved.**
+
+Find the stripped-down version in the `develop-debian-html branch
+<https://github.com/t3docs/docker-render-documentation/tree/develop-debian-html>`__
+of the `t3docs/render-documentation
+<https://github.com/t3docs/docker-render-documentation>`__ repository. The
+master branch still has the OpenOffice and LaTeX-Pdf capabilities. I would
+recommend it for local use.
+
+**So development can now continue with the next steps:**
+
+* The TYPO3 GmbH is offering to create a powerful automization solution based
+  on that rendering recipe.
+
+* Implementing a global "elastic" search will be part of that process. The
+  documentation team contributes the necessary theme and rendering
+  modifications.
+
+* All rendering of manuals and extension manuals will be triggered
+  based on hooks of their respective repositories. Automatically, instantly,
+  fast, in parallel, with some rule-based automatic transformation of
+  repository names to path names.
+
+* Any developer can use the rendering chain by calling the proper hooks. These
+  hooks will be developed in the process of creating the server automation.
+
+* We don't publish PDF files any more.
+
+* OpenOffice files are not valid documentation any more.
+
+* We require that projects have a :file:`composer.json` file. Wherever possible
+  we refer to this file to identify values. This means: The project name, the
+  version number, allowed TYPO3 versions and so on, that appear in the
+  documentation, will be taken from that :file:`composer.json` file.
+
+* We will only publish documentation of extensions that are working with the
+  currently maintained TYPO3 versions.
+
+Coming back the current `Docker solution for documentation rendering
+<https://github.com/t3docs/docker-render-documentation>`__ - I want
+to take the chance to mention some highlights:
+
+* improved typoscript highlighter
+* packages (zip-archives) are smaller, due to excluded fonts an improved html
+  font-stack
+* Sphinx caching is enabled: for example, re-render the core ChangeLog in
+  seconds, not 20 minutes or more
+* contains a solution (in docs and in the 'show-shell-commands' code) for the
+  'mtime' problem. Sphinx-caching is based on filetimes. The
+  'git-restore-mtime' script presents the solution for repositories.
+* theme is up to date
+* No Piwik calls in offline package
+* YouTube directive works. But not in LaTeX. And that's not needed.
+* The Sphinx extensions that we DO use are loaded by default. No need to
+  mention them in Settings.cfg.
+* Improvements in the toolchain
+
+Write on!
+
+
+
 .. _news-2018-05-02:
 .. rst-class:: panel panel-default
 
