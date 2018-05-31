@@ -38,9 +38,9 @@ server". Results of that meeting:
 
 **Note: As of May 24, 2018 this first step has been achieved.**
 
-Find the stripped-down version in the `develop-debian-html branch
+Find the stripped-down version in the `develop-debian-html
 <https://github.com/t3docs/docker-render-documentation/tree/develop-debian-html>`__
-of the `t3docs/render-documentation
+branch of the `t3docs/render-documentation
 <https://github.com/t3docs/docker-render-documentation>`__ repository. The
 master branch still has the OpenOffice and LaTeX-Pdf capabilities. I would
 recommend it for local use.
