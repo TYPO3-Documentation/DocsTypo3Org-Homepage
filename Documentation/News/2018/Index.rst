@@ -74,9 +74,11 @@ recommend it for local use.
 * We will only publish documentation of extensions that are working with the
   currently maintained TYPO3 versions.
 
-Coming back the current `Docker solution for documentation rendering
-<https://github.com/t3docs/docker-render-documentation>`__ - I want
-to take the chance to mention some highlights:
+**Again: The Docker solution**
+
+Coming back to the current `Docker solution for documentation rendering
+<https://github.com/t3docs/docker-render-documentation>`__ - let me take the
+chance to mention some highlights:
 
 * improved typoscript highlighter
 * packages (zip-archives) are smaller, due to excluded fonts an improved html
@@ -85,7 +87,9 @@ to take the chance to mention some highlights:
   seconds, not 20 minutes or more
 * contains a solution (in docs and in the 'show-shell-commands' code) for the
   'mtime' problem. Sphinx-caching is based on filetimes. The
-  'git-restore-mtime' script presents the solution for repositories.
+  `git-restore-mtime 
+  <https://github.com/MestreLion/git-tools/blob/master/git-restore-mtime>`__ 
+  script presents the solution for repositories.
 * theme is up to date
 * No Piwik calls in offline package
 * YouTube directive works. But not in LaTeX. And that's not needed.
@@ -93,7 +97,7 @@ to take the chance to mention some highlights:
   mention them in Settings.cfg.
 * Improvements in the toolchain
 
-Write on!
+Keep on finding the words!
 
 
 
