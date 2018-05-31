@@ -27,7 +27,7 @@ Sometimes it's difficult to do all the necessary things simultaneously.
 Informing the public is an easy candidate to be forgotten. Let's try to fix
 this.
 
-A small number of people met in March 2018 in Düsseldorf. Main goals: Get an
+A small number of people met at the end of March 2018 in Düsseldorf. Main goals: Get an
 overview of the current state and design a strategy for the "new documentation
 server". Results of that meeting:
 
