@@ -74,6 +74,7 @@ Tip of the day - did you know?
    typo3cms/SystemExtensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
+   typo3cms/Developers/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    typo3cms/Teams/Index
    Tell me something about X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
