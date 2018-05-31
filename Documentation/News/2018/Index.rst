@@ -36,7 +36,7 @@ server". Results of that meeting:
   we drop the capability of reading OpenOffice files and the capability to
   generate LaTeX and PDF.
 
-**Note: As of today this first step has been achieved.**
+**Note: As of May 24, 2018 this first step has been achieved.**
 
 Find the stripped-down version in the `develop-debian-html branch
 <https://github.com/t3docs/docker-render-documentation/tree/develop-debian-html>`__
