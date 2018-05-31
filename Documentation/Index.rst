@@ -40,11 +40,11 @@ Latest documentation news
 
 .. End of sidebar
 
+-  2018-05-31 :ref:`news-2018-05-31`
 -  2018-05-02 :ref:`news-2018-05-02`
 -  2018-03-28 :ref:`news-2018-03-28`
 -  2018-02-13 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
--  2018-01-20 :ref:`news-2018-01-20`
 
 -  :ref:`View all the latest news <latest>`
 
