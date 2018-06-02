@@ -110,7 +110,7 @@ like installation of TYPO3 CMS or security.
 
 
 
-List of Tutorials
+List of tutorials
 =================
 
 The official *tutorials* provide step-by-step introductions into the
