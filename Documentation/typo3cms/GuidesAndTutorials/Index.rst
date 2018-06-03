@@ -53,7 +53,7 @@ which also serve as guidelines to the usage of reStructuredText.
 
 
 
-List of Guides and books
+List of guides and books
 ========================
 
 *Guides* provide an in-depth exploration of a particular topic,
