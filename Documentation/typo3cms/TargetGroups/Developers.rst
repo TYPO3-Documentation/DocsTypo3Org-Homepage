@@ -1,5 +1,4 @@
-.. _resources-developers:
-
+.. include:: ../../Includes.txt
 
 .. ------------------------------------------------------------
 .. todos:
@@ -9,6 +8,8 @@
 .. - Wiki: https://wiki.typo3.org/Extension_Developers_Guide
 .. - Wiki: https://wiki.typo3.org/Extension_Development
 .. -------------------------------------------------------------
+
+.. _resources-developers:
 
 ========================
 Resources for Developers
@@ -78,23 +79,7 @@ For this reason, main Fluid documentation is found outside of docs.typo3.org.
 Go to the main `Fluid page on Github <https://github.com/TYPO3/Fluid>`__
 for a list of resources.
 
-.. _resources-developers-site-package:
 
-Develop a site package
-~~~~~~~~~~~~~~~~~~~~~~
-
-For up-to-date tutorials on developing a "Site Package" (aka template) Extension,
-please see these Videos in the TYPO3 channel on YouTube:
-
-* `Tutorial - Site Packages - Part 1 <https://www.youtube.com/watch?v=HtBmim7pc0o>`__
-* `Tutorial - Site Packages - Part 2 <https://www.youtube.com/watch?v=deSMVfCSCXY>`__
-
-There are also 2 manuals currently in draft that may be useful to you:
-
-* DRAFT: `Site Package Tutorial
-  <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/SitePackageTutorial/>`__
-* DRAFT: `Templating with FLUIDTEMPLATE
-  <https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/TYPO3CMS-Tutorial-TemplatingWithFluidtemplate/>`__
 
 .. _resources-developers-extension-general:
 

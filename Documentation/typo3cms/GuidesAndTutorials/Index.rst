@@ -145,11 +145,6 @@ represents a logical progression in the knowledge of the product.
  - :Manual:       :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See :ref:`dev-hints-site-package` on the bottom of this page.
+   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See :ref:`resources-site-package` for better resources
 
-.. _guides-further-resources-developers:
 
-Further resources for TYPO3 developers
-======================================
-
-See page :ref:`Resources for Developers <resources-developers-site-package>`
