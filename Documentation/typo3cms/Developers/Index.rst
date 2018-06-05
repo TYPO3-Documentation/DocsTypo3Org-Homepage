@@ -78,7 +78,7 @@ For this reason, main Fluid documentation is found outside of docs.typo3.org.
 Go to the main `Fluid page on Github <https://github.com/TYPO3/Fluid>`__
 for a list of resources.
 
-.. _resources-developers-extension-getting-started-site-package:
+.. _resources-developers-site-package:
 
 Develop a site package
 ~~~~~~~~~~~~~~~~~~~~~~
