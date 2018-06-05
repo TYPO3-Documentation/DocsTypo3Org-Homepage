@@ -16,7 +16,7 @@ Resources for Developers
 ========================
 
 This page contains some resources for TYPO3 developers including information
-about **extension development**, **site package extension development** and
+about **extension development** and
 **core development**.
 
 It contains links to official TYPO3 docs. However, if the official docs are
