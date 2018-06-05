@@ -38,7 +38,7 @@ Getting started
 
 For getting started with TYPO3 development, please ask for up-to-date
 resources in the Slack channel **#typo3-cms** or **#typo3-documentation**
-(register for Slack here: https://my.typo3.org/)
+(register for Slack here: https://my.typo3.org/index.php?id=35)
 
 It is difficult to give general information here because it depends on the
 TYPO3 version you will be using and what you plan to do.
@@ -55,7 +55,7 @@ For a walkthrough guide on Extension Development with Extbase / Fluid
 you can look at:
 
 * :ref:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:start>`
-  (Official TYPO3 docs, a translation of the German book by Kurfürst and  Rau, updated
+  (Official TYPO3 docs, a translation of the German book by Kurfürst and Rau, updated
   by the community)
 * The (hardcover) book: Michael Schams and Patrick Lobacher: The TYPO3 Extbase Book
   (http://extbase-book.org) The latest version is for TYPO3 7.6.
@@ -68,8 +68,10 @@ Fluid
 
 Note that Fluid is now maintained outside of the TYPO3 core. The core itself
 contains an extension named EXT:fluid with some TYPO3-specific functionality and
-there is a composer dependency on typo3fluid/fluid, which is the main Fluid
-core. You can find it in your installation under :file:`vendor/typo3fluid/fluid`
+there is a composer dependency on
+`typo3fluid/fluid <https://packagist.org/packages/typo3fluid/fluid>`__,
+which is the main Fluid core. You can find it in your installation
+under :file:`vendor/typo3fluid/fluid`
 
 For this reason, main Fluid documentation is found outside of docs.typo3.org.
 
@@ -168,9 +170,10 @@ For this, the deprecation log and :ref:`Extension Scanner <extension-scanner>`
 Additionally, look at these resources:
 
 * Check the `Official Changelogs <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-  for "Breaking changes" for your target version. Also checkout the "Changes for Developers"
-  section in the `What's new slides <https://typo3.org/help/documentation/whats-new/>`__ for
-  the target version
+  for "Breaking changes" for your target version. Also check out the
+  "Changes for Developers" section in the
+  `What's new slides <https://typo3.org/help/documentation/whats-new/>`__
+  for the target version
 * `Usetypo3: Updating TYPO3 Projects <https://usetypo3.com/upgrading-projects.html>`__
 * For migrating TCA: `SCRIPTING-BASE: Cleaning the hood: TCA <https://scripting-base.de/blog/cleaning-the-hood-tca.html>`__
 
