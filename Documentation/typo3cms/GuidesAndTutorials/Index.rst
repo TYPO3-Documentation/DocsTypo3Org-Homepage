@@ -21,6 +21,7 @@ Guides and Tutorials
    How To Document TYPO3 Projects ➜ <https://docs.typo3.org/typo3cms/HowToDocument/>
    Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
    Security ➜                       <https://docs.typo3.org/typo3cms/SecurityGuide/>
+   Site Package Tutorial ➜          <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
    Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
 
@@ -126,6 +127,11 @@ represents a logical progression in the knowledge of the product.
    :Type:         Type
    :Shortcut:     Shortcut
    :Comment:      Comment
+
+ - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
+   :Type:         Tutorial
+   :Shortcut:     t3sitepackage
+   :Comment:
 
  - :Manual:       `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Type:         Tutorial
