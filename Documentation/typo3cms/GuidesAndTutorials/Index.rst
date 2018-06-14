@@ -148,20 +148,12 @@ represents a logical progression in the knowledge of the product.
    :Shortcut:     t3ts45
    :Comment:
 
- - :Manual:       :ref:`t3templating:start`
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Manual:       (OUTDATED) :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See :ref:`dev-hints-site-package` on the bottom of this page.
+   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
 
-Further resources for TYPO3 developers
-======================================
-
-.. _dev-hints-site-package:
-
-Develop a Site Package Extension
---------------------------------
-
-* For up-to-date information on developing a "Site Package" (aka template, ...) Extension, please see these Videos in the TYPO3 channel on YouTube:
-
-   * `Tutorial - Site Packages - Part 1 <https://www.youtube.com/watch?v=HtBmim7pc0o>`__
-   * `Tutorial - Site Packages - Part 2 <https://www.youtube.com/watch?v=deSMVfCSCXY>`__
