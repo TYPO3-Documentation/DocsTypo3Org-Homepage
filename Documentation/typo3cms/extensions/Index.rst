@@ -14,9 +14,7 @@ Third party (TER) extensions
 Here you can find documentation for third party extensions
 available through :ref:`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`.
 
-If you're looking for documentation of the extensions shipped with TYPO3 Core, go to the `system extensions section`__. 
-
-__ typo3cms/SystemExtensions/
+If you're looking for documentation of the extensions shipped with TYPO3 Core, go to the :ref:`system extensions section <System-Extensions>`.
 
 The server tries to keep a `json file about extensions`__
 up to date. Moreover there's a manually maintained
