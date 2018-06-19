@@ -21,6 +21,7 @@ Common quick links
 - :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TYPO3 Security Guide <t3security:Start>`
+- :ref:`TYPO3 Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`
 
 
 
@@ -69,12 +70,12 @@ Tip of the day - did you know?
 .. toctree::
    :hidden:
 
-   typo3cms/CheatSheets/Index
-   typo3cms/extensions/Index
-   typo3cms/SystemExtensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
+   typo3cms/SystemExtensions/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
-   typo3cms/Teams/Index
+   typo3cms/CheatSheets/Index
+   typo3cms/extensions/Index
    Tell me something about X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
+   typo3cms/Teams/Index
