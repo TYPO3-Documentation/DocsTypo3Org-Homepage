@@ -14,13 +14,14 @@ Welcome to the official TYPO3 Documentation
 Common quick links
 ------------------
 
-.. rst-class:: horizbuttons-primary-xxl
+.. rst-class:: horizbuttons-primary-m
 
-- :ref:`TYPO3 Core APIs <t3coreapi:Start>`
+- :ref:`Core APIs <t3coreapi:Start>`
+- `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+- :ref:`Security Guide <t3security:Start>`
 - :ref:`TCA Reference <t3tca:Start>`
-- :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
-- :ref:`TYPO3 Security Guide <t3security:Start>`
+- :ref:`TypoScript Reference <t3tsref:Start>`
 
 
 
@@ -50,7 +51,7 @@ Latest documentation news
 
 
 
-Tip of the day - did you know?
+Tips - did you know?
 ------------------------------
 
 .. sidebar:: Quickstart extension documentation
@@ -58,23 +59,23 @@ Tip of the day - did you know?
    You are an extension author and want to add documentation?
    Please read :ref:`tip-of-the-day-2016-12-29`
 
--  2017-02-13 :ref:`tip-of-the-day-2017-02-13`
--  2016-12-29 :ref:`tip-of-the-day-2016-12-29`
--  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
--  2016-09-11 :ref:`tip-of-the-day-2016-09-11`
--  Find all: :ref:`Tip-of-the-day`
+-  :ref:`tip-of-the-day-2017-02-13`
+-  :ref:`tip-of-the-day-2016-12-29`
+-  :ref:`tip-of-the-day-2016-10-08`
+-  :ref:`tip-of-the-day-2016-09-11`
+-  :ref:`All the tips<Tip-of-the-day>`
 
 
 
 .. toctree::
    :hidden:
 
-   typo3cms/CheatSheets/Index
-   typo3cms/extensions/Index
-   typo3cms/SystemExtensions/Index
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
+   typo3cms/SystemExtensions/Index
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
-   typo3cms/Teams/Index
+   typo3cms/CheatSheets/Index
+   typo3cms/extensions/Index
    Tell me something about X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
+   typo3cms/Teams/Index
