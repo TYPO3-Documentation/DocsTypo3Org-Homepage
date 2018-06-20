@@ -51,7 +51,7 @@ Latest documentation news
 
 
 
-Tip of the day - did you know?
+Tips - did you know?
 ------------------------------
 
 .. sidebar:: Quickstart extension documentation
@@ -59,11 +59,11 @@ Tip of the day - did you know?
    You are an extension author and want to add documentation?
    Please read :ref:`tip-of-the-day-2016-12-29`
 
--  2017-02-13 :ref:`tip-of-the-day-2017-02-13`
--  2016-12-29 :ref:`tip-of-the-day-2016-12-29`
--  2016-10-08 :ref:`tip-of-the-day-2016-10-08`
--  2016-09-11 :ref:`tip-of-the-day-2016-09-11`
--  Find all: :ref:`Tip-of-the-day`
+-  :ref:`tip-of-the-day-2017-02-13`
+-  :ref:`tip-of-the-day-2016-12-29`
+-  :ref:`tip-of-the-day-2016-10-08`
+-  :ref:`tip-of-the-day-2016-09-11`
+-  :ref:`All the tips<Tip-of-the-day>`
 
 
 
