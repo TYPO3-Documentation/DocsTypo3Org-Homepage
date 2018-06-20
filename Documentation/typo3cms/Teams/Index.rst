@@ -7,7 +7,7 @@ Teams
 =====
 
 These chapters are about what teams are doing, what notes they take and what
-they want to tell the dear readers.
+texts and ideas they develop.
 
 
 Directory:
