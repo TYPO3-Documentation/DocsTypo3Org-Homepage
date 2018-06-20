@@ -6,11 +6,8 @@
 Teams
 =====
 
-These chapters are about what teams are doing, what notes they take and what
-texts and ideas they develop.
-
-
-Directory:
+The TYPO3 community knows `many teams <https://typo3.org/community/teams/>`__.
+Some keep the ideas and texts they are working on here.
 
 .. toctree::
 
