@@ -14,14 +14,14 @@ Welcome to the official TYPO3 Documentation
 Common quick links
 ------------------
 
-.. rst-class:: horizbuttons-primary-xxl
+.. rst-class:: horizbuttons-primary-m
 
-- :ref:`TYPO3 Core APIs <t3coreapi:Start>`
+- :ref:`Core APIs <t3coreapi:Start>`
+- `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+- :ref:`Security Guide <t3security:Start>`
 - :ref:`TCA Reference <t3tca:Start>`
-- :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
-- :ref:`TYPO3 Security Guide <t3security:Start>`
-- :ref:`TYPO3 Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`
+- :ref:`TypoScript Reference <t3tsref:Start>`
 
 
 
