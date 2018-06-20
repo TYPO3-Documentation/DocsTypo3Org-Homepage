@@ -7,7 +7,9 @@ Teams
 =====
 
 The TYPO3 community knows `many teams <https://typo3.org/community/teams/>`__.
-Some keep the ideas and texts they are working on here.
+Some keep the ideas and texts they are working on here. This is helpful
+for the teams and interested readers can get an impression of what's
+going on.
 
 .. toctree::
 
