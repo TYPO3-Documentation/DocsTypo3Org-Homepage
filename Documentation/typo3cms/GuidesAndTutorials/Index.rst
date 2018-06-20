@@ -148,12 +148,9 @@ represents a logical progression in the knowledge of the product.
    :Shortcut:     t3ts45
    :Comment:
 
-
-.. t3-field-list-table::
- :header-rows: 1
-
  - :Manual:       (OUTDATED) :ref:`t3templating:start`
    :Type:         Tutorial
    :Shortcut:     t3templating
-   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
+   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial
+                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
 
