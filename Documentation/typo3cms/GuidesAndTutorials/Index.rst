@@ -36,20 +36,13 @@ which also serve as guidelines to the usage of reStructuredText.
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Type:         Type
-   :Shortcut:     Shortcut
-   :Title:        Title
+ - :Title:        Title
    :Comment:      Comment
 
- - :Manual:       `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
-   :Shortcut:
-   :Type:         Example
+ - :Title:        `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
    :Comment:
 
-.. - :Manual:       `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
-..   :Shortcut:
-..   :Type:         Example
+.. - :Title:       `Official Manual <https://docs.typo3.org/typo3cms/OfficialManualExample>`__
 ..   :Comment:
 
 
@@ -64,49 +57,31 @@ like installation of TYPO3 CMS or security.
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Type:         Type
-   :Shortcut:     Shortcut
+ - :Title:        Title
    :Comment:      Comment
 
- - :Manual:       :ref:`t3l10n:start`
-   :Type:         Guide
-   :Shortcut:     t3l10n
+ - :Title:        :ref:`t3l10n:start`
    :Comment:
 
- - :Manual:       :ref:`t3install:start`
-   :Type:         Guide
-   :Shortcut:     t3install
+ - :Title:        :ref:`t3install:start`
    :Comment:
 
- - :Manual:       :ref:`t3security:start`
-   :Type:         Guide
-   :Shortcut:     t3security
+ - :Title:        :ref:`t3security:start`
    :Comment:
 
- - :Manual:       :ref:`t3contribute:start`
-   :Type:         Guide
-   :Shortcut:     t3contribute
+ - :Title:        :ref:`t3contribute:start`
    :Comment:
 
- - :Manual:       :ref:`t3extbasebook:start`
-   :Type:         Book
-   :Shortcut:     t3extbasebook
+ - :Title:        :ref:`t3extbasebook:start`
    :Comment:      The extbase book
 
- - :Manual:       :ref:`t3extbase:start`
-   :Type:         Guide
-   :Shortcut:     t3extbase
+ - :Title:        :ref:`t3extbase:start`
    :Comment:      Very unsufficient, but better than nothing.
 
- - :Manual:       :ref:`rendert3docs:start`
-   :Type:         Guide
-   :Shortcut:     rendert3docs
+ - :Title:        :ref:`rendert3docs:start`
    :Comment:      Work in progress!
 
- - :Manual:       :ref:`h2document:start`
-   :Type:         Guide
-   :Shortcut:     h2document
+ - :Title:        :ref:`h2document:start`
    :Comment:      Work in progress!
 
 
@@ -123,34 +98,22 @@ represents a logical progression in the knowledge of the product.
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Type:         Type
-   :Shortcut:     Shortcut
+ - :Title:        Title
    :Comment:      Comment
 
- - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
-   :Type:         Tutorial
-   :Shortcut:     t3sitepackage
+ - :Title:        `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension (`June, 2018 <https://typo3.org/article/typo3-site-package-tutorial/>`__)
 
- - :Manual:       `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
-   :Type:         Tutorial
-   :Shortcut:     t3start
+ - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Comment:
 
- - :Manual:       :ref:`t3editors:start`
-   :Type:         Tutorial
-   :Shortcut:     t3editors
+ - :Title:        :ref:`t3editors:start`
    :Comment:
 
- - :Manual:       :ref:`t3ts45:start`
-   :Type:         Tutorial
-   :Shortcut:     t3ts45
+ - :Title:        :ref:`t3ts45:start`
    :Comment:
 
- - :Manual:       (OUTDATED) :ref:`t3templating:start`
-   :Type:         Tutorial
-   :Shortcut:     t3templating
+ - :Title:        (OUTDATED) :ref:`t3templating:start`
    :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
 
