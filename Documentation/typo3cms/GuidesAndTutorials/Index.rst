@@ -27,7 +27,7 @@ Guides and Tutorials
 
 
 Guides and Books
-========================
+================
 
 *Guides* provide an in-depth exploration of a particular topic,
 like installation of TYPO3 CMS or security.
@@ -65,7 +65,7 @@ like installation of TYPO3 CMS or security.
 
 
 Tutorials
-=================
+=========
 
 The official *tutorials* provide step-by-step introductions into the
 TYPO3 CMS world. If you are new to TYPO3 CMS, please go through the
@@ -94,10 +94,10 @@ represents a logical progression in the knowledge of the product.
  - :Title:        (OUTDATED) :ref:`t3templating:start`
    :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
-                  
-                  
+
+
 Example Manual
-====================================
+==============
 
 *Example manuals* for both extensions and official manuals,
 which also serve as guidelines to the usage of reStructuredText.
@@ -111,4 +111,3 @@ which also serve as guidelines to the usage of reStructuredText.
 
  - :Title:        `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
    :Comment:
-
