@@ -11,8 +11,8 @@ Welcome to the official TYPO3 Documentation
 .. - How to find my answer here
 
 
-Common quick links
-------------------
+Quick links
+-----------
 
 .. rst-class:: horizbuttons-primary-m
 
