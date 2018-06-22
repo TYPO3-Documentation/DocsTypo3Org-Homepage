@@ -131,7 +131,7 @@ represents a logical progression in the knowledge of the product.
  - :Manual:       `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Type:         Tutorial
    :Shortcut:     t3sitepackage
-   :Comment:      Published June, 2018, see `news article <https://typo3.org/article/typo3-site-package-tutorial/>`__ for more information
+   :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension (`June, 2018 <https://typo3.org/article/typo3-site-package-tutorial/>`__)
 
  - :Manual:       `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Type:         Tutorial
