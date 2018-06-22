@@ -105,7 +105,7 @@ represents a logical progression in the knowledge of the product.
    :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension (`June, 2018 <https://typo3.org/article/typo3-site-package-tutorial/>`__)
 
  - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
-   :Comment:
+   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS. It is based on the Introduction Package.
 
  - :Title:        :ref:`t3editors:start`
    :Comment:
