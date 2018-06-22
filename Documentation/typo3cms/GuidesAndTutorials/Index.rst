@@ -64,7 +64,7 @@ like installation of TYPO3 CMS or security.
    :Comment:
 
  - :Title:        :ref:`t3install:start`
-   :Comment:
+   :Comment:      How to install TYPO3 (with or without composer) and how to upgrade an existing installation. 
 
  - :Title:        :ref:`t3security:start`
    :Comment:
