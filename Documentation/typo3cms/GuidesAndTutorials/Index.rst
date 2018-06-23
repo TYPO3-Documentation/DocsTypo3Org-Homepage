@@ -85,7 +85,7 @@ represents a logical progression in the knowledge of the product.
  - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS. It is based on the Introduction Package.
 
- - :Title:        :ref:`t3editors:start`
+ - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
    :Comment:
 
  - :Title:        :ref:`t3ts45:start`
