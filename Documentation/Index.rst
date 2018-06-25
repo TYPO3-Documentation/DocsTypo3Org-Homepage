@@ -49,7 +49,7 @@ Latest documentation news
 
 -  :ref:`All the news <latest>`
 
-
+.. rst-class:: clear-both
 
 Tips - did you know?
 ------------------------------

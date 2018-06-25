@@ -24,14 +24,15 @@ NEW: TYPO3 Site Package Tutorial
 .. figure:: files/2018-06-13-site-package-tutorial.png
    :target: https://docs.typo3.org/typo3cms/SitePackageTutorial/
    :alt:    A teaser screenshot
-   :class:  with-shadow
+   :class:  float-left with-shadow
+   :width:  25 %
 
 Today, the TYPO3 Documentation Team published a tutorial that describes the
 steps required to turn a basic design template into a fully working,
 mobile-responsive website.
 `[Read more] <https://typo3.org/article/typo3-site-package-tutorial/>`__
 
-.. rst-class:: horizbuttons-primary-m
+.. rst-class:: horizbuttons-primary-m clear-both
 
 - `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
 
