@@ -76,6 +76,6 @@ Tips - did you know?
    Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    typo3cms/CheatSheets/Index
    typo3cms/extensions/Index
-   Tell me something about X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
    typo3cms/Teams/Index
