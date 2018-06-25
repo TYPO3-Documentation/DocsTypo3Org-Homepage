@@ -7,21 +7,20 @@ Third party (TER) extensions
 .. ATTENTION:
    Be careful with this special folder /typo3cms/extensions !!!
 
+.. Note the special template 'extensions.html' (see beginning of this file)
 
 .. First
    You may add normal rst content here.
 
-Here you can find documentation for third party extensions
-available through :ref:`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`.
+Here you can find documentation for third party extensions available through
+`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__.
 
-If you're looking for documentation of the extensions shipped with TYPO3 Core, go to the :ref:`system extensions section <System-Extensions>`.
+If you're looking for documentation of the extensions shipped with TYPO3 Core,
+go to the :ref:`system extensions section <System-Extensions>`.
 
-The server tries to keep a `json file about extensions`__
-up to date. Moreover there's a manually maintained
-`json file about system extensions`__.
-
-__ extensions.js
-__ systemextensions.js
+The server tries to keep a `json file about extensions <extensions.js>`__ up to
+date. Moreover there's a manually maintained `json file about system extensions
+<systemextensions.js>`__.
 
 
 
