@@ -47,7 +47,7 @@ Latest documentation news
 -  2018-02-13 :ref:`news-2018-02-13`
 -  2018-02-02 :ref:`news-2018-02-02`
 
--  :ref:`View all the latest news <latest>`
+-  :ref:`View all the news <latest>`
 
 
 
