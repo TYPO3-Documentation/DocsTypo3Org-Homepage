@@ -12,15 +12,41 @@
 ====
 
 
+
+.. _news-2018-06-13:
+.. rst-class:: panel panel-default
+
+NEW: TYPO3 Site Package Tutorial
+--------------------------------
+
+2018-06-13 by Michael Schams
+
+.. figure:: files/2018-06-13-site-package-tutorial.png
+   :target: https://docs.typo3.org/typo3cms/SitePackageTutorial/
+   :alt:    A teaser screenshot
+   :class:  with-shadow
+
+Today, the TYPO3 Documentation Team published a tutorial that describes the
+steps required to turn a basic design template into a fully working,
+mobile-responsive website.
+`[Read more] <>`__
+
+.. rst-class:: horizbuttons-primary-m
+
+- `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
+
+
+
 .. _news-2018-05-31:
 .. rst-class:: panel panel-default
+
 
 "Secret" plans of better documentation rendering
 ------------------------------------------------
 
 2018-05-31 by Martin Bless
 
-All this is about documentation published at `docs.typo3.org 
+All this is about documentation published at `docs.typo3.org
 <https://docs.typo3.org>`__.
 
 Sometimes it's difficult to do all the necessary things simultaneously.
@@ -87,8 +113,8 @@ chance to mention some highlights:
   seconds, not 20 minutes or more
 * contains a solution (in docs and in the 'show-shell-commands' code) for the
   'mtime' problem. Sphinx-caching is based on filetimes. The
-  `git-restore-mtime 
-  <https://github.com/MestreLion/git-tools/blob/master/git-restore-mtime>`__ 
+  `git-restore-mtime
+  <https://github.com/MestreLion/git-tools/blob/master/git-restore-mtime>`__
   script presents the solution for repositories.
 * theme is up to date
 * No Piwik calls in offline package
