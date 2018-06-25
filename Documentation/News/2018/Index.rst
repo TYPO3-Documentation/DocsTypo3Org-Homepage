@@ -29,7 +29,7 @@ NEW: TYPO3 Site Package Tutorial
 Today, the TYPO3 Documentation Team published a tutorial that describes the
 steps required to turn a basic design template into a fully working,
 mobile-responsive website.
-`[Read more] <>`__
+`[Read more] <https://typo3.org/article/typo3-site-package-tutorial/>`__
 
 .. rst-class:: horizbuttons-primary-m
 
