@@ -1,10 +1,10 @@
 .. include:: ../../Includes.txt
 
-.. _Teams:
+.. _Teams-at-Work:
 
-=====
-Teams
-=====
+=============
+Teams at Work
+=============
 
 The TYPO3 community knows `many teams <https://typo3.org/community/teams/>`__.
 Some keep the ideas and texts they are working on here. This is helpful
