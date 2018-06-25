@@ -12,7 +12,6 @@ Guides and Tutorials
 .. toctree::
    :hidden:
 
-   Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Contribution Workflow ➜          <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Documentation Rendering ➜        <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
    Extbase & Fluid ➜                <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
@@ -22,6 +21,7 @@ Guides and Tutorials
    Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
    Security ➜                       <https://docs.typo3.org/typo3cms/SecurityGuide/>
    Site Package Tutorial ➜          <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
 
@@ -43,7 +43,7 @@ like installation of TYPO3 CMS or security.
    :Comment:
 
  - :Title:        :ref:`t3install:start`
-   :Comment:      How to install TYPO3 (with or without composer) and how to upgrade an existing installation. 
+   :Comment:      How to install TYPO3 (with or without composer) and how to upgrade an existing installation.
 
  - :Title:        :ref:`t3security:start`
    :Comment:
@@ -80,7 +80,7 @@ represents a logical progression in the knowledge of the product.
    :Comment:      Comment
 
  - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
-   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS. 
+   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS.
                   It is based on the Introduction Package.
 
  - :Title:        `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
@@ -88,9 +88,15 @@ represents a logical progression in the knowledge of the product.
                   :ref:`[read more] <news-2018-06-13>`
 
  - :Title:        :ref:`Templating Tutorial <t3templating:start>`
-   :Comment:      The master branch teaches templating with FLUIDTEMPLATE (recommended).
-                  *Marker based templating* used to be prevalent before. It can be found
-                  in the `7.6 branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
+   :Comment:      The tutorial now teaches in its `master branch
+                  <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__
+                  templating with FLUIDTEMPLATE (recommended).
+                  *Marker based templating* used to be prevalent before. It can
+                  be found in the `7.6 branch
+                  <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
+                  The `Site Package Tutorial
+                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
+                  covers FLUIDTEMPLATE as well.
 
  - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
    :Comment:
@@ -98,7 +104,7 @@ represents a logical progression in the knowledge of the product.
  - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
    :Comment:
 
- 
+
 
 Example Manual
 ==============
