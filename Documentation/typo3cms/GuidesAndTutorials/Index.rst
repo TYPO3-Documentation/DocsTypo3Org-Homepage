@@ -88,9 +88,8 @@ represents a logical progression in the knowledge of the product.
                   :ref:`[read more] <news-2018-06-13>`
 
  - :Title:        :ref:`Templating Tutorial <t3templating:start>`
-   :Comment:      The tutorial now teaches in its `master branch
-                  <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__
-                  templating with FLUIDTEMPLATE (recommended).
+   :Comment:      The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
+                  in its `master branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__.
                   *Marker based templating* used to be prevalent before. It can
                   be found in the `7.6 branch
                   <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
