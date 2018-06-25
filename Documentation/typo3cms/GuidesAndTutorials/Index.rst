@@ -12,7 +12,7 @@ Guides and Tutorials
 .. toctree::
    :hidden:
 
-   Basics of Templating ➜           <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Contribution Workflow ➜          <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Documentation Rendering ➜        <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
    Extbase & Fluid ➜                <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
@@ -80,21 +80,25 @@ represents a logical progression in the knowledge of the product.
    :Comment:      Comment
 
  - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
-   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS. It is based on the Introduction Package.
+   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS. 
+                  It is based on the Introduction Package.
 
  - :Title:        `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
-   :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension (`June, 2018 <https://typo3.org/article/typo3-site-package-tutorial/>`__)
+   :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension.
+                  :ref:`[read more] <news-2018-06-13>`
+
+ - :Title:        :ref:`Templating Tutorial <t3templating:start>`
+   :Comment:      The master branch teaches templating with FLUIDTEMPLATE (recommended).
+                  *Marker based templating* used to be prevalent before. It can be found
+                  in the `7.6 branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
 
  - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
    :Comment:
 
- - :Title:        :ref:`t3ts45:start`
+ - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
    :Comment:
 
- - :Title:        (OUTDATED) :ref:`t3templating:start`
-   :Comment:      Marker based tutorial. Outdated and not recommended. Use Fluid. See `Site Package Tutorial
-                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__ for a better choice.
-
+ 
 
 Example Manual
 ==============
