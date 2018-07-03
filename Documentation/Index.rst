@@ -22,6 +22,7 @@ Quick links
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
+- :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
 
