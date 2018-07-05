@@ -12,5 +12,4 @@ Writing documentation
 
    Extensions/Index
    DocumentationBuild/Index
-   PdfFiles/Index
 
