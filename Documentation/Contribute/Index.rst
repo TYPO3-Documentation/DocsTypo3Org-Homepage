@@ -19,7 +19,8 @@ Ways to contribute:
 
    .. figure:: ../Images/edit_me_on_github.png
       :alt: Edit me on GitHub icon
-      :class: screenshot-detail
+      :class: with-shadow
+      :width: 50 %
 
    If you are unfamiliar with GitHub, please refer to the `GitHub Help <https://help.github.com/>`__
 
@@ -45,4 +46,5 @@ to get an overview of pull requests:
 .. figure:: pull-request-dashboard.png
    :target: https://docs.typo3.org/services/GithubPullRequests/
    :alt:    pull request dashboard
+   :class:  with-shadow
 
