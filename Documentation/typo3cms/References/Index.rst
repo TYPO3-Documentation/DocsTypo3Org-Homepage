@@ -18,34 +18,33 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
  :header-rows: 1
 
  - :Manual:       Manual
-   :Type:         Type
-   :Shortcut:     Shortcut
-   :Comment:      Comment
+   :Description:  Description
 
  - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Type:         ChangeLog Reference
-   :Shortcut:
-   :Comment:      New Features, Breaking Changes, Deprecations, per Release
+   :Description:  New Features, Breaking Changes, Deprecations.
+                  Reading up here is strongly recommended for developers.
+                  For everyone else, the `What's new slides
+                  <https://typo3.org/help/documentation/whats-new/>`__
+                  provide the information in a more digestible way.
 
  - :Manual:       :ref:`Core API <t3coreapi:start>`
-   :Type:         Reference
-   :Shortcut:     t3coreapi
-   :Comment:      Main core explanation document
+   :Description:  A technical reference of the TYPO3 core.
+                  Reading this is strongly recommended for core developers and
+                  extension developers. Also contains :ref:`cgl`.
 
  - :Manual:       :ref:`t3tca:start`
-   :Type:         Reference
-   :Shortcut:     t3tca
-   :Comment:
+   :Description:  Reference for the Table Configuration Array (TCA). TCA can be
+                  used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :Type:         Reference
-   :Shortcut:     t3tsconfig
-   :Comment:
+   :Description:  Reference to Page TSconfig and User TSconfig. This is used
+                  to configurate the backend.
 
  - :Manual:       :ref:`t3tsref:start`
-   :Type:         Reference
-   :Shortcut:     t3tsref
-   :Comment:
+   :Description:  TypoScript is a configuration language that is specific to
+                  TYPO3. This is used to configure the frontend.
+                  For an introduction see the
+                  :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
@@ -57,34 +56,23 @@ for, these obsoleted documents are listed here:
  :header-rows: 1
 
  - :Manual:       Manual
-   :Type:         Type
-   :Shortcut:     Shortcut
-   :Comment:      Comment
+   :Description:  Description
 
  - :Manual:        :ref:`(OLD) Inside TYPO3 <t3inside:start>`
-   :Type:         Reference
-   :Shortcut:     t3inside
-   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:start>`
+   :Description:   OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:start>`
 
  - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
-   :Type:         Reference
-   :Shortcut:     t3cgl
-   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:cgl>`
+   :Description:  OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:cgl>`
 
  - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
-   :Type:         Reference
-   :Shortcut:     t3tssyntax
-   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:typoscript-syntax-start>`
+   :Description:  OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:typoscript-syntax-start>`
 
  - :Manual:       :ref:`(OLD) Services API <t3services:start>`
-   :Type:         Reference
-   :Shortcut:     t3services
-   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:services>`
+   :Description:  OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:services>`
 
  - :Manual:       :ref:`(OLD) File Abstraction Layer <t3fal:start>`
-   :Type:         Reference
-   :Shortcut:     t3fal
-   :Comment:      OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:fal>`
+   :Description:  OLD, current core v9 version has been integrated into :ref:`Core API <t3coreapi:fal>`
+
 
 
 
