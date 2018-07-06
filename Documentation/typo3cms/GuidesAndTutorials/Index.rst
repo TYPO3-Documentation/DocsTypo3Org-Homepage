@@ -64,7 +64,7 @@ like installation of TYPO3 CMS or security.
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
-                  templating engine. (Warning: may be partly outdated)
+                  templating engine. (Warning: is partly outdated and incomplete)
 
  - :Title:        :ref:`t3extbase:start`
    :Category:     Development
@@ -75,19 +75,18 @@ like installation of TYPO3 CMS or security.
 
  - :Title:        :ref:`h2document:start`
    :Category:     Documentation
-   :Description:  If you want to write documentation for an extension, add
-                  to the Changelog in the core or contribute to official
-                  TYPO3 documenation - the same markup and rendering toolchain
-                  is used. In this guide, you will find all necessary information
-                  about writing documentation.
+   :Description:  Provides all necessary information about writing documentation.
+                  Explains how to write documentation, either for an TYPO3
+                  extensions, TYPO3 changelog, TYPO3 core, or official TYPO3
+                  Documentation. The same markup and rendering toolchain is used
+                  in all cases.
 
  - :Title:        :ref:`rendert3docs:start`
    :Category:     Documentation
-   :Description:  How the TYPO3 documentation is rendered. You only need this
-                  if you do local rendering. It is currently
-                  recommended to go directly to the `docker image
+   :Description:  How the TYPO3 documentation is rendered.
+                  It is currently recommended to go directly to the `docker image
                   <https://github.com/t3docs/docker-render-documentation>`__ for
-                  rendering on Github and read the Readme.
+                  rendering. Take a look at the Readme of the project at Github.
 
 
 
