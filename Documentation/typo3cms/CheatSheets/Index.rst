@@ -84,6 +84,14 @@ documentation, but which do not really fit into any specific manual.
    :Download:     `Download <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.pdf>`__
    :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
+ - :Sheet:        Creating and using mocks with Prophecy in PHPUnit
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
+   :Description:  -
+   :Provided by:  Oliver Klee
+   :Type:         PDF
+   :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/prophecy-cheatsheet.pdf>`__
+   :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
+
  - :Sheet:        Creating and using mocks in PHPUnit
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
    :Description:  -
@@ -91,7 +99,6 @@ documentation, but which do not really fit into any specific manual.
    :Type:         PDF
    :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/mocking-cheatsheet.pdf>`__
    :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
-
 
  - :Sheet:        Test Driven Development with TYPO3 CMS
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
