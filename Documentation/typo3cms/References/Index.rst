@@ -30,7 +30,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
  - :Manual:       :ref:`Core API <t3coreapi:start>`
    :Description:  A technical reference of the TYPO3 core.
                   Reading this is strongly recommended for core developers and
-                  extension developers. Also contains :ref:`cgl`
+                  extension developers. Also contains :ref:`cgl`.
 
  - :Manual:       :ref:`t3tca:start`
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
@@ -41,9 +41,10 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
                   to configurate the backend.
 
  - :Manual:       :ref:`t3tsref:start`
-   :Description:  TypoScript reference. TypoScript is a configuration
-                  language that is specific to TYPO3. For an introduction
-                  see the :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
+   :Description:  TypoScript is a configuration language that is specific to
+                  TYPO3. This is used to configure the frontend.
+                  For an introduction see the
+                  :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
