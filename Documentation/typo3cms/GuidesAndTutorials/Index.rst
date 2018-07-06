@@ -6,7 +6,7 @@
 .. _tutorials:
 
 ====================
-Guides and Tutorials
+Tutorials and Guides
 ====================
 
 .. toctree::
@@ -25,45 +25,6 @@ Guides and Tutorials
    TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
    Writing Documentation ➜          <https://docs.typo3.org/typo3cms/HowToDocument/>
 
-
-Guides and Books
-================
-
-*Guides* provide an in-depth exploration of a particular topic,
-like installation of TYPO3 CMS or security.
-
-
-.. t3-field-list-table::
- :header-rows: 1
-
- - :Title:        Title
-   :Comment:      Comment
-
- - :Title:        :ref:`t3l10n:start`
-   :Comment:
-
- - :Title:        :ref:`t3install:start`
-   :Comment:      How to install TYPO3 (with or without composer) and how to upgrade an existing installation.
-
- - :Title:        :ref:`t3security:start`
-   :Comment:
-
- - :Title:        :ref:`t3contribute:start`
-   :Comment:
-
- - :Title:        :ref:`t3extbasebook:start`
-   :Comment:      The extbase book
-
- - :Title:        :ref:`t3extbase:start`
-   :Comment:      Very unsufficient, but better than nothing.
-
- - :Title:        :ref:`rendert3docs:start`
-   :Comment:      Work in progress!
-
- - :Title:        :ref:`h2document:start`
-   :Comment:      Work in progress!
-
-
 Tutorials
 =========
 
@@ -77,18 +38,29 @@ represents a logical progression in the knowledge of the product.
  :header-rows: 1
 
  - :Title:        Title
-   :Comment:      Comment
+   :Category:     Category
+   :Description:  Description
 
  - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
-   :Comment:      The official tutorial to discover the main features and concepts of TYPO3 CMS.
+   :Category:     Getting started
+   :Description:  The official tutorial to discover the main features and concepts of TYPO3 CMS.
                   It is based on the Introduction Package.
 
+ - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
+   :Category:     Development / Integration
+   :Description:  TypoScript is a configuration language that is specific to TYPO3.
+                  This guide will walk you through the basics. For more information
+                  see :ref:`t3tsref:start`.
+
  - :Title:        `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
-   :Comment:      Integrate frontend templates and TYPO3 configuration in your own sitepackage extension.
+   :Category:     Development / Integration
+   :Description:  Integrate frontend templates and TYPO3 configuration in
+                  your own sitepackage extension using the Fluid templating engine.
                   :ref:`[read more] <news-2018-06-13>`
 
  - :Title:        :ref:`Templating Tutorial <t3templating:start>`
-   :Comment:      The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
+   :Category:     Development / Integration
+   :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
                   in its `master branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__.
                   *Marker based templating* used to be prevalent before. It can
                   be found in the `7.6 branch
@@ -98,12 +70,71 @@ represents a logical progression in the knowledge of the product.
                   covers FLUIDTEMPLATE as well.
 
  - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
-   :Comment:
+   :Category:     Editing
+   :Description:  How to create pages and content elements, access control
+                  and working with multiple languages.
 
- - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
-   :Comment:
+Guides and Books
+================
+
+*Guides* provide an in-depth exploration of a particular topic,
+like installation of TYPO3 CMS or security.
 
 
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Title:        Title
+   :Category:     Category
+   :Description:  Description
+
+ - :Title:        :ref:`t3install:start`
+   :Category:     Installation & Upgrade
+   :Description:  How to **install** TYPO3 (with or without composer) and
+                  how to **upgrade** an existing installation.
+
+ - :Title:        :ref:`t3l10n:start`
+   :Category:     Translation
+   :Description:  Everything you need to know about **multiple languages**
+                  and **translation** in TYPO3.
+
+ - :Title:        :ref:`t3security:start`
+   :Category:     Security
+   :Description:  How to secure your site. Recommendations for system
+                  administrators, integrators and editors.
+
+ - :Title:        :ref:`t3contribute:start`
+   :Category:     Development
+   :Description:  How to contribute to the **TYPO3 codebase** and how to
+                  **submit issues** (e.g. Bug reports).
+
+ - :Title:        :ref:`t3extbasebook:start`
+   :Category:     Development
+   :Description:  An extensive walkthrough on extension development for
+                  TYPO3 using the **Extbase** framework and **Fluid**
+                  templating engine. (Warning: is partly outdated and incomplete)
+
+ - :Title:        :ref:`t3extbase:start`
+   :Category:     Development
+   :Description:  This contains some information about **Extbase** and **Fluid**
+                  for extension development but is
+                  not a comprehensive Guide or Tutorial at this point.
+                  It contains the :ref:`ViewHelper reference <t3extbase:viewhelpers>`.
+
+ - :Title:        :ref:`h2document:start`
+   :Category:     Documentation
+   :Description:  Provides all necessary information about writing documentation.
+                  Explains how to write documentation, either for an TYPO3
+                  extensions, TYPO3 changelog, TYPO3 core, or official TYPO3
+                  Documentation. The same markup and rendering toolchain is used
+                  in all cases.
+
+ - :Title:        :ref:`rendert3docs:start`
+   :Category:     Documentation
+   :Description:  How the TYPO3 documentation is rendered.
+                  It is currently recommended to go directly to the `docker image
+                  <https://github.com/t3docs/docker-render-documentation>`__ for
+                  rendering. Take a look at the the Readme.
 
 Example Manual
 ==============
@@ -116,7 +147,7 @@ which also serve as guidelines to the usage of reStructuredText.
  :header-rows: 1
 
  - :Title:        Title
-   :Comment:      Comment
+   :Description:  Description
 
  - :Title:        `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
-   :Comment:
+   :Description:
