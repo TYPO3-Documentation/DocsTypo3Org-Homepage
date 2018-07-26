@@ -10,7 +10,6 @@ About TYPO3 Documentation
    :hidden:
    :glob:
 
-   CommunityWritings/Index
    News/*
    Contribute/*
    Tips/*
