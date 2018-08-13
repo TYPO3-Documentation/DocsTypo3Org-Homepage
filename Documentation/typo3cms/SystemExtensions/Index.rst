@@ -24,7 +24,6 @@ listed here.
    linkvalidator ➜ <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>
    recycler ➜ <https://docs.typo3.org/typo3cms/extensions/recycler/>
    rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
-   saltedpasswords ➜ <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/>
    scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
    sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
    taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
@@ -79,10 +78,6 @@ part of the core and extracted at some point in time.
      :ExtKey: rsaauth
      :Comment: Deprecated since TYPO3 9.1
 
-   - :Manual: `Salted user password hashes <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/>`_
-     :ExtKey: saltedpasswords
-     :Comment:
-
    - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
@@ -129,3 +124,7 @@ Documentation of system extensions abandoned from current core version
    - :Manual: `htmlarea RTE <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/7.6/>`_
      :ExtKey: rtehtmlarea
      :Comment: Included until TYPO3 <= 7.6
+
+   - :Manual: `Salted user password hashes <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/>`_
+     :ExtKey: saltedpasswords
+     :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
