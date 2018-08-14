@@ -17,7 +17,7 @@ Extensions
 
 .. seealso::
 
-   https://typo3.org/extensions/faq/
+   https://extensions.typo3.org/faq/
 
 
 To be edited:
@@ -44,7 +44,7 @@ In addition you can use the extension sphinx to proof if everything is fine on y
 To get an introduction to reStructuredText take the sphinx extension as an example. Further more the format is well documented at sphinx-doc.org/rest.html.
 In addition the documentation of the sphinx extension has further information.
 
-http://typo3.org/extensions/repository/view/sphinx
+https://extensions.typo3.org/extension/sphinx/
 
 http://sphinx-doc.org/rest.html
 
