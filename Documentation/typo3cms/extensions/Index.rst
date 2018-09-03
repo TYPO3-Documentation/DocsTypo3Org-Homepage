@@ -1,8 +1,8 @@
 :template: extensions.html
 
-============================
-Third party (TER) extensions
-============================
+===========================
+Extensions by extension key
+===========================
 
 .. ATTENTION:
    Be careful with this special folder /typo3cms/extensions !!!
@@ -12,20 +12,17 @@ Third party (TER) extensions
 .. First
    You may add normal rst content here.
 
-Here you can find documentation for third party extensions available through
+Here you can find documentation of extensions if available and successfully rendered.
+The url schema is docs.typo3.org/typo3cms/extensions/<EXTKEY>/<VERSION>/ and includes
+system extensions as well as third party extensions.
+
+System extensions are shipped with the TYPO3 core. See the 
+:ref:`system extensions section <System-Extensions>`. 
+
+Third party extensions are available through the 
 `TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__.
 
-If you're looking for documentation of the extensions shipped with TYPO3 Core,
-go to the :ref:`system extensions section <System-Extensions>`.
-
-The server tries to keep a `json file about extensions <extensions.js>`__ up to
-date. Moreover there's a manually maintained `json file about system extensions
-<systemextensions.js>`__.
-
-
-
 **Use the following form to search by extension keys.**
-
 
 .. Second:
    Don't do anything more!
