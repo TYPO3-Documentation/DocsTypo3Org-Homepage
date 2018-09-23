@@ -238,16 +238,3 @@ Now: To border or not to border, that's at your decision.
 
 
 
-
-
-.. _tip-of-the-day-2016-09-02:
-.. rst-class:: panel panel-default
-
-Are there open pull requests?
-=============================
-
-2016-09-02 by Martin Bless
-
-Read :ref:`Are-there-open-pull-requests`
-
-
