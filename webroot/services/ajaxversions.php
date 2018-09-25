@@ -1,6 +1,6 @@
 <?php
 
-// mb, 2013-08-19, 2015-09-25, 2016-09-05
+// mb, 2013-08-19, 2015-09-25, 2016-09-05, 2018-09-25
 
 class VersionMatcher
 {
@@ -12,7 +12,7 @@ class VersionMatcher
         '/typo3cms/extensions/',
         '/typo3cms/',
     );
-    protected $legalNamesOfVersionFolders = array('latest'); //, 'stable');
+    protected $legalNamesOfVersionFolders = array('latest', 'master'); //, 'stable');
     protected $cont = true;                         // continue?
     protected $url = '';                            // 'https://docs.typo3.org/typo3cms/TyposcriptReference/en-us/4.7/Setup/Page/Index.html?id=3#abc'
     protected $urlPart1 = 'https://docs.typo3.org'; // 'https://docs.typo3.org'
