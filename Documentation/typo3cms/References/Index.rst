@@ -38,7 +38,7 @@ that you have been through :ref:`all the available tutorials <tutorials>`.
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
-                  to configurate the backend.
+                  to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
    :Description:  TypoScript is a configuration language that is specific to
