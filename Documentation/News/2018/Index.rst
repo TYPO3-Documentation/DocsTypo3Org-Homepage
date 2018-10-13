@@ -71,14 +71,14 @@ on the list:
   TYPO3 Explained documentation has been extended with a new chapter about :ref:`password hashing
   <t3coreapi:password-hashing>`.
 
-* The :ref:`Coding Guidelines chapter <t3coreapi:cgl>` of TYPO3 Explained got major additions my Sybille
+* The :ref:`Coding Guidelines chapter <t3coreapi:cgl>` of TYPO3 Explained got major additions by Sybille
   Peters. She is active in the documentation area at various places and for instance continuously
   improves the :ref:`Contribution workflow <t3contribute:start>` document. Thanks a ton for this!
 
 * We see an increasing number of persons changing details of the documentation all over the place, too
   many to mention in person. This is great! We try our best to review pull requests in time and
   merge them. At the moment it seems we're able to cope with it. Keep up the good work and use
-  the "Edit me on github" button on ther top right corner much if you spot issues: Go ahead and improve!
+  the "Edit me on github" button in the top right corner much if you spot issues: Go ahead and improve!
 
 
 .. _news-2018-06-13:
