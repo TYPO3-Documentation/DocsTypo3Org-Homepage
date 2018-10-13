@@ -18,7 +18,6 @@ Tutorials and Guides
    Frontend Localization ➜          <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Getting Started ➜                <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
    Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Security ➜                       <https://docs.typo3.org/typo3cms/SecurityGuide/>
    Site Package Tutorial ➜          <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
    Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
@@ -77,8 +76,7 @@ represents a logical progression in the knowledge of the product.
 Guides and Books
 ================
 
-*Guides* provide an in-depth exploration of a particular topic,
-like installation of TYPO3 CMS or security.
+*Guides* provide an in-depth exploration of a particular topic, like installation of TYPO3 or templating.
 
 
 .. t3-field-list-table::
@@ -97,11 +95,6 @@ like installation of TYPO3 CMS or security.
    :Category:     Translation
    :Description:  Everything you need to know about **multiple languages**
                   and **translation** in TYPO3.
-
- - :Title:        :ref:`t3security:start`
-   :Category:     Security
-   :Description:  How to secure your site. Recommendations for system
-                  administrators, integrators and editors.
 
  - :Title:        :ref:`t3contribute:start`
    :Category:     Development

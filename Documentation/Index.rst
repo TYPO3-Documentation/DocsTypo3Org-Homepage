@@ -16,9 +16,8 @@ Quick links
 
 .. rst-class:: horizbuttons-primary-m
 
-- :ref:`Core APIs <t3coreapi:Start>`
+- :ref:`TYPO3 Explained <t3coreapi:Start>`
 - `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-- :ref:`Security Guide <t3security:Start>`
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
@@ -29,19 +28,19 @@ Quick links
 Latest documentation news
 -------------------------
 
-.. sidebar:: New to TYPO3 CMS?
+.. sidebar:: New to TYPO3?
 
-   If you are new to TYPO3 CMS, please start by reading the
+   If you are new to TYPO3, please start by looking at the
    :ref:`Tutorials <tutorials>`, which will help you progressively
-   increase your knowledge of TYPO3 CMS.
+   increase your knowledge of TYPO3.
 
-   When you feel ready, you can move on to :ref:`Guides <guides>`,
-   which provide an in-depth look into specific topics and
-   :ref:`References <references>` which contain exhaustive listings
-   of properties, options, APIs, etc.
+   When you feel ready, you should quickly get an overview of what is
+   within :ref:`TYPO3 explained <t3coreapi:start>` and see how this document
+   relates to the other :ref:`References <references>`.
 
 .. End of sidebar
 
+-  2018-10-13 :ref:`news-2018-10-13`
 -  2018-06-13 :ref:`news-2018-06-13`
 -  2018-05-31 :ref:`news-2018-05-31`
 -  2018-05-02 :ref:`news-2018-05-02`

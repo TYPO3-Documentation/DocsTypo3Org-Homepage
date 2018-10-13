@@ -11,6 +11,74 @@
 2018
 ====
 
+.. _news-2018-10-13:
+.. rst-class:: panel panel-default
+
+TYPO3 Explained and more
+------------------------
+
+2018-10-13 by Christian Kuhn
+
+Our ongoing efforts to integrate, streamline, simplify, modernize and structure the main
+TYPO3 Core documents reached a next level: The well known "Core API" has been renamed to
+:ref:`TYPO3 Explained <t3coreapi:start>`: This document gained more and more aspects over time
+and many different ones have been merged into it. This has advantages for everyone:
+
+* One main entry point: :ref:`TYPO3 Explained <t3coreapi:start>` becomes *the* main document where
+  all main aspects of the TYPO3 Core can be found. You are getting less confused by all the existing
+  other documents and references, TYPO3 Explained is *the* main thing to look at.
+
+* It is much easier to maintain only one main repository: We learned that having tons of
+  documentation repositories is rather hard to handle if certain parts of the TYPO3 Core
+  change that need attention on the documentation side. We meanwhile managed to keep the
+  reference documents updated, but other important documents often orphaned and contain
+  outdated information. Having main parts in one place significantly simplifies this process.
+
+* Better structures: We are aware that especially the :ref:`API Overview <t3coreapi:api-overview>`
+  is getting longer and longer. But we're already looking at how this can be moved around
+  and structured in a better way.
+
+* Less duplication: We already streamlined at least four places where the main filesystem structure
+  of the system has been explained. All in different documents. There are probably more places. This
+  is true for other topics, too. And none of them is the real source of truth. Integrating repositories
+  into :ref:`TYPO3 Explained <t3coreapi:start>` gives us the opportunity to merge this stuff around and
+  streamline it once and for all. If we then maintain this stuff, it happens at one place and one place only.
+
+How does all that materialize? Here are some of the works that happened already, with more
+on the list:
+
+* The "Security Guide" has been merged as :ref:`main chapter <t3coreapi:security>`. It comes with a
+  modernization and overhaul. Go ahead and read or re-read it. It's an important chapter with tons of
+  useful information.
+
+* To make TYPO3 Explained v9 ready, Susanne Moog added an exhaustive chapter about the new
+  :ref:`Site Handling <t3coreapi:sitehandling>` and routing. Great work! You really want to read that up
+  if installing new TYPO3 instances or upgrading to TYPO3 v9.
+
+* The new v9 :ref:`Meta tag API <t3coreapi:metatagapi>`, :ref:`Page title API <t3coreapi:pagetitle>` and
+  :ref:`XML Site map <t3coreapi:xmlsitemap>` have been documented. Thanks to Richard Haeser for this
+  incredible work!
+
+* All added / changed properties of v9 are reflected in :ref:`TYPO3 Explained <t3coreapi:start>` and
+  the reference documents already. Our workflow to review the `Changelog files
+  <https://docs.typo3.org/typo3cms/extensions/core/latest/>`_ and merge relevant parts directly
+  works out great. Special thanks to Anja Leichsenring for her continued efforts in this area!
+
+* :ref:`TCA colums config reference <t3tca:columns-types>` got an update to better compare :php:`user`,
+  :php:`passthrough` and :php:`none` types with each other.
+
+* With integration of the saltedpasswords extension as direct core library, the
+  TYPO3 Explained documentation has been extended with a new chapter about :ref:`password hashing
+  <t3coreapi:password-hashing>`.
+
+* The :ref:`Coding Guidelines chapter <t3coreapi:cgl>` of TYPO3 Explained got major additions my Sybille
+  Peters. She is active in the documentation area at various places and for instance continuously
+  improves the :ref:`Contribution workflow <t3contribute:start>` document. Thanks a ton for this!
+
+* We see an increasing number of persons changing details of the documentation all over the place, too
+  many to mention in person. This is great! We try our best to review pull requests in time and
+  merge them. At the moment it seems we're able to cope with it. Keep up the good work and use
+  the "Edit me on github" button on ther top right corner much if you spot issues: Go ahead and improve!
 
 
 .. _news-2018-06-13:
