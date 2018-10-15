@@ -78,8 +78,10 @@ on the list:
 * We see an increasing number of persons changing details of the documentation all over the place, too
   many to mention in person. This is great! We try our best to review pull requests in time and
   merge them. At the moment it seems we're able to cope with it. Keep up the good work and use
-  the "Edit me on github" button in the top right corner much if you spot issues: Go ahead and improve!
+  the "Edit me on github" button in the top right corner, if you spot issues: Go ahead and improve!
 
+* If you are interested in helping with TYPO3 documentation, you are invited to join the growing list
+  of contributors. See :ref:`h2document:docs-contribute` for more information.
 
 .. _news-2018-06-13:
 .. rst-class:: panel panel-default
