@@ -112,7 +112,7 @@ Guides and Books
    :Description:  This contains some information about **Extbase** and **Fluid**
                   for extension development but is
                   not a comprehensive Guide or Tutorial at this point.
-                  It contains the :ref:`ViewHelper reference <t3extbase:viewhelpers>`.
+                  Also available a complete :ref:`ViewHelper reference <t3viewhelper:start>`.
 
  - :Title:        :ref:`h2document:start`
    :Category:     Documentation

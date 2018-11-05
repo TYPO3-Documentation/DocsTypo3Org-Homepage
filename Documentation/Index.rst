@@ -21,6 +21,7 @@ Quick links
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
+- :ref:`ViewHelper Reference <t3viewhelper:Start>`
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
@@ -40,6 +41,7 @@ Latest documentation news
 
 .. End of sidebar
 
+-  2018-11-05 :ref:`news-2018-11-05`
 -  2018-10-13 :ref:`news-2018-10-13`
 -  2018-06-13 :ref:`news-2018-06-13`
 -  2018-05-31 :ref:`news-2018-05-31`

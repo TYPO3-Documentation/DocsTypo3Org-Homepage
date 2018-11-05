@@ -11,6 +11,29 @@
 2018
 ====
 
+.. _news-2018-11-05:
+.. rst-class:: panel panel-default
+
+TYPO3 ViewHelper Reference
+--------------------------
+
+2018-11-05 by Daniel Siepmann
+
+Done! A complete auto generated ViewHelper Reference is now available at
+https://docs.typo3.org/typo3cms/ViewHelperReference/Index.html.
+
+Right now, this is auto generated from TYPO3 CMS 9.5.1 source code, but
+manually rendered and published. The plans are to automate this process and to
+improve the source code documentation to provide a useful reference in the near
+future.
+
+The current state was achieved by joined forces. Claus Due developed the
+generation. Anja Leichsenring did a great job on generating rst files out of the
+generated information, which then could be handled like any other TYPO3
+documentation.
+
+Helping hands were Jan Suchandt and Johannes Seipelt working at 3m5.
+
 .. _news-2018-10-13:
 .. rst-class:: panel panel-default
 

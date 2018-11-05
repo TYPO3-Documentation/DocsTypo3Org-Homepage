@@ -46,6 +46,10 @@ depending on which task should be achieved.
                   For an introduction see the
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
+ - :Manual:       :ref:`t3viewhelper:start`
+   :Description:  A complete reference of all available Fluid ViewHelper within
+                  TYPO3 CMS.
+
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
 for better overview, less duplication and confusion. The latest versions of these documents only
@@ -85,3 +89,4 @@ for, these obsoleted documents are listed here:
    Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
+   ViewHelper Reference ➜ <https://docs.typo3.org/typo3cms/ViewHelperReference/>
