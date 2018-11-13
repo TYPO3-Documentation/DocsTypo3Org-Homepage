@@ -11,6 +11,25 @@
 2018
 ====
 
+.. _news-2018-11-13:
+.. rst-class:: panel panel-default
+
+TYPO3 Testing
+-------------
+
+2018-11-13 by Christian Kuhn
+
+One part that has been not been documented in a good way was testing. A dedicated
+chapter about :ref:`testing in the TYPO3 world <t3coreapi:testing>` now finally puts an
+end to this: It comes with excessive information on how to set up and run unit, functional
+and acceptance tests of the core, of extensions and entire projects, together with basic
+guides on how to write and maintain tests.
+
+As usual, feel free to improve this brand new chapter, add sections we may have missed,
+adapt details that may not be as precise as they should be and most importantly: Have
+fun reading i - we hope it comes with some useful information.
+
+
 .. _news-2018-11-05:
 .. rst-class:: panel panel-default
 
