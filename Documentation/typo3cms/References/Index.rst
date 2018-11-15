@@ -51,6 +51,18 @@ depending on which task should be achieved.
                   TYPO3 CMS.
 
 
+.. tip::
+
+   Did you know, you can click on "Related links" at the bottom of a page in most
+   manuals to select a different version. The versions of the manual correspond to the TYPO3
+   version. For example, go to :ref:`t3coreapi:start` and select a different version.
+
+.. image:: files/version-selector.svg
+   :class: with-shadow
+
+Oudated manuals
+===============
+
 With our ongoing consolidation efforts, some documents have been merged into other documents
 for better overview, less duplication and confusion. The latest versions of these documents only
 show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
