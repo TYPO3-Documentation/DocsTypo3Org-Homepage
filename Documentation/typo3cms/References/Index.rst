@@ -23,13 +23,7 @@ depending on which task should be achieved.
  - :Manual:       :ref:`TYPO3 Explained <t3coreapi:start>`
    :Versions:     :ref:`latest <t3coreapi:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
-                  `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__ |
-                  `v6.2 <https://docs.typo3.org/typo3cms/CoreApiReference/6.2/>`__ |
-                  `v6.1 <https://docs.typo3.org/typo3cms/CoreApiReference/6.1/>`__ |
-                  `v6.0 <https://docs.typo3.org/typo3cms/CoreApiReference/6.0/>`__ |
-                  `v4.7 <https://docs.typo3.org/typo3cms/CoreApiReference/4.7/>`__ |
-                  `v4.6 <https://docs.typo3.org/typo3cms/CoreApiReference/4.6/>`__ |
-                  `v4.5 <https://docs.typo3.org/typo3cms/CoreApiReference/4.5/>`__
+                  `v7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
    :Description:  **The main document about TYPO3** Reading this is recommended for anyone.
                   This goes through all main aspects like installing, hosting, configuration,
                   security aspects and detailed programming API's. Single chapters are for
@@ -48,32 +42,21 @@ depending on which task should be achieved.
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`latest <t3tca:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
-                  `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
-                  `v7.6 <https://docs.typo3.org/typo3cms/TCAReference/7.6/>`__ |
-                  `v6.2 <https://docs.typo3.org/typo3cms/TCAReference/6.2/>`__ |
-                  `v6.1 <https://docs.typo3.org/typo3cms/TCAReference/6.1/>`__ |
-                  `v6.0 <https://docs.typo3.org/typo3cms/TCAReference/6.0/>`__
+                  `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Versions:     :ref:`latest <t3tsconfig:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/TSconfigReference/8.7/>`__ |
-                  `v7.6 <https://docs.typo3.org/typo3cms/TSconfigReference/7.6/>`__ |
-                  `v6.2 <https://docs.typo3.org/typo3cms/TSconfigReference/6.2/>`__ |
-                  `v6.1 <https://docs.typo3.org/typo3cms/TSconfigReference/6.2/>`__ |
-                  `v6.0 <https://docs.typo3.org/typo3cms/TSconfigReference/6.0/>`__
+                  `v7.6 <https://docs.typo3.org/typo3cms/TSconfigReference/7.6/>`__
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
    :Versions:     :ref:`latest <t3tsref:start>` |
                   `8.7 <https://docs.typo3.org/typo3cms/TyposcriptReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__ |
-                  `6.2 <https://docs.typo3.org/typo3cms/TyposcriptReference/6.2/>`__ |
-                  `6.1 <https://docs.typo3.org/typo3cms/TyposcriptReference/6.1/>`__ |
-                  `6.0 <https://docs.typo3.org/typo3cms/TyposcriptReference/6.0/>`__ |
-                  `4.7 <https://docs.typo3.org/typo3cms/TyposcriptReference/4.7/>`__
+                  `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__ 
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
