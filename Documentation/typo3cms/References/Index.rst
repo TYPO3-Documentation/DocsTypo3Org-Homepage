@@ -76,7 +76,7 @@ depending on which task should be achieved.
 .. image:: files/version-selector.svg
    :class: with-shadow
 
-Oudated manuals
+Outdated manuals
 ===============
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
