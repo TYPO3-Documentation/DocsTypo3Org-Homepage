@@ -42,7 +42,7 @@ depending on which task should be achieved.
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`latest <t3tca:start>` |
                   `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
-                  `v8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__
+                  `v7.6 <https://docs.typo3.org/typo3cms/TCAReference/7.6/>`__
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
