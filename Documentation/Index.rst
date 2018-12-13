@@ -82,3 +82,4 @@ Tips - did you know?
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
    typo3cms/Teams/Index
+   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>             
