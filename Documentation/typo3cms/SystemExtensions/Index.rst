@@ -2,9 +2,9 @@
 
 .. _System-Extensions:
 
-===============
-Core Extensions
-===============
+=================
+System Extensions
+=================
 
 Documentation of extensions managed within the core repository directly
 and maintained by the core team and core contributors are called
