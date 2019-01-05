@@ -128,7 +128,7 @@ on the list:
 .. _news-2018-06-13:
 .. rst-class:: panel panel-default
 
-NEW: TYPO3 Site Package Tutorial
+NEW: TYPO3 Sitepackage Tutorial
 --------------------------------
 
 2018-06-13 by Michael Schams
@@ -146,7 +146,7 @@ mobile-responsive website.
 
 .. rst-class:: horizbuttons-primary-m clear-both
 
-- `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
+- `Sitepackage Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
 
 
 

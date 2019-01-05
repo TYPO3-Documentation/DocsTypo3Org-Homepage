@@ -18,7 +18,7 @@ Tutorials and Guides
    Frontend Localization ➜          <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Getting Started ➜                <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
    Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Site Package Tutorial ➜          <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Siteackage Tutorial ➜            <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
    Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
@@ -51,7 +51,7 @@ represents a logical progression in the knowledge of the product.
                   This guide will walk you through the basics. For more information
                   see :ref:`t3tsref:start`.
 
- - :Title:        `Site Package Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
+ - :Title:        `Sitepackage Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Category:     Development / Integration
    :Description:  Integrate frontend templates and TYPO3 configuration in
                   your own sitepackage extension using the Fluid templating engine.
@@ -64,7 +64,7 @@ represents a logical progression in the knowledge of the product.
                   *Marker based templating* used to be prevalent before. It can
                   be found in the `7.6 branch
                   <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
-                  The `Site Package Tutorial
+                  The `Sitepackage Tutorial
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
                   covers FLUIDTEMPLATE as well.
 
