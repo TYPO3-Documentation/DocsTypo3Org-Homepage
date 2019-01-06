@@ -60,7 +60,7 @@ Tips - did you know?
 .. sidebar:: Quickstart extension documentation
 
    You are an extension author and want to add documentation?
-   Please read :ref:`tip-of-the-day-2016-12-29`
+   Please read :ref:`h2document:how-to-start-documentation-for-ext`
 
 -  :ref:`tip-of-the-day-2017-02-13`
 -  :ref:`tip-of-the-day-2016-12-29`
@@ -82,4 +82,4 @@ Tips - did you know?
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    About
    typo3cms/Teams/Index
-   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>             
+   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
