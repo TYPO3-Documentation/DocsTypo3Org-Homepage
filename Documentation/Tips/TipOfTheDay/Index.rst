@@ -20,6 +20,10 @@ Tip Of The Day
 'toctree' and the hierarchical structure of a manual
 ====================================================
 
+**Update:** Part of this description has been migrated to
+:ref:`h2document:rest-menu-hierachy`.
+(2019-01-06).
+
 2017-02-13 by Martin Bless
 
 TYPO3 documentation usually starts with a textfile :file:`PROJECT/Documentation/Index.rst`.
@@ -53,7 +57,7 @@ Problem
          Chapter-3
 
    The example feels very natural. We are thinking of the introduction
-   follwed by the single chapters. Unfortunately we get something different.
+   followed by the single chapters. Unfortunately we get something different.
    The chapters will all be a *subpart* of *Introduction* and not at the same level.
    It is exactly what the Sphinx documentation states and there is no easy way to
    "tweak" this behavior.
@@ -102,7 +106,13 @@ Solution
 How to start Documentation for your TYPO3 Extension
 ===================================================
 
+**Update:** Please see :ref:`h2document:how-to-start-documentation-for-ext`
+for an up-to-date description of starting extension documentation from scratch
+using the example extension manual (2019-01-06).
+
+
 2016-12-29 by Martin Bless
+
 
 **Quickstart:**
 
@@ -134,6 +144,10 @@ Come to the sunny side of documentation - have fun!
 
 How to write inline code
 ========================
+
+**Update:** This information has been migrated to :ref:`h2document:Inline-Code`
+and extended (2019-01-06).
+
 
 2016-10-08 by Martin Bless
 
@@ -207,6 +221,11 @@ Things get tricky if your inline code already contains single backquotes (backti
 Optional: Add borders to your images
 ====================================
 
+**Update:** It is now also possible to add a drop shadow (`:class: with-shadow`)
+to images. For an up-to-date
+description of how to embed images, see
+:ref:`h2document:how-to-document-images` (2019-01-06).
+
 2016-09-11 by Martin Bless
 
 The next version of the `t3SphinxThemeRtd`_ (following 3.6.0) will know a general css class `with-border`.
@@ -228,13 +247,13 @@ having a border because they are not separated enough from the background. Examp
 3. Now the same markup plus the extra class:
 
    .. figure:: files/2016-09-11-3.png
-      :class: with-border
+      :class: with-border with-shadow
 
 4. This screenshot benefits from having a border:
 
    .. figure:: files/2016-09-11-4.png
 
-Now: To border or not to border, that's at your decision.
+Now: To border or not to border, that's your decision.
 
 
 
