@@ -56,7 +56,7 @@ depending on which task should be achieved.
  - :Manual:       :ref:`t3tsref:start`
    :Versions:     :ref:`latest <t3tsref:start>` |
                   `8.7 <https://docs.typo3.org/typo3cms/TyposcriptReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__ 
+                  `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
@@ -114,7 +114,7 @@ for, these obsoleted documents are listed here:
 
    TYPO3 Explained ➜   <https://docs.typo3.org/typo3cms/CoreApiReference/>
    Core Changelog    ➜ <https://docs.typo3.org/typo3cms/extensions/core/latest/>
-   Tca ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
+   TCA ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
    TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
    TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
    ViewHelper Reference ➜ <https://docs.typo3.org/typo3cms/ViewHelperReference/>
