@@ -12,17 +12,17 @@ Tutorials and Guides
 .. toctree::
    :hidden:
 
-   Contribution Workflow ➜          <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
-   Documentation Rendering ➜        <https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/>
-   Extbase & Fluid ➜                <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
-   Frontend Localization ➜          <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
-   Getting Started ➜                <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
-   Installation and Upgrade ➜       <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Siteackage Tutorial ➜            <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
-   Templating Tutorial➜             <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
-   Tutorial for Editors ➜           <https://docs.typo3.org/typo3cms/EditorsTutorial/>
-   TypoScript in 45 Minutes ➜       <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
-   Writing Documentation ➜          <https://docs.typo3.org/typo3cms/HowToDocument/>
+   Contribution Workflow ➜                 <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Documentation Rendering With Docker ➜   <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>
+   Extbase & Fluid ➜                       <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
+   Frontend Localization ➜                 <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
+   Getting Started ➜                       <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
+   Installation and Upgrade ➜              <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Siteackage Tutorial ➜                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Templating Tutorial➜                    <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
+   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
+   Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
 
 Tutorials
 =========
@@ -122,12 +122,17 @@ Guides and Books
                   Documentation. The same markup and rendering toolchain is used
                   in all cases.
 
+ - :Title:        `Render TYPO3 Documentation With Docker <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
+   :Category:     Documentation
+   :Description:  How to render the documentation locally with Docker.
+
  - :Title:        :ref:`rendert3docs:start`
    :Category:     Documentation
-   :Description:  How the TYPO3 documentation is rendered.
-                  It is currently recommended to go directly to the `docker image
-                  <https://github.com/t3docs/docker-render-documentation>`__ for
-                  rendering. Take a look at the the Readme.
+   :Description:  How the TYPO3 documentation is rendered. This guide is a work in progess and currently
+                  heavily under construction.
+                  At the moment, it is recommended to go directly to
+                  `Render TYPO3 Documentation With Docker <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
+                  for information about local rendering with Docker.
 
 Example Manual
 ==============
