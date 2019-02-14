@@ -24,6 +24,7 @@ listed here.
    linkvalidator ➜ <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>
    recycler ➜ <https://docs.typo3.org/typo3cms/extensions/recycler/>
    rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
+   rte_ckeditor ➜ <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>
    scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
    sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
    taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
@@ -77,6 +78,10 @@ part of the core and extracted at some point in time.
    - :Manual: `RSA authentication <https://docs.typo3.org/typo3cms/extensions/rsaauth/>`_
      :ExtKey: rsaauth
      :Comment: Deprecated since TYPO3 9.1
+
+   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`_
+     :ExtKey: rte_ckeditor
+     :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
 
    - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
