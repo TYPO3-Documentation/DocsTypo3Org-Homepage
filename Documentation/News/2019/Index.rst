@@ -40,7 +40,7 @@ Josef Glatz for further enhancing it.
 The community is invited to participate in enhancing it:
 
 * Join the channel #typo3-documentation on `Slack <https://typo3.slack.com>`__
-  `Register <https://my.typo3.org/index.php?id=35>`__ to ask questions
+  to ask questions (`Register <https://my.typo3.org/index.php?id=35>`__)
 * Click "Edit me on GitHub" in the top right corner to make small changes
   (`Find out more ... <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>`__)
   or follow the :ref:`t3contribute:start`
