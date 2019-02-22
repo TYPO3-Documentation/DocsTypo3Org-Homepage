@@ -18,7 +18,7 @@ Tutorials and Guides
    Frontend Localization ➜                 <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Getting Started ➜                       <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
    Installation and Upgrade ➜              <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Siteackage Tutorial ➜                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
    Templating Tutorial➜                    <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
