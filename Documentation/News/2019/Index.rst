@@ -71,9 +71,10 @@ We also made some minor changes to make it easier for you to find things, like:
 
    #typo3-documentation channel topic
 
-* All repositories of main manuals now contain a CONTRIBUTING file. GitHub
-  automatically displays a link to this, if you open a new issue or
-  go to the issues tab as new contributor.
+* All repositories of main manuals now contain a `CONTRIBUTING
+  <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/blob/latest/CONTRIBUTING.md>`__
+  file. GitHub automatically displays a link to this, if you open a
+  new issue or go to the issues tab as new contributor.
 
 .. figure:: files/github-contributing2.svg
    :class: with-shadow
