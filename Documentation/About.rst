@@ -11,5 +11,5 @@ About TYPO3 Documentation
    :glob:
 
    News/*
-   Contribute/*
+   Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
    Tips/*
