@@ -41,6 +41,7 @@ Latest documentation news
 
 .. End of sidebar
 
+-  2019-03-08 :ref:`news-2019-03-08-2`
 -  2019-03-08 :ref:`news-2019-03-08`
 -  2019-02-14 :ref:`news-2019-02-14`
 -  2018-11-13 :ref:`news-2018-11-13`

@@ -12,6 +12,90 @@
 2019
 ====
 
+
+
+.. _news-2019-03-08-2:
+.. rst-class:: panel panel-default
+
+
+Improvements for Documentation Contributors
+===========================================
+
+2019-03-08 by Sybille Peters
+
+
+If you are not yet familiar with contributing to the documentation at all,
+we suggest you read the TYPO3 blog article
+`Start Improving Docs Now to Grow TYPO3 <https://typo3.com/blog/start-improving-docs-now-to-grow-typo3/>`__
+for an excellent introduction.
+
+Meanwhile, we discovered that some information about contributing
+was missing and parts of the information was spread out in too
+many places. This made it difficult for contributor to find things
+or find out which of the information was relevant and up to date.
+
+Meanwhile, we have made several improvements.
+
+These include additional chapters to the
+manual :ref:`h2document:start` to help you get started, such as:
+
+* :ref:`h2document:docs-contribute` : Main entry point for information about
+  contributing and a walkthrough of editing with GitHub.
+* :ref:`h2document:docs-contribute-git-docker`: This is an alternative
+  to editing directly on GitHub for contributors familiar with Git and
+  Docker.
+* :ref:`h2document:rest-cheat-sheet`: Most often used formatting rules and directives,
+  all on one page.
+* :ref:`how-to-contribute`: Contributors can pick from this list if they
+  are looking for something to do.
+
+You can start right away and learn as you go along, but if you are looking
+for guidelines and best practices, we created an entire chapter
+:ref:`general-conventions` for that. This includes:
+
+* :ref:`Spelling Guide <h2document:spelling>`
+* :ref:`guidelines-for-images`
+
+We reduced duplicate information and try to link to one single entry point.
+
+We also made some minor changes to make it easier for you to find things, like:
+
+* The channel topic for **#typo3-documentation** now contains the date of the
+  next Slack call.
+
+.. figure:: files/slack_call.png
+   :class:  with-shadow
+   :target: https://typo3.slack.com
+   :alt:    TYPO3 Slack call information
+   :width:  50 %
+
+   #typo3-documentation channel topic
+
+* All repositories of main manuals now contain a CONTRIBUTING file. GitHub
+  automatically displays a link to this, if you open a new issue or
+  go to the issues tab as new contributor.
+
+.. figure:: files/github-contributing2.svg
+   :class: with-shadow
+   :target: https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/blob/latest/CONTRIBUTING.md
+   :alt:    Link to CONTRIBUTING
+   :width:  50 %
+
+   Link to CONTRIBUTING for GitHub repository "TYPO3 Explained"
+
+* We introduced the label `"good first issue" <https://github.com/issues?q=is%3Aopen%20is%3Aissue%20label%3A%22good%20first%20issue%22%20archived%3Afalse%20user%3ATYPO3-Documentation+no%3Aassignee>`__.
+  This can be assigned to issues which are not very complex and can be solved by new contributors.
+* All main manuals now contain a `README.rst <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/blob/latest/README.rst>`__
+  with a link to the rendered documentation.
+
+We hope that these changes will prove useful to you. There is still lots to do.
+If you have additional suggestions, don't hesitate to write an `issue
+<https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-HowToDocument/issues/new>`__
+or make the changes yourself.
+
+Or tell us what works for you and what doesn't on :ref:`Slack <h2document:slack>`.
+
+
 .. _news-2019-03-08:
 .. rst-class:: panel panel-default
 
