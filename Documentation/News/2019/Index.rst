@@ -34,7 +34,7 @@ was missing and parts of the information was spread out in too
 many places. This made it difficult for a contributor to find things
 or find out which of the information was relevant and up to date.
 
-Meanwhile, we have made several improvements.
+Because of this, we made several improvements.
 
 These include additional chapters to the
 manual :ref:`h2document:start` to help you get started, such as:
