@@ -41,17 +41,13 @@ Latest documentation news
 
 .. End of sidebar
 
+-  2019-03-08 :ref:`news-2019-03-08-2`
+-  2019-03-08 :ref:`news-2019-03-08`
 -  2019-02-14 :ref:`news-2019-02-14`
 -  2018-11-13 :ref:`news-2018-11-13`
 -  2018-11-05 :ref:`news-2018-11-05`
--  2018-10-13 :ref:`news-2018-10-13`
--  2018-06-13 :ref:`news-2018-06-13`
--  2018-05-31 :ref:`news-2018-05-31`
--  2018-05-02 :ref:`news-2018-05-02`
--  2018-03-28 :ref:`news-2018-03-28`
--  2018-02-13 :ref:`news-2018-02-13`
 
--  :ref:`All the news <latest>`
+-  :ref:`All the news <news>`
 
 .. rst-class:: clear-both
 
