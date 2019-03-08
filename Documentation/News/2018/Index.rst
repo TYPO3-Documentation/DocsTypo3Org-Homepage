@@ -13,8 +13,8 @@
 .. _news-2018-11-13:
 .. rst-class:: panel panel-default
 
-TYPO3 Testing
--------------
+NEW: TYPO3 Testing
+------------------
 
 2018-11-13 by Christian Kuhn
 
@@ -32,8 +32,8 @@ fun reading i - we hope it comes with some useful information.
 .. _news-2018-11-05:
 .. rst-class:: panel panel-default
 
-TYPO3 ViewHelper Reference
---------------------------
+NEW: TYPO3 ViewHelper Reference
+-------------------------------
 
 2018-11-05 by Daniel Siepmann
 

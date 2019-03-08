@@ -11,8 +11,36 @@
 2019
 ====
 
+.. _news-2019-03-08:
+.. rst-class:: panel panel-default
+
+
+NEW: Documentation of Locking API
+=================================
+
+2019-03-08 by Sybille Peters
+
+A chapter on the :ref:`t3coreapi:locking-api` is now available in
+"TYPO3 Explained". This chapter has been written by Sybille Peters
+and reviewed by Markus Klein.
+
+You may have never been aware of the locking API because it works
+under the hood in the TYPO3 core.
+
+If you develop an extension and use the :ref:`t3coreapi:caching` or
+have other issues where concurrent access of a resource must
+be prevented, you should check it out.
+
+As always, you can help to improve the documentation: Create an
+`issue <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues/new>`__
+or click the "Edit me on GitHub" button on the top right
+of any page. Read :ref:`h2document:docs-contribute` in "Writing
+Documentation" to find out more.
+
+
 .. _news-2019-02-14:
 .. rst-class:: panel panel-default
+
 
 NEW: Documentation for rte_ckeditor
 ===================================
