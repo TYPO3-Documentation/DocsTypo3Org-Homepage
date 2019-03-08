@@ -31,7 +31,7 @@ for an excellent introduction.
 
 Meanwhile, we discovered that some information about contributing
 was missing and parts of the information was spread out in too
-many places. This made it difficult for contributor to find things
+many places. This made it difficult for a contributor to find things
 or find out which of the information was relevant and up to date.
 
 Meanwhile, we have made several improvements.
@@ -113,7 +113,7 @@ You may have never been aware of the locking API because it works
 under the hood in the TYPO3 core.
 
 If you develop an extension and use the :ref:`t3coreapi:caching` or
-have other issues where concurrent access of a resource must
+have other issues where concurrent access to a resource must
 be prevented, you should check it out.
 
 As always, you can help to improve the documentation: Create an
