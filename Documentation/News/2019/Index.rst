@@ -3,6 +3,7 @@
 .. highlight:: shell
 
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
+.. and add new year to News/Index.rst
 
 .. _latest:
 .. _news-2019:

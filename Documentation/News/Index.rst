@@ -9,6 +9,7 @@ Documentation News
 
 .. toctree::
 
+   2019/Index
    2018/Index
    2017/Index
    2016/Index
