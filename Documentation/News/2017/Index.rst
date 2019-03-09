@@ -33,23 +33,25 @@ You can now easily create very well readable step-by-step instructions!
 
 #. About buttons
 
-   See `some examples.
-   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
+   Use buttons as links: :ref:`h2document:list-items-as-buttons`
 
 #. Bignums - have numbers appear "big"
 
-   See `some examples.
-   <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
+   Use :ref:`h2document:styled-numbered-lists` to style sections with
+   several steps like these.
 
 In short:
 
 .. rst-class:: horizbuttons-tip-m
 
--  `Buttons <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/ListItemsAsButtons/Index.html#available-styles>`__
--  `Bignums <https://docs.typo3.org/typo3cms/HowToDocument/WritingReST/BignumLists/Index.html#ol-bignums-xxl>`__
+-  :ref:`h2document:list-items-as-buttons`
+-  :ref:`h2document:styled-numbered-lists`
 
 Use wisely!
 
+More examples:
+
+* `ext:form quick start <https://docs.typo3.org/typo3cms/extensions/form/QuickStart/Index.html>`__
 
 
 .. _news-2017-03-14:
