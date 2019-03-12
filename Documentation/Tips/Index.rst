@@ -10,5 +10,4 @@ Tips & Tricks
 .. toctree::
 
    TipOfTheDay/Index
-   UsingThisSite/Index
    DocumentationWriters/Index
