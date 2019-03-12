@@ -7,7 +7,7 @@
 Usage Tips
 ==========
 
-Travel pages by keyboard
+Browse Pages by Keyboard
 ========================
 
 Each documentation knows about a linear sequence of its pages. Use "Next"
@@ -16,7 +16,7 @@ available, use "Up" to step back to the next higher level of page
 hierarchy. The good news is that these functions are also available
 from the keyboard by the "access keys".
 
-What's an "access key"?
+What's an "Access Key"?
 -----------------------
 
   In a web browser, an `access key or accesskey`__ allows a computer
@@ -44,7 +44,7 @@ Windows           IE                             ``Alt + <character> <enter>``
 ================= ============================== =====================
 
 
-"access key + n": Next page
+"Access Key + n": Next Page
 ---------------------------
 
 Press the "access key + n" or click "Next" to advance to the next
@@ -53,7 +53,7 @@ page in line. The tooltip shows the title of the page to come.
 |image next|
 
 
-"access key + p": Previous page
+"Access Key + p": Previous Page
 -------------------------------
 
 Press the "access key + p" or click "Previous" to go to the page that
@@ -62,7 +62,7 @@ precedes the current page. The tooltip shows the title of that page.
 |image previous|
 
 
-"access key + u": Up one level in page hierarchy
+"Access Key + u": Up one Level in Page Hierarchy
 ------------------------------------------------
 
 Press the "access key + u" or click "Up" to go back to the superiore
