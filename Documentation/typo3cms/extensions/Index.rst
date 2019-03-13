@@ -1,5 +1,7 @@
 :template: extensions.html
 
+.. _extensions:
+
 ===========================
 Extensions by extension key
 ===========================
@@ -16,10 +18,10 @@ Here you can find documentation of extensions if available and successfully rend
 The url schema is docs.typo3.org/typo3cms/extensions/<EXTKEY>/<VERSION>/ and includes
 system extensions as well as third party extensions.
 
-System extensions are shipped with the TYPO3 core. See the 
-:ref:`system extensions section <System-Extensions>`. 
+System extensions are shipped with the TYPO3 core. See the
+:ref:`system extensions section <System-Extensions>`.
 
-Third party extensions are available through the 
+Third party extensions are available through the
 `TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__.
 
 **Use the following form to search by extension keys.**

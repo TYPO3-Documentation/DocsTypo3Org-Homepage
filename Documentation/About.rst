@@ -7,7 +7,8 @@ About TYPO3 Documentation
 ===========================================
 
 .. toctree::
-   :hidden:
+   :maxdepth: 5
+   :titlesonly:
    :glob:
 
    Tips/UsingThisSite/Index
