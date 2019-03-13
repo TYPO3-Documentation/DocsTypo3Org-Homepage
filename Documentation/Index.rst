@@ -16,6 +16,7 @@ Quick links
 
 .. rst-class:: horizbuttons-primary-m
 
+- :ref:`t3start:start`
 - :ref:`TYPO3 Explained <t3coreapi:Start>`
 - `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
 - :ref:`TCA Reference <t3tca:Start>`
@@ -25,21 +26,44 @@ Quick links
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
-
-Latest documentation news
--------------------------
+Tips - did you know?
+------------------------------
 
 .. sidebar:: New to TYPO3?
 
-   If you are new to TYPO3, please start by looking at the
+   If you are new to TYPO3, please start by looking at the :ref:`t3start:start`
+   and the other
    :ref:`Tutorials <tutorials>`, which will help you progressively
    increase your knowledge of TYPO3.
 
    When you feel ready, you should quickly get an overview of what is
    within :ref:`TYPO3 explained <t3coreapi:start>` and see how this document
-   relates to the other :ref:`References <references>`.
+   relates to other :ref:`references`.
 
 .. End of sidebar
+
+-  Most manuals are available for several TYPO3 versions. :ref:`Read more ... <usage-version-selector>`
+-  You can get support for TYPO3 via StackOverflow or Slack. `Read more ... <https://typo3.org/help>`__
+-  You can click on the "Edit me on GitHub" button to edit a page. :ref:`Read more ... <h2document:docs-contribute>`
+
+.. rst-class:: horizbuttons-primary-m
+
+-  :ref:`More TYPO3 tips <Tip-of-the-day>`
+-  :ref:`More usage tips <Tip-of-the-day>`
+-  :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
+
+
+Latest documentation news
+-------------------------
+
+
+
+.. sidebar:: Quickstart extension documentation
+
+   You are an extension author and want to add documentation?
+   Please read :ref:`h2document:how-to-start-documentation-for-ext`
+
+.. end of sidebar
 
 -  2019-03-08 :ref:`news-2019-03-08-2`
 -  2019-03-08 :ref:`news-2019-03-08`
@@ -47,23 +71,12 @@ Latest documentation news
 -  2018-11-13 :ref:`news-2018-11-13`
 -  2018-11-05 :ref:`news-2018-11-05`
 
--  :ref:`All the news <news>`
+.. rst-class:: horizbuttons-primary-m
+
+-  :ref:`All news <news>`
 
 .. rst-class:: clear-both
 
-Tips - did you know?
-------------------------------
-
-.. sidebar:: Quickstart extension documentation
-
-   You are an extension author and want to add documentation?
-   Please read :ref:`h2document:how-to-start-documentation-for-ext`
-
--  :ref:`tip-of-the-day-2017-02-13`
--  :ref:`tip-of-the-day-2016-12-29`
--  :ref:`tip-of-the-day-2016-10-08`
--  :ref:`tip-of-the-day-2016-09-11`
--  :ref:`All the tips<Tip-of-the-day>`
 
 
 

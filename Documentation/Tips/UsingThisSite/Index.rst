@@ -53,7 +53,7 @@ a version from the version selector on the bottom: Click on :guilabel:`Related L
 and then select a version. The version usually reflects the TYPO3 version, so for example
 choose 9.5 if you are using TYPO3 9.5 LTS.
 
-.. figure:: version-selector.png
+.. figure:: version-selector.svg
    :class: with-shadow
    :target: ../../_images/version-selector.gif
 

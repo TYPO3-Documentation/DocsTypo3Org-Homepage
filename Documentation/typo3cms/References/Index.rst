@@ -70,11 +70,9 @@ depending on which task should be achieved.
 .. tip::
 
    Did you know, you can click on "Related links" at the bottom of a page in most
-   manuals to select a different version. The versions of the manual correspond to the TYPO3
-   version. For example, go to :ref:`t3coreapi:start` and select a different version.
+   manuals to select a different version? The versions of the manual correspond to the TYPO3
+   version. :ref:`Read more ... <usage-version-selector>`
 
-.. image:: files/version-selector.svg
-   :class: with-shadow
 
 **Outdated manuals**
 
