@@ -48,8 +48,7 @@ Tips - did you know?
 
 .. rst-class:: horizbuttons-primary-m
 
--  :ref:`More TYPO3 tips <Tip-of-the-day>`
--  :ref:`More usage tips <Tip-of-the-day>`
+-  :ref:`More usage tips <usage-tips>`
 -  :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
 
