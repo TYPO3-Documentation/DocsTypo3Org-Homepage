@@ -1,3 +1,5 @@
+:orphan:
+
 .. include:: ../Includes.txt
 
 
@@ -8,7 +10,8 @@ Tips & Tricks
 =============
 
 .. toctree::
+   :maxdepth: 3
+   :titlesonly:
 
    TipOfTheDay/Index
-   UsingThisSite/Index
    DocumentationWriters/Index

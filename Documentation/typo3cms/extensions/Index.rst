@@ -1,5 +1,7 @@
 :template: extensions.html
 
+.. _extensions:
+
 ===========================
 Extensions by Extension Key
 ===========================
