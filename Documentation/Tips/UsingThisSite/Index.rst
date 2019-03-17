@@ -22,6 +22,16 @@ When you are on the start page https://docs.typo3.org, you can use the menu to n
 to one of the manuals, for example go to the :ref:`guides` page or :ref:`extensions`
 to select an extension.
 
+.. figure:: mobilemenu.svg
+   :class: with-shadow
+
+   Menu on mobile
+
+.. figure:: menu1.svg
+   :class: with-shadow
+
+   Desktop view
+
 
 .. _usage-start-page:
 
