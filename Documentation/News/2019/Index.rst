@@ -46,6 +46,12 @@ manual :ref:`h2document:start` to help you get started, such as:
   Docker.
 * :ref:`h2document:rest-cheat-sheet`: Most often used formatting rules and directives,
   all on one page.
+* :ref:`h2document:rest-common-pitfalls`: There are some traps you can
+  fall into, when getting started with reST & Sphinx. This page shows
+  the most common errors and should help you avoid them.
+* :ref:`h2document:rendering-docs-troubleshooting`: When rendering locally
+  with Docker, you might run into errors. This page should help you solve
+  them.
 * :ref:`how-to-contribute`: Contributors can pick from this list if they
   are looking for something to do.
 
