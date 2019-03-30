@@ -37,7 +37,7 @@ Tips - did you know?
    increase your knowledge of TYPO3.
 
    When you feel ready, you should quickly get an overview of what is
-   within :ref:`TYPO3 explained <t3coreapi:start>` and see how this document
+   within :ref:`t3coreapi:start` and see how this document
    relates to other :ref:`references`.
 
 .. End of sidebar
