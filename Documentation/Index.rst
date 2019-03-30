@@ -73,17 +73,25 @@ Latest documentation news
 
 
 
+.. the menu (now) has the following order:
+   1. Official Documentation
+   2. Community Documentation
+   3. About documentation: "About"
+   4. Additional information, like Teams: typo3cms/Teams
+
+.. todo: Define what is "official" documentation, what is "community"
+   documentation, e.g. surf, snippets, cheat sheets etc.
 
 .. toctree::
    :hidden:
 
    typo3cms/GuidesAndTutorials/Index
    typo3cms/References/Index
-   typo3cms/SystemExtensions/Index
-   Snippets, Tips and Howtos  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
-   typo3cms/CheatSheets/Index
-   typo3cms/extensions/Index
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   typo3cms/SystemExtensions/Index
+   typo3cms/extensions/Index
+   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
+   typo3cms/CheatSheets/Index
+   Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    About
    typo3cms/Teams/Index
-   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
