@@ -46,10 +46,7 @@ Tips - did you know?
 -  You can get support for TYPO3 via StackOverflow or Slack. `Read more ... <https://typo3.org/help>`__
 -  You can click on the "Edit me on GitHub" button to edit a page. :ref:`Read more ... <h2document:docs-contribute>`
 
-.. rst-class:: horizbuttons-primary-m
-
--  :ref:`More usage tips <usage-tips>`
--  :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
+:ref:`More usage tips <usage-tips>` | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
 
 Latest documentation news
@@ -70,9 +67,7 @@ Latest documentation news
 -  2018-11-13 :ref:`news-2018-11-13`
 -  2018-11-05 :ref:`news-2018-11-05`
 
-.. rst-class:: horizbuttons-primary-m
-
--  :ref:`All news <news>`
+:ref:`All News <news>`
 
 .. rst-class:: clear-both
 
