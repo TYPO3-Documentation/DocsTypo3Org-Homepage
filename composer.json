@@ -1,6 +1,6 @@
 {
     "name": "typo3/docs-homepage",
-    "type": "project",
+    "type": "typo3-cms-documentation",
     "description": "Homepage of docs.typo3.org",
     "license": ""
 }
