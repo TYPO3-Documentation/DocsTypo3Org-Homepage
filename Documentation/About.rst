@@ -14,5 +14,5 @@ About TYPO3 Documentation
    Tips/UsingThisSite/Index
    News/*
    Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
-   Tips/DocumentationWriters/Index
+   Writing Documentation  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/>
 
