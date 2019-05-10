@@ -12,6 +12,47 @@
 2019
 ====
 
+.. _news-2019-05-09:
+.. rst-class:: panel panel-default
+
+Improvements for new TYPO3 users
+================================
+
+2019-05-09 by Sybille Peters
+
+
+Some more changes were made to make it easier for people new to TYPO3
+to find their way around the documentation:
+
+* The tips on the start page used to address advanced documentation
+  contribution. This has now been moved to :ref:`h2document:start` and
+  more basic tips about TYPO3 and the documentation added, see
+  `start page <https://docs.typo3.org>`__.
+* A page :ref:`usage-tips` was added to help with some aspects of using TYPO3
+  documentation that may not be obvious.
+* The page :ref:`guides` was broken down into categories: for developers,
+  editors, integrators etc.
+  Not all manuals are relevant for each group and this will hopefully make
+  it easier to find relevant material.
+
+
+
+.. _news-2019-05-09-2:
+.. rst-class:: panel panel-default
+
+"Getting Started Tutorial" updated for TYPO3 9.5
+================================================
+
+2019-05-09 by Sybille Peters
+
+
+The :ref:`t3start:start` was updated for TYPO3 9.5.
+
+Additionally, some more improvements were made:
+
+* The section :ref:`Next steps: For Developers <t3start:next-steps-developers>` was added.
+* YouTube videos were embedded in the :ref:`t3start:next-steps` section.
+
 
 
 .. _news-2019-03-08-2:
