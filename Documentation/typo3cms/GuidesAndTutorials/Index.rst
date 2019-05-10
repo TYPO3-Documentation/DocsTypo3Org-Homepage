@@ -92,7 +92,7 @@ in the "Getting Started Tutorial".
 Integrators
 ===========
 
-For a detailed list of resources see :ref:`t3start:next-steps-developers`
+For a detailed list of resources see :ref:`t3start:next-steps-integrators`
 in the "Getting Started Tutorial". Integrators should also look in the
 :ref:`references` section.
 
