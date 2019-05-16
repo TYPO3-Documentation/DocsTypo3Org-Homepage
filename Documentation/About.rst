@@ -1,6 +1,7 @@
 
 .. include:: Includes.txt
 
+.. _about-documentation:
 
 ===========================================
 About TYPO3 Documentation

@@ -9,49 +9,114 @@ Usage Tips
 .. _usage-structure:
 
 
-Structure
-=========
+General Structure
+=================
 
-The page you are currently reading is part of a few start pages we call "glue pages".
+The page you are currently reading is part of a few start pages we call **"glue pages"**.
 From here, everything else is linked. The entire documentation is built out of individual
-"manuals". This can be, for example, an extension manual like
+**"manuals"**. This can be an extension manual like
 `ext:form <https://docs.typo3.org/typo3cms/extensions/form/latest/>`__ or a tutorial
 like :ref:`t3start:start`.
 
-When you are on the start page https://docs.typo3.org, you can use the menu to navigate
-to one of the manuals, for example go to the :ref:`guides` page or :ref:`extensions`
-to select an extension.
+You can regard the "glue pages" as a special top-level manual which is used for information,
+orientation and navigation.
+Most manuals are linked to from the "glue pages", so you can use the "glue pages" to
+find what you are looking for.
 
-.. figure:: mobilemenu.svg
+
+The "glue pages" **contain**:
+
+* the start page https://docs.typo3.org
+* :ref:`tutorials`: A list of tutorials and guides
+* :ref:`references`: A list of core documentation manuals, includeded :ref:`t3coreapi:start`
+  and several references.
+* this page and the entire :ref:`about-documentation` section
+* ...
+
+
+.. _usage-menu:
+
+Menu
+====
+
+Menu of Glue Pages
+------------------
+
+When you are on one of the "glue pages" (for example this page or the start
+page https://docs.typo3.org), you can use the menu to navigate, for
+example go to the :ref:`guides` page to select a guide or tutorial
+or :ref:`extensions` to go to the documentation of an extension.
+
+.. figure:: _images/mobilemenu.svg
    :class: with-shadow
 
-   Menu on mobile
+   Open menu of "glue pages" on mobile
 
-.. figure:: menu1.svg
+.. figure:: _images/menu-glue-pages.svg
    :class: with-shadow
 
-   Desktop view
+   Menu of "glue pages"
+
+
+Menu of Other Manuals
+---------------------
+
+As soon as you go to a manual (e.g. :ref:`t3start:start`), you leave the "glue pages"
+and the menu will look different:
+
+* **On a glue page**: Menu of "glue pages", no search field
+* **On a page of a manual**: Menu of the manual, search field
+
+
+.. figure:: _images/menu-of-getting-started.png
+   :class: with-shadow
+
+   Menu of "Getting Started Tutorial"
+
 
 
 .. _usage-start-page:
 
-Start Page
-==========
+Go to Start Page
+================
 
 Wherever you are, you can click :guilabel:`TYPO3 Documentation` in the top
-left to return to the start page:
+left to return to the start page (click the image for an animated demo!):
 
-.. figure:: home.png
+.. editor's note: the target here has a different path because it points to
+..                the image in the final, generated location
+
+.. figure:: _images/home.png
    :class: with-shadow
    :target: ../../_images/home.gif
+   :alt: Go to documentation start page https://docs.typo3.org
 
-   Click the image for a demo!
+   Go to documentation start page https://docs.typo3.org
 
-.. create invisible image here to make the file available in _images folder!
+.. editor's note: create invisible image here to make the file available
+..                in the generated _images folder!
 
-.. image:: home.gif
+.. image:: _animatedgifs/home.gif
    :width: 0px
    :height: 0px
+
+
+
+.. _usage-start-page-manual:
+
+Go to the Start Page of a Manual
+================================
+
+When you are viewing a page of a manual (not the "glue pages"), you can
+go to the start page of the manual by clicking on the title of the manual
+(directly under :guilabel:`"TYPO3 Documentation"`).
+
+
+.. figure:: _images/getting-started-menu-startpage.svg
+   :class: with-shadow
+   :alt: Go to start page of "Getting Started Tutorial"
+
+   Go to start page of "Getting Started Tutorial"
 
 .. _usage-version-selector:
 
@@ -59,25 +124,30 @@ Version Selector
 ================
 
 When you are reading a manual, for example the :ref:`t3start:start`, you can select
-a version from the version selector on the bottom: Click on :guilabel:`Related Links`
+a version from the version selector on the bottom: Click on :guilabel:`"Related Links"`
 and then select a version. The version usually reflects the TYPO3 version, so for example
-choose 9.5 if you are using TYPO3 9.5 LTS.
+choose 8.7 if you are using TYPO3 8.7 LTS. Click the image for an animated demo!
 
-.. figure:: version-selector.svg
+.. editor's note: the target here has a different path because it points to
+..                the image in the final, generated location. The target is
+..                an animated gif.
+
+.. figure:: _images/version-selector.svg
    :class: with-shadow
    :target: ../../_images/version-selector.gif
 
-   Click the image for a demo!
 
-.. create invisible image here to make the file available in _images folder!
+.. editor's note: Create invisible image here to make the file available
+..                in the generated _images folder! This image is an animated
+..                gif
 
-.. image:: version-selector.gif
+.. image:: _animatedgifs/version-selector.gif
    :width: 0px
    :height: 0px
 
 
 .. note::
-   You cannot select a version from the page you are currently reading. The start page and the "glue pages"
+   You cannot select a version from the page you are currently reading. The "glue pages"
    are not specific to a TYPO3 version.
 
 
@@ -89,12 +159,39 @@ Search
 The search box only searches in the selected manual. For example, if you are
 reading :ref:`t3start:start`, then search will only search within this manual.
 
-For a global search, use a search engine like Google and restrict the
-search to `site:docs.typo3.org`: `Google search: site:docs.typo3.org
-<https://google.com?q=site%3Adocs.typo3.org>`__.
 
-.. image:: search-box.png
+.. figure:: _images/search-box.png
    :class: with-shadow
+   :alt: Search in a manual by using the search box
+
+   Search in a manual by using the search box
+
+
+.. figure:: _images/search-box2.png
+   :class: with-shadow
+   :alt: Type your search query in the search box
+
+   Type your search query in the search box
+
+
+.. figure:: _images/search-box3.png
+   :class: with-shadow
+   :alt: Click on one of the results
+
+   Click on one of the results
+
+
+
+For a global search, use a search engine.
+
+Restrict the search to `site:docs.typo3.org`, *if* you only want to search within
+the official documentation on docs.typo3.org.
+
+Just add your search query to one of these queries:
+
+* `Google search: site:docs.typo3.org <https://google.com?q=site%3Adocs.typo3.org>`__
+* `DuckDuckGo search site:docs.typo3.org <https://duckduckgo.com/?q=site%3Adocs.typo3.org&t=h_&ia=web>`__
+
 
 
 .. _usage-browse-pages-by-keyboard:
@@ -102,9 +199,10 @@ search to `site:docs.typo3.org`: `Google search: site:docs.typo3.org
 Browse Pages by Keyboard
 ========================
 
-Each manual knows about a linear sequence of its pages. Click
-:guilabel:`Next` and :guilabel:`Previous` to move forwards or
-backwards in that sequence.
+Each manual knows about a linear sequence of its pages. Click on the buttons
+:guilabel:`Next` or :guilabel:`Previous` to move forwards or
+backwards in that sequence. The buttons are located on the bottom
+of every page and on the top (in a smaller and more dimmed variant).
 
 The good news is that these functions are also available
 from the keyboard by the "access keys".
@@ -148,7 +246,7 @@ Next Page
 Press :kbd:`access key` + :kbd:`n` or click :guilabel:`Next` to advance to the next
 page in line.
 
-.. image:: next+tooltip.png
+.. image:: _images/next+tooltip.png
    :alt: click on 'next'
    :class: with-shadow
 
@@ -158,7 +256,7 @@ Previous Page
 Press :kbd:`access key` + :kbd:`p` or click "Previous" to go to the page that
 precedes the current page.
 
-.. image:: previous.png
+.. image:: _images/previous.png
    :alt: click on 'next'
    :class: with-shadow
 

@@ -27,13 +27,26 @@ to find their way around the documentation:
 * The tips on the start page used to address advanced documentation
   contribution. This has now been moved to :ref:`h2document:start` and
   more basic tips about TYPO3 and the documentation added, see
-  `start page <https://docs.typo3.org>`__.
+  `start page <https://docs.typo3.org>`__. This includes for example a
+  link to the `help page on typo3.org <https://typo3.org/help>`__.
+
+.. figure:: files/tips-on-start-page.png
+   :class: with-shadow
+
+   Tips on start page
+
+
 * A page :ref:`usage-tips` was added to help with some aspects of using TYPO3
-  documentation that may not be obvious.
+  documentation that may not be obvious (:ref:`version selector <usage-version-selector>`,
+  :ref:`structure <usage-structure>`, :ref:`navigation <usage-menu>`,
+  :ref:`search <usage-search>`).
 * The page :ref:`guides` was broken down into categories: for developers,
   editors, integrators etc.
   Not all manuals are relevant for each group and this will hopefully make
   it easier to find relevant material.
+* Additionally, the page :ref:`guides` points to the subpages under "Next steps"
+  in the "Getting Started Tutorial" for developers, integrators, etc. which
+  contain additional tips on what to read next.
 
 
 
@@ -51,9 +64,12 @@ The :ref:`t3start:start` was updated for TYPO3 9.5.
 Additionally, some more improvements were made:
 
 * The section :ref:`Next steps: For Developers <t3start:next-steps-developers>` was added.
+* More updated information was added to all the :ref:`Next steps <t3start:next-steps>`
+  pages.
 * YouTube videos were embedded in the :ref:`t3start:next-steps` section.
-
-
+* Sections headlines were added, some bold formatting and lists were added to improve
+  readabiilty
+* All images got a drop-shadow
 
 .. _news-2019-03-08-2:
 .. rst-class:: panel panel-default

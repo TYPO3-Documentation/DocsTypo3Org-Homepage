@@ -33,18 +33,22 @@ Tips - did you know?
 
    If you are new to TYPO3, please start by looking at the :ref:`t3start:start`
    and the other
-   :ref:`Tutorials <tutorials>`, which will help you progressively
+   :ref:`Tutorials and Guides <tutorials>`, which will help you progressively
    increase your knowledge of TYPO3.
 
    When you feel ready, you should quickly get an overview of what is
-   within :ref:`t3coreapi:start` and see how this document
-   relates to other :ref:`references`.
+   within :ref:`t3coreapi:start`, which is *the main manual about TYPO3*.
+   Additionally, you might want to refer to the :ref:`References <references>`.
 
 .. End of sidebar
 
--  Most manuals are available for several TYPO3 versions. :ref:`Read more ... <usage-version-selector>`
--  You can get support for TYPO3 via StackOverflow or Slack. `Read more ... <https://typo3.org/help>`__
--  You can click on the "Edit me on GitHub" button to edit a page. :ref:`Read more ... <h2document:docs-contribute>`
+-  Most manuals are available for several TYPO3 versions. If you are using an older
+   TYPO3 version (before TYPO3 9.5), make sure to select the correct version for
+   the manual you are reading! :ref:`Read more ... <usage-version-selector>`
+-  You can get support for TYPO3 via StackOverflow or Slack. Find out more on https://typo3.org/help
+-  You can find out more about the TYPO3 CMS on https://typo3.org/cms/
+-  You can click on the "Edit me on GitHub" button to edit any page and contribute directly to TYPO3
+   documentation! :ref:`Read more ... <h2document:docs-contribute>`
 
 :ref:`More usage tips <usage-tips>` | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
