@@ -5,5 +5,5 @@
     "license": "",
     "require": {
       "typo3/cms-core": "^9.5"
-    },
+    }
 }
