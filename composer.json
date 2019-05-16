@@ -2,5 +2,8 @@
     "name": "typo3/docs-homepage",
     "type": "typo3-cms-documentation",
     "description": "Homepage of docs.typo3.org",
-    "license": ""
+    "license": "",
+    "require": {
+      "typo3/cms-core": "^9.5"
+    },
 }
