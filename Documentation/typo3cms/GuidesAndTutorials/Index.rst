@@ -62,7 +62,7 @@ and :ref:`tutguides-docs`.
 
 .. tip::
 
-   Did you know, you can click on "Related links" at the bottom of a page in most
+   Did you know, you can click on "Related links" at the bottom of the menu in most
    manuals to select a different version? The versions of the manual correspond to the TYPO3
    version. :ref:`Read more ... <usage-version-selector>`
 
