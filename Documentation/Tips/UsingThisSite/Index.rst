@@ -124,7 +124,7 @@ Version Selector
 ================
 
 When you are reading a manual, for example the :ref:`t3start:start`, you can select
-a version from the version selector on the bottom: Click on :guilabel:`"Related Links"`
+a version from the version selector on the bottom of the menu: Click on :guilabel:`"Related Links"`
 and then select a version. The version usually reflects the TYPO3 version, so for example
 choose 8.7 if you are using TYPO3 8.7 LTS. Click the image for an animated demo!
 
