@@ -28,7 +28,7 @@ The "glue pages" **contain**:
 
 * the start page https://docs.typo3.org
 * :ref:`tutorials`: A list of tutorials and guides
-* :ref:`references`: A list of core documentation manuals, includeded :ref:`t3coreapi:start`
+* :ref:`references`: A list of core documentation manuals, including :ref:`t3coreapi:start`
   and several references.
 * this page and the entire :ref:`about-documentation` section
 * ...
