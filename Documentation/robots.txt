@@ -1,0 +1,9 @@
+User-agent: *
+# @TODO: still required?
+Disallow: /getthedocs/files/
+
+# Dont' index the services folder
+Disallow: /services/
+
+# Don't index drafts
+Disallow: */draft/*
