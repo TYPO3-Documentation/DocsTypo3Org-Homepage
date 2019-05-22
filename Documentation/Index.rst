@@ -89,7 +89,7 @@ Latest documentation news
 .. toctree::
    :hidden:
 
-   typo3cms/GuidesAndTutorials/Index
+   Home/GuidesAndTutorials
    typo3cms/References/Index
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    typo3cms/SystemExtensions/Index

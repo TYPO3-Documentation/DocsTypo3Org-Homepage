@@ -1,5 +1,5 @@
 
-.. include:: ../../Includes.txt
+.. include:: ../Includes.txt
 
 .. _examples:
 .. _guides:
