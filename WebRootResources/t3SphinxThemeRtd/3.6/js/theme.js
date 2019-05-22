@@ -18,7 +18,7 @@ $(document).ready(function() {
     var fillInRelatedLinks = function () {
         $("#relatedLinksFaSpan").attr('class', 'fa fa-spinner fa-spin');
         $('#ajaxversions').load(
-            'https://docs.typo3.org/services/ajaxversions.php?url=' + encodeURI(document.URL),
+            '/services/ajaxversions.php?url=' + encodeURI(document.URL),
             false,
             function (responseText, textStatus, jqXHR) {
                 $("#relatedLinksFaSpan").attr('class', 'fa fa-book');
@@ -26,7 +26,7 @@ $(document).ready(function() {
             }
         );
         $('#ajaxdownloads').load(
-            'https://docs.typo3.org/services/ajaxdownloads.php?url=' + encodeURI(document.URL),
+            '/services/ajaxdownloads.php?url=' + encodeURI(document.URL),
             false,
             function (responseText, textStatus, jqXHR) {
                 window.T3Docs['fillInRelatedLinks'] = {'dest':'ajaxdownloads.php', 'responseText':responseText, 'textStatus':textStatus};
