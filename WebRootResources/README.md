@@ -11,6 +11,14 @@ Changing these files in the 'master' branch of the 'homepage' repository
 at https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
 automatically updates these resource files on the documentation server.
 
+Note that NEW / additional resource files and directories in this directory itself
+(parallel to the README.md you are currently reading, so files like robots.txt and directories)
+do NOT go live automatically: The deployment task links single files one by one and needs
+new entries if new/additional files or directories should end up in the document root
+of the live server. This needs an adaption of the deployment task, and thus communication
+with the TYPO3 GmbH persons to achieve that. File changes of existing files and changing content
+of existing files however go live immediately if pushing to the master branch.
+
 The resources here especially contain the main 't3SphinxThemeRtd' folder
 that is used by all rendered documentation published to the documentation server:
 Usually, if rendering documentation of some TYPO3 project locally, the result is 'self contained'
