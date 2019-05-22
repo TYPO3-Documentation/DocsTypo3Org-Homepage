@@ -1,5 +1,5 @@
 
-.. include:: Includes.txt
+.. include:: ../../Includes.txt
 
 .. _about-documentation:
 
@@ -12,7 +12,7 @@ About TYPO3 Documentation
    :titlesonly:
    :glob:
 
-   Tips/UsingThisSite/Index
+   UsingThisSite/Index
    News/*
    Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
    Writing Documentation  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/>

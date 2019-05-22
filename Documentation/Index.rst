@@ -90,12 +90,12 @@ Latest documentation news
    :hidden:
 
    Home/GuidesAndTutorials
-   typo3cms/References/Index
+   Home/References
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
-   typo3cms/SystemExtensions/Index
-   typo3cms/extensions/Index
+   Home/SystemExtensions
+   Home/Extensions
    Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
-   typo3cms/CheatSheets/Index
+   Home/CheatSheets
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
-   About
-   typo3cms/Teams/Index
+   Home/About/Index
+   Home/Teams
