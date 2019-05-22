@@ -7,3 +7,6 @@ Disallow: /services/
 
 # Don't index drafts
 Disallow: */draft/*
+
+# Don't index singlehtml versions of docs to avoid duplicate content
+Disallow: */singlehtml/*
