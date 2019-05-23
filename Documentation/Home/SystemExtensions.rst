@@ -75,10 +75,6 @@ part of the core and extracted at some point in time.
      :ExtKey: recycler
      :Comment:
 
-   - :Manual: `RSA authentication <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/>`_
-     :ExtKey: rsaauth
-     :Comment: Deprecated since TYPO3 9.1
-
    - :Manual: `Integration of CKEditor as Rich Text Editor <https://stage.docs.typo3.com/typo3cms/extensions/rte_ckeditor/>`_
      :ExtKey: rte_ckeditor
      :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
@@ -86,14 +82,6 @@ part of the core and extracted at some point in time.
    - :Manual: `Scheduler <https://stage.docs.typo3.com/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
-
-   - :Manual: `System Actions <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>`_
-     :ExtKey: sys_action
-     :Comment:
-
-   - :Manual: `Taskcenter <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>`_
-     :ExtKey: taskcenter
-     :Comment:
 
    - :Manual: `Workspaces and Versioning <https://stage.docs.typo3.com/typo3cms/extensions/workspaces/>`_
      :ExtKey: workspaces
@@ -126,6 +114,10 @@ Documentation of system extensions abandoned from current core version
      :ExtKey: openid
      :Comment: Included until TYPO3 <= 6.2
 
+   - :Manual: `RSA authentication <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/>`_
+     :ExtKey: rsaauth
+     :Comment: Included until TYPO3 <= 9.5
+
    - :Manual: `htmlarea RTE <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/7.6/>`_
      :ExtKey: rtehtmlarea
      :Comment: Included until TYPO3 <= 7.6
@@ -133,3 +125,11 @@ Documentation of system extensions abandoned from current core version
    - :Manual: `Salted user password hashes <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/>`_
      :ExtKey: saltedpasswords
      :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://stage.docs.typo3.com/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+
+   - :Manual: `System Actions <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>`_
+     :ExtKey: sys_action
+     :Comment: Included until TYPO3 <= 9.5
+
+   - :Manual: `Taskcenter <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>`_
+     :ExtKey: taskcenter
+     :Comment: Included until TYPO3 <= 9.5
