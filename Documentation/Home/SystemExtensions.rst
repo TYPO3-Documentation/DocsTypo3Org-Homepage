@@ -17,18 +17,18 @@ listed here.
 .. toctree::
    :hidden:
 
-   felogin ➜ <https://docs.typo3.org/typo3cms/extensions/felogin/>
-   fluid_styled_content  ➜ <https://docs.typo3.org/typo3cms/extensions/fluid_styled_content/>
-   form ➜ <https://docs.typo3.org/typo3cms/extensions/form/>
-   indexed_search ➜ <https://docs.typo3.org/typo3cms/extensions/indexed_search/>
-   linkvalidator ➜ <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>
-   recycler ➜ <https://docs.typo3.org/typo3cms/extensions/recycler/>
-   rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
-   rte_ckeditor ➜ <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>
-   scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
-   sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
-   taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
-   workspaces ➜ <https://docs.typo3.org/typo3cms/extensions/workspaces/>
+   felogin ➜ <https://stage.docs.typo3.com/typo3cms/extensions/felogin/>
+   fluid_styled_content  ➜ <https://stage.docs.typo3.com/typo3cms/extensions/fluid_styled_content/>
+   form ➜ <https://stage.docs.typo3.com/typo3cms/extensions/form/>
+   indexed_search ➜ <https://stage.docs.typo3.com/typo3cms/extensions/indexed_search/>
+   linkvalidator ➜ <https://stage.docs.typo3.com/typo3cms/extensions/linkvalidator/>
+   recycler ➜ <https://stage.docs.typo3.com/typo3cms/extensions/recycler/>
+   rsaauth ➜ <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/>
+   rte_ckeditor ➜ <https://stage.docs.typo3.com/typo3cms/extensions/rte_ckeditor/>
+   scheduler ➜ <https://stage.docs.typo3.com/typo3cms/extensions/scheduler/>
+   sys_action ➜ <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>
+   taskcenter ➜ <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>
+   workspaces ➜ <https://stage.docs.typo3.com/typo3cms/extensions/workspaces/>
 
 
 Documentation of system extensions in current core version
@@ -51,51 +51,51 @@ part of the core and extracted at some point in time.
      :ExtKey: Extension key
      :Comment: Comment
 
-   - :Manual: `Frontend Login <https://docs.typo3.org/typo3cms/extensions/felogin/>`_
+   - :Manual: `Frontend Login <https://stage.docs.typo3.com/typo3cms/extensions/felogin/>`_
      :ExtKey: felogin
      :Comment:
 
-   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/typo3cms/extensions/fluid_styled_content/>`_
+   - :Manual: `Content Elements based on Fluid <https://stage.docs.typo3.com/typo3cms/extensions/fluid_styled_content/>`_
      :ExtKey: fluid_styled_content
      :Comment:
 
-   - :Manual: `Form framework <https://docs.typo3.org/typo3cms/extensions/form/>`_
+   - :Manual: `Form framework <https://stage.docs.typo3.com/typo3cms/extensions/form/>`_
      :ExtKey: form
      :Comment: Extensive manual
 
-   - :Manual: `Indexed Search <https://docs.typo3.org/typo3cms/extensions/indexed_search/>`_
+   - :Manual: `Indexed Search <https://stage.docs.typo3.com/typo3cms/extensions/indexed_search/>`_
      :ExtKey: indexed_search
      :Comment:
 
-   - :Manual: `Link validator <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>`_
+   - :Manual: `Link validator <https://stage.docs.typo3.com/typo3cms/extensions/linkvalidator/>`_
      :ExtKey: linkvalidator
      :Comment:
 
-   - :Manual: `Recycler <https://docs.typo3.org/typo3cms/extensions/recycler/>`_
+   - :Manual: `Recycler <https://stage.docs.typo3.com/typo3cms/extensions/recycler/>`_
      :ExtKey: recycler
      :Comment:
 
-   - :Manual: `RSA authentication <https://docs.typo3.org/typo3cms/extensions/rsaauth/>`_
+   - :Manual: `RSA authentication <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/>`_
      :ExtKey: rsaauth
      :Comment: Deprecated since TYPO3 9.1
 
-   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`_
+   - :Manual: `Integration of CKEditor as Rich Text Editor <https://stage.docs.typo3.com/typo3cms/extensions/rte_ckeditor/>`_
      :ExtKey: rte_ckeditor
      :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
 
-   - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
+   - :Manual: `Scheduler <https://stage.docs.typo3.com/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
 
-   - :Manual: `System Actions <https://docs.typo3.org/typo3cms/extensions/sys_action/>`_
+   - :Manual: `System Actions <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>`_
      :ExtKey: sys_action
      :Comment:
 
-   - :Manual: `Taskcenter <https://docs.typo3.org/typo3cms/extensions/taskcenter/>`_
+   - :Manual: `Taskcenter <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>`_
      :ExtKey: taskcenter
      :Comment:
 
-   - :Manual: `Workspaces and Versioning <https://docs.typo3.org/typo3cms/extensions/workspaces/>`_
+   - :Manual: `Workspaces and Versioning <https://stage.docs.typo3.com/typo3cms/extensions/workspaces/>`_
      :ExtKey: workspaces
      :Comment:
 
@@ -110,26 +110,26 @@ Documentation of system extensions abandoned from current core version
      :ExtKey: Extension key
      :Comment: Comment
 
-   - :Manual: `ADOdb <https://docs.typo3.org/typo3cms/extensions/adodb/7.6/>`_
+   - :Manual: `ADOdb <https://stage.docs.typo3.com/typo3cms/extensions/adodb/7.6/>`_
      :ExtKey: adodb
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `CSS Styled Content <https://docs.typo3.org/typo3cms/extensions/css_styled_content/8.7/>`_
+   - :Manual: `CSS Styled Content <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/8.7/>`_
      :ExtKey: css_styled_content
      :Comment: Included until TYPO3 <= 8.7
 
-   - :Manual: `Database abstraction layer <https://docs.typo3.org/typo3cms/extensions/dbal/7.6/>`_
+   - :Manual: `Database abstraction layer <https://stage.docs.typo3.com/typo3cms/extensions/dbal/7.6/>`_
      :ExtKey: dbal
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `Openid <https://docs.typo3.org/typo3cms/extensions/openid/6.2>`_
+   - :Manual: `Openid <https://stage.docs.typo3.com/typo3cms/extensions/openid/6.2>`_
      :ExtKey: openid
      :Comment: Included until TYPO3 <= 6.2
 
-   - :Manual: `htmlarea RTE <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/7.6/>`_
+   - :Manual: `htmlarea RTE <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/7.6/>`_
      :ExtKey: rtehtmlarea
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `Salted user password hashes <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/>`_
+   - :Manual: `Salted user password hashes <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/>`_
      :ExtKey: saltedpasswords
-     :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+     :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://stage.docs.typo3.com/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_

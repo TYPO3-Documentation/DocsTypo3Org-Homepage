@@ -18,7 +18,7 @@ Quick links
 
 - :ref:`t3start:start`
 - :ref:`TYPO3 Explained <t3coreapi:Start>`
-- `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
+- :ref:`Core ChangeLog <https://stage.docs.typo3.com/typo3cms/extensions/core/latest/>`__
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
@@ -91,11 +91,11 @@ Latest documentation news
 
    Home/GuidesAndTutorials
    Home/References
-   Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   Tell Me Something About Topic X  ➜  <https://stage.docs.typo3.com/typo3cms/TellMeSomethingAbout/>
    Home/SystemExtensions
    Home/Extensions
-   Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
+   Surf for Deployment  ➜  <https://stage.docs.typo3.com/surf/>
    Home/CheatSheets
-   Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
+   Snippets  ➜  <https://stage.docs.typo3.com/typo3cms/Snippets/>
    Home/About/Index
    Home/Teams

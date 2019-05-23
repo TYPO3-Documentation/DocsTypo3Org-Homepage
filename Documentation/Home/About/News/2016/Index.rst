@@ -64,7 +64,7 @@ Better explained: TCA type "flex"
 
 I did a bigger change to the type=flex docs in TCA reference. I hope all the complex stuff is
 explained a bit better in detail now. See `TCA, Pointing to a Data Structure
-<https://docs.typo3.org/typo3cms/TCAReference/8-dev/ColumnsConfig/Type/Flex.html#pointing-to-a-data-structure>`__.
+<https://stage.docs.typo3.com/typo3cms/TCAReference/8-dev/ColumnsConfig/Type/Flex.html#pointing-to-a-data-structure>`__.
 
 
 
@@ -78,7 +78,7 @@ NEW: Doctrine Database API documented in CoreApi Manual
 
 .. image:: files/2016-10-08-doctrine.png
    :alt: Go to new TYPO3 Doctrine Database Documentation
-   :target: https://docs.typo3.org/typo3cms/CoreApiReference/Database/
+   :target: https://stage.docs.typo3.com/typo3cms/CoreApiReference/Database/
 
 For TYPO3 CMS version ≥ 8.3
 
@@ -101,8 +101,8 @@ to improve the documentation.
 Have fun!
 
 .. _doctrine-dbal: http://www.doctrine-project.org/projects/dbal.html
-.. _Doctrine based database API: https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/Database/
-.. _TYPO3 API documentation: https://docs.typo3.org/typo3cms/CoreApiReference/
+.. _Doctrine based database API: https://stage.docs.typo3.com/typo3cms/CoreApiReference/ApiOverview/Database/
+.. _TYPO3 API documentation: https://stage.docs.typo3.com/typo3cms/CoreApiReference/
 
 
 .. _news-2016-10-05:
@@ -153,10 +153,10 @@ templatename for the rendering of that document.
 
 Are you still there?
 
-See the `extensions page <https://docs.typo3.org/typo3cms/extensions/Index.html>`__ for example.
-And look at `the source <https://docs.typo3.org/_sources/typo3cms/extensions/Index.txt>`__.
-A sitemap `like this <https://docs.typo3.org/typo3cms/CoreApiReference/Sitemap/Index.html>`__
-is another example. And again: Look at `the source <https://docs.typo3.org/typo3cms/CoreApiReference/_sources/Sitemap/Index.txt>`__.
+See the `extensions page <https://stage.docs.typo3.com/typo3cms/extensions/Index.html>`__ for example.
+And look at `the source <https://stage.docs.typo3.com/_sources/typo3cms/extensions/Index.txt>`__.
+A sitemap `like this <https://stage.docs.typo3.com/typo3cms/CoreApiReference/Sitemap/Index.html>`__
+is another example. And again: Look at `the source <https://stage.docs.typo3.com/typo3cms/CoreApiReference/_sources/Sitemap/Index.txt>`__.
 
 I bet you noticed: That's a general mechanism opening new doors. Hooray!
 
@@ -231,7 +231,7 @@ Improved Theme: Now it's version 3.6.0
 with the theme are fixed now. And the `README of the repository
 <https://github.com/TYPO3-Documentation/t3SphinxThemeRtd>`__
 now has a pointer to the DEMO DOCS `t3SphinxThemeRtdDemoDocs
-<https://docs.typo3.org/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
+<https://stage.docs.typo3.com/typo3cms/drafts/github/TYPO3-Documentation/t3SphinxThemeRtdDemoDocs/>`__
 which are kind of a "stresstest" for the theme and demonstrate what's possible.
 
 New: A `.. rst-class:: panel panel-default` right before a section (headline) will give it a Twitter-Bootstrap
@@ -255,7 +255,7 @@ TypoScript Syntax Reference updated
 
 2016-05-31 by François Suter
 
-The `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
+The `TypoScript Syntax Reference <https://stage.docs.typo3.com/typo3cms/TyposcriptSyntaxReference/>`__
 is now up to date again for TYPO3 CMS 7. It was partly restructured
 to remove redundancies and globally make for a more consistent reading.
 Some obsolete parts were dropped.
@@ -272,7 +272,7 @@ TypoScript Syntax Reference has new outfit
 
 2016-05-18
 
-The `TypoScript Syntax Reference <https://docs.typo3.org/typo3cms/TyposcriptSyntaxReference/>`__
+The `TypoScript Syntax Reference <https://stage.docs.typo3.com/typo3cms/TyposcriptSyntaxReference/>`__
 is coming along in the new theme now as well.
 
 
@@ -285,7 +285,7 @@ TSconfig Reference switched to new theme
 
 2016-05-08
 
-The `TSconfig Reference <https://docs.typo3.org/typo3cms/TSconfigReference/>`__ now has
+The `TSconfig Reference <https://stage.docs.typo3.com/typo3cms/TSconfigReference/>`__ now has
 the new theme as well.
 
 
@@ -299,7 +299,7 @@ Templating Tutorial updated
 2016-05-12 by François Suter
 
 The `Templating Tutorial (Basics)
-<https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__
+<https://stage.docs.typo3.com/typo3cms/TemplatingTutorial/>`__
 is now up to date again.
 More than refreshed, it was really refactored. This tutorial was accompanied by
 files delivered via the extension called "doc_tut_templating". I have now made
@@ -341,7 +341,7 @@ Old and new classnames
 
 What are the new namespaced classnames that replace outdated old ones
 of TYPO3 v4? You can now `find the answer in the documentation.
-<https://docs.typo3.org/typo3cms/CoreApiReference/6.2/ApiOverview/Namespaces/Index.html#classaliasmap-php>`__
+<https://stage.docs.typo3.com/typo3cms/CoreApiReference/6.2/ApiOverview/Namespaces/Index.html#classaliasmap-php>`__
 
 .. figure:: files/2016-03-24-ClassAliasMap.png
    :target: /typo3cms/CoreApiReference/6.2/ApiOverview/Namespaces/Index.html#classaliasmap-php
