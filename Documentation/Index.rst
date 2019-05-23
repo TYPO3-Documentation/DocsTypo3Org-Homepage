@@ -18,7 +18,7 @@ Quick links
 
 - :ref:`t3start:start`
 - :ref:`TYPO3 Explained <t3coreapi:Start>`
-- :ref:`Core ChangeLog <https://stage.docs.typo3.com/typo3cms/extensions/core/latest/>`__
+- `Core ChangeLog <https://stage.docs.typo3.com/typo3cms/extensions/core/latest/>`__
 - :ref:`TCA Reference <t3tca:Start>`
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
