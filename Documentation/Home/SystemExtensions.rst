@@ -96,6 +96,7 @@ Documentation of system extensions abandoned from current core version
 
    - :Manual: Manual
      :ExtKey: Extension key
+     :Versions: Versions
      :Comment: Comment
 
    - :Manual: `ADOdb <https://stage.docs.typo3.com/typo3cms/extensions/adodb/7.6/>`_
@@ -104,6 +105,9 @@ Documentation of system extensions abandoned from current core version
 
    - :Manual: `CSS Styled Content <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/8.7/>`_
      :ExtKey: css_styled_content
+     :Versions: `8.7 <https://stage.docs.typo3.com/c/typo3/cms-css-styled-content/8.7/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/6.2/>`__
      :Comment: Included until TYPO3 <= 8.7
 
    - :Manual: `Database abstraction layer <https://stage.docs.typo3.com/typo3cms/extensions/dbal/7.6/>`_
