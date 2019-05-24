@@ -149,8 +149,12 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/6.2/>`__
      :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://stage.docs.typo3.com/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
 
-   - :Manual: `System Actions <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>`_
+   - :Manual: `System Actions <https://stage.docs.typo3.com/c/typo3/cms-sys-action/9.5/en-us/>`_
      :ExtKey: sys_action
+     :Versions: `9.5 <https://stage.docs.typo3.com/c/typo3/cms-sys-action/9.5/en-us/>`__ |
+                `8.7 <https://stage.docs.typo3.com/c/typo3/cms-sys-action/8.7/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/6.2/>`__
      :Comment: Included until TYPO3 <= 9.5
 
    - :Manual: `Taskcenter <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>`_
