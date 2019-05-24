@@ -119,8 +119,12 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/dbal/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `Openid <https://stage.docs.typo3.com/typo3cms/extensions/openid/6.2>`_
+   - :Manual: `Openid <https://stage.docs.typo3.com/p/friendsoftypo3/openid/8.1/en-us/>`_
      :ExtKey: openid
+     :Versions: `8.1 <https://stage.docs.typo3.com/p/friendsoftypo3/openid/8.1/en-us/>`__ |
+                `8.0 <https://stage.docs.typo3.com/p/friendsoftypo3/openid/8.0/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/p/friendsoftypo3/openid/7.6/en-us/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/openid/6.2/>`__
      :Comment: Included until TYPO3 <= 6.2
 
    - :Manual: `RSA authentication <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/>`_
