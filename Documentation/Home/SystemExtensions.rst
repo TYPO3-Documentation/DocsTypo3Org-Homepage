@@ -142,8 +142,11 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `Salted user password hashes <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/>`_
+   - :Manual: `Salted user password hashes <https://stage.docs.typo3.com/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
      :ExtKey: saltedpasswords
+     :Versions: `8.7 <https://stage.docs.typo3.com/c/typo3/cms-saltedpasswords/8.7/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/6.2/>`__
      :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://stage.docs.typo3.com/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
 
    - :Manual: `System Actions <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/>`_
