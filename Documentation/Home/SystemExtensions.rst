@@ -127,16 +127,19 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/openid/6.2/>`__
      :Comment: Included until TYPO3 <= 6.2
 
-   - :Manual: `RSA authentication <https://stage.docs.typo3.com/c/typo3/rsaauth/9.5/en-us/>`_
+   - :Manual: `RSA authentication <https://stage.docs.typo3.com/p/friendsoftypo3/rsaauth/9.5/en-us/>`_
      :ExtKey: rsaauth
-     :Versions: `9.5 <https://stage.docs.typo3.com/c/typo3/rsaauth/9.5/en-us/>`__ |
-                `8.7 <https://stage.docs.typo3.com/c/typo3/rsaauth/8.7/en-us/>`__ |
+     :Versions: `9.5 <https://stage.docs.typo3.com/p/friendsoftypo3/rsaauth/9.5/en-us/>`__ |
+                `8.7 <https://stage.docs.typo3.com/p/friendsoftypo3/rsaauth/8.7/en-us/>`__ |
                 `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/7.6/>`__ |
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/rsaauth/6.2/>`__
      :Comment: Included until TYPO3 <= 9.5
 
-   - :Manual: `htmlarea RTE <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/7.6/>`_
+   - :Manual: `htmlarea RTE <https://stage.docs.typo3.com/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`_
      :ExtKey: rtehtmlarea
+                `8.7 <https://stage.docs.typo3.com/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
 
    - :Manual: `Salted user password hashes <https://stage.docs.typo3.com/typo3cms/extensions/saltedpasswords/>`_
