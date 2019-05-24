@@ -157,6 +157,10 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/sys_action/6.2/>`__
      :Comment: Included until TYPO3 <= 9.5
 
-   - :Manual: `Taskcenter <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/>`_
+   - :Manual: `Taskcenter <https://stage.docs.typo3.com/c/typo3/cms-taskcenter/9.5/en-us/>`_
      :ExtKey: taskcenter
+     :Versions: `9.5 <https://stage.docs.typo3.com/c/typo3/cms-taskcenter/9.5/en-us/>`__ |
+                `8.7 <https://stage.docs.typo3.com/c/typo3/cms-taskcenter/8.7/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/taskcenter/6.2/>`__
      :Comment: Included until TYPO3 <= 9.5
