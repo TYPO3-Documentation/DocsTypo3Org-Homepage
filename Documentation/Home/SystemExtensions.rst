@@ -137,7 +137,7 @@ Documentation of system extensions abandoned from current core version
 
    - :Manual: `htmlarea RTE <https://stage.docs.typo3.com/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`_
      :ExtKey: rtehtmlarea
-                `8.7 <https://stage.docs.typo3.com/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`__ |
+     :Versions: `8.7 <https://stage.docs.typo3.com/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`__ |
                 `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/7.6/>`__ |
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/rtehtmlarea/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
