@@ -99,11 +99,12 @@ Documentation of system extensions abandoned from current core version
      :Versions: Versions
      :Comment: Comment
 
-   - :Manual: `ADOdb <https://stage.docs.typo3.com/typo3cms/extensions/adodb/7.6/>`_
+   - :Manual: `ADOdb <https://stage.docs.typo3.com/p/friendsoftypo3/adodb/8.4/en-us/>`_
      :ExtKey: adodb
+     :Versions: `8.4 <https://stage.docs.typo3.com/p/friendsoftypo3/adodb/8.4/en-us/>`__ |
      :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `CSS Styled Content <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/8.7/>`_
+   - :Manual: `CSS Styled Content <https://stage.docs.typo3.com/c/typo3/cms-css-styled-content/8.7/en-us/>`_
      :ExtKey: css_styled_content
      :Versions: `8.7 <https://stage.docs.typo3.com/c/typo3/cms-css-styled-content/8.7/en-us/>`__ |
                 `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/7.6/>`__ |
