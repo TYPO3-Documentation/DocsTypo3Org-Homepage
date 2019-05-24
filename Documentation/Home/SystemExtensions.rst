@@ -102,6 +102,7 @@ Documentation of system extensions abandoned from current core version
    - :Manual: `ADOdb <https://stage.docs.typo3.com/p/friendsoftypo3/adodb/8.4/en-us/>`_
      :ExtKey: adodb
      :Versions: `8.4 <https://stage.docs.typo3.com/p/friendsoftypo3/adodb/8.4/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/adodb/7.6/>`__
      :Comment: Included until TYPO3 <= 7.6
 
    - :Manual: `CSS Styled Content <https://stage.docs.typo3.com/c/typo3/cms-css-styled-content/8.7/en-us/>`_
@@ -111,8 +112,11 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/css_styled_content/6.2/>`__
      :Comment: Included until TYPO3 <= 8.7
 
-   - :Manual: `Database abstraction layer <https://stage.docs.typo3.com/typo3cms/extensions/dbal/7.6/>`_
+   - :Manual: `Database abstraction layer <https://stage.docs.typo3.com/p/friendsoftypo3/dbal/8.4/en-us/>`_
      :ExtKey: dbal
+     :Versions: `8.4 <https://stage.docs.typo3.com/p/friendsoftypo3/dbal/8.4/en-us/>`__ |
+                `7.6 <https://stage.docs.typo3.com/typo3cms/extensions/dbal/7.6/>`__ |
+                `6.2 <https://stage.docs.typo3.com/typo3cms/extensions/dbal/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
 
    - :Manual: `Openid <https://stage.docs.typo3.com/typo3cms/extensions/openid/6.2>`_
