@@ -38,7 +38,7 @@ NEW: TYPO3 ViewHelper Reference
 2018-11-05 by Daniel Siepmann
 
 Done! A complete auto generated ViewHelper Reference is now available at
-https://stage.docs.typo3.com/typo3cms/ViewHelperReference/Index.html.
+https://prod.docs.typo3.com/typo3cms/ViewHelperReference/Index.html.
 
 Right now, this is auto generated from TYPO3 CMS 9.5.1 source code, but
 manually rendered and published. The plans are to automate this process and to
@@ -102,7 +102,7 @@ on the list:
 
 * All added / changed properties of v9 are reflected in :ref:`TYPO3 Explained <t3coreapi:start>` and
   the reference documents already. Our workflow to review the `Changelog files
-  <https://stage.docs.typo3.com/typo3cms/extensions/core/latest/>`_ and merge relevant parts directly
+  <https://prod.docs.typo3.com/typo3cms/extensions/core/latest/>`_ and merge relevant parts directly
   works out great. Special thanks to Anja Leichsenring for her continued efforts in this area!
 
 * :ref:`TCA colums config reference <t3tca:columns-types>` got an update to better compare :php:`user`,
@@ -133,7 +133,7 @@ NEW: TYPO3 Sitepackage Tutorial
 2018-06-13 by Michael Schams
 
 .. figure:: files/2018-06-13-site-package-tutorial.png
-   :target: https://stage.docs.typo3.com/typo3cms/SitePackageTutorial/
+   :target: https://prod.docs.typo3.com/typo3cms/SitePackageTutorial/
    :alt:    A teaser screenshot
    :class:  float-left with-shadow
    :width:  25 %
@@ -145,7 +145,7 @@ mobile-responsive website.
 
 .. rst-class:: horizbuttons-primary-m clear-both
 
-- `Sitepackage Tutorial <https://stage.docs.typo3.com/typo3cms/SitePackageTutorial/>`__
+- `Sitepackage Tutorial <https://prod.docs.typo3.com/typo3cms/SitePackageTutorial/>`__
 
 
 
@@ -159,7 +159,7 @@ mobile-responsive website.
 2018-05-31 by Martin Bless
 
 All this is about documentation published at `docs.typo3.org
-<https://stage.docs.typo3.com>`__.
+<https://prod.docs.typo3.com>`__.
 
 Sometimes it's difficult to do all the necessary things simultaneously.
 Informing the public is an easy candidate to be forgotten. Let's try to fix
@@ -320,7 +320,7 @@ caching work? How can I improve performance? How to use
 composer with TYPO3? And often answers are given in
 blogpostings, slides, videos and so on.
 
-`The new manual <https://stage.docs.typo3.com/typo3cms/TellMeSomethingAbout/>`__
+`The new manual <https://prod.docs.typo3.com/typo3cms/TellMeSomethingAbout/>`__
 is the dedicated spot to list and collect
 those topics. And it's up to you and everybody in the
 community to come up with explanations, helpful texts

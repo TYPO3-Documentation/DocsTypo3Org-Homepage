@@ -51,7 +51,7 @@ Use wisely!
 
 More examples:
 
-* `ext:form quick start <https://stage.docs.typo3.com/typo3cms/extensions/form/QuickStart/Index.html>`__
+* `ext:form quick start <https://prod.docs.typo3.com/typo3cms/extensions/form/QuickStart/Index.html>`__
 
 
 .. _news-2017-03-14:
@@ -99,12 +99,12 @@ TYPO3 Code Snippets Have Moved To docs.typo3.org
 2017-02-08 by Martin Bless
 
 .. figure:: files/2017-02-08-typo3-snippets.png
-   :target: https://stage.docs.typo3.com/typo3cms/Index.html
+   :target: https://prod.docs.typo3.com/typo3cms/Index.html
    :alt:    TYPO3 snippets
 
 Great news: Code snippets that we had been collecting on typo3.org
 until now finally have arrived `here at docs.typo3.org.
-<https://stage.docs.typo3.com/typo3cms/Snippets/>`__
+<https://prod.docs.typo3.com/typo3cms/Snippets/>`__
 
 **Please contribute** and `start sending code SNIPPETS again!
-<https://stage.docs.typo3.com/typo3cms/Snippets/>`__
+<https://prod.docs.typo3.com/typo3cms/Snippets/>`__
