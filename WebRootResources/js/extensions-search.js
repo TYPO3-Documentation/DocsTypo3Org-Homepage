@@ -103,19 +103,19 @@ var ExtensionSearch = {
 	 */
 	formatResult: function(extension) {
 		var result = '';
-		var url = extension.key + '/' + extension.latest + '/';
-		var title = extension.key + ' ' + extension.latest;
+		var latestVersion = extension.latest;
+		var url = extension.versions[latestVersion];
+		var title = extension.key + ' ' + latestVersion;
 		result += '<tr class="' + ((this.oddRow) ? 'tr-odd' : 'tr-even') + '"><td>';
 		this.oddRow = !this.oddRow;
 		result += '<a href="' + url + '" title="' + title + '">' + extension.key + '</a></td><td>';
 		// Loop on older versions (if any)
-		if (extension.versions.length > 1) {
+		if (Object.keys(extension.versions).length > 1) {
 			result += '<select name="version_selector_' + extension.key + '">';
 			result += '<option value="">Select version</option>';
-			for (var j = 0; j < extension.versions.length - 1; j++) {
-				var olderUrl = extension.key + '/' + extension.versions[j] + '/';
-				result += '<option value="' + olderUrl + '">' + extension.versions[j] + '</option>';
-			}
+			Object.keys(extension.versions).forEach(
+				(key)=>result += '<option value="' + extension.versions[key] + '">' + key + '</option>'
+			);
 			result += '</select>';
 		} else {
 			result += '&nbsp;';
