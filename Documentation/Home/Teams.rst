@@ -13,6 +13,6 @@ going on.
 
 .. toctree::
 
-   T3DocTeam  ➜  <https://prod.docs.typo3.com/typo3cms/Teams/T3DocTeam/>
-   T3O Team   ➜  <https://prod.docs.typo3.com/typo3cms/Teams/T3oTeam/>
+   T3DocTeam  ➜  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>
+   T3O Team   ➜  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>
 

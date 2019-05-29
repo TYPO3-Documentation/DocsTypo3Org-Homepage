@@ -15,7 +15,7 @@ General Structure
 The page you are currently reading is part of a few start pages we call **"glue pages"**.
 From here, everything else is linked. The entire documentation is built out of individual
 **"manuals"**. This can be an extension manual like
-`ext:form <https://prod.docs.typo3.com/typo3cms/extensions/form/latest/>`__ or a tutorial
+`ext:form <https://docs.typo3.org/typo3cms/extensions/form/latest/>`__ or a tutorial
 like :ref:`t3start:start`.
 
 You can regard the "glue pages" as a special top-level manual which is used for information,
@@ -26,7 +26,7 @@ find what you are looking for.
 
 The "glue pages" **contain**:
 
-* the start page https://prod.docs.typo3.com
+* the start page https://docs.typo3.org
 * :ref:`tutorials`: A list of tutorials and guides
 * :ref:`references`: A list of core documentation manuals, including :ref:`t3coreapi:start`
   and several references.
@@ -43,7 +43,7 @@ Menu of Glue Pages
 ------------------
 
 When you are on one of the "glue pages" (for example this page or the start
-page https://prod.docs.typo3.com), you can use the menu to navigate, for
+page https://docs.typo3.org), you can use the menu to navigate, for
 example go to the :ref:`guides` page to select a guide or tutorial
 or :ref:`extensions` to go to the documentation of an extension.
 
@@ -89,9 +89,9 @@ left to return to the start page (click the image for an animated demo!):
 .. figure:: _images/home.png
    :class: with-shadow
    :target: ../../_images/home.gif
-   :alt: Go to documentation start page https://prod.docs.typo3.com
+   :alt: Go to documentation start page https://docs.typo3.org
 
-   Go to documentation start page https://prod.docs.typo3.com
+   Go to documentation start page https://docs.typo3.org
 
 .. editor's note: create invisible image here to make the file available
 ..                in the generated _images folder!

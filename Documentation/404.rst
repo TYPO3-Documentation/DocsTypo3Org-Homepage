@@ -16,10 +16,10 @@ engine of choice. In the search field enter `site:docs.typo3.org` and your searc
 
 Or pick one of the following:
 
-* `Guides and Tutorials <https://prod.docs.typo3.com/typo3cms/GuidesAndTutorials/Index.html>`__
-* `Core Documentation <https://prod.docs.typo3.com/typo3cms/References/Index.html>`__
-* `3rdparty extensions <https://prod.docs.typo3.com/typo3cms/extensions/Index.html>`__
-* `System extensions <https://prod.docs.typo3.com/typo3cms/SystemExtensions/Index.html>`__
+* `Guides and Tutorials <https://docs.typo3.org/typo3cms/GuidesAndTutorials/Index.html>`__
+* `Core Documentation <https://docs.typo3.org/typo3cms/References/Index.html>`__
+* `3rdparty extensions <https://docs.typo3.org/typo3cms/extensions/Index.html>`__
+* `System extensions <https://docs.typo3.org/typo3cms/SystemExtensions/Index.html>`__
 
 
 Contact

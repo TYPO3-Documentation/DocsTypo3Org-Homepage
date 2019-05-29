@@ -37,7 +37,7 @@ documentation, but which do not really fit into any specific manual.
 
 
  - :Sheet:        stdWrap overview for cObjects
-   :Scope:        `TypoScript Reference <https://prod.docs.typo3.com/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a cObject. It uses the cObject "TEXT" as example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
@@ -45,7 +45,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap.png>`__
 
  - :Sheet:        stdWrap overview for menu objects
-   :Scope:        `TypoScript Reference <https://prod.docs.typo3.com/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  This overview presents the different stdWrap properties of a menu. It uses the menu type "HMENU" as an example to demonstrate where they are applied.
    :Provided by:  Xavier Perseguers
    :Type:         PNG
@@ -53,7 +53,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/stdwrap-menu.png>`__
 
  - :Sheet:        2 Extbase Cheat Sheets and 2 Fluid Cheat Sheets
-   :Scope:        `TypoScript Reference <https://prod.docs.typo3.com/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  Everything around Extbase and Fluid: Extension directory structure, TypoScript settings, API for ActionController, View and Request. And for Fluid: Fluidtemplate and usage of ViewHelpers.
    :Provided by:  Patrick Lobacher
    :Type:         PDF
@@ -61,7 +61,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       -
 
  - :Sheet:        TCA Cheat Sheet
-   :Scope:        `TCA Reference <https://prod.docs.typo3.com/typo3cms/TCAReference>`__
+   :Scope:        `TCA Reference <https://docs.typo3.org/typo3cms/TCAReference>`__
    :Description:  Compact overview of TCA settings and values.
    :Provided by:  Stefan Frömken
    :Type:         PDF
@@ -69,7 +69,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       -
 
  - :Sheet:        New Website Cheat Sheet
-   :Scope:        `TypoScript Reference <https://prod.docs.typo3.com/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  Overview of common TypoScript settings for a new TYPO3 website.
    :Provided by:  Leon D.
    :Type:         PDF
@@ -77,7 +77,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       -
 
  - :Sheet:        TYPO3 Page Includes
-   :Scope:        `TypoScript Reference <https://prod.docs.typo3.com/typo3cms/TyposcriptReference>`__
+   :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
    :Description:  An illustration of the different includes, which are supported by the Page renderer since TYPO3 4.3.
    :Provided by:  Steffen Kamper
    :Type:         PDF
@@ -85,7 +85,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
  - :Sheet:        Creating and using mocks with Prophecy in PHPUnit
-   :Scope:        `PHP unit testing <https://prod.docs.typo3.com/typo3cms/extensions/phpunit/>`__
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
    :Description:  -
    :Provided by:  Oliver Klee
    :Type:         PDF
@@ -93,7 +93,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
  - :Sheet:        Creating and using mocks in PHPUnit
-   :Scope:        `PHP unit testing <https://prod.docs.typo3.com/typo3cms/extensions/phpunit/>`__
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
    :Description:  -
    :Provided by:  Oliver Klee
    :Type:         PDF
@@ -101,7 +101,7 @@ documentation, but which do not really fit into any specific manual.
    :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
 
  - :Sheet:        Test Driven Development with TYPO3 CMS
-   :Scope:        `PHP unit testing <https://prod.docs.typo3.com/typo3cms/extensions/phpunit/>`__
+   :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
    :Description:  -
    :Provided by:  Oliver Klee
    :Type:         PDF

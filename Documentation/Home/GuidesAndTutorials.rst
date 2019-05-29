@@ -12,17 +12,17 @@ Tutorials and Guides
 .. toctree::
    :hidden:
 
-   Getting Started Tutorial ➜              <https://prod.docs.typo3.com/typo3cms/GettingStartedTutorial/>
-   Installation & Upgrade Guide ➜        <https://prod.docs.typo3.com/typo3cms/InstallationGuide/>
-   Frontend Localization ➜                 <https://prod.docs.typo3.com/typo3cms/FrontendLocalizationGuide/>
-   Tutorial for Editors ➜                  <https://prod.docs.typo3.com/typo3cms/EditorsTutorial/>
-   TypoScript in 45 Minutes ➜              <https://prod.docs.typo3.com/typo3cms/TyposcriptIn45MinutesTutorial/>
-   Sitepackage Tutorial ➜                  <https://prod.docs.typo3.com/typo3cms/SitePackageTutorial/>
-   Templating Tutorial ➜                    <https://prod.docs.typo3.com/typo3cms/TemplatingTutorial/>
-   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://prod.docs.typo3.com/typo3cms/ExtbaseFluidBook/Index.html>
-   Extbase & Fluid Guide ➜                       <https://prod.docs.typo3.com/typo3cms/ExtbaseGuide/>
-   Core Contribution Guide ➜               <https://prod.docs.typo3.com/typo3cms/ContributionWorkflowGuide/>
-   Writing Documentation ➜                 <https://prod.docs.typo3.com/typo3cms/HowToDocument/>
+   Getting Started Tutorial ➜              <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
+   Installation & Upgrade Guide ➜        <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Frontend Localization ➜                 <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
+   Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
+   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
+   Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Templating Tutorial ➜                    <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
+   Extbase & Fluid Guide ➜                       <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
+   Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
+   Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
    Documentation Rendering With Docker ➜   <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>
 
 .. _getting-started:
@@ -45,7 +45,7 @@ and :ref:`tutguides-docs`.
    :Category:     Category
    :Description:  Description
 
- - :Title:        `Getting Started Tutorial <https://prod.docs.typo3.com/typo3cms/GettingStartedTutorial/>`__
+ - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
    :Category:     Getting started
    :Description:  The official tutorial to discover the main features and concepts of TYPO3 CMS.
                   It is based on the Introduction Package.
@@ -82,7 +82,7 @@ in the "Getting Started Tutorial".
    :Category:     Category
    :Description:  Description
 
- - :Title:        `Tutorial for Editors <https://prod.docs.typo3.com/typo3cms/EditorsTutorial/>`__
+ - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
    :Category:     Editing
    :Description:  How to create pages and content elements, access control
                   and working with multiple languages.
@@ -110,7 +110,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   This guide will walk you through the basics. For more information
                   see :ref:`t3tsref:start` and :ref:`t3coreapi:typoscript-syntax-start`.
 
- - :Title:        `Sitepackage Tutorial <https://prod.docs.typo3.com/typo3cms/SitePackageTutorial/>`__
+ - :Title:        `Sitepackage Tutorial <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
    :Category:     Development / Integration
    :Description:  Integrate frontend templates and TYPO3 configuration in
                   your own sitepackage extension using the Fluid templating engine.
@@ -119,12 +119,12 @@ in the "Getting Started Tutorial". Integrators should also look in the
  - :Title:        :ref:`Templating Tutorial <t3templating:start>`
    :Category:     Development / Integration
    :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
-                  in its `master branch <https://prod.docs.typo3.com/typo3cms/TemplatingTutorial/>`__.
+                  in its `master branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__.
                   *Marker based templating* used to be prevalent before. It can
                   be found in the `7.6 branch
-                  <https://prod.docs.typo3.com/typo3cms/TemplatingTutorial/7.6/>`__.
+                  <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
                   The `Sitepackage Tutorial
-                  <https://prod.docs.typo3.com/typo3cms/SitePackageTutorial/>`__
+                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
                   covers FLUIDTEMPLATE as well.
 
 .. _tutguides-developers:
@@ -175,7 +175,7 @@ DevOps
    :Category:     Category
    :Description:  Description
 
- - :Title:        `TYPO3 Surf <https://prod.docs.typo3.com/surf/>`__
+ - :Title:        `TYPO3 Surf <https://docs.typo3.org/surf/>`__
    :Category:     Deployment
    :Description:  Surf package is a complete automated deployment tool.
 
