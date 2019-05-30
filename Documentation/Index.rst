@@ -29,6 +29,13 @@ Quick links
 Tips - did you know?
 ------------------------------
 
+.. important:: Migrate Extension Documentation
+
+   Since May 29th 2019 a new infrastructure is in place at docs.typo3.org.
+   This requires some :ref:`migration tasks <h2document:migrate>` for
+   extension authors in order to automatically render the extension
+   documentation on the new server.
+
 .. sidebar:: New to TYPO3?
 
    If you are new to TYPO3, please start by looking at the :ref:`t3start:start`
@@ -41,6 +48,9 @@ Tips - did you know?
    Additionally, you might want to refer to the :ref:`References <references>`.
 
 .. End of sidebar
+
+
+
 
 -  Most manuals are available for several TYPO3 versions. If you are using an older
    TYPO3 version (before TYPO3 9.5), make sure to select the correct version for
@@ -55,7 +65,6 @@ Tips - did you know?
 
 Latest documentation news
 -------------------------
-
 
 
 .. sidebar:: Quickstart extension documentation
