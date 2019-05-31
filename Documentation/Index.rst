@@ -26,7 +26,7 @@ Quick links
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
-Tips - did you know?
+Tips - Did You Know?
 ------------------------------
 
 .. sidebar:: New to TYPO3?
@@ -46,13 +46,13 @@ Tips - did you know?
 -  You can get support for TYPO3 via StackOverflow or Slack. `Read more ... <https://typo3.org/help>`__
 -  You can click on the "Edit me on GitHub" button to edit a page. :ref:`Read more ... <h2document:docs-contribute>`
 
-:ref:`More usage tips <usage-tips>` | :ref:`More documentation tips for extension authors <h2document:tips-extension-authors>`
+:ref:`More usage tips <usage-tips>` | :ref:`More tips for extension authors <h2document:tips-extension-authors>`
 
 .. This is currently deactivated because there are currently no up-to-date general writing tips
 .. | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
 
-Latest documentation news
+Latest Documentation News
 -------------------------
 
 
@@ -64,13 +64,12 @@ Latest documentation news
 
 .. end of sidebar
 
+-  2019-05-29 `docs.typo3.org Gets New Infrastructure <https://typo3.org/article/docstypo3org-gets-new-infrastructure/>`__ (typo3.org)
+-  2019-05-20 `Recap: Docs Team Joins typo3.org Sprint Wiesbaden <https://typo3.org/article/recap-docs-team-joins-typo3org-sprint-wiesbaden/>`__ (typo3.org)
 -  2019-05-09 :ref:`news-2019-05-09`
 -  2019-05-09 :ref:`news-2019-05-09-2`
--  2019-03-08 :ref:`news-2019-03-08-2`
--  2019-03-08 :ref:`news-2019-03-08`
--  2019-02-14 :ref:`news-2019-02-14`
 
-:ref:`All News <news>`
+:ref:`All News on docs.typo3.org <news>`
 
 .. rst-class:: clear-both
 
