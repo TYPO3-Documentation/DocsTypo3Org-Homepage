@@ -63,13 +63,10 @@ The :ref:`t3start:start` was updated for TYPO3 9.5.
 Additionally, some more improvements were made:
 
 * Language improvements for better readability
-* The section :ref:`Next steps: For Developers <t3start:next-steps-developers>` was added.
-* More updated information was added to all the :ref:`Next steps <t3start:next-steps>`
-  pages.
-* YouTube videos were embedded in the :ref:`t3start:next-steps` section.
-* Sections headlines were added, some bold formatting and lists were added to improve
-  readabiilty
-* All images got a drop-shadow
+* Updated information in :ref:`Next steps <t3start:next-steps>`
+  and added YouTube videos
+* Formatting for better readability: Sections headlines, bold formatting, lists
+* Drop-shadow for images
 
 
 Thanks goes to Sybille Peters and Tom Warwick.
