@@ -46,7 +46,10 @@ Tips - did you know?
 -  You can get support for TYPO3 via StackOverflow or Slack. `Read more ... <https://typo3.org/help>`__
 -  You can click on the "Edit me on GitHub" button to edit a page. :ref:`Read more ... <h2document:docs-contribute>`
 
-:ref:`More usage tips <usage-tips>` | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
+:ref:`More usage tips <usage-tips>` | :ref:`More documentation tips for extension authors <h2document:tips-extension-authors>`
+
+.. This is currently deactivated because there are currently no up-to-date general writing tips
+.. | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
 
 Latest documentation news
