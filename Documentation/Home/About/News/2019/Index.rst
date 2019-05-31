@@ -20,7 +20,6 @@ Improvements for new TYPO3 users
 
 2019-05-09 by Sybille Peters
 
-
 Some more changes were made to make it easier for people new to TYPO3
 to find their way around the documentation:
 
@@ -48,7 +47,7 @@ to find their way around the documentation:
   in the "Getting Started Tutorial" for developers, integrators, etc. which
   contain additional tips on what to read next.
 
-
+Thanks goes to Sybille Peters
 
 .. _news-2019-05-09-2:
 .. rst-class:: panel panel-default
@@ -63,6 +62,7 @@ The :ref:`t3start:start` was updated for TYPO3 9.5.
 
 Additionally, some more improvements were made:
 
+* Language improvements for better readability
 * The section :ref:`Next steps: For Developers <t3start:next-steps-developers>` was added.
 * More updated information was added to all the :ref:`Next steps <t3start:next-steps>`
   pages.
@@ -70,6 +70,9 @@ Additionally, some more improvements were made:
 * Sections headlines were added, some bold formatting and lists were added to improve
   readabiilty
 * All images got a drop-shadow
+
+
+Thanks goes to Sybille Peters and Tom Warwick.
 
 .. _news-2019-03-08-2:
 .. rst-class:: panel panel-default
