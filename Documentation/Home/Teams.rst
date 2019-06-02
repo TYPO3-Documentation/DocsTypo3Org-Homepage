@@ -8,38 +8,26 @@
 TYPO3 Teams
 ===========
 
-This page serves as a handy reference for quickly jumping to information
-about a team, the issue tracker, Slack channel or other.
-
-
-If you want to know more about what each team does, read the
-`Teams and Committees <https://typo3.org/community/teams/>`__ page on typo3.org.
-
-For General Public
-==================
-
-The official team pages contains information *about* the team, for the general public.
-
 Academic Team
--------------
+=============
 
 * `Official Team Page <https://typo3.org/community/teams/academic-committee/>`__
 
 
 Communication Coordination
---------------------------
+==========================
 
 * `Official Team Page <https://typo3.org/community/teams/communication-coordination/>`__
 
 
 Content Team
-------------
+============
 
 * `Official Team Page <https://typo3.org/community/teams/content/>`__
 * Communication: `#t3a-content-group <https://typo3.slack.com/messages/CJ87LCKT9>`__ Slack channel
 
 Core Team
----------
+=========
 
 * `Official Team Page <https://typo3.org/community/teams/typo3-development/>`__
 * `Issues <https://forge.typo3.org/projects/typo3cms-core/issues>`__
@@ -48,7 +36,7 @@ Core Team
   Slack channel (for core development topics only)
 
 Design Team
------------
+===========
 
 * `Official Team Page <https://typo3.org/community/teams/design/>`__
 * Communication: `#designteam <https://typo3.slack.com/messages/C03MK5LLK>`__
@@ -56,7 +44,7 @@ Design Team
 
 
 Documentation Team
-------------------
+==================
 
 * `Official Team Page <https://typo3.org/community/teams/documentation/>`__
 * Issues: `all issues <https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3ATYPO3-Documentation>`__,
@@ -65,51 +53,56 @@ Documentation Team
 * Communication: `#typo3-documentation <https://typo3.slack.com/messages/C028JEPJL>`__
   Slack channel (open for everyone)
 
+* `T3DocTeam @ Work  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__
+
 Documentation is maintained in one GitHub repository per manual. That's why there
 are several places for issues.
 
 
 Education & Certification
--------------------------
+=========================
 
 * `Official Team Page <https://typo3.org/community/teams/education-certification/>`__
 * Communication: `#edu-general <https://typo3.slack.com/messages/C0289KY77>`__ Slack channel,
   `@TYPO3Education <https://twitter.com/typo3education>`__ on Twitter
 
 Security
---------
+========
 
 * `Official Team Page <https://typo3.org/community/teams/security/>`__
 
 Server Team
------------
+===========
 
 * `Official Team Page <https://typo3.org/community/teams/server-team/>`__
-* Communication:  **#typo3-server-team** Slack channel,
+* Communication:  `#typo3-server-team <https://typo3.slack.com/messages/C041L7V6Q>`__
+  Slack channel,
   `@TYPO3server <https://twitter.com/TYPO3server>`__ on Twitter
 
 
 typo3.org Website Team
-----------------------
+======================
 
 * `Official Team Page <https://typo3.org/community/teams/typo3org/>`__
 * `Issues <https://git-t3o.typo3.org/t3o/typo3.org>`__
 * `Contribution Workflow <https://docs.typo3.org/m/typo3/team-t3oteam/master/en-us/Contribution/Index.html>`__
 * Communication: `#t3o-team <https://typo3.slack.com/messages>`__ Slack channel
 
+* `T3O Team @ Work  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 
-For Team Members
-================
+About This Team Page
+====================
 
-This is information *for* the team (and anyone else who is interested).
+If you want to know more about what each team does, read the
+`Teams and Committees <https://typo3.org/community/teams/>`__ page on typo3.org.
 
-.. toctree::
-
-   T3DocTeam @ Work ➜  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>
-   T3O Team @ Work  ➜  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>
+* The **official team page** contains information *about* the
+  team, for the general public.
+* The **"team @ work page"** contains information *for* the team
+  (and anyone else who is interested).
 
 About the Teams @ Work Projects
--------------------------------
+===============================
 
 The "Teams @ Work" projects for the `T3O Team <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 (typo3.org website) and the `T3DocTeam <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>`__ are documentation
@@ -127,3 +120,9 @@ the `#typo3-documentation <https://typo3.slack.com/messages/C028JEPJL>`__
 Slack channel. We are happy to help with documentation in any way, if we can.
 
 -- Documentation Team
+
+
+.. toctree::
+
+   T3DocTeam @ Work ➜  <https://docs.typo3.org/typo3cms/Teams/T3DocTeam/>
+   T3O Team @ Work  ➜  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>
