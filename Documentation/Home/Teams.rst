@@ -86,7 +86,7 @@ typo3.org Website Team
 * `Official Team Page <https://typo3.org/community/teams/typo3org/>`__
 * `Issues <https://git-t3o.typo3.org/t3o/typo3.org>`__
 * `Contribution Workflow <https://docs.typo3.org/m/typo3/team-t3oteam/master/en-us/Contribution/Index.html>`__
-* Communication: `#t3o-team <https://typo3.slack.com/messages>`__ Slack channel
+* Communication: `#t3o-team <https://typo3.slack.com/messages/C027Z3UGQ>`__ Slack channel
 
 * `T3O Team @ Work  <https://docs.typo3.org/typo3cms/Teams/T3oTeam/>`__
 
