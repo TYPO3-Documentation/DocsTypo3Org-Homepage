@@ -26,35 +26,38 @@ Quick links
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
-Tips - Did You Know?
-------------------------------
-
 .. important:: Migrate Extension Documentation
-   
+
    As of May 29th 2019, new infrastructure now powers docs.typo3.org.
    For extensions developers, some :ref:`migration tasks <h2document:migrate>`
-   are required to ensure that extension documentation is rendered automatically 
+   are required to ensure that your extensions documentation is rendered automatically
    on the new infrastructure.
 
 .. sidebar:: New to TYPO3?
 
-   If you are new to TYPO3, start by visiting the :ref:`t3start:start`
-   and the :ref:`Tutorials and Guides <tutorials>` which are intended
-   for new users who are interested in gaining a better understanding of TYPO3.
-   
-   Once you are ready, you can continue your learning by visiting the 
-   :ref:`t3coreapi:start`, which covers TYPO3's core. It is advised that 
-   you also make use of the :ref:`References <references>`.
+   If you are new to TYPO3, it is recommended that you visit the
+   :ref:`t3start:start` guide. This is a great resource for new
+   users who want to begin using TYPO3.
+
+   The :ref:`Tutorials and Guides <tutorials>` is a comprehensive list
+   of guides and tutorials for each area of the CMS.
+
+   For developers, the :ref:`t3coreapi:start` guide covers
+   TYPO3's core in detail.
+
+   The :ref:`References <references>` section is a useful guide that
+   lists each area of TYPO3's core for further reading.
 
 .. End of sidebar
 
 
+Did You Know?
+------------------------------
 
-
--  Most manuals are available for several versions of TYPO3. If you are using an older
-   TYPO3 version (before TYPO3 9.5), make sure to select the correct version for
-   the manual you are reading! :ref:`Read more ... <usage-version-selector>`
--  You can get support for TYPO3 via StackOverflow or Slack. Find out more on https://typo3.org/help
+-  Documentation is available for several versions of TYPO3. If you are using an older
+   version of TYPO3 (before TYPO3 9.5), make sure that the version of the CMS you are using
+   matches the documentation you are viewing. :ref:`Read more ... <usage-version-selector>`
+-  You can ask for support via StackOverflow or Slack. Find out more at https://typo3.org/help
 -  You can find out more about the TYPO3 CMS on https://typo3.org/cms/
 -  You can click on the "Edit me on GitHub" button to edit any page and contribute directly to TYPO3
    documentation! :ref:`Read more ... <h2document:docs-contribute>`
