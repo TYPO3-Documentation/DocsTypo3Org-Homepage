@@ -25,6 +25,8 @@ Quick links
 - :ref:`ViewHelper Reference <t3viewhelper:Start>`
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
+Did You Know?
+------------------------------
 
 .. important:: Migrate Extension Documentation
 
@@ -50,9 +52,6 @@ Quick links
 
 .. End of sidebar
 
-
-Did You Know?
-------------------------------
 
 -  Documentation is available for several versions of TYPO3. If you are using an older
    version of TYPO3 (before TYPO3 9.5), make sure that the version of the CMS you are using
