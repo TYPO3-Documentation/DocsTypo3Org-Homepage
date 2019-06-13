@@ -225,14 +225,6 @@ A good start page is :ref:`h2document:getting-started` in "Writing Documentation
    :Category:     Documentation
    :Description:  How to render the documentation locally with Docker.
 
- - :Title:        :ref:`rendert3docs:start`
-   :Category:     Documentation
-   :Description:  How the TYPO3 documentation is rendered. This guide is a work in progess and currently
-                  heavily under construction.
-                  At the moment, it is recommended to go directly to
-                  `Render TYPO3 Documentation With Docker <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
-                  for information about local rendering with Docker.
-
 
 Example Manuals
 ---------------
