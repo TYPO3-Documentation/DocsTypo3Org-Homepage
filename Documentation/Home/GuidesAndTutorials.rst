@@ -13,14 +13,14 @@ Tutorials and Guides
    :hidden:
 
    Getting Started Tutorial ➜              <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
-   Installation & Upgrade Guide ➜        <https://docs.typo3.org/typo3cms/InstallationGuide/>
+   Installation & Upgrade Guide ➜          <https://docs.typo3.org/typo3cms/InstallationGuide/>
    Frontend Localization ➜                 <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
    Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
-   Templating Tutorial ➜                    <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Templating Tutorial ➜                   <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
-   Extbase & Fluid Guide ➜                       <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
+   Extbase & Fluid Guide ➜                 <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
    Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
    Documentation Rendering With Docker ➜   <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>
@@ -55,10 +55,6 @@ and :ref:`tutguides-docs`.
    :Description:  How to **install** TYPO3 (with or without composer) and
                   how to **upgrade** an existing installation.
 
- - :Title:        :ref:`t3l10n:start`
-   :Category:     Translation
-   :Description:  Everything you need to know about **multiple languages**
-                  and **translation** in TYPO3.
 
 .. tip::
 
@@ -147,14 +143,16 @@ in the "Getting Started Tutorial". Developers should also look in the
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
-                  templating engine. (Warning: is partly outdated and incomplete)
+                  templating engine.
 
- - :Title:        :ref:`t3extbase:start`
-   :Category:     Development
-   :Description:  This contains some information about **Extbase** and **Fluid**
-                  for extension development but is
-                  not a comprehensive Guide or Tutorial at this point.
-                  Also available a complete :ref:`ViewHelper reference <t3viewhelper:start>`.
+                  **Warning:** The book is currently partly outdated.
+
+                  For TYPO3 9, you may want to check out the 3rd edition of
+                  the book
+                  `Michael Schams: "TYPO3 Extbase: Modern Extension
+                  Development for TYPO3 CMS with Extbase & Fluid"
+                  <https://www.extbase-book.org/>`__. (This is *not official
+                  documentation*.)
 
  - :Title:        :ref:`t3contribute:start`
    :Category:     Development
@@ -243,3 +241,30 @@ which also serve as guidelines to the usage of reStructuredText.
    :Description:
 
 
+Outdated
+========
+
+The following manuals have been removed or will soon be removed.
+They were either outdated or have been merged into other
+manuals.
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Title:        Title
+   :Category:     Category
+   :Description:  Description
+
+ - :Title:        :ref:`rendert3docs:start`
+   :Category:     Writing Documentation
+   :Description:  Archived
+
+ - :Title:        :ref:`t3extbase:start`
+   :Category:     Development
+   :Description:  To be merged into other documentation and removed.
+
+ - :Title:        :ref:`t3l10n:start`
+   :Category:     Translation
+   :Description:  **Outdated:** Current branch is for 7.6 and has not been maintained.
+                  Everything you need to know about **multiple languages**
+                  and **translation** in TYPO3.
