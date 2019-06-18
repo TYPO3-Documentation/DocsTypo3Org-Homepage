@@ -255,7 +255,7 @@ manuals.
    :Category:     Category
    :Description:  Description
 
- - :Title:        :ref:`rendert3docs:start`
+ - :Title:        Rendering Guide
    :Category:     Writing Documentation
    :Description:  Archived
 
