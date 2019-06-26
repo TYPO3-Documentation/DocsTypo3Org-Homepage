@@ -12,6 +12,44 @@
 2019
 ====
 
+
+
+.. _news-2019-06-26:
+.. rst-class:: panel panel-default
+
+
+Deprecation of Extbase / Fluid Guide
+====================================
+
+The "TYPO3 Extbase & Fluid Guide" is being deprecated and will soon be deleted.
+
+Please use one of the following resources for information about Extbase / Fluid
+and extension programming in general.
+
+
+* There is an overview page with resources for developers in the
+  :ref:`Getting Started Tutorial <next-steps-developers>`
+* On that same page, there is a section "Fluid / Extbase"
+
+
+The "Extbase / Fluid Guide" still contains the manually maintained Fluid ViewHelper
+reference for TYPO3 8.7 and 6.2.
+
+You can find links to all available ViewHelper references on the
+`References <https://docs.typo3.org/Home/References.html>`__ page.
+
+
+The reasons for deprecation:
+   * The "Extbase / Fluid Guide" had not been properly maintained and updated for a
+     while
+   * Several unresolved issues
+   * Having a duplicate guide in addition to the "book" has been confusing people
+   * The current guide had not been a complete walkthrough and was missing some parts
+
+
+
+
+
 .. _news-2019-05-09:
 .. rst-class:: panel panel-default
 
