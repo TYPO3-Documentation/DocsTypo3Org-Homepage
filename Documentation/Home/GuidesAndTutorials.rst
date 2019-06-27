@@ -23,7 +23,7 @@ Tutorials and Guides
    Extbase & Fluid Guide ➜                 <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
    Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
-   Documentation Rendering With Docker ➜   <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>
+   Documentation Rendering With Docker ➜   <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>
 
 .. _getting-started:
 
@@ -219,7 +219,7 @@ A good start page is :ref:`h2document:getting-started` in "Writing Documentation
                   Documentation. The same markup and rendering toolchain is used
                   in all cases.
 
- - :Title:        `Render TYPO3 Documentation With Docker <https://github.com/t3docs/docker-render-documentation/blob/master/README.rst>`__
+ - :Title:        `Rendering Documentation With Docker <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>`__
    :Category:     Documentation
    :Description:  How to render the documentation locally with Docker.
 
