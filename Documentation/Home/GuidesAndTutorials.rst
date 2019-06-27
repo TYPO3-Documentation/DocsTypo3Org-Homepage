@@ -27,8 +27,8 @@ Tutorials and Guides
 
 .. _getting-started:
 
-Getting Started
-===============
+... for Getting Started
+=======================
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
@@ -64,8 +64,8 @@ and :ref:`tutguides-docs`.
 
 .. _tutguides-editors:
 
-Editors
-=======
+... for Editors
+===============
 
 For a detailed list of resources see :ref:`t3start:next-steps-editors`
 in the "Getting Started Tutorial".
@@ -85,8 +85,8 @@ in the "Getting Started Tutorial".
 
 .. _tutguides-integrators:
 
-Integrators
-===========
+... for Integrators
+===================
 
 For a detailed list of resources see :ref:`t3start:next-steps-integrators`
 in the "Getting Started Tutorial". Integrators should also look in the
@@ -125,8 +125,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
 .. _tutguides-developers:
 
-Developers
-==========
+... for Extension Developers
+============================
 
 For a detailed list of resources see :ref:`t3start:next-steps-developers`
 in the "Getting Started Tutorial". Developers should also look in the
@@ -154,6 +154,18 @@ in the "Getting Started Tutorial". Developers should also look in the
                   <https://www.extbase-book.org/>`__. (This is *not official
                   documentation*.)
 
+
+... for Core Developers
+=======================
+
+.. t3-field-list-table::
+ :header-rows: 1
+
+ - :Title:        Title
+   :Category:     Category
+   :Description:  Description
+
+
  - :Title:        :ref:`t3contribute:start`
    :Category:     Development
    :Description:  How to contribute to the **TYPO3 codebase** and how to
@@ -163,8 +175,8 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-devops:
 
-DevOps
-======
+... for DevOps
+==============
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -182,8 +194,8 @@ DevOps
 
 .. _tutguides-sysad:
 
-System Administrators
-=====================
+... for System Administrators
+=============================
 
 The following guides or sections should be relevant for you:
 
@@ -195,8 +207,8 @@ The following guides or sections should be relevant for you:
 
 .. _tutguides-docs:
 
-Documentation Writers
-=====================
+... for Documentation Writers
+=============================
 
 The following  is about contributing to the documentation on docs.typo3.org,
 to the Changelog in the TYPO3 core and for adding documentation to an
@@ -253,18 +265,21 @@ manuals.
 
  - :Title:        Title
    :Category:     Category
-   :Description:  Description
+   :Status:       Status
 
  - :Title:        Rendering Guide
    :Category:     Writing Documentation
-   :Description:  Archived
+   :Status:       Archived
 
- - :Title:        :ref:`t3extbase:start`
+ - :Title:        A TYPO3 Extbase and Fluid Guide
    :Category:     Development
-   :Description:  To be merged into other documentation and removed.
+   :Status:       Deprecated. 8.7 and 6.2 branch still contain manual ViewHelper reference:
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__  |
+                  `7.6 <https://docs.typo3.org/m/typo3/guide-extbasefluid/7.6/en-us/Fluid/ViewHelper/Index.html>`__
+                  To be deleted. See :ref:`news-2019-06-26`.
 
  - :Title:        :ref:`t3l10n:start`
    :Category:     Translation
-   :Description:  **Outdated:** Current branch is for 7.6 and has not been maintained.
+   :Status:       **Outdated:** Current branch is for 7.6 and has not been maintained.
                   Everything you need to know about **multiple languages**
                   and **translation** in TYPO3.
