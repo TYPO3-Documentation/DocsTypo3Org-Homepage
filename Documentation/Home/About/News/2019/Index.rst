@@ -49,7 +49,7 @@ You can find links to all available ViewHelper references on the
 
 **Plan for deprecation:**
 
-#. phase 1: deprecation notice on every page (June 28, 2019)
+#. phase 1: deprecation notice on every page
 #. phase 2: remove and redirect (except ViewHelper reference for 6.2. and 8.7)
 #. phase 3: removal all (ViewHelper refs will be redirected to automatically generated)
 
