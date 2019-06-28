@@ -39,15 +39,19 @@ You can find links to all available ViewHelper references on the
 `References <https://docs.typo3.org/Home/References.html>`__ page.
 
 
-The reasons for deprecation:
-   * The "Extbase / Fluid Guide" had not been properly maintained and updated for a
-     while
-   * Several unresolved issues
-   * Having a duplicate guide in addition to the "book" has been confusing people
-   * The current guide had not been a complete walkthrough and was missing some parts
+**The reasons for deprecation:**
 
+* The "Extbase / Fluid Guide" had not been properly maintained and updated for a
+  while
+* Several unresolved issues
+* Having a duplicate guide in addition to the "book" has been confusing people
+* The current guide had not been a complete walkthrough and was missing some parts
 
+**Plan for deprecation:**
 
+#. phase 1: deprecation notice on every page (June 28, 2019)
+#. phase 2: remove and redirect (except ViewHelper reference for 6.2. and 8.7)
+#. phase 3: removal all (ViewHelper refs will be redirected to automatically generated)
 
 
 .. _news-2019-05-09:
