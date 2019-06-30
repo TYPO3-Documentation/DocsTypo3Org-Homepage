@@ -12,6 +12,11 @@
 2019
 ====
 
+.. note::
+
+   Only major changes will be documented here. For all
+   changes, see commit messages in respective GitHub
+   repositories.
 
 
 .. _news-2019-06-26:
@@ -52,6 +57,20 @@ You can find links to all available ViewHelper references on the
 #. phase 1: deprecation notice on every page
 #. phase 2: remove and redirect (except ViewHelper reference for 6.2. and 8.7)
 #. phase 3: removal all (ViewHelper refs will be redirected to automatically generated)
+
+
+.. _news-2019-06-29:
+.. rst-class:: panel panel-default
+
+Migration of Extension Documentation
+====================================
+
+The documentation server docs.typo3.org moved to a new
+infrastructure. `Read more ... <https://typo3.org/article/docstypo3org-gets-new-infrastructure/>`__.
+
+Extension authors must migrate their documentation:
+
+* :ref:`h2document:migrate`
 
 
 .. _news-2019-05-09:
