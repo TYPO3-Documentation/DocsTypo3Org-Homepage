@@ -32,10 +32,8 @@ Tutorials and Guides
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
-task at hand. So, if you are a developer, look in the :ref:`tutguides-developers`
-section on this page. There are also sections for :ref:`tutguides-editors`,
-:ref:`tutguides-integrators`, :ref:`tutguides-devops`, :ref:`tutguides-sysad`
-and :ref:`tutguides-docs`.
+task at hand. So, for example, if you are a developer, look in the :ref:`tutguides-developers`
+section on this page. 
 
 
 .. t3-field-list-table::
