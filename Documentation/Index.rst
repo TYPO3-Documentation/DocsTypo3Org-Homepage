@@ -61,7 +61,7 @@ Did You Know?
 -  You can click on the "Edit me on GitHub" button to edit any page and contribute directly to TYPO3
    documentation! :ref:`Read more ... <h2document:docs-contribute>`
 
-:ref:`More usage tips <usage-tips>` | :ref:`More tips for extension authors <h2document:tips-extension-authors>`
+:ref:`More usage tips <usage-tips>` | :ref:`FAQ for extension authors <h2document:tips-extension-authors>`
 
 .. This is currently deactivated because there are currently no up-to-date general writing tips
 .. | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
