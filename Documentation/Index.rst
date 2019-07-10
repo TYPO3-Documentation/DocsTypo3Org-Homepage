@@ -67,8 +67,8 @@ Did You Know?
 .. | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
 
 
-Latest Documentation News
--------------------------
+Documentation Changelog
+-----------------------
 
 
 .. sidebar:: Quickstart extension documentation
@@ -79,25 +79,17 @@ Latest Documentation News
 .. end of sidebar
 
 -  2019-06-26 :ref:`news-2019-06-26`
--  2019-05-29 `docs.typo3.org Gets New Infrastructure <https://typo3.org/article/docstypo3org-gets-new-infrastructure/>`__ (typo3.org)
+-  2019-05-29 :ref:`news-2019-06-29`
 -  2019-05-20 `Recap: Docs Team Joins typo3.org Sprint Wiesbaden <https://typo3.org/article/recap-docs-team-joins-typo3org-sprint-wiesbaden/>`__ (typo3.org)
 -  2019-05-09 :ref:`news-2019-05-09`
 -  2019-05-09 :ref:`news-2019-05-09-2`
 
-:ref:`All News on docs.typo3.org <news>`
+:ref:`All Documentation Changelogs <news>` |
+`News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
 
 .. rst-class:: clear-both
 
 
-
-.. the menu (now) has the following order:
-   1. Official Documentation
-   2. Community Documentation
-   3. About documentation: "About"
-   4. Additional information, like Teams: typo3cms/Teams
-
-.. todo: Define what is "official" documentation, what is "community"
-   documentation, e.g. surf, snippets, cheat sheets etc.
 
 .. toctree::
    :hidden:

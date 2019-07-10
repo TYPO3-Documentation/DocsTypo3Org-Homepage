@@ -1,11 +1,15 @@
 
 .. _news:
 
-==================
-Documentation News
-==================
+=======================
+Documentation Changelog
+=======================
 
-**List of news:**
+.. note::
+
+   Only major changes will be documented here. For all
+   changes, see commit messages in respective GitHub
+   repositories.
 
 .. toctree::
 
