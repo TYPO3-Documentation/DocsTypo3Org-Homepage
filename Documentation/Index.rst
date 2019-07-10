@@ -82,6 +82,7 @@ Documentation Changelog
 -  2019-05-29 :ref:`news-2019-06-29`
 -  2019-05-09 :ref:`news-2019-05-09`
 -  2019-05-09 :ref:`news-2019-05-09-2`
+-  2019-03-08 :ref:`news-2019-03-08-2`
 
 :ref:`All Documentation Changelogs <news>` |
 `News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
