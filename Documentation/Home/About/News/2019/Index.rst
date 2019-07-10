@@ -62,8 +62,8 @@ You can find links to all available ViewHelper references on the
 .. _news-2019-06-29:
 .. rst-class:: panel panel-default
 
-Migration of Extension Documentation
-====================================
+docs.typo3.org Gets New Infrastructure
+======================================
 
 The documentation server docs.typo3.org moved to a new
 infrastructure. `Read more ... <https://typo3.org/article/docstypo3org-gets-new-infrastructure/>`__.
