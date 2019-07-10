@@ -80,7 +80,6 @@ Documentation Changelog
 
 -  2019-06-26 :ref:`news-2019-06-26`
 -  2019-05-29 :ref:`news-2019-06-29`
--  2019-05-20 `Recap: Docs Team Joins typo3.org Sprint Wiesbaden <https://typo3.org/article/recap-docs-team-joins-typo3org-sprint-wiesbaden/>`__ (typo3.org)
 -  2019-05-09 :ref:`news-2019-05-09`
 -  2019-05-09 :ref:`news-2019-05-09-2`
 
