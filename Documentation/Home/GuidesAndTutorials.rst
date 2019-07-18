@@ -14,13 +14,11 @@ Tutorials and Guides
 
    Getting Started Tutorial ➜              <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
    Installation & Upgrade Guide ➜          <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Frontend Localization ➜                 <https://docs.typo3.org/typo3cms/FrontendLocalizationGuide/>
    Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
    Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
    Templating Tutorial ➜                   <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
    Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
-   Extbase & Fluid Guide ➜                 <https://docs.typo3.org/typo3cms/ExtbaseGuide/>
    Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
    Documentation Rendering With Docker ➜   <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>
