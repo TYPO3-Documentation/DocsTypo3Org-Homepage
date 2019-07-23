@@ -17,11 +17,12 @@ depending on which task should be achieved.
  :header-rows: 1
 
  - :Manual:       Manual
-   :Versions:     Links for TYPO3 versions
+   :Versions:     Links for other TYPO3 versions
    :Description:  Description
 
  - :Manual:       :ref:`TYPO3 Explained <t3coreapi:start>`
-   :Versions:     :ref:`9.5 <t3coreapi:start>` |
+   :Versions:     :ref:`master (10-dev) <t3coreapi:start>` |
+                  `9.5 <https://docs.typo3.org/typo3cms/CoreApiReference/9.5>`__ |
                   `8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
                   `7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
    :Description:  **The main document about TYPO3** Reading this is recommended for anyone.
@@ -29,8 +30,9 @@ depending on which task should be achieved.
                   security aspects and detailed programming API's. Single chapters are for
                   different target groups and outlined accordingly.
 
- - :Manual:       `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-   :Versions:     `9.5 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
+ - :Manual:       `Core ChangeLog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
+   :Versions:     `master (10-dev) <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ |
+                  `9.5 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
                   `8.7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__ |
                   `7.6 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
    :Description:  New Features, Breaking Changes, Deprecations.
@@ -40,21 +42,24 @@ depending on which task should be achieved.
                   provide the information in a more digestible way.
 
  - :Manual:       :ref:`t3tca:start`
-   :Versions:     :ref:`9.5 <t3tca:start>` |
+   :Versions:     :ref:`master (10-dev) <t3tca:start>` |
+                  `9.5 <https://docs.typo3.org/typo3cms/TCAReference/9.5/>`__ |
                   `8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
                   `7.6 <https://docs.typo3.org/typo3cms/TCAReference/7.6/>`__
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :Versions:     :ref:`9.5 <t3tsconfig:start>` |
+   :Versions:     :ref:`master (10-dev) <t3tsconfig:start>` |
+                  `9.5 <https://docs.typo3.org/typo3cms/TSconfigReference/9.5/>`__ |
                   `8.7 <https://docs.typo3.org/typo3cms/TSconfigReference/8.7/>`__ |
                   `7.6 <https://docs.typo3.org/typo3cms/TSconfigReference/7.6/>`__
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
-   :Versions:     :ref:`9.5 <t3tsref:start>` |
+   :Versions:     :ref:`master (10-dev) <t3tsref:start>` |
+                  `9.5 <https://docs.typo3.org/typo3cms/TyposcriptReference/9.5/>`__ |
                   `8.7 <https://docs.typo3.org/typo3cms/TyposcriptReference/8.7/>`__ |
                   `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__
    :Description:  TypoScript is a configuration language that is specific to
