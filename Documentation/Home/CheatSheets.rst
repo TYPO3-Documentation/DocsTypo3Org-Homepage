@@ -58,7 +58,7 @@ documentation, but which do not really fit into any specific manual.
    :Provided by:  Patrick Lobacher
    :Type:         PDF
    :Download:     `Download <http://www.lobacher.de/files/cs/ExtbaseFluidCheatSheet_3.02_pluswerk.pdf>`__
-   :Update:       -
+   :Update:
 
  - :Sheet:        TCA Cheat Sheet
    :Scope:        `TCA Reference <https://docs.typo3.org/typo3cms/TCAReference>`__
@@ -66,7 +66,7 @@ documentation, but which do not really fit into any specific manual.
    :Provided by:  Stefan Frömken
    :Type:         PDF
    :Download:     `Download <http://www.typo3lexikon.de/fileadmin/templates/downloads/TCA-Cheat-Sheet-Schoko-Vanille-Mint.pdf>`__
-   :Update:       -
+   :Update:
 
  - :Sheet:        New Website Cheat Sheet
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
@@ -74,7 +74,7 @@ documentation, but which do not really fit into any specific manual.
    :Provided by:  Leon D.
    :Type:         PDF
    :Download:     `Download <http://www.cheatography.com/achjaderleon/cheat-sheets/typo3-new-website/pdf/>`__
-   :Update:       -
+   :Update:       
 
  - :Sheet:        TYPO3 Page Includes
    :Scope:        `TypoScript Reference <https://docs.typo3.org/typo3cms/TyposcriptReference>`__
@@ -86,7 +86,7 @@ documentation, but which do not really fit into any specific manual.
 
  - :Sheet:        Creating and using mocks with Prophecy in PHPUnit
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
-   :Description:  -
+   :Description:
    :Provided by:  Oliver Klee
    :Type:         PDF
    :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/prophecy-cheatsheet.pdf>`__
@@ -94,7 +94,7 @@ documentation, but which do not really fit into any specific manual.
 
  - :Sheet:        Creating and using mocks in PHPUnit
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
-   :Description:  -
+   :Description:
    :Provided by:  Oliver Klee
    :Type:         PDF
    :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/AdditionalDocuments/mocking-cheatsheet.pdf>`__
@@ -102,11 +102,27 @@ documentation, but which do not really fit into any specific manual.
 
  - :Sheet:        Test Driven Development with TYPO3 CMS
    :Scope:        `PHP unit testing <https://docs.typo3.org/typo3cms/extensions/phpunit/>`__
-   :Description:  -
+   :Description:
    :Provided by:  Oliver Klee
    :Type:         PDF
    :Download:     `Download <https://github.com/oliverklee/tdd-reader/blob/master/tdd-cheatsheet.pdf>`__
    :Update:       `Repository <https://github.com/oliverklee/tdd-reader/>`__
+
+ - :Sheet:        Core Development Git Cheat Sheet
+   :Scope:        Core Development
+   :Description:  Basic commands for using Git to create and modify core patches
+   :Provided by:  TYPO3 Community
+   :Type:         reST
+   :Download:     :ref:`t3contribute:cheat-sheet-git`
+   :Update:
+
+ - :Sheet:        reST & Sphinx Cheat Sheet
+   :Scope:        Writing TYPO3 Documentation
+   :Description:  Basic markup
+   :Provided by:  TYPO3 Community
+   :Type:         reST
+   :Download:     :ref:`h2document:rest-cheat-sheet`
+   :Update:
 
 
 The Documentation Team kindly thanks all authors for their work!
