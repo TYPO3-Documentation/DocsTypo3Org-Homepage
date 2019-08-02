@@ -87,7 +87,7 @@ depending on which task should be achieved.
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
-for better overview, less duplication and confusion. The latest versions of these documents only
+for better overview, less duplication and confusion. The versions of these Documents only
 show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
 for, these obsoleted documents are listed here:
 
