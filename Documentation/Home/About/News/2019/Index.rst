@@ -19,12 +19,77 @@
    repositories.
 
 
-.. _news-2019-06-26:
+.. _news-2019-08-09-4:
 .. rst-class:: panel panel-default
 
 
+NEW: Documentation for composer.json
+====================================
+
+*2019-08-09*
+
+
+* :ref:`t3coreapi:composer-json`
+
+
+
+.. _news-2019-08-09-3:
+.. rst-class:: panel panel-default
+
+
+NEW: Documentation for Request Handling (PSR-15 / Middlewares)
+==============================================================
+
+*2019-08-09*
+
+Some documentation that was missing but is required for developer certification
+version 9 was added:
+
+* :ref:`Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
+
+
+
+
+.. _news-2019-08-09-2:
+.. rst-class:: panel panel-default
+
+NEW: Documentation for Dispatching within Extbase (Request / Response)
+======================================================================
+
+*2019-08-09*
+
+Some documentation that was missing but is required for developer certification
+version 9 was added:
+
+* :ref:`Dispatching within Extbase (Request / Response) <t3extbasebook:dispatching>`
+
+
+
+
+.. _news-2019-08-09-1:
+.. rst-class:: panel panel-default
+
+
+NEW: Documentation for FlexForms
+================================
+
+*2019-08-09*
+
+Some documentation that was missing but is required for developer certification
+version 9 was added:
+
+* :ref:`t3coreapi:flexforms`
+
+
+
+
+.. _news-2019-06-26:
+.. rst-class:: panel panel-default
+
 Deprecation of Extbase / Fluid Guide
 ====================================
+
+*2019-07-01*
 
 The "TYPO3 Extbase & Fluid Guide" is being deprecated and will soon be deleted.
 
@@ -65,6 +130,8 @@ You can find links to all available ViewHelper references on the
 docs.typo3.org Gets New Infrastructure
 ======================================
 
+*2019-05-29*
+
 The documentation server docs.typo3.org moved to a new
 infrastructure. `Read more ... <https://typo3.org/article/docstypo3org-gets-new-infrastructure/>`__.
 
@@ -79,7 +146,7 @@ Extension authors must migrate their documentation:
 Improvements for new TYPO3 users
 ================================
 
-2019-05-09 by Sybille Peters
+*2019-05-09 by Sybille Peters*
 
 Some more changes were made to make it easier for people new to TYPO3
 to find their way around the documentation:

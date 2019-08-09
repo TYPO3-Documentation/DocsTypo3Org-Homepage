@@ -63,31 +63,42 @@ Did You Know?
 
 :ref:`More usage tips <usage-tips>` | :ref:`FAQ for extension authors <h2document:tips-extension-authors>`
 
-.. This is currently deactivated because there are currently no up-to-date general writing tips
-.. | :ref:`More tips on writing documentation <h2document:Tip-of-the-day>`
-
 
 Documentation Changelog
 -----------------------
 
-
+.. --------------------------
 .. sidebar:: Quickstart extension documentation
 
    You are an extension author and want to add documentation?
    Please read :ref:`h2document:how-to-start-documentation-for-ext`
 
 .. end of sidebar
+.. --------------------------
 
--  2019-06-26 :ref:`news-2019-06-26`
--  2019-05-29 :ref:`news-2019-06-29`
--  2019-05-09 :ref:`news-2019-05-09`
--  2019-05-09 :ref:`news-2019-05-09-2`
--  2019-03-08 :ref:`news-2019-03-08-2`
+
+
+
+.. --------------------------
+.. news
+
+
+.. here we link directly to the new documentation
+.. if you add a short news text, describing the news, link to the news on 2019/Index.rst
+
+* :ref:`NEW: Documentation for composer.json <t3coreapi:composer-json>`
+* :ref:`NEW: Documentation for Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
+* :ref:`NEW: Documentation for Dispatching within Extbase (Request / Response) <t3extbasebook:dispatching>`
+* :ref:`NEW: Documentation for FlexForms <t3coreapi:flexforms>`
 
 :ref:`All Documentation Changelogs <news>` |
 `News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
 
 .. rst-class:: clear-both
+
+.. end of news
+.. --------------------------
+
 
 
 
@@ -96,11 +107,11 @@ Documentation Changelog
 
    Home/GuidesAndTutorials
    Home/References
-   Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Home/SystemExtensions
    Home/Extensions
    Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
    Home/CheatSheets
+   Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
    Home/Teams
