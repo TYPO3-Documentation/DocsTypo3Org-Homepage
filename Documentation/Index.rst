@@ -23,7 +23,18 @@ Quick links
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`TypoScript Reference <t3tsref:Start>`
 - :ref:`ViewHelper Reference <t3viewhelper:Start>`
+
+
+Contribute
+----------
+
+.. rst-class:: horizbuttons-primary-m
+
+- :ref:`Contribute to Documentation <h2document:contribute>`
+- :ref:`How you can Help <h2document:docs-official-how-you-can-help>`
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
+
+
 
 Did You Know?
 ------------------------------
@@ -64,8 +75,11 @@ Did You Know?
 :ref:`More usage tips <usage-tips>` | :ref:`FAQ for extension authors <h2document:tips-extension-authors>`
 
 
+
+
 Documentation Changelog
 -----------------------
+
 
 .. --------------------------
 .. sidebar:: Quickstart extension documentation
@@ -75,8 +89,6 @@ Documentation Changelog
 
 .. end of sidebar
 .. --------------------------
-
-
 
 
 .. --------------------------
@@ -114,4 +126,5 @@ Documentation Changelog
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
+   Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
    Home/Teams
