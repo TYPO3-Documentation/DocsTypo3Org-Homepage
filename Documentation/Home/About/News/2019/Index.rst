@@ -19,9 +19,32 @@
    repositories.
 
 
-.. _news-2019-08-09-4:
+.. _news-2019-08-18-2:
 .. rst-class:: panel panel-default
 
+NEW: Documentation for Publishing an Extension
+==============================================
+
+*2019-08-18*
+
+:ref:`How to Publish Your Extension <publish-extension>`
+
+
+.. _news-2019-08-18:
+.. rst-class:: panel panel-default
+
+NEW: Documentation for Routing
+==============================
+
+*2019-08-18*
+
+
+* :ref:`Routing - "Speaking URLs" <t3coreapi:routing>`
+
+
+
+.. _news-2019-08-09-4:
+.. rst-class:: panel panel-default
 
 NEW: Documentation for composer.json
 ====================================
