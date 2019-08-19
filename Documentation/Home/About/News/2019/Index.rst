@@ -15,8 +15,8 @@
 .. note::
 
    Only major changes will be documented here. For all
-   changes, see commit messages in respective GitHub
-   repositories.
+   changes, see commit messages in respective
+   `GitHub repositories <https://github.com/TYPO3-Documentation>`__.
 
 
 .. _news-2019-08-19:
