@@ -19,65 +19,37 @@
    repositories.
 
 
-.. _news-2019-08-18-2:
-.. rst-class:: panel panel-default
-
-NEW: Documentation for Publishing an Extension
-==============================================
-
-*2019-08-18*
-
-:ref:`How to Publish Your Extension <publish-extension>`
-
-
-.. _news-2019-08-18:
-.. rst-class:: panel panel-default
-
-NEW: Documentation for Routing
-==============================
-
-*2019-08-18*
-
-
-* :ref:`Routing - "Speaking URLs" <t3coreapi:routing>`
-
-
-
-.. _news-2019-08-09-4:
-.. rst-class:: panel panel-default
-
-NEW: Documentation for composer.json
-====================================
-
-*2019-08-09*
-
-
-* :ref:`t3coreapi:composer-json`
-
-
-
-.. _news-2019-08-09-3:
+.. _news-2019-08-19:
 .. rst-class:: panel panel-default
 
 
-NEW: Documentation for Request Handling (PSR-15 / Middlewares)
-==============================================================
+New Chapters for "TYPO3 Explained"
+==================================
 
-*2019-08-09*
+*2019-08-19*
 
-Some documentation that was missing but is required for developer certification
-version 9 was added:
+Several new chapters were added to "TYPO3 Explained".
+
+API Overview:
 
 * :ref:`Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
+* :ref:`t3coreapi:routing`
+* :ref:`t3coreapi:seo`
+* :ref:`t3coreapi:config-overview`
+* :ref:`t3coreapi:flexforms`
+* :ref:`t3coreapi:yaml`
 
 
+Extension Development:
 
+* :ref:`t3coreapi:composer-json`
+* :ref:`t3coreapi:publish-extension`
 
-.. _news-2019-08-09-2:
+.. _news-2019-08-09:
 .. rst-class:: panel panel-default
 
-NEW: Documentation for Dispatching within Extbase (Request / Response)
-======================================================================
+New Chapters for Extbase / Fluid Book
+=====================================
 
 *2019-08-09*
 
@@ -85,23 +57,6 @@ Some documentation that was missing but is required for developer certification
 version 9 was added:
 
 * :ref:`Dispatching within Extbase (Request / Response) <t3extbasebook:dispatching>`
-
-
-
-
-.. _news-2019-08-09-1:
-.. rst-class:: panel panel-default
-
-
-NEW: Documentation for FlexForms
-================================
-
-*2019-08-09*
-
-Some documentation that was missing but is required for developer certification
-version 9 was added:
-
-* :ref:`t3coreapi:flexforms`
 
 
 
