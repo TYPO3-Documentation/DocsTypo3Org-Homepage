@@ -83,15 +83,8 @@ Documentation Changelog
 .. news
 
 
-.. here we link directly to the new documentation
-.. if you add a short news text, describing the news, link to the news on 2019/Index.rst
-
-* NEW: Documentation for :ref:`How to Publish your Extension <publish-extension>`
-* NEW: Documentation for :ref:`Routing - "Speaking URLs" <t3coreapi:routing>`
-* NEW: Documentation for :ref:`composer.json <t3coreapi:composer-json>`
-* NEW: Documentation for :ref:`Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
-* NEW: Documentation for :ref:`Dispatching within Extbase (Request / Response) <t3extbasebook:dispatching>`
-* NEW: Documentation for :ref:`FlexForms <t3coreapi:flexforms>`
+* :ref:`news-2019-08-19`
+* :ref:`news-2019-08-09`
 
 :ref:`All Documentation Changelogs <news>` |
 `News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
