@@ -22,19 +22,19 @@ depending on which task should be achieved.
 
  - :Manual:       :ref:`TYPO3 Explained <t3coreapi:start>`
    :Versions:     :ref:`master (10-dev) <t3coreapi:start>` |
-                  `9.5 <https://docs.typo3.org/typo3cms/CoreApiReference/9.5>`__ |
-                  `8.7 <https://docs.typo3.org/typo3cms/CoreApiReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/CoreApiReference/7.6/>`__
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-coreapi/7.6/en-us/>`__
    :Description:  **The main document about TYPO3** Reading this is recommended for anyone.
                   This goes through all main aspects like installing, hosting, configuration,
                   security aspects and detailed programming API's. Single chapters are for
                   different target groups and outlined accordingly.
 
- - :Manual:       `Core ChangeLog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
+ - :Manual:       `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
    :Versions:     `master (10-dev) <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-9.html>`__ |
-                  `8.7 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-8.html>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/extensions/core/latest/Changelog-7.html>`__
+                  `9.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-9.html>`__ |
+                  `8.7 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-8.html>`__ |
+                  `7.6 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-7.html>`__
    :Description:  New Features, Breaking Changes, Deprecations.
                   Reading up here is strongly recommended for developers.
                   For everyone else, the `What's new slides
@@ -43,25 +43,25 @@ depending on which task should be achieved.
 
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`master (10-dev) <t3tca:start>` |
-                  `9.5 <https://docs.typo3.org/typo3cms/TCAReference/9.5/>`__ |
-                  `8.7 <https://docs.typo3.org/typo3cms/TCAReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/TCAReference/7.6/>`__
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-tca/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-tca/7.6/en-us/>`__
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Versions:     :ref:`master (10-dev) <t3tsconfig:start>` |
-                  `9.5 <https://docs.typo3.org/typo3cms/TSconfigReference/9.5/>`__ |
-                  `8.7 <https://docs.typo3.org/typo3cms/TSconfigReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/TSconfigReference/7.6/>`__
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-tsconfig/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-tsconfig/7.6/en-us/>`__
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
    :Versions:     :ref:`master (10-dev) <t3tsref:start>` |
-                  `9.5 <https://docs.typo3.org/typo3cms/TyposcriptReference/9.5/>`__ |
-                  `8.7 <https://docs.typo3.org/typo3cms/TyposcriptReference/8.7/>`__ |
-                  `7.6 <https://docs.typo3.org/typo3cms/TyposcriptReference/7.6/>`__
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript/7.6/en-us/>`__
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
@@ -70,7 +70,7 @@ depending on which task should be achieved.
  - :Manual:       :ref:`t3viewhelper:start`
    :Versions:     :ref:`9.5 <t3viewhelper:start>` |
                   `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__   |
-                  `7.6 <https://docs.typo3.org/m/typo3/guide-extbasefluid/7.6/en-us/Fluid/ViewHelper/Index.html>`__
+                  `6.2 <https://docs.typo3.org/m/typo3/guide-extbasefluid/6.2/en-us/Fluid/ViewHelper/Index.html>`__
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
@@ -119,9 +119,9 @@ for, these obsoleted documents are listed here:
 .. toctree::
    :hidden:
 
-   TYPO3 Explained ➜   <https://docs.typo3.org/typo3cms/CoreApiReference/>
-   Core Changelog    ➜ <https://docs.typo3.org/typo3cms/extensions/core/latest/>
-   TCA ➜               <https://docs.typo3.org/typo3cms/TCAReference/>
-   TSconfig ➜          <https://docs.typo3.org/typo3cms/TSconfigReference/>
-   TypoScript Reference ➜ <https://docs.typo3.org/typo3cms/TyposcriptReference/>
-   ViewHelper Reference ➜ <https://docs.typo3.org/typo3cms/ViewHelperReference/>
+   TYPO3 Explained ➜   <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>
+   Core Changelog    ➜ <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
+   TCA ➜               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
+   TSconfig ➜          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
+   TypoScript Reference ➜ <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
+   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>
