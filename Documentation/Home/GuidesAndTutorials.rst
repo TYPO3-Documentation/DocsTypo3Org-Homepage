@@ -17,7 +17,7 @@ Tutorials and Guides
    Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
    TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
    Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
-   Templating Tutorial ➜                   <https://docs.typo3.org/typo3cms/TemplatingTutorial/>
+   Templating Tutorial ➜                   <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
    Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
    Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
    Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
@@ -111,10 +111,10 @@ in the "Getting Started Tutorial". Integrators should also look in the
  - :Title:        :ref:`Templating Tutorial <t3templating:start>`
    :Category:     Development / Integration
    :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
-                  in its `master branch <https://docs.typo3.org/typo3cms/TemplatingTutorial/>`__.
+                  in its `master branch <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__.
                   *Marker based templating* used to be prevalent before. It can
                   be found in the `7.6 branch
-                  <https://docs.typo3.org/typo3cms/TemplatingTutorial/7.6/>`__.
+                  <https://docs.typo3.org/m/typo3/tutorial-templating/7.6/en-us/>`__.
                   The `Sitepackage Tutorial
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
                   covers FLUIDTEMPLATE as well.
