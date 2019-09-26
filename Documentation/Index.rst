@@ -110,7 +110,7 @@ Documentation Changelog
    Home/SystemExtensions
    Home/Extensions
    Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
-   Home/CheatSheets
+   Cheat Sheets ➜ <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
