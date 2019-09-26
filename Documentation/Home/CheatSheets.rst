@@ -77,21 +77,6 @@ An illustration of the different includes, which are supported by the Page rende
 * `Edit <https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/tree/master/Resources/Public/CheatSheets/T3_pageinclude_sheet%20v1.odp>`__
 
 
-Extbase / Fluid
-===============
-
-2 Extbase Cheat Sheets and 2 Fluid Cheat Sheets
------------------------------------------------
-
-*by Patrick Lobacher*
-
-Everything around Extbase and Fluid: Extension directory structure, TypoScript settings, API for ActionController,
-View and Request. And for Fluid: Fluidtemplate and usage of ViewHelpers.
-
-* `Download <http://www.lobacher.de/files/cs/ExtbaseFluidCheatSheet_3.02_pluswerk.pdf>`__
-
-
-
 TCA
 ===
 
