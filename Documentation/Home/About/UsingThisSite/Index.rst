@@ -156,6 +156,25 @@ choose 8.7 if you are using TYPO3 8.7 LTS. Click the image for an animated demo!
 Search
 ======
 
+.. important::
+
+   Currently there are some issues with using the search on docs.typo3.org. We are
+   aware of the problem and are working on a solution.
+   `Contact us <https://typo3.org/community/teams/documentation/#c9886>`__
+   if you would like to join in this effort.
+
+   For now, we recommend to use an external search engine:
+
+Restrict the search to `site:docs.typo3.org`, *if* you only want to search within
+the official documentation on docs.typo3.org.
+
+Just add your search query to one of these queries:
+
+* `Google search: site:docs.typo3.org <https://google.com?q=site%3Adocs.typo3.org>`__
+* `DuckDuckGo search site:docs.typo3.org <https://duckduckgo.com/?q=site%3Adocs.typo3.org&t=h_&ia=web>`__
+* `Startpage.com <https://www.startpage.com/do/search>`__ (add `site:docs.typo3.org` in the search field)
+
+
 The search box only searches in the selected manual. For example, if you are
 reading :ref:`t3start:start`, then search will only search within this manual.
 
@@ -182,15 +201,6 @@ reading :ref:`t3start:start`, then search will only search within this manual.
 
 
 
-For a global search, use a search engine.
-
-Restrict the search to `site:docs.typo3.org`, *if* you only want to search within
-the official documentation on docs.typo3.org.
-
-Just add your search query to one of these queries:
-
-* `Google search: site:docs.typo3.org <https://google.com?q=site%3Adocs.typo3.org>`__
-* `DuckDuckGo search site:docs.typo3.org <https://duckduckgo.com/?q=site%3Adocs.typo3.org&t=h_&ia=web>`__
 
 
 
