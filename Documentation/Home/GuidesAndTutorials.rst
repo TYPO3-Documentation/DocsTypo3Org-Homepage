@@ -102,7 +102,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   This guide will walk you through the basics. For more information
                   see :ref:`t3tsref:start` and :ref:`t3coreapi:typoscript-syntax-start`.
 
- - :Title:        `Sitepackage Tutorial <t3sitepackage:start>`
+ - :Title:        :ref:`Sitepackage Tutorial <t3sitepackage:start>`
    :Category:     Development / Integration
    :Description:  Integrate frontend templates and TYPO3 configuration in
                   your own sitepackage extension using the Fluid templating engine.
