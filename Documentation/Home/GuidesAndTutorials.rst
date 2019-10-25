@@ -25,7 +25,7 @@ Tutorials and Guides
 
 .. _getting-started:
 
-... for Getting Started
+T&G for Getting Started
 =======================
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
@@ -60,7 +60,7 @@ section on this page.
 
 .. _tutguides-editors:
 
-... for Editors
+T&G for Editors
 ===============
 
 For a detailed list of resources see :ref:`t3start:next-steps-editors`
@@ -81,7 +81,7 @@ in the "Getting Started Tutorial".
 
 .. _tutguides-integrators:
 
-... for Integrators
+T&G for Integrators
 ===================
 
 For a detailed list of resources see :ref:`t3start:next-steps-integrators`
@@ -121,7 +121,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
 .. _tutguides-developers:
 
-... for Extension Developers
+T&G for Extension Developers
 ============================
 
 For a detailed list of resources see :ref:`t3start:next-steps-developers`
@@ -151,7 +151,7 @@ in the "Getting Started Tutorial". Developers should also look in the
                   documentation*.)
 
 
-... for Core Developers
+T&G for Core Developers
 =======================
 
 .. t3-field-list-table::
@@ -171,7 +171,7 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-devops:
 
-... for DevOps
+T&G for DevOps
 ==============
 
 .. t3-field-list-table::
@@ -190,7 +190,7 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-sysad:
 
-... for System Administrators
+T&G for System Administrators
 =============================
 
 The following guides or sections should be relevant for you:
@@ -203,7 +203,7 @@ The following guides or sections should be relevant for you:
 
 .. _tutguides-docs:
 
-... for Documentation Writers
+T&G for Documentation Writers
 =============================
 
 The following  is about contributing to the documentation on docs.typo3.org,
