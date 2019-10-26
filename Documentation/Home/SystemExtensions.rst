@@ -26,6 +26,7 @@ listed here.
    rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
    rte_ckeditor ➜ <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>
    scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
+   seo ➜ <https://docs.typo3.org/typo3cms/extensions/seo/>
    sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
    taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
    workspaces ➜ <https://docs.typo3.org/typo3cms/extensions/workspaces/>
@@ -82,6 +83,10 @@ part of the core and extracted at some point in time.
    - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
+
+   - :Manual: `SEO <https://docs.typo3.org/typo3cms/extensions/seo/>`_
+     :ExtKey: seo
+     :Comment:
 
    - :Manual: `Workspaces and Versioning <https://docs.typo3.org/typo3cms/extensions/workspaces/>`_
      :ExtKey: workspaces
