@@ -26,7 +26,7 @@ listed here.
    rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
    rte_ckeditor ➜ <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>
    scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
-   seo ➜ <https://docs.typo3.org/typo3cms/extensions/seo/>
+   seo ➜ <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
    sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
    taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
    workspaces ➜ <https://docs.typo3.org/typo3cms/extensions/workspaces/>
