@@ -108,7 +108,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   your own sitepackage extension using the Fluid templating engine.
                   :ref:`[read more] <news-2018-06-13>`
 
- - :Title:        :ref:`Templating Tutorial <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__
+ - :Title:        `Templating Tutorial <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__
    :Category:     Development / Integration
    :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
                   in its `master branch <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__.
