@@ -114,5 +114,5 @@ Documentation Changelog
    Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
-   Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
+   Home/Contribute
 
