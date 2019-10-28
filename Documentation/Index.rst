@@ -115,4 +115,4 @@ Documentation Changelog
    Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
    Contribute  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>
-   Home/Teams
+
