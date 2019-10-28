@@ -17,19 +17,17 @@ listed here.
 .. toctree::
    :hidden:
 
-   felogin ➜ <https://docs.typo3.org/typo3cms/extensions/felogin/>
-   fluid_styled_content  ➜ <https://docs.typo3.org/typo3cms/extensions/fluid_styled_content/>
-   form ➜ <https://docs.typo3.org/typo3cms/extensions/form/>
-   indexed_search ➜ <https://docs.typo3.org/typo3cms/extensions/indexed_search/>
-   linkvalidator ➜ <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>
-   recycler ➜ <https://docs.typo3.org/typo3cms/extensions/recycler/>
-   rsaauth ➜ <https://docs.typo3.org/typo3cms/extensions/rsaauth/>
-   rte_ckeditor ➜ <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>
-   scheduler ➜ <https://docs.typo3.org/typo3cms/extensions/scheduler/>
+   felogin ➜ <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
+   fluid_styled_content  ➜ <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
+   form ➜ <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
+   indexed_search ➜ <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
+   linkvalidator ➜ <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
+   recycler ➜ <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
+   rte_ckeditor ➜ <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>
+   scheduler ➜ <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>
    seo ➜ <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
    sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
-   taskcenter ➜ <https://docs.typo3.org/typo3cms/extensions/taskcenter/>
-   workspaces ➜ <https://docs.typo3.org/typo3cms/extensions/workspaces/>
+   workspaces ➜ <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>
 
 
 Documentation of system extensions in current core version
@@ -52,43 +50,43 @@ part of the core and extracted at some point in time.
      :ExtKey: Extension key
      :Comment: Comment
 
-   - :Manual: `Frontend Login <https://docs.typo3.org/typo3cms/extensions/felogin/>`_
+   - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`_
      :ExtKey: felogin
      :Comment:
 
-   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/typo3cms/extensions/fluid_styled_content/>`_
+   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
      :ExtKey: fluid_styled_content
      :Comment:
 
-   - :Manual: `Form framework <https://docs.typo3.org/typo3cms/extensions/form/>`_
+   - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`_
      :ExtKey: form
      :Comment: Extensive manual
 
-   - :Manual: `Indexed Search <https://docs.typo3.org/typo3cms/extensions/indexed_search/>`_
+   - :Manual: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`_
      :ExtKey: indexed_search
      :Comment:
 
-   - :Manual: `Link validator <https://docs.typo3.org/typo3cms/extensions/linkvalidator/>`_
+   - :Manual: `Link validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`_
      :ExtKey: linkvalidator
      :Comment:
 
-   - :Manual: `Recycler <https://docs.typo3.org/typo3cms/extensions/recycler/>`_
+   - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`_
      :ExtKey: recycler
      :Comment:
 
-   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/>`_
+   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
      :ExtKey: rte_ckeditor
      :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
 
-   - :Manual: `Scheduler <https://docs.typo3.org/typo3cms/extensions/scheduler/>`_
+   - :Manual: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
 
-   - :Manual: `SEO <https://docs.typo3.org/typo3cms/extensions/seo/>`_
+   - :Manual: `SEO <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>`_
      :ExtKey: seo
      :Comment:
 
-   - :Manual: `Workspaces and Versioning <https://docs.typo3.org/typo3cms/extensions/workspaces/>`_
+   - :Manual: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>`_
      :ExtKey: workspaces
      :Comment:
 
