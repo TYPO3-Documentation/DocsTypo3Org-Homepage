@@ -1,0 +1,10 @@
+
+
+https://github.com/TYPO3-Documentation/t3SphinxThemeRtd/commit/8ef6a71bf762a82eafca15a91fed43b38af71a47
+
+commit 8ef6a71bf762a82eafca15a91fed43b38af71a47 (HEAD -> master, origin/master, origin/HEAD)
+Author: Martin Bless <martin.bless@mbless.de>
+Date:   Tue Oct 29 10:56:24 2019 +0100
+
+    Set version to 3.6.17
+
