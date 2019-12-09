@@ -5,11 +5,6 @@
 .. _guides:
 .. _tutorials:
 .. _getting-started:
-.. _tutguides-sysad:
-.. _tutguides-editors:
-.. _tutguides-integrators:
-.. _tutguides-developers:
-.. _tutguides-docs:
 
 ====================
 Tutorials and Guides
@@ -31,8 +26,8 @@ Tutorials and Guides
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
-task at hand. So, for example, if you are a developer, look in the **Developers**
-section on this page. 
+task at hand. So, for example, if you are a developer, look in the
+:ref:`Extension Development <tutguides-extdev>` section on this page.
 
 
 .. t3-field-list-table::
@@ -59,6 +54,10 @@ section on this page.
    manuals to select a different version? The versions of the manual correspond to the TYPO3
    version. :ref:`Read more ... <usage-version-selector>`
 
+
+
+.. _tutguides-editors:
+
 **Editing in the TYPO3 Backend**
 
 
@@ -78,6 +77,9 @@ in the "Getting Started Tutorial".
    :Description:  How to create pages and content elements, access control
                   and working with multiple languages.
 
+
+.. _tutguides-integrators:
+
 **Templating**
 
 For a detailed list of resources see :ref:`t3start:next-steps-integrators`
@@ -92,7 +94,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
    :Description:  Description
 
 
- - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
+ - :Title:        :ref:`t3ts45:start`
    :Category:     Development / Integration
    :Description:  TypoScript is a configuration language that is specific to TYPO3.
                   This guide will walk you through the basics. For more information
@@ -115,6 +117,10 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
                   covers FLUIDTEMPLATE as well.
 
+
+.. _tutguides-developers:
+.. _tutguides-extdev:
+
 **Extension Development**
 
 For a detailed list of resources see :ref:`t3start:next-steps-developers`
@@ -128,7 +134,7 @@ in the "Getting Started Tutorial". Developers should also look in the
    :Category:     Category
    :Description:  Description
 
- - :Title:        :ref:`Developing TYPO3 Extensions with Extbase and Fluid (book) <t3extbasebook:start>`
+ - :Title:        :ref:`t3extbasebook:start`
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
@@ -162,6 +168,8 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 
 
+.. _tutguides-devops:
+
 **DevOps**
 
 .. t3-field-list-table::
@@ -178,6 +186,8 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 
 
+.. _tutguides-sysad:
+
 **System Administratration**
 
 
@@ -186,6 +196,8 @@ The following guides or sections should be relevant for you:
 * :ref:`t3install:start`
 * :ref:`Security Guidelines for System Administrators <t3coreapi:security-administrators>`
 
+
+.. _tutguides-docs:
 
 **Writing Documentation**
 
@@ -215,6 +227,8 @@ A good start page is :ref:`h2document:getting-started` in "Writing Documentation
    :Description:  How to render the documentation locally with Docker.
 
 
+.. _tutguides-example-manuals:
+
 **Example Manuals**
 
 *Example manuals* for both extensions and official manuals,
@@ -230,6 +244,8 @@ which also serve as guidelines to the usage of reStructuredText.
  - :Title:        `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
    :Description:
 
+
+.. _tutguides-outdated:
 
 **Outdated**
 
