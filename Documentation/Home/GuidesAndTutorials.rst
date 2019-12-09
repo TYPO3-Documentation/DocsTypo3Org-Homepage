@@ -4,6 +4,7 @@
 .. _examples:
 .. _guides:
 .. _tutorials:
+.. _getting-started:
 
 ====================
 Tutorials and Guides
@@ -23,15 +24,10 @@ Tutorials and Guides
    Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
    Documentation Rendering With Docker ➜   <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>
 
-.. _getting-started:
-
-T&G for Getting Started
-=======================
-
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
-task at hand. So, for example, if you are a developer, look in the :ref:`tutguides-developers`
-section on this page. 
+task at hand. So, for example, if you are a developer, look in the
+:ref:`Extension Development <tutguides-extdev>` section on this page.
 
 
 .. t3-field-list-table::
@@ -58,10 +54,12 @@ section on this page.
    manuals to select a different version? The versions of the manual correspond to the TYPO3
    version. :ref:`Read more ... <usage-version-selector>`
 
+
+
 .. _tutguides-editors:
 
-T&G for Editors
-===============
+**Editing in the TYPO3 Backend**
+
 
 For a detailed list of resources see :ref:`t3start:next-steps-editors`
 in the "Getting Started Tutorial".
@@ -79,10 +77,10 @@ in the "Getting Started Tutorial".
    :Description:  How to create pages and content elements, access control
                   and working with multiple languages.
 
+
 .. _tutguides-integrators:
 
-T&G for Integrators
-===================
+**Templating**
 
 For a detailed list of resources see :ref:`t3start:next-steps-integrators`
 in the "Getting Started Tutorial". Integrators should also look in the
@@ -96,7 +94,7 @@ in the "Getting Started Tutorial". Integrators should also look in the
    :Description:  Description
 
 
- - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
+ - :Title:        :ref:`t3ts45:start`
    :Category:     Development / Integration
    :Description:  TypoScript is a configuration language that is specific to TYPO3.
                   This guide will walk you through the basics. For more information
@@ -119,10 +117,11 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   <https://docs.typo3.org/typo3cms/SitePackageTutorial/>`__
                   covers FLUIDTEMPLATE as well.
 
-.. _tutguides-developers:
 
-T&G for Extension Developers
-============================
+.. _tutguides-developers:
+.. _tutguides-extdev:
+
+**Extension Development**
 
 For a detailed list of resources see :ref:`t3start:next-steps-developers`
 in the "Getting Started Tutorial". Developers should also look in the
@@ -135,7 +134,7 @@ in the "Getting Started Tutorial". Developers should also look in the
    :Category:     Category
    :Description:  Description
 
- - :Title:        :ref:`Developing TYPO3 Extensions with Extbase and Fluid (book) <t3extbasebook:start>`
+ - :Title:        :ref:`t3extbasebook:start`
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
@@ -151,8 +150,8 @@ in the "Getting Started Tutorial". Developers should also look in the
                   documentation*.)
 
 
-T&G for Core Developers
-=======================
+**Core Development**
+
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -171,8 +170,7 @@ T&G for Core Developers
 
 .. _tutguides-devops:
 
-T&G for DevOps
-==============
+**DevOps**
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -190,8 +188,8 @@ T&G for DevOps
 
 .. _tutguides-sysad:
 
-T&G for System Administrators
-=============================
+**System Administratration**
+
 
 The following guides or sections should be relevant for you:
 
@@ -199,12 +197,9 @@ The following guides or sections should be relevant for you:
 * :ref:`Security Guidelines for System Administrators <t3coreapi:security-administrators>`
 
 
-
-
 .. _tutguides-docs:
 
-T&G for Documentation Writers
-=============================
+**Writing Documentation**
 
 The following  is about contributing to the documentation on docs.typo3.org,
 to the Changelog in the TYPO3 core and for adding documentation to an
@@ -232,8 +227,9 @@ A good start page is :ref:`h2document:getting-started` in "Writing Documentation
    :Description:  How to render the documentation locally with Docker.
 
 
-Example Manuals
----------------
+.. _tutguides-example-manuals:
+
+**Example Manuals**
 
 *Example manuals* for both extensions and official manuals,
 which also serve as guidelines to the usage of reStructuredText.
@@ -249,8 +245,9 @@ which also serve as guidelines to the usage of reStructuredText.
    :Description:
 
 
-Outdated
-========
+.. _tutguides-outdated:
+
+**Outdated**
 
 The following manuals have been removed or will soon be removed.
 They were either outdated or have been merged into other
