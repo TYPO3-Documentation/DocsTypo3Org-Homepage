@@ -256,9 +256,9 @@ single commits the last days:
   information should be looked up in. The term "Core API" will probably change at
   some point to reflect this, too.
 
-* The :ref:`TSconfig Reference <t3tsconfig:start>` received a major overhaul. This document
+* The :ref:`t3tsconfig:start` received a major overhaul. This document
   is one of the most important documents next to the other two references, namely the
-  :ref:`TypoScript Reference <t3tsref:start>` and the :ref:`TCA Reference <t3tca:start>`.
+  :ref:`t3tsref:start` and the :ref:`TCA Reference <t3tca:start>`.
   The TSconfig Reference didn't receive too much love within the last years, but now it comes with
   a reworked menu structure, a lot of streamlined information and a simplified property listing
   with more examples. Various chapters have been moved around between the main core documents
