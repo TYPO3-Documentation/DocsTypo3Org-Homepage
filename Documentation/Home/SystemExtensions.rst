@@ -122,6 +122,12 @@ Documentation of system extensions abandoned from current core version
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/dbal/6.2/>`__
      :Comment: Included until TYPO3 <= 7.6
 
+   - :Manual: `func <https://docs.typo3.org/typo3cms/extensions/func/stable/>`_
+     :ExtKey: func
+     :Versions: 
+     :Comment: Was removed from core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
+
+
    - :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
      :ExtKey: openid
      :Versions: `8.1 <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`__ |
