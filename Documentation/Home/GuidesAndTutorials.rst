@@ -13,16 +13,16 @@ Tutorials and Guides
 .. toctree::
    :hidden:
 
-   Getting Started Tutorial ➜              <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
-   Installation & Upgrade Guide ➜          <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
-   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
-   Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Getting Started Tutorial ➜              <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
+   Installation & Upgrade Guide ➜          <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
+   Tutorial for Editors ➜                  <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
+   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
+   Sitepackage Tutorial ➜                  <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
    Templating Tutorial ➜                   <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
-   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
-   Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
-   Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
-   Documentation Rendering With Docker ➜   <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>
+   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
+   Core Contribution Guide ➜               <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
+   Writing Documentation ➜                 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
+
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
