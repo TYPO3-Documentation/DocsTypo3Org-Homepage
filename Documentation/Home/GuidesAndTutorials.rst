@@ -188,7 +188,7 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-sysad:
 
-**System Administratration**
+**System Administration**
 
 
 The following guides or sections should be relevant for you:
