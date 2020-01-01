@@ -83,37 +83,46 @@ depending on which task should be achieved.
    version. :ref:`Read more ... <usage-version-selector>`
 
 
-**Outdated manuals**
+**Migrated manuals**
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
-for better overview, less duplication and confusion. The latest versions of these documents only
-show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
-for, these obsoleted documents are listed here:
+for better overview, less duplication and confusion. The latest versions (since TYPO3 9.5) of
+these documents only show a "Has been moved" message. The information has been moved to
+:ref:`t3coreapi:start`.
+
+In case information for older TYPO3 versions (8.7 and below) is required, the obsoleted documents
+are listed here:
 
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Description:  Description
+ - :Manual:        Manual
+   :Description:   Description
 
- - :Manual:        :ref:`(OLD) Inside TYPO3 <t3inside:start>`
-   :Description:   OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:start>`
+ - :Manual:        Inside TYPO3
+                   :ref:`8.7 <t3inside8:start>` | :ref:`7.6 <t3inside7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
 
- - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:cgl>`
+ - :Manual:        Core Coding Guidelines
+                   :ref:`8.7 <t3cgl8:start>` | :ref:`7.6 <t3cgl7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:typoscript-syntax-start>`
+ - :Manual:        TypoScript Syntax and In-depth Study
+                   :ref:`8.7 <t3tssyntax8:start>` | :ref:`7.6 <t3tssyntax7:start>` | :ref:`6.2 <t3tssyntax6:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Services API <t3services:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:services>`
+ - :Manual:        Services API
+                   :ref:`8.7 <t3services8:start>` | :ref:`7.6 <t3services7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:services` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) File Abstraction Layer <t3fal:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:fal>`
+ - :Manual:        File Abstraction Layer
+                   :ref:`8.7 <t3fal8:start>` | :ref:`6.2 <t3fal6:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`TYPO3 Explained <t3coreapi:fal>` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Security <t3security:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:security>`
+ - :Manual:        Security Guide
+                   :ref:`8.7 <t3security8:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`TYPO3 Explained <t3coreapi:security>` (TYPO3 Explained)
 
 
 .. toctree::
