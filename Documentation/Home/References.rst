@@ -68,9 +68,9 @@ depending on which task should be achieved.
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
  - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     :ref:`9.5 <t3viewhelper:start>` |
-                  `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__   |
-                  `6.2 <https://docs.typo3.org/m/typo3/guide-extbasefluid/6.2/en-us/Fluid/ViewHelper/Index.html>`__
+   :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
+                  :ref:`9.5 <t3viewhelper:start>` |
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
