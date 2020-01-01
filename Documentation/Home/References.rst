@@ -7,8 +7,8 @@
 Core Documentation
 ==================
 
-Place of the main TYPO3 core documentation, with :ref:`TYPO3 Explained <t3coreapi:start>`
-being the head of everything.
+TYPO3 core documentation. :ref:`TYPO3 Explained <t3coreapi:start>`
+is the main manual for TYPO3 features, API and concepts.
 
 Beginners may have an additional look at :ref:`the available tutorials <tutorials>`
 depending on which task should be achieved.
