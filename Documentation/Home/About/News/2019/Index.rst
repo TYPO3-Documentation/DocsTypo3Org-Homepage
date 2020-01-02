@@ -28,6 +28,10 @@ New Chapters for "TYPO3 Explained"
 
 *2019-08-19*
 
+.. important::
+
+   **Update:** 2020-01-02: For a more complete list, see :ref:`new_documentation`.
+
 Several new chapters were added to "TYPO3 Explained".
 
 API Overview:
