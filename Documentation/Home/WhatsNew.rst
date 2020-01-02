@@ -50,6 +50,8 @@ Several new chapters were added to "TYPO3 Explained".
 
 "TYPO3 Explained" API Overview:
 
+* :ref:`New documentation for translation with Crowdin <t3coreapi:xliff-translating-server-crowdin>`
+  (in fact the entire :ref:`t3coreapi:localization` chapter has been heavily updated)
 * :ref:`t3coreapi:DependencyInjection`
   for TYPO3 version 10
 * :ref:`t3coreapi:be-layout`
