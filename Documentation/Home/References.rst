@@ -7,8 +7,8 @@
 Core Documentation
 ==================
 
-Place of the main TYPO3 core documentation, with :ref:`TYPO3 Explained <t3coreapi:start>`
-being the head of everything.
+TYPO3 core documentation. :ref:`TYPO3 Explained <t3coreapi:start>`
+is the main manual for TYPO3 features, API and concepts.
 
 Beginners may have an additional look at :ref:`the available tutorials <tutorials>`
 depending on which task should be achieved.
@@ -43,34 +43,34 @@ depending on which task should be achieved.
 
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`master (10-dev) <t3tca:start>` |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-tca/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-tca/7.6/en-us/>`__
+                  :ref:`9.5 <t3tca9:start>` |
+                  :ref:`8.7 <t3tca8:start>` |
+                  :ref:`7.6 <t3tca7:start>`
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Versions:     :ref:`master (10-dev) <t3tsconfig:start>` |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-tsconfig/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-tsconfig/7.6/en-us/>`__
+                  :ref:`9.5 <t3tsconfig9:start>` |
+                  :ref:`8.7 <t3tsconfig8:start>` |
+                  :ref:`7.6 <t3tsconfig7:start>`
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
    :Versions:     :ref:`master (10-dev) <t3tsref:start>` |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript/7.6/en-us/>`__
+                  :ref:`9.5 <t3tsref9:start>` |
+                  :ref:`8.7 <t3tsref8:start>` |
+                  :ref:`7.6 <t3tsref7:start>`
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
  - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     :ref:`9.5 <t3viewhelper:start>` |
-                  `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__   |
-                  `6.2 <https://docs.typo3.org/m/typo3/guide-extbasefluid/6.2/en-us/Fluid/ViewHelper/Index.html>`__
+   :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
+                  :ref:`9.5 <t3viewhelper9:start>` |
+                  :ref:`8.7 <t3viewhelper8:start>` |
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
@@ -83,37 +83,46 @@ depending on which task should be achieved.
    version. :ref:`Read more ... <usage-version-selector>`
 
 
-**Outdated manuals**
+**Migrated manuals**
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
-for better overview, less duplication and confusion. The latest versions of these documents only
-show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
-for, these obsoleted documents are listed here:
+for better overview, less duplication and confusion. The latest versions (since TYPO3 9.5) of
+these documents only show a "Has been moved" message. The information has been moved to
+:ref:`t3coreapi:start`.
+
+In case information for older TYPO3 versions (8.7 and below) is required, the obsoleted documents
+are listed here:
 
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Description:  Description
+ - :Manual:        Manual
+   :Description:   Description
 
- - :Manual:        :ref:`(OLD) Inside TYPO3 <t3inside:start>`
-   :Description:   OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:start>`
+ - :Manual:        Inside TYPO3
+                   :ref:`8.7 <t3inside8:start>` | :ref:`7.6 <t3inside7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
 
- - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:cgl>`
+ - :Manual:        Core Coding Guidelines
+                   :ref:`8.7 <t3cgl8:start>` | :ref:`7.6 <t3cgl7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:typoscript-syntax-start>`
+ - :Manual:        TypoScript Syntax and In-depth Study
+                   :ref:`8.7 <t3tssyntax8:start>` | :ref:`7.6 <t3tssyntax7:start>` | :ref:`6.2 <t3tssyntax6:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Services API <t3services:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:services>`
+ - :Manual:        Services API
+                   :ref:`8.7 <t3services8:start>` | :ref:`7.6 <t3services7:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:services` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) File Abstraction Layer <t3fal:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:fal>`
+ - :Manual:        File Abstraction Layer
+                   :ref:`8.7 <t3fal8:start>` | :ref:`6.2 <t3fal6:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:fal` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Security <t3security:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:security>`
+ - :Manual:        Security Guide
+                   :ref:`8.7 <t3security8:start>`
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:security` (TYPO3 Explained)
 
 
 .. toctree::
