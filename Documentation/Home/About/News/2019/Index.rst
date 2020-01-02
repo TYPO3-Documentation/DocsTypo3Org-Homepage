@@ -26,24 +26,64 @@
 New Chapters for "TYPO3 Explained"
 ==================================
 
-*2019-08-19*
+*2019-08-19* (**Updated:** 2020-01-02)
 
 Several new chapters were added to "TYPO3 Explained".
 
 API Overview:
 
+* :ref:`t3coreapi:DependencyInjection`
+  for TYPO3 version 10
+* :ref:`t3coreapi:be-layout`
+  for TYPO3 version 10
+* :ref:`t3coreapi:file_processing`
+  for TYPO3 version 10
+* :ref:`t3coreapi:deprecation`
+  for TYPO3 version 10
+* :ref:`t3coreapi:eventlist`
+  for TYPO3 version 10
+* :ref:`t3coreapi:EventDispatcher`
+  for TYPO3 version 10
+* :ref:`adding-your-own-content-elements` (moved from fluid_styled_content documentation)
+  for TYPO3 versions :ref:`10 <adding-your-own-content-elements>`,
+  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html>`__
+  and `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html>`__
 * :ref:`Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
+  for TYPO3 versions :ref:`10 <t3coreapi:request-handling>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/RequestHandling/Index.html>`__
 * :ref:`t3coreapi:routing`
+  for TYPO3 versions :ref:`10 <t3coreapi:routing>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Routing/Index.html>`__
 * :ref:`t3coreapi:seo`
+  for TYPO3 versions :ref:`10 <t3coreapi:seo>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Seo/Index.html>`__
 * :ref:`t3coreapi:config-overview`
+  for TYPO3 versions :ref:`10 <t3coreapi:config-overview>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Configuration/Index.html>`__
 * :ref:`t3coreapi:flexforms`
+  for TYPO3 versions :ref:`10 <t3coreapi:flexforms>`,
+  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/FlexForms/Index.html>`__
+  and `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/ApiOverview/FlexForms/Index.html>`__
 * :ref:`t3coreapi:yaml`
+  for TYPO3 versions :ref:`10 <t3coreapi:yaml>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Yaml/Index.html>`__
 
 
 Extension Development:
 
 * :ref:`t3coreapi:composer-json`
+  for TYPO3 versions :ref:`10 <t3coreapi:composer-json>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ExtensionArchitecture/ComposerJson/Index.html>`__
 * :ref:`t3coreapi:publish-extension`
+  for TYPO3 versions :ref:`10 <t3coreapi:publish-extension>`
+  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ExtensionArchitecture/PublishExtension/Index.html>`__
+
+**Do you want to help?**
+
+A number of issues are still open in "TYPO3 Explained":
+
+* https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues
+
 
 .. _news-2019-08-09:
 .. rst-class:: panel panel-default
