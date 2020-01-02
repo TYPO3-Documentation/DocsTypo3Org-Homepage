@@ -46,18 +46,18 @@ task at hand:
 
  - :Title:        :ref:`t3start:start`
    :Versions:     :ref:`master (10-dev) <t3start:start>` |
-                  :ref:`9.5 <t3start9:start>` |
-                  :ref:`8.7 <t3start8:start>` |
-                  :ref:`7.6 <t3start7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-getting-started/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-getting-started/7.6/en-us/>`__
    :Category:     Getting started
    :Description:  The official tutorial to discover the main features and concepts of TYPO3 CMS.
                   It is based on the Introduction Package.
 
  - :Title:        :ref:`t3install:start`
    :Versions:     :ref:`master (10.dev) <t3install:start>` |
-                  :ref:`9.5 <t3install9:start>` |
-                  :ref:`8.7 <t3install8:start>` |
-                  :ref:`7.6 <t3install7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__
    :Category:     Installation & Upgrade
    :Description:  How to **install** TYPO3 (with or without composer) and
                   how to **upgrade** an existing installation.
@@ -90,9 +90,9 @@ in the "Getting Started Tutorial".
 
  - :Title:        :ref:`t3editors:start`
    :Versions:     :ref:`master (10-dev) <t3editors:start>` |
-                  :ref:`9.5 <t3editors9:start>` |
-                  :ref:`8.7 <t3editors8:start>` |
-                  :ref:`7.6 <t3editors7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-editors/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-editors/7.6/en-us/>`__
    :Category:     Editing
    :Description:  How to create pages and content elements, access control
                   and working with multiple languages.
@@ -117,9 +117,9 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
  - :Title:        :ref:`t3ts45:start`
    :Versions:     :ref:`master (10-dev) <t3ts45:start>` |
-                  :ref:`9.5 <t3ts459:start>` |
-                  :ref:`8.7 <t3ts458:start>` |
-                  :ref:`7.6 <t3ts457:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/7.6/en-us/>`__
    :Category:     Development / Integration
    :Description:  TypoScript is a configuration language that is specific to TYPO3.
                   This guide will walk you through the basics. For more information
@@ -127,8 +127,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
  - :Title:        :ref:`t3sitepackage:start`
    :Versions:     :ref:`master (10-dev) <t3sitepackage:start>` |
-                  :ref:`9.5 <t3sitepackage9:start>` |
-                  :ref:`8.7 <t3sitepackage8:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/8.7/en-us/>`__
    :Category:     Development / Integration
    :Description:  Integrate frontend templates and TYPO3 configuration in
                   your own sitepackage extension using the Fluid templating engine.
@@ -136,8 +136,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
  - :Title:        :ref:`t3templating:start`
    :Versions:     :ref:`master (10-dev) <t3templating:start>` |
-                  :ref:`9.5 <t3templating9:start>` |
-                  :ref:`8.7 <t3templating8:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-templating/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-templating/8.7/en-us/>`__
    :Category:     Development / Integration
    :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
                   in its `master branch <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__.
@@ -168,8 +168,8 @@ in the "Getting Started Tutorial". Developers should also look in the
 
  - :Title:        :ref:`t3extbasebook:start`
    :Versions:     :ref:`master (10-dev) <t3extbasebook:start>` |
-                  :ref:`9.5 <t3extbasebook9:start>` |
-                  :ref:`8.7 <t3extbasebook8:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/book-extbasefluid/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/book-extbasefluid/8.7/en-us/>`__
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
@@ -236,9 +236,9 @@ in the "Getting Started Tutorial". Developers should also look in the
 
  - :Title:        :ref:`t3install:start`
    :Versions:     :ref:`master (10.dev) <t3install:start>` |
-                  :ref:`9.5 <t3install9:start>` |
-                  :ref:`8.7 <t3install8:start>` |
-                  :ref:`7.6 <t3install7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__
    :Category:     System Administration
    :Description:
 
@@ -307,10 +307,6 @@ manuals.
  - :Title:        Title
    :Category:     Category
    :Status:       Status
-
- - :Title:        Rendering Guide
-   :Category:     Writing Documentation
-   :Status:       Archived
 
  - :Title:        A TYPO3 Extbase and Fluid Guide
    :Category:     Development

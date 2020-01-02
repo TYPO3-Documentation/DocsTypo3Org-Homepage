@@ -7,8 +7,8 @@
 Core Documentation
 ==================
 
-Place of the main TYPO3 core documentation, with :ref:`TYPO3 Explained <t3coreapi:start>`
-being the head of everything.
+TYPO3 core documentation. :ref:`TYPO3 Explained <t3coreapi:start>`
+is the main manual for TYPO3 features, API and concepts.
 
 Beginners may have an additional look at :ref:`the available tutorials <tutorials>`
 depending on which task should be achieved.
@@ -68,9 +68,9 @@ depending on which task should be achieved.
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
  - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     :ref:`9.5 <t3viewhelper:start>` |
-                  `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__   |
-                  `6.2 <https://docs.typo3.org/m/typo3/guide-extbasefluid/6.2/en-us/Fluid/ViewHelper/Index.html>`__
+   :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
+                  `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__ 
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
@@ -83,37 +83,52 @@ depending on which task should be achieved.
    version. :ref:`Read more ... <usage-version-selector>`
 
 
-**Outdated manuals**
+**Migrated manuals**
 
 
 With our ongoing consolidation efforts, some documents have been merged into other documents
-for better overview, less duplication and confusion. The latest versions of these documents only
-show a "Has been moved" message, but in case outdated information for older TYPO3 versions is looked
-for, these obsoleted documents are listed here:
+for better overview, less duplication and confusion. The latest versions (since TYPO3 9.5) of
+these documents only show a "Has been moved" message. The information has been moved to
+:ref:`t3coreapi:start`.
+
+In case information for older TYPO3 versions (8.7 and below) is required, the obsoleted documents
+are listed here:
 
 .. t3-field-list-table::
  :header-rows: 1
 
- - :Manual:       Manual
-   :Description:  Description
+ - :Manual:        Manual
+   :Description:   Description
 
- - :Manual:        :ref:`(OLD) Inside TYPO3 <t3inside:start>`
-   :Description:   OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:start>`
+ - :Manual:        Inside TYPO3
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-inside/7.6/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
 
- - :Manual:       :ref:`(OLD) Core Coding Guidelines <t3cgl:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:cgl>`
+ - :Manual:        Core Coding Guidelines
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/7.6/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) TypoScript Syntax and In-depth Study <t3tssyntax:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:typoscript-syntax-start>`
+ - :Manual:        TypoScript Syntax and In-depth Study
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/7.6/en-us/>`__ |
+                   `6.2 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/6.2/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Services API <t3services:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:services>`
+ - :Manual:        Services API
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-services/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-services/7.6/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:services` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) File Abstraction Layer <t3fal:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:fal>`
+ - :Manual:        File Abstraction Layer
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-fal/8.7/en-us/>`__ |
+                   `6.2 <https://docs.typo3.org/m/typo3/reference-fal/6.2/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:fal` (TYPO3 Explained)
 
- - :Manual:       :ref:`(OLD) Security <t3security:start>`
-   :Description:  OLD, current core v9 version has been integrated into :ref:`TYPO3 Explained <t3coreapi:security>`
+ - :Manual:        Security Guide
+                   `8.7 <https://docs.typo3.org/m/typo3/guide-security/8.7/en-us/>`__
+   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:security` (TYPO3 Explained)
 
 
 .. toctree::
@@ -124,4 +139,4 @@ for, these obsoleted documents are listed here:
    TCA ➜               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
    TSconfig ➜          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
    TypoScript Template Reference ➜ <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
-   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>
+   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>
