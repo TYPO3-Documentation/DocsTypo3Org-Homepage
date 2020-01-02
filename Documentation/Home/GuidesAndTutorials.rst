@@ -13,36 +13,51 @@ Tutorials and Guides
 .. toctree::
    :hidden:
 
-   Getting Started Tutorial ➜              <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>
-   Installation & Upgrade Guide ➜          <https://docs.typo3.org/typo3cms/InstallationGuide/>
-   Tutorial for Editors ➜                  <https://docs.typo3.org/typo3cms/EditorsTutorial/>
-   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/typo3cms/TyposcriptIn45MinutesTutorial/>
-   Sitepackage Tutorial ➜                  <https://docs.typo3.org/typo3cms/SitePackageTutorial/>
+   Core Contribution Guide ➜               <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
+   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
+   Editors Tutorial      ➜                 <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
+   Getting Started Tutorial ➜              <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
+   Installation & Upgrade Guide ➜          <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
+   Sitepackage Tutorial ➜                  <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
    Templating Tutorial ➜                   <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
-   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/typo3cms/ExtbaseFluidBook/Index.html>
-   Core Contribution Guide ➜               <https://docs.typo3.org/typo3cms/ContributionWorkflowGuide/>
-   Writing Documentation ➜                 <https://docs.typo3.org/typo3cms/HowToDocument/>
-   Documentation Rendering With Docker ➜   <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>
+   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
+   Writing Documentation ➜                 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
+
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
-task at hand. So, for example, if you are a developer, look in the
-:ref:`Extension Development <tutguides-extdev>` section on this page.
+task at hand:
 
+:ref:`Editing <tutguides-editors>` |
+:ref:`Templating <tutguides-integrators>` |
+:ref:`Extension Development <tutguides-extdev>` |
+:ref:`Core Development <tutguides-coredev>` |
+:ref:`DevOps / Deployment <tutguides-devops>` |
+:ref:`System Administration <tutguides-sysad>` |
+:ref:`Writing Documentation <tutguides-docs>`
 
 .. t3-field-list-table::
  :header-rows: 1
 
  - :Title:        Title
+   :Versions:     Versions
    :Category:     Category
    :Description:  Description
 
- - :Title:        `Getting Started Tutorial <https://docs.typo3.org/typo3cms/GettingStartedTutorial/>`__
+ - :Title:        :ref:`t3start:start`
+   :Versions:     :ref:`master (10-dev) <t3start:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-getting-started/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-getting-started/7.6/en-us/>`__
    :Category:     Getting started
    :Description:  The official tutorial to discover the main features and concepts of TYPO3 CMS.
                   It is based on the Introduction Package.
 
  - :Title:        :ref:`t3install:start`
+   :Versions:     :ref:`master (10.dev) <t3install:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__
    :Category:     Installation & Upgrade
    :Description:  How to **install** TYPO3 (with or without composer) and
                   how to **upgrade** an existing installation.
@@ -69,10 +84,15 @@ in the "Getting Started Tutorial".
  :header-rows: 1
 
  - :Title:        Title
+   :Versions:     Versions
    :Category:     Category
    :Description:  Description
 
- - :Title:        `Tutorial for Editors <https://docs.typo3.org/typo3cms/EditorsTutorial/>`__
+ - :Title:        :ref:`t3editors:start`
+   :Versions:     :ref:`master (10-dev) <t3editors:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-editors/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-editors/7.6/en-us/>`__
    :Category:     Editing
    :Description:  How to create pages and content elements, access control
                   and working with multiple languages.
@@ -90,23 +110,34 @@ in the "Getting Started Tutorial". Integrators should also look in the
  :header-rows: 1
 
  - :Title:        Title
+   :Versions:     Versions
    :Category:     Category
    :Description:  Description
 
 
  - :Title:        :ref:`t3ts45:start`
+   :Versions:     :ref:`master (10-dev) <t3ts45:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/7.6/en-us/>`__
    :Category:     Development / Integration
    :Description:  TypoScript is a configuration language that is specific to TYPO3.
                   This guide will walk you through the basics. For more information
                   see :ref:`t3tsref:start` and :ref:`t3coreapi:typoscript-syntax-start`.
 
- - :Title:        :ref:`Sitepackage Tutorial <t3sitepackage:start>`
+ - :Title:        :ref:`t3sitepackage:start`
+   :Versions:     :ref:`master (10-dev) <t3sitepackage:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/8.7/en-us/>`__
    :Category:     Development / Integration
    :Description:  Integrate frontend templates and TYPO3 configuration in
                   your own sitepackage extension using the Fluid templating engine.
                   :ref:`[read more] <news-2018-06-13>`
 
- - :Title:        :ref:`Templating Tutorial <t3templating:start>`
+ - :Title:        :ref:`t3templating:start`
+   :Versions:     :ref:`master (10-dev) <t3templating:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-templating/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/tutorial-templating/8.7/en-us/>`__
    :Category:     Development / Integration
    :Description:  The tutorial now teaches templating with FLUIDTEMPLATE (recommended)
                   in its `master branch <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__.
@@ -131,10 +162,14 @@ in the "Getting Started Tutorial". Developers should also look in the
  :header-rows: 1
 
  - :Title:        Title
+   :Versions:     Versions
    :Category:     Category
    :Description:  Description
 
  - :Title:        :ref:`t3extbasebook:start`
+   :Versions:     :ref:`master (10-dev) <t3extbasebook:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/book-extbasefluid/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/book-extbasefluid/8.7/en-us/>`__
    :Category:     Development
    :Description:  An extensive walkthrough on extension development for
                   TYPO3 using the **Extbase** framework and **Fluid**
@@ -149,6 +184,7 @@ in the "Getting Started Tutorial". Developers should also look in the
                   <https://www.extbase-book.org/>`__. (This is *not official
                   documentation*.)
 
+.. _tutguides-coredev:
 
 **Core Development**
 
@@ -170,7 +206,7 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-devops:
 
-**DevOps**
+**DevOps / Deployment**
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -188,13 +224,28 @@ in the "Getting Started Tutorial". Developers should also look in the
 
 .. _tutguides-sysad:
 
-**System Administratration**
+**System Administration**
 
+.. t3-field-list-table::
+ :header-rows: 1
 
-The following guides or sections should be relevant for you:
+ - :Title:        Title
+   :Versions:     Versions
+   :Category:     Category
+   :Description:  Description
 
-* :ref:`t3install:start`
-* :ref:`Security Guidelines for System Administrators <t3coreapi:security-administrators>`
+ - :Title:        :ref:`t3install:start`
+   :Versions:     :ref:`master (10.dev) <t3install:start>` |
+                  `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__
+   :Category:     System Administration
+   :Description:
+
+ - :Title:        :ref:`Security Guidelines for System Administrators <t3coreapi:security-administrators>`
+   :Versions:
+   :Category:     System Administration
+   :Description:
 
 
 .. _tutguides-docs:
@@ -222,9 +273,6 @@ A good start page is :ref:`h2document:getting-started` in "Writing Documentation
                   Documentation. The same markup and rendering toolchain is used
                   in all cases.
 
- - :Title:        `Rendering Documentation With Docker <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/RenderingDocs/Quickstart.html>`__
-   :Category:     Documentation
-   :Description:  How to render the documentation locally with Docker.
 
 
 .. _tutguides-example-manuals:
@@ -241,7 +289,7 @@ which also serve as guidelines to the usage of reStructuredText.
  - :Title:        Title
    :Description:  Description
 
- - :Title:        `Extension Manual <https://docs.typo3.org/typo3cms/ExtensionManualExample>`__
+ - :Title:        :ref:`Example Extension Manual <t3extexample:start>`
    :Description:
 
 
@@ -259,10 +307,6 @@ manuals.
  - :Title:        Title
    :Category:     Category
    :Status:       Status
-
- - :Title:        Rendering Guide
-   :Category:     Writing Documentation
-   :Status:       Archived
 
  - :Title:        A TYPO3 Extbase and Fluid Guide
    :Category:     Development

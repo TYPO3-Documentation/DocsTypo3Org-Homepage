@@ -43,25 +43,25 @@ depending on which task should be achieved.
 
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`master (10-dev) <t3tca:start>` |
-                  :ref:`9.5 <t3tca9:start>` |
-                  :ref:`8.7 <t3tca8:start>` |
-                  :ref:`7.6 <t3tca7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-tca/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-tca/7.6/en-us/>`__
    :Description:  Reference for the Table Configuration Array (TCA). TCA can be
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
    :Versions:     :ref:`master (10-dev) <t3tsconfig:start>` |
-                  :ref:`9.5 <t3tsconfig9:start>` |
-                  :ref:`8.7 <t3tsconfig8:start>` |
-                  :ref:`7.6 <t3tsconfig7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-tsconfig/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-tsconfig/7.6/en-us/>`__
    :Description:  Reference to Page TSconfig and User TSconfig. This is used
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
    :Versions:     :ref:`master (10-dev) <t3tsref:start>` |
-                  :ref:`9.5 <t3tsref9:start>` |
-                  :ref:`8.7 <t3tsref8:start>` |
-                  :ref:`7.6 <t3tsref7:start>`
+                  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript/8.7/en-us/>`__ |
+                  `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript/7.6/en-us/>`__
    :Description:  TypoScript is a configuration language that is specific to
                   TYPO3. This is used to configure the frontend.
                   For an introduction see the
@@ -69,8 +69,8 @@ depending on which task should be achieved.
 
  - :Manual:       :ref:`t3viewhelper:start`
    :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
-                  :ref:`9.5 <t3viewhelper9:start>` |
-                  :ref:`8.7 <t3viewhelper8:start>` |
+                  `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
+                  `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__ 
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
@@ -101,27 +101,33 @@ are listed here:
    :Description:   Description
 
  - :Manual:        Inside TYPO3
-                   :ref:`8.7 <t3inside8:start>` | :ref:`7.6 <t3inside7:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-inside/7.6/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
 
  - :Manual:        Core Coding Guidelines
-                   :ref:`8.7 <t3cgl8:start>` | :ref:`7.6 <t3cgl7:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/7.6/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
  - :Manual:        TypoScript Syntax and In-depth Study
-                   :ref:`8.7 <t3tssyntax8:start>` | :ref:`7.6 <t3tssyntax7:start>` | :ref:`6.2 <t3tssyntax6:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/7.6/en-us/>`__ |
+                   `6.2 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/6.2/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
 
  - :Manual:        Services API
-                   :ref:`8.7 <t3services8:start>` | :ref:`7.6 <t3services7:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-services/8.7/en-us/>`__ |
+                   `7.6 <https://docs.typo3.org/m/typo3/reference-services/7.6/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:services` (TYPO3 Explained)
 
  - :Manual:        File Abstraction Layer
-                   :ref:`8.7 <t3fal8:start>` | :ref:`6.2 <t3fal6:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/reference-fal/8.7/en-us/>`__ |
+                   `6.2 <https://docs.typo3.org/m/typo3/reference-fal/6.2/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:fal` (TYPO3 Explained)
 
  - :Manual:        Security Guide
-                   :ref:`8.7 <t3security8:start>`
+                   `8.7 <https://docs.typo3.org/m/typo3/guide-security/8.7/en-us/>`__
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:security` (TYPO3 Explained)
 
 
