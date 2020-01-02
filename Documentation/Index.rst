@@ -70,8 +70,8 @@ Did You Know?
 
 
 
-Documentation Changelog
------------------------
+What's New
+----------
 
 
 .. --------------------------
@@ -84,21 +84,15 @@ Documentation Changelog
 .. --------------------------
 
 
-.. --------------------------
-.. news
+* :ref:`new_documentation`
+* :ref:`whats_new_slides`
+* :ref:`whats_new_changelog`
 
-
-* :ref:`news-2019-08-19`
-* :ref:`news-2019-08-09`
 
 :ref:`All Documentation Changelogs <news>` |
 `News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
 
 .. rst-class:: clear-both
-
-.. end of news
-.. --------------------------
-
 
 
 
@@ -108,6 +102,7 @@ Documentation Changelog
    Home/GuidesAndTutorials
    Home/References
    Home/SystemExtensions
+   Home/WhatsNew
    Home/Extensions
    Surf for Deployment  ➜  <https://docs.typo3.org/surf/>
    Cheat Sheets ➜ <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
