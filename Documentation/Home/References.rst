@@ -133,4 +133,4 @@ are listed here:
    TCA ➜               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
    TSconfig ➜          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
    TypoScript Template Reference ➜ <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
-   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>
+   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>

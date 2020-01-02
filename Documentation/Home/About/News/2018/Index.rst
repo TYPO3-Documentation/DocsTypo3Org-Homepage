@@ -298,15 +298,6 @@ First possible dates are in the range of April 12-16, 2018.
    :alt: Teaser image of the Doodle survey
 
 
-.. _news-2018-02-13:
-.. rst-class:: panel panel-default
-
-HELP: My extension documentation was rendered with the OLD layout!
-------------------------------------------------------------------
-
-Moved to :ref:`h2document:tip-extension-rendered-old-layout`
-
-
 .. _news-2018-02-02:
 .. rst-class:: panel panel-default
 
