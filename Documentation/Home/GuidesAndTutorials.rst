@@ -28,13 +28,13 @@ It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
 task at hand:
 
-* :ref:`Editing <tutguides-editors>`
-* :ref:`Templating <tutguides-integrators>`
-* :ref:`Extension Development <tutguides-extdev>`
-* :ref:`Core Development <tutguides-coredev>`
-* :ref:`DevOps / Deployment <tutguides-devops>`
-* :ref:`System Administration <tutguides-sysad>`
-* :ref:`Writing Documentation <tutguides-docs>`
+:ref:`Editing <tutguides-editors>` |
+:ref:`Templating <tutguides-integrators>` |
+:ref:`Extension Development <tutguides-extdev>` |
+:ref:`Core Development <tutguides-coredev>` |
+:ref:`DevOps / Deployment <tutguides-devops>` |
+:ref:`System Administration <tutguides-sysad>` |
+:ref:`Writing Documentation <tutguides-docs>`
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -289,7 +289,7 @@ which also serve as guidelines to the usage of reStructuredText.
  - :Title:        Title
    :Description:  Description
 
- - :Title:        :ref:`Example Extension Manual <t3extexample:start>`__
+ - :Title:        :ref:`Example Extension Manual <t3extexample:start>`
    :Description:
 
 
