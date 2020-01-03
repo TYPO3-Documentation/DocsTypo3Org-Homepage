@@ -51,6 +51,7 @@ to the documentation for the **same TYPO3 version**.
 
 .. seealso::
 
-* :ref:`usage-version-selector`: Switch versions in the documentation
+* :ref:`documentationTypo3Version`: Find out how documentation is available
+  for several TYPO3 versions
 * :ref:`h2document:intersphinx`: More information about the intersphinx
   mechanism for cross-linking between manuals

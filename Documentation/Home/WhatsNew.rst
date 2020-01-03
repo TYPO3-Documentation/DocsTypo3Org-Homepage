@@ -24,12 +24,84 @@ Changelog
 Developers should regularly check the
 `Core Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
 for changes. In comparison to the "What's new Slides", this
-is a **complete** list of changes in the core, written for
-a technical audience.
+is a **complete** list of deprecations, breaking changes and new features
+in the core, written for a technical audience.
 
 Additionally, the :ref:`extension scanner <t3coreapi:extension-scanner>`
 is available in the TYPO3 backend (since 9.5) to check if existing extensions use
 deprecated or removed functionality.
+
+.. _documentationTypo3Version:
+
+Documentation by TYPO3 Version
+==============================
+
+Documentation that is rendered on docs.typo3.org often comes with several
+versions. In the official documentation, each corresponds to a major TYPO3
+version, for example 9.5.
+
+You can see this in the URL, for example:
+
+* ``/m/typo3/reference-coreapi/master/en-us/`` is documentation for the
+  latest version of TYPO3 that has not been released as LTS yet.
+* ``/m/typo3/reference-coreapi/9.5/en-us/`` corresponds to TYPO3
+  version 9.5.
+
+The version is also displayed along with the title, for example:
+
+.. image:: About/UsingThisSite/_images/getting-started-menu-startpage.svg
+
+You can jump to a different version of the manual by clicking on
+:guilabel:`Related Links` on the bottom of the menu, see
+:ref:`usage-version-selector`.
+
+.. image:: About/UsingThisSite/_images/version-selector.svg
+
+.. tip::
+
+   We recently changed how we link across manuals. You will now
+   :ref:`be directed to the same version <news-2020-link-to-versions>`
+   (and not the latest - as before)
+   when you are reading documentation and come across a link to
+   another manual.
+
+We currently have the following policy:
+
+* Official manuals are available on docs.typo3.org for
+  **version 6.2 and above**
+* System extension manuals are available on docs.typo3.org for
+  **version 8.7 and above**
+
+
+.. _findDocsForOlderVersions:
+
+Finding Documentation for Older TYPO3 Versions
+==============================================
+
+Documentation that is :ref:`currently no longer available <documentationTypo3Version>`
+on docs.typo3.org can still be accessed.
+
+For example, "TYPO3 Explained" is rendered for versions 6.2 and above,
+but older versions still exist for 4.5 and above.
+
+You can find the older versions for official manuals by:
+
+#. Find the manual on https://docs.typo3.org
+#. Click on :guilabel:`Related Links` in the menu and go to :guilabel:`Repository`.
+#. Click on :guilabel:`branches` and select the branch
+
+You can now browse the files online on GitHub, but this will not be
+rendered nicely, as not all sphinx directives are correctly rendered on GitHub.
+
+To render the documentation locally (you need Git and Docker):
+
+#. Click on :guilabel:`Clone or download` to copy the repository URL
+#. `git clone <repository-url>`
+#. `cd <directory that was just created>`
+#. `git fetch;git branch -a`
+#. `git checkout <branch>`
+#. Render the documentation, as described in :ref:`rendering-docs-quickstart`
+
 
 .. _new_documentation:
 
