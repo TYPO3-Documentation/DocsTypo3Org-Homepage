@@ -70,9 +70,8 @@ Did You Know?
 
 
 
-What's New
-----------
-
+Changes in Documentation
+------------------------
 
 .. --------------------------
 .. sidebar:: Quickstart extension documentation
@@ -84,17 +83,13 @@ What's New
 .. --------------------------
 
 
-* :ref:`new_documentation`
-* :ref:`whats_new_slides`
-* :ref:`whats_new_changelog`
-
+* 2020-01-02: :ref:`new_documentation`
+* 2020-01-03: :ref:`news-2020-link-to-versions`
 
 :ref:`All Documentation Changelogs <news>` |
 `News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
 
 .. rst-class:: clear-both
-
-
 
 .. toctree::
    :hidden:
