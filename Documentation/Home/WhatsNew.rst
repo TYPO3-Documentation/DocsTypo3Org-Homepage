@@ -57,6 +57,14 @@ You can jump to a different version of the manual by clicking on
 
 .. image:: About/UsingThisSite/_images/version-selector.svg
 
+.. tip::
+
+   We recently changed how we link across manuals. You will now
+   :ref:`be directed to the same version <news-2020-link-to-versions>`
+   (and not the latest - as before)
+   when you are reading documentation and come across a link to
+   another manual.
+
 We currently have the following policy:
 
 * Official manuals are available on docs.typo3.org for
