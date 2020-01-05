@@ -28,7 +28,7 @@ referred to the "TCA Reference" by clicking a link, you would continue
 reading information for the latest TYPO3 version (currently, the
 not yet released as LTS version 10.2). Changes between TYPO3
 versions are minimal most of the time, but significant in some cases
-(for example, see `Changelog for 9.0 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Index.html>`__.
+(for example, see `Changelog for 9.0 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Index.html>`__).
 
 This caused the following problems:
 
