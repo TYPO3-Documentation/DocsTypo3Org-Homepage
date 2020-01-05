@@ -18,8 +18,8 @@ and changes.
 
 .. _whats_new_changelog:
 
-Changelog
-=========
+Core Changelog
+==============
 
 Developers should regularly check the
 `Core Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
@@ -101,6 +101,21 @@ To render the documentation locally (you need Git and Docker):
 #. `git fetch;git branch -a`
 #. `git checkout <branch>`
 #. Render the documentation, as described in :ref:`rendering-docs-quickstart`
+
+
+.. whats-new-changes-in-documentation:
+
+Changes in Documentation
+========================
+
+Changes in TYPO3 documentation are announced via the following channels:
+
+* `News on typo3.org <https://typo3.org/community/teams/documentation#c9876>`__:
+  Used to report about events, used for announcement of major changes
+* `Twitter T3DocTeam <https://twitter.com/T3docTeam>`__: Major and minor changes,
+  give contribution tips
+*  :ref:`news`: Describes changes that are announced on Twitter
+* #typo3-documentation channel on Slack
 
 
 .. _new_documentation:

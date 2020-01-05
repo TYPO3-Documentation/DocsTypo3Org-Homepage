@@ -7,7 +7,7 @@ Documentation Changelog
 
 .. note::
 
-   Only major changes will be documented here. For all
+   Not all changes will be documented here. For all
    changes, see commit messages in respective GitHub
    repositories.
 
