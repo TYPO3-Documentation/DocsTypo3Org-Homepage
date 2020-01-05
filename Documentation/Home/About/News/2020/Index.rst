@@ -25,15 +25,19 @@ When linking from one manual to another, we previously always linked to
 the latest (master) version of the manual. For example, if you were
 reading a section in "TYPO3 Explained" for TYPO3 version 8.7 and were
 referred to the "TCA Reference" by clicking a link, you would continue
-reading information for the latest TYPO3 version. Changes between TYPO3
-versions are minimal most of the time, but significant in some cases.
+reading information for the latest TYPO3 version (currently, the
+not yet released as LTS version 10.2). Changes between TYPO3
+versions are minimal most of the time, but significant in some cases
+(for example, see `Changelog for 9.0 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Index.html>`__.
 
-This had the following problems:
+This caused the following problems:
 
 * People who were aware of this but wanted to continue reading
   documentation for the same version had to click multiple times
-  to continue reading
-* Often, people were not aware of this
+  (to jump to the requested version) before continuing.
+* Often, readers were not aware of this and did not notice the 
+  change in version. They would then assume, the information 
+  was correct for the version they started reading in.
 
 Reading documentation on docs.typo3.org should not require knowledge
 about such technical details. It should be possible to read and click,
