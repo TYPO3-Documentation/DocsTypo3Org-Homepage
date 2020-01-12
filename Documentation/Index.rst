@@ -1,83 +1,198 @@
-
 .. include:: Includes.txt
 
+.. _start:
 
 ===========================================
 Welcome to the official TYPO3 Documentation
 ===========================================
 
+TYPO3 CMS is an Open Source Enterprise Content Element System based on PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
-- :ref:`t3start:start`
-- :ref:`TYPO3 Explained <t3coreapi:Start>`
-- `Core ChangeLog <https://docs.typo3.org/typo3cms/extensions/core/latest/>`__
-- :ref:`TCA Reference <t3tca:Start>`
-- :ref:`TSconfig Reference <t3tsconfig:Start>`
-- :ref:`t3tsref:Start`
-- :ref:`ViewHelper Reference <t3viewhelper:Start>`
+- :ref:`tutorials`
+- :ref:`references`
+- :ref:`extensions`
+
+__________________________________________________
+
+.. _start-getting-stared:
+
+Getting Started
+===============
+
+Find information about TYPO3 versions and system requirements on https://get.typo3.org.
+
+Follow :ref:`Quick installation with Composer <t3install:install-via-composer>`
+to install TYPO3.
+
+.. code-block:: bash
+
+   composer create-project typo3/cms-base-distribution YourNewProjectFolder
+
+Set up the :ref:`site configuration <sitehandling-basics>` in the backend to configure
+the domain, languages, URLs and error pages.
+
+The :ref:`t3start:start` walks you through the backend - the interface for editing
+content and configuring the TYPO3 installation. You need a browser and a working
+TYPO3 installation.
+
+Find more tutorials in :ref:`tutorials`.
+You can ask for support via StackOverflow or Slack.
+Find out more on the `help page <https://typo3.org/help>`__
 
 
-.. sidebar:: New to TYPO3?
+.. _how-the-documentation-is-organized:
 
-   If you are new to TYPO3, it is recommended that you visit the
-   :ref:`t3start:start` guide. This is a great resource for new
-   users who want to begin using TYPO3.
+How the documentation is organized
+==================================
 
-   The :ref:`Tutorials and Guides <tutorials>` is a comprehensive list
-   of guides and tutorials for each area of the CMS.
+* :ref:`Tutorials and Guides <tutorials>` is a comprehensive list of
+  further guides and tutorials for each area of the CMS.
+* The :ref:`references` section provides information about the TYPO3 core
+  for a technical audience (developers, integrators). The main reference
+  manual is :ref:`t3coreapi:start`.
+* :ref:`System-Extensions` contains documentation for system
+  extensions. These are extensions that are included in the
+  TYPO3 core.
+* :ref:`extensions` can be used to search for documentation of third party
+  extensions.
 
-   For developers, the :ref:`t3coreapi:start` guide covers
-   TYPO3's core in detail.
+.. _start-theme:
 
-   The :ref:`References <references>` section is a useful guide that
-   lists each area of TYPO3's core for further reading.
+Create a theme
+==============
 
-.. End of sidebar
+*Theme* | *Templating* | *Sitepackage*
+
+It is good practice to create a **Sitepackage**. This is an extension which
+contains the resources required for a theme.
+
+Sitepackage:
+
+* `Concept of Sitepackages <https://www.slideshare.net/benjaminkott/typo3-the-anatomy-of-sitepackages>`__
+* :ref:`t3sitepackage:start`
+
+More introductions:
+
+* The `Fluid documentation <https://github.com/TYPO3/Fluid>`__
+  contains information about Fluid. As it is an independent project, the documentation is not
+  maintained on docs.typo3.org.
+* The system extension :ref:`fluid_styled_content <fsc:start>` handles the rendering of the default
+  set of content elements shipped with the core by using the template engine
+  `Fluid <https://typo3.org/fluid>`__
+* :ref:`Backend layouts <t3coreapi:be-layout>`
+* :ref:`Create custom content elements <t3coreapi:adding-your-own-content-elements>`
+
+References
+
+* :ref:`t3tsref:start`
+* :ref:`t3viewhelper:start`
 
 
--  Documentation is available for several versions of TYPO3. If you are using an older
-   version of TYPO3 (before TYPO3 9.5), make sure that the version of the CMS you are using
-   matches the documentation you are viewing. :ref:`Read more ... <usage-version-selector>`
--  You can ask for support via StackOverflow or Slack. Find out more at https://typo3.org/help
--  You can find out more about the TYPO3 CMS on https://typo3.org/cms/
--  You can click on the "Edit me on GitHub" button to edit any page and contribute directly to TYPO3
-   documentation! :ref:`Read more ... <h2document:docs-contribute>`
+.. _start-extdev:
 
-:ref:`More usage tips <usage-tips>` | :ref:`FAQ for extension authors <h2document:tips-extension-authors>`
+Develop custom extensions
+=========================
+
+:ref:`references` lists all relevant core manuals. One of these is
+:ref:`t3coreapi:start`. It contains detailed information for core and extension developers,
+
+Getting started with extension development:
+
+* :ref:`Introduction to extensions in TYPO3 <t3coredev:extension-architecture-introduction>`
+* Extension :ref:`t3coreapi:extension-files-locations>`
+* :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+
+More topics can be found in :ref:`t3coreapi:start`, for example:
+
+* :ref:`QueryBuilder <t3coreapi:database-query-builder>` based on
+  Doctrine
+* :ref:`t3coreapi:DependencyInjection`
+* :ref:`t3coreapi:request-handling`
+
+If you are updating TYPO3 to the next major version, you may need to make changes
+in your custom extensions.
+
+The `Core changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ lists
+all relevant changes for each TYPO3 version since 7.
 
 
 
+.. _start-configuration:
 
-Changes in Documentation
-------------------------
+Configure TYPO3
+===============
 
-.. --------------------------
-.. sidebar:: Quickstart extension documentation
+A major feature for TYPO3 is its configurability. The :ref:`t3coreapi:config-overview`
+in "TYPO3 Explained" gives you an overview of various configuration languages.
 
-   You are an extension author and want to add documentation?
-   Please read :ref:`h2document:how-to-start-documentation-for-ext`
+Specifically, you might want to
 
-.. end of sidebar
-.. --------------------------
+* Set up the :ref:`site configuration <sitehandling-basics>` in the backend to configure
+  the domain, languages, URLs and error pages.
+* Configure :ref:`rte_ckeditor <ckeditor:configuration>`
+  to enhance the editing experience when handling rich text editing.
+* :ref:`Configure the form system extension <form:quickstartIntegrators>` to create
+  custom forms for the frontend.
+* :ref:`Configure backend users <t3start:user-management>`
 
-* 2020-01-26: :ref:`news-2020-tsref`
-* 2020-01-02: :ref:`new_documentation`
-* 2020-01-03: :ref:`news-2020-link-to-versions`
 
-:ref:`All Documentation Changelogs <news>` |
-`News on typo3.org <https://typo3.org/community/teams/documentation/#c9876>`__
+.. _start-localization:
 
-.. rst-class:: clear-both
+How to create translations
+==========================
+
+*Internationalization* | *Translation* | *Multiple Languages*
+
+* :ref:`Supported languages <t3coreapi:i18n_languages>`
+* :ref:`Manage backend languages <t3start:changing-backend-language>`
+* :ref:`Working with languages as an editor <t3editors:languages>`
+* :ref:`t3coreapi:internationalization` in "TYPO3 Explained"
+
+__________________________________________________
+
+.. _start-coredev:
+
+Contribute to the core
+======================
+
+The "Core contribution guide" contains information for creating core
+patches:
+
+* :ref:`Create a patch <t3contribute:quickstart-create-a-patch>`
+* :ref:`Commit message rules <t3contribute:commitmessage>`
+* :ref:`Setup an installation with DDEV <t3contribute:ddev>`
+
+But contribution is not just about writing patches. You can contribute
+in numerous ways, including
+
+* :ref:`Writing issues <t3contribute:forge-index>`
+* :ref:`Rewiew patches <t3contribute:improving-a-patch>`
+
+
+
+.. _start-contribute-docs:
+
+Contribute to official documentation
+====================================
+
+You are welcome to click on the "Edit me on GitHub" button on any page
+to propose a change in the official documentation if you see something that
+can be improved.
+
+* :ref:`h2document:docs-contribute` gives a good introduction to the workflow
+* The documentation is edited in text files using reStructuredText syntax.
+  Use the :ref:`rest-cheat-sheet` to lookup most commonly used directives.
 
 .. toctree::
    :hidden:
 
+   Getting Started <https://docs.typo3.org/#gettting-started>
    Home/GuidesAndTutorials
    Home/References
-   Home/SystemExtensions
-   Home/WhatsNew
    Home/Extensions
+   Home/WhatsNew
    Cheat Sheets                     <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
    Tell Me Something About Topic X  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
    Snippets                         <https://docs.typo3.org/typo3cms/Snippets/>
