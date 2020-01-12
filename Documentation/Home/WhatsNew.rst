@@ -112,7 +112,7 @@ Changes in TYPO3 documentation are announced via the following channels:
 
 * `News on typo3.org <https://typo3.org/community/teams/documentation#c9876>`__:
   Used to report about events, used for announcement of major changes
-* `Twitter T3DocTeam <https://twitter.com/T3docTeam>`__: Major and minor changes,
+* `Twitter T3DocTeam <https://twitter.com/T3docTeam>`__C: Major and minor changes,
   give contribution tips
 *  :ref:`news`: Describes changes that are announced on Twitter
 * #typo3-documentation channel on Slack
