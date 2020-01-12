@@ -65,6 +65,11 @@ You can jump to a different version of the manual by clicking on
    when you are reading documentation and come across a link to
    another manual.
 
+.. _DocsAvailableVersions:
+
+Available Versions
+==================
+
 We currently have the following policy:
 
 * Official manuals are available on docs.typo3.org for
@@ -72,6 +77,9 @@ We currently have the following policy:
 * System extension manuals are available on docs.typo3.org for
   **version 8.7 and above**
 
+.. seealso::
+
+  Available TYPO3 versions: https://get.typo3.org/
 
 .. _findDocsForOlderVersions:
 
