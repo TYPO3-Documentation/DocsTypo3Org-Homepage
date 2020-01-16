@@ -44,7 +44,7 @@ Theme
 
 *Theme* | *Templating* | *Sitepackage*
 
-It is good practice to create a **sitepackage**. This is an extension which
+It is good practice to create a **Sitepackage**. This is an extension which
 contains the resources required for a theme.
 
 Sitepackage
@@ -53,11 +53,11 @@ Sitepackage
 
 More introductions
     * The `Fluid documentation <https://github.com/TYPO3/Fluid>`__
-      contains information about fluid. As it is an independant project, the documentation is not
+      contains information about Fluid. As it is an independent project, the documentation is not
       maintained on docs.typo3.org.
     * The system extension :ref:`fluid_styled_content <fsc:start>` handles the rendering of the default
       set of content elements shipped with the core by using the template engine
-      `fluid <https://typo3.org/fluid>`__
+      `Fluid <https://typo3.org/fluid>`__
     * :ref:`Backend layouts <t3coreapi:be-layout>`
     * :ref:`Create custom content elements <t3coreapi:adding-your-own-content-elements>`
 
@@ -109,7 +109,7 @@ For further information, look in the references:
 * :ref:`t3tsref:start`: TypoScript is used for configuration *and* templating.
 * :ref:`t3tca:start`: TCA is specific to database fields and how they behave and
   can be edited in the backend.
-* :ref:`t3tsconfig:start`: s used to configure and customize the backend on a page
+* :ref:`t3tsconfig:start`: is used to configure and customize the backend on a page
   (page TSconfig) and a user or group basis (user TSconfig).
 
 __________________________________________________
@@ -148,7 +148,7 @@ to propose a change in the official documentation if you see something that
 can be improved.
 
 * :ref:`h2document:docs-contribute` gives a good introduction to the workflow
-* The documentation is editied in text files using reStructuredText syntax.
+* The documentation is edited in text files using reStructuredText syntax.
   Use the :ref:`rest-cheat-sheet` to lookup most commonly used directives.
 
 .. toctree::
