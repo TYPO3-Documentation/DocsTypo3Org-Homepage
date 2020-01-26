@@ -16,9 +16,6 @@ Welcome to the official TYPO3 Documentation
 - :ref:`TSconfig Reference <t3tsconfig:Start>`
 - :ref:`t3tsref:Start`
 - :ref:`ViewHelper Reference <t3viewhelper:Start>`
-- :ref:`Contribute to Documentation <h2document:contribute>`
-- :ref:`How you can Help <h2document:docs-official-how-you-can-help>`
-- :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
 .. sidebar:: New to TYPO3?
