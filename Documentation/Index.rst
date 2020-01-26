@@ -82,7 +82,7 @@ Changes in Documentation
 .. end of sidebar
 .. --------------------------
 
-
+* 2020-01-26: :ref:`news-2020-tsref`
 * 2020-01-02: :ref:`new_documentation`
 * 2020-01-03: :ref:`news-2020-link-to-versions`
 
