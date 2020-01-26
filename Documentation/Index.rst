@@ -21,14 +21,6 @@ Welcome to the official TYPO3 Documentation
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
-
-.. important:: Migrate Extension Documentation
-
-   As of May 29th 2019, new infrastructure now powers docs.typo3.org.
-   For extensions developers, some :ref:`migration tasks <h2document:migrate>`
-   are required to ensure that your extensions documentation is rendered automatically
-   on the new infrastructure.
-
 .. sidebar:: New to TYPO3?
 
    If you are new to TYPO3, it is recommended that you visit the
