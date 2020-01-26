@@ -6,13 +6,6 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. .. rst-class:: horizbuttons-tip-xxl
-..
-.. - How to find my answer here
-
-
-Quick links
------------
 
 .. rst-class:: horizbuttons-primary-m
 
@@ -27,17 +20,6 @@ Quick links
 - :ref:`How you can Help <h2document:docs-official-how-you-can-help>`
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
-
-
-Did You Know?
-------------------------------
-
-.. important:: Migrate Extension Documentation
-
-   As of May 29th 2019, new infrastructure now powers docs.typo3.org.
-   For extensions developers, some :ref:`migration tasks <h2document:migrate>`
-   are required to ensure that your extensions documentation is rendered automatically
-   on the new infrastructure.
 
 .. sidebar:: New to TYPO3?
 
@@ -82,7 +64,7 @@ Changes in Documentation
 .. end of sidebar
 .. --------------------------
 
-
+* 2020-01-26: :ref:`news-2020-tsref`
 * 2020-01-02: :ref:`new_documentation`
 * 2020-01-03: :ref:`news-2020-link-to-versions`
 
