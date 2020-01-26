@@ -6,13 +6,6 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. .. rst-class:: horizbuttons-tip-xxl
-..
-.. - How to find my answer here
-
-
-Quick links
------------
 
 .. rst-class:: horizbuttons-primary-m
 
@@ -28,9 +21,6 @@ Quick links
 - :ref:`Writing reST <h2document:Formatting-with-reST>`
 
 
-
-Did You Know?
-------------------------------
 
 .. important:: Migrate Extension Documentation
 
