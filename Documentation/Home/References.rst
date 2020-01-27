@@ -111,10 +111,7 @@ are listed here:
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
  - :Manual:        TypoScript Syntax and In-depth Study
-                   `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/8.7/en-us/>`__ |
-                   `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/7.6/en-us/>`__ |
-                   `6.2 <https://docs.typo3.org/m/typo3/reference-typoscript-syntax/6.2/en-us/>`__
-   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
+   :Description:   Outdated. **All versions** have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
 
  - :Manual:        Services API
                    `8.7 <https://docs.typo3.org/m/typo3/reference-services/8.7/en-us/>`__ |
