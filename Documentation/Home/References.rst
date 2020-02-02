@@ -106,9 +106,7 @@ are listed here:
    :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
 
  - :Manual:        Core Coding Guidelines
-                   `8.7 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/8.7/en-us/>`__ |
-                   `7.6 <https://docs.typo3.org/m/typo3/reference-coding-guidelines/7.6/en-us/>`__
-   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
+   :Description:   Outdated. **All versions** have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)
 
  - :Manual:        TypoScript Syntax and In-depth Study
    :Description:   Outdated. **All versions** have been integrated into :ref:`t3coreapi:typoscript-syntax-start` (TYPO3 Explained)
