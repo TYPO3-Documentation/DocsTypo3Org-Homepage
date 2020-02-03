@@ -150,7 +150,7 @@ Several new chapters were added to "TYPO3 Explained".
 * :ref:`t3coreapi:DependencyInjection`
   for TYPO3 version 10
 * :ref:`t3coreapi:be-layout`
-  for TYPO3 version 10
+  for TYPO3 version 10, 9, 8
 * :ref:`t3coreapi:file_processing`
   for TYPO3 version 10
 * :ref:`t3coreapi:broadcast_channels`
