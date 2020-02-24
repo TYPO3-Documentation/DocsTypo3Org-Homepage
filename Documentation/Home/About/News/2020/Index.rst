@@ -62,7 +62,7 @@ Menu before and after restructuring
    term TypoScript has 2 meanings and in this reference we mean TypoScript templating
    and not (primarily) TypoScript syntax (which is handled in :ref:`t3coreapi:typoscript-syntax-start`
    in "TYPO3 Explained". See `decisions.typo3.org <https://decisions.typo3.org/t/clarification-of-term-typoscript/560/9>`__
-   for dicussion about this topic.
+   for discussion about this topic.
 #. The chapter "Introduction" contained no introduction into the topic - this is a common
    problem in the documentation: There is a chapter "Introduction" where you expect to
    find information about the topic or what the manual is about and often this only contains
