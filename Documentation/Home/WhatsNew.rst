@@ -131,10 +131,15 @@ Changes in TYPO3 documentation are announced via the following channels:
 New Documentation
 =================
 
-While we do our best to keep existing documentation up to date, sometimes
-documentation has been added long after a new feature was created.
-
 Here is a list of documentation that was created recently:
+
+
+.. _new_documentation_2020:
+
+2020
+----
+
+* :ref:`Fluid based emails <t3coreapi:mail>` (since 10.3)
 
 .. _new_documentation_2019:
 
@@ -143,7 +148,7 @@ Here is a list of documentation that was created recently:
 
 Several new chapters were added to "TYPO3 Explained".
 
-"TYPO3 Explained" API Overview:
+"TYPO3 Explained":
 
 * :ref:`New documentation for translation with Crowdin <t3coreapi:xliff-translating-server-crowdin>`
   (in fact the entire :ref:`t3coreapi:localization` chapter has been heavily updated)
@@ -165,6 +170,7 @@ Several new chapters were added to "TYPO3 Explained".
   for TYPO3 versions :ref:`10 <adding-your-own-content-elements>`,
   `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html>`__
   and `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html>`__
+* :ref:`t3coreapi:mail` (since 10.2)
 * :ref:`Request Handling (PSR-15 / Middlewares) <t3coreapi:request-handling>`
   for TYPO3 versions :ref:`10 <t3coreapi:request-handling>`
   and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/RequestHandling/Index.html>`__
