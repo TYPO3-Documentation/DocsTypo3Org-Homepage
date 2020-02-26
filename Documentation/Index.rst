@@ -78,9 +78,8 @@ Changes in Documentation
    Home/SystemExtensions
    Home/WhatsNew
    Home/Extensions
-   Cheat Sheets ➜ <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
-   Tell Me Something About Topic X  ➜  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
-   Snippets  ➜  <https://docs.typo3.org/typo3cms/Snippets/>
+   Cheat Sheets                     <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
+   Tell Me Something About Topic X  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   Snippets                         <https://docs.typo3.org/typo3cms/Snippets/>
    Home/About/Index
    Home/Contribute
-

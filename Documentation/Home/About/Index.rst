@@ -14,6 +14,5 @@ About TYPO3 Documentation
 
    UsingThisSite/Index
    News/*
-   Writing Documentation  ➜  <https://docs.typo3.org/typo3cms/HowToDocument/>
-   Contact  ➜  <https://typo3.org/community/teams/documentation/#c9886>
-
+   Writing Documentation   <https://docs.typo3.org/typo3cms/HowToDocument/>
+   Contact                 <https://typo3.org/community/teams/documentation/#c9886>

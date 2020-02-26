@@ -17,17 +17,17 @@ listed here.
 .. toctree::
    :hidden:
 
-   felogin ➜ <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
-   fluid_styled_content  ➜ <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
-   form ➜ <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
-   indexed_search ➜ <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
-   linkvalidator ➜ <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
-   recycler ➜ <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
-   rte_ckeditor ➜ <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>
-   scheduler ➜ <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>
-   seo ➜ <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
-   sys_action ➜ <https://docs.typo3.org/typo3cms/extensions/sys_action/>
-   workspaces ➜ <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>
+   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
+   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
+   form                 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
+   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
+   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
+   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
+   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>
+   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>
+   seo                  <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
+   sys_action           <https://docs.typo3.org/typo3cms/extensions/sys_action/>
+   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>
 
 
 Documentation of system extensions in current core version
@@ -124,7 +124,7 @@ Documentation of system extensions abandoned from current core version
 
    - :Manual: `func <https://docs.typo3.org/typo3cms/extensions/func/stable/>`_
      :ExtKey: func
-     :Versions: 
+     :Versions:
      :Comment: Was removed from core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
 
 
