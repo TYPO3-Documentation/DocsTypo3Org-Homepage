@@ -70,7 +70,7 @@ depending on which task should be achieved.
  - :Manual:       :ref:`t3viewhelper:start`
    :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
                   `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__ 
+                  `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__
    :Description:  A complete reference of all available Fluid ViewHelper within
                   TYPO3 CMS. The reference for 9.5 is automatically generated. The
                   others are currently maintained manually.
@@ -129,9 +129,9 @@ are listed here:
 .. toctree::
    :hidden:
 
-   TYPO3 Explained ➜   <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>
-   Core Changelog    ➜ <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
-   TCA ➜               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
-   TSconfig ➜          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
-   TypoScript Template Reference ➜ <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
-   ViewHelper Reference ➜ <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>
+   TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>
+   Core Changelog    <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
+   TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
+   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
+   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
+   ViewHelper        <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>

@@ -13,15 +13,15 @@ Tutorials and Guides
 .. toctree::
    :hidden:
 
-   Core Contribution Guide ➜               <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
-   Developing TYPO3 Extensions with Extbase and Fluid (book)  ➜ <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
-   Editors Tutorial      ➜                 <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
-   Getting Started Tutorial ➜              <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
-   Installation & Upgrade Guide ➜          <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
-   Sitepackage Tutorial ➜                  <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
-   Templating Tutorial ➜                   <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
-   TypoScript in 45 Minutes ➜              <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
-   Writing Documentation ➜                 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
+   Core Contribution Guide             <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
+   Extensions with Extbase and Fluid   <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
+   Editors Tutorial                    <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
+   Getting Started Tutorial            <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
+   Installation & Upgrade Guide        <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
+   Sitepackage Tutorial                <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
+   Templating Tutorial                 <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
+   TypoScript in 45 Minutes            <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
+   Writing Documentation               <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
 
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
