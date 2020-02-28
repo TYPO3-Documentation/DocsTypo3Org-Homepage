@@ -14,11 +14,17 @@ Extensions by Extension Key
 .. First
    You may add normal rst content here.
 
-Here you can find documentation of extensions if available and successfully rendered.
-The url schema is docs.typo3.org/typo3cms/extensions/<EXTKEY>/<VERSION>/ and includes
-system extensions as well as third party extensions.
+Here you can find documentation of system extensions and third party extensions,
+if available.
 
-System extensions are shipped with the TYPO3 core. See the
+The url schema for third party extensions is:
+``docs.typo3.org/p/<VENDOR>/<EXTKEY>/<VERSION>/en-us``.
+
+The url schema for system extensions is:
+``docs.typo3.org/c/typo3/cms-<EXTKEY>/<VERSION>/en-us/``
+
+System extensions are shipped with the TYPO3 core. A list of all available
+system extension documentation is found in the
 :ref:`system extensions section <System-Extensions>`.
 
 Third party extensions are available through the

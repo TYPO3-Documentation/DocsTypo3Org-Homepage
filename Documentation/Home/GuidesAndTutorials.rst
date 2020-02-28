@@ -4,7 +4,6 @@
 .. _examples:
 .. _guides:
 .. _tutorials:
-.. _getting-started:
 
 ====================
 Tutorials and Guides
