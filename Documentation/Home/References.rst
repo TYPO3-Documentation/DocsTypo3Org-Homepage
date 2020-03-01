@@ -41,6 +41,10 @@ depending on which task should be achieved.
                   <https://typo3.org/help/documentation/whats-new/>`__
                   provide the information in a more digestible way.
 
+ - :Manual:       :ref:`System-Extensions`
+   :Versions:
+   :Description:  Documentation of system extensions in the core.
+
  - :Manual:       :ref:`t3tca:start`
    :Versions:     :ref:`master (10-dev) <t3tca:start>` |
                   `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
@@ -132,6 +136,7 @@ are listed here:
 
    TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>
    Core Changelog    <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
+   SystemExtensions
    TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
    TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
    TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
