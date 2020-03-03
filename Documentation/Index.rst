@@ -177,13 +177,18 @@ in numerous ways, including
 Contribute to official documentation
 ====================================
 
-You are welcome to click on the "Edit me on GitHub" button on any page
+You are welcome to click on the "Edit on GitHub" button on any page
 to propose a change in the official documentation if you see something that
 can be improved.
 
-* :ref:`h2document:docs-contribute` gives a good introduction to the workflow
+* The blog post `Start Improving Docs Now to Grow TYPO3 <https://typo3.com/blog/start-improving-docs-now-to-grow-typo3>`__
+  gives a good introduction to documentation contribution.
+* :ref:`h2document:docs-contribute` explains the workflow for contributing.
 * The documentation is edited in text files using reStructuredText syntax.
   Use the :ref:`rest-cheat-sheet` to lookup most commonly used directives.
+* General conventions can be found in :ref:`h2document:conventions`
+* :ref:`h2document:docs-official-how-you-can-help` lists some general task
+  where you can start.
 
 .. toctree::
    :hidden:
