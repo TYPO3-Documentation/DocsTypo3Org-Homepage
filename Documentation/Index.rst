@@ -187,8 +187,8 @@ can be improved.
 * The documentation is edited in text files using reStructuredText syntax.
   Use the :ref:`rest-cheat-sheet` to lookup most commonly used directives.
 * General conventions can be found in :ref:`h2document:conventions`
-* :ref:`h2document:docs-official-how-you-can-help` lists some general task
-  where you can start.
+* :ref:`h2document:docs-official-how-you-can-help` lists some general tasks
+  to get you started.
 
 .. toctree::
    :hidden:
