@@ -168,7 +168,7 @@ But contribution is not just about writing patches. You can contribute
 in numerous ways, including
 
 * :ref:`Writing issues <t3contribute:forge-index>`
-* :ref:`Rewiew patches <t3contribute:improving-a-patch>`
+* :ref:`Review patches <t3contribute:improving-a-patch>`
 
 
 
