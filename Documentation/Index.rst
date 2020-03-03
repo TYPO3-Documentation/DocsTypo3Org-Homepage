@@ -100,8 +100,8 @@ Develop custom extensions
 
 Getting started with extension development:
 
-* :ref:`Introduction to extensions in TYPO3 <t3coredev:extension-architecture-introduction>`
-* Extension :ref:`t3coreapi:extension-files-locations>`
+* :ref:`Introduction to extensions in TYPO3 <t3coreapi:extension-architecture-introduction>`
+* Extension :ref:`t3coreapi:extension-files-locations`
 * :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
 
 More topics can be found in :ref:`t3coreapi:start`, for example:
