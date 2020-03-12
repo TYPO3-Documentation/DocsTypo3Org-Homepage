@@ -12,16 +12,37 @@
 2020
 ====
 
-.. _news-2020-tsref:
+
+.. _news-2020-fluid-start:
 .. rst-class:: panel panel-default
 
+Fluid start page
+================
+
+*2020-03-12*
+
+A :ref:`Fluid start page <t3coreapi:fluid>` was created in "TYPO3 Explained".
+This reflects the importance of Fluid in TYPO3 and the multiple ways it is
+now used in TYPO3. A :ref:`t3coreapi:fluid-introduction` subpage was added
+as well.
+
+The Fluid page serves as an overview of various ways to use Fluid in TYPO3
+as Fluid is now no longer used only in developing Extensions with Extbase &
+Fluid as was the case when it was initially introduced.
+
+As **next steps** the documentation could be further restructured, moving
+for example general Fluid information that is not specific to Extbase /
+Fluid from the :ref:`t3extbasebook:start` to "TYPO3 Explained".
+
+.. _news-2020-tsref:
+.. rst-class:: panel panel-default
 
 TypoScript Reference
 ====================
 
 *2020-01-26*
 
-We made several changes to the :ref:`TypoScript reference <t3tsref>` and documentation for the
+We made several changes to the :ref:`TypoScript reference <t3tsref:start>` and documentation for the
 topic TypoScript in general.
 
 **Summary**
@@ -30,9 +51,6 @@ topic TypoScript in general.
 * Menu was restructured
 * Consolidated older versions (finalized migration, ...)
 * Added introduction, links to other information and quick links to start page
-
-
-
 
 **In more detail:**
 
@@ -138,7 +156,7 @@ to the documentation for the **same TYPO3 version**.
 
 .. seealso::
 
-* :ref:`documentationTypo3Version`: Find out how documentation is available
-  for several TYPO3 versions
-* :ref:`h2document:intersphinx`: More information about the intersphinx
-  mechanism for cross-linking between manuals
+   * :ref:`documentationTypo3Version`: Find out how documentation is available
+     for several TYPO3 versions
+   * :ref:`h2document:intersphinx`: More information about the intersphinx
+     mechanism for cross-linking between manuals

@@ -40,7 +40,7 @@ API Overview:
 * :ref:`t3coreapi:seo`
 * :ref:`t3coreapi:config-overview`
 * :ref:`t3coreapi:flexforms`
-* :ref:`t3coreapi:yaml`
+* :ref:`t3coreapi:yaml-api`
 
 
 Extension Development:
