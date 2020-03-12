@@ -139,6 +139,10 @@ Here is a list of documentation that was created recently:
 2020
 ----
 
+* :ref:`t3coreapi:Events_JavaScript` (since TYPO3 10.3)
+* :ref:`t3coreapi:ajax` was significantly rewritten for TYPO3 10
+* :ref:`Fluid start page <t3coreapi:fluid>` (see also
+  :ref:`news-2020-fluid-start` for description of change)
 * :ref:`Fluid based emails <t3coreapi:mail>` (since 10.3)
 
 .. _new_documentation_2019:
@@ -151,7 +155,7 @@ Several new chapters were added to "TYPO3 Explained".
 "TYPO3 Explained":
 
 * :ref:`New documentation for translation with Crowdin <t3coreapi:xliff-translating-server-crowdin>`
-  (in fact the entire :ref:`t3coreapi:localization` chapter has been heavily updated)
+  (in fact the entire :ref:`t3coreapi:internationalization` chapter has been heavily updated)
 * :ref:`t3coreapi:DependencyInjection`
   for TYPO3 version 10
 * :ref:`t3coreapi:be-layout`
@@ -187,9 +191,7 @@ Several new chapters were added to "TYPO3 Explained".
   for TYPO3 versions :ref:`10 <t3coreapi:flexforms>`,
   `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/FlexForms/Index.html>`__
   and `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/ApiOverview/FlexForms/Index.html>`__
-* :ref:`t3coreapi:yaml`
-  for TYPO3 versions :ref:`10 <t3coreapi:yaml>`
-  and `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Yaml/Index.html>`__
+* :ref:`t3coreapi:yaml-api`
 * :ref:`t3coreapi:locking-api`
 
 "TYPO3 Explained" Extension Development:
