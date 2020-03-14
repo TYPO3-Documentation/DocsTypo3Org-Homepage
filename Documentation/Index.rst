@@ -6,7 +6,7 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-TYPO3 CMS is an Open Source Enterprise Content Element System based on PHP.
+TYPO3 CMS is an Open Source Enterprise Content Management System powered by PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
@@ -21,9 +21,9 @@ __________________________________________________
 Getting Started
 ===============
 
-Find information about TYPO3 versions and system requirements on https://get.typo3.org.
+To find out more information about the different versions of TYPO3 and its system requirements, visit https://get.typo3.org.
 
-Follow :ref:`Quick installation with Composer <t3install:install-via-composer>`
+Follow the :ref:`Quick installation guide with Composer <t3install:install-via-composer>`
 to install TYPO3.
 
 .. code-block:: bash
@@ -47,15 +47,15 @@ Find out more on the `help page <https://typo3.org/help>`__
 How the documentation is organized
 ==================================
 
-* :ref:`Tutorials and Guides <tutorials>` is a comprehensive list of
-  further guides and tutorials for each area of the CMS.
+* :ref:`Tutorials and Guides <tutorials>` contains a comprehensive list of
+  guides and tutorials for each area of the CMS.
 * The :ref:`references` section provides information about the TYPO3 core
-  for a technical audience (developers, integrators). The main reference
+  for technical users (developers, integrators). The main reference
   manual is :ref:`t3coreapi:start`.
 * :ref:`System-Extensions` contains documentation for system
   extensions. These are extensions that are included in the
   TYPO3 core.
-* :ref:`extensions` can be used to search for documentation of third party
+* :ref:`extensions` can be used to search for documentation for third party
   extensions.
 
 .. _start-theme:
@@ -65,7 +65,7 @@ Create a theme
 
 *Theme* | *Templating* | *Sitepackage*
 
-It is good practice to create a **Sitepackage**. This is an extension which
+It is considered good practice to create a **Sitepackage**. This is an extension which
 contains the resources required for a theme.
 
 Sitepackage:
@@ -124,7 +124,7 @@ all relevant changes for each TYPO3 version since 7.
 Configure TYPO3
 ===============
 
-A major feature for TYPO3 is its configurability. The :ref:`t3coreapi:config-overview`
+One of the major features of TYPO3 is its configurability. The :ref:`t3coreapi:config-overview`
 in "TYPO3 Explained" gives you an overview of various configuration languages.
 
 Specifically, you might want to
@@ -164,8 +164,8 @@ patches:
 * :ref:`Commit message rules <t3contribute:commitmessage>`
 * :ref:`Setup an installation with DDEV <t3contribute:ddev>`
 
-But contribution is not just about writing patches. You can contribute
-in numerous ways, including
+But contributions aren't just about writing patches. You can contribute
+in numerous other ways, including
 
 * :ref:`Writing issues <t3contribute:forge-index>`
 * :ref:`Review patches <t3contribute:improving-a-patch>`
@@ -178,8 +178,8 @@ Contribute to official documentation
 ====================================
 
 You are welcome to click on the "Edit on GitHub" button on any page
-to propose a change in the official documentation if you see something that
-can be improved.
+to propose a change in the official documentation whenever you see something that
+you think can be improved.
 
 * The blog post `Start Improving Docs Now to Grow TYPO3 <https://typo3.com/blog/start-improving-docs-now-to-grow-typo3>`__
   gives a good introduction to documentation contribution.
