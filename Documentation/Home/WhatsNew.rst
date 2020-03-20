@@ -3,12 +3,12 @@
 .. _whats_new:
 
 ==========
-What's New
+What's new
 ==========
 
 .. _whats_new_slides:
 
-What's new Slides
+What's new slides
 =================
 
 For each new major TYPO3 release, a set of
@@ -33,7 +33,7 @@ deprecated or removed functionality.
 
 .. _documentationTypo3Version:
 
-Documentation by TYPO3 Version
+Documentation by TYPO3 version
 ==============================
 
 Documentation that is rendered on docs.typo3.org often comes with several
@@ -47,43 +47,35 @@ You can see this in the URL, for example:
 * ``/m/typo3/reference-coreapi/9.5/en-us/`` corresponds to TYPO3
   version 9.5.
 
-The version is also displayed along with the title, for example:
-
-.. image:: About/UsingThisSite/_images/getting-started-menu-startpage.svg
+The version is also displayed along with the title.
 
 You can jump to a different version of the manual by clicking on
-:guilabel:`Related Links` on the bottom of the menu, see
-:ref:`usage-version-selector`.
+the :ref:`version selector <usage-version-selector>` under the title.
 
-.. image:: About/UsingThisSite/_images/version-selector.svg
+.. image:: About/UsingThisSite/_images/versionselector.png
+   :class: with-shadow
 
-.. tip::
-
-   We recently changed how we link across manuals. You will now
-   :ref:`be directed to the same version <news-2020-link-to-versions>`
-   (and not the latest - as before)
-   when you are reading documentation and come across a link to
-   another manual.
+We recently changed how we link across manuals. You will now
+:ref:`be directed to the same version <news-2020-link-to-versions>`
+(and not the latest - as before)
+when you are reading documentation and come across a link to
+another manual.
 
 .. _DocsAvailableVersions:
 
-Available Versions
+Available versions
 ==================
 
 We currently have the following policy:
 
 * Official manuals are available on docs.typo3.org for
-  **version 6.2 and above**
-* System extension manuals are available on docs.typo3.org for
-  **version 8.7 and above**
+  all **ELTS versions and above**
 
-.. seealso::
-
-  Available TYPO3 versions: https://get.typo3.org/
+For all available TYPO3 versions see https://get.typo3.org/.
 
 .. _findDocsForOlderVersions:
 
-Finding Documentation for Older TYPO3 Versions
+Finding documentation for older TYPO3 versions
 ==============================================
 
 Documentation that is :ref:`currently no longer available <documentationTypo3Version>`
@@ -94,16 +86,18 @@ but older versions still exist for 4.5 and above.
 
 You can find the older versions for official manuals by:
 
-#. Find the manual on https://docs.typo3.org
-#. Click on :guilabel:`Related Links` in the menu and go to :guilabel:`Repository`.
-#. Click on :guilabel:`branches` and select the branch
+#. Find the manual on https://docs.typo3.org.
+#. Click on the link :guilabel:`Repository` in the footer of the page.
+   You should get directed to the GitHub repository.
+#. Click on :guilabel:`Code > branches` and select the branch
 
 You can now browse the files online on GitHub, but this will not be
 rendered nicely, as not all sphinx directives are correctly rendered on GitHub.
 
 To render the documentation locally (you need Git and Docker):
 
-#. Click on :guilabel:`Clone or download` to copy the repository URL
+#. On the GitHub page, click on :guilabel:`Clone or download` to copy the
+   repository URL
 #. `git clone <repository-url>`
 #. `cd <directory that was just created>`
 #. `git fetch;git branch -a`
@@ -113,7 +107,7 @@ To render the documentation locally (you need Git and Docker):
 
 .. whats-new-changes-in-documentation:
 
-Changes in Documentation
+Changes in documentation
 ========================
 
 Changes in TYPO3 documentation are announced via the following channels:
@@ -128,7 +122,7 @@ Changes in TYPO3 documentation are announced via the following channels:
 
 .. _new_documentation:
 
-New Documentation
+New documentation
 =================
 
 Here is a list of documentation that was created recently:
