@@ -21,26 +21,20 @@ __________________________________________________
 Getting Started
 ===============
 
-To find out more information about the different versions of TYPO3 and its system requirements, visit https://get.typo3.org.
+* Follow the :ref:`quick installation guide <t3install:install-via-composer>`
+to install TYPO3 using Composer.
 
-Follow the :ref:`Quick installation guide with Composer <t3install:install-via-composer>`
-to install TYPO3.
+* The :ref:`t3start:start` introduces you to TYPO3's backend - the interface used for managing
+content and configuring your TYPO3 installation.
 
-.. code-block:: bash
+* Add a domain, set up languages and configure URL handling with the
+:ref:`site configuration <sitehandling-basics>` tutorial.
 
-   composer create-project typo3/cms-base-distribution YourNewProjectFolder
+* Additional resources are available in the :ref:`tutorials` section.
 
-Set up the :ref:`site configuration <sitehandling-basics>` in the backend to configure
-the domain, languages, URLs and error pages.
+Support is available via StackOverflow and Slack. Visit the `help page <https://typo3.org/help>`__ for more information.
 
-The :ref:`t3start:start` walks you through the backend - the interface for editing
-content and configuring the TYPO3 installation. You need a browser and a working
-TYPO3 installation.
-
-Find more tutorials in :ref:`tutorials`.
-You can ask for support via StackOverflow or Slack.
-Find out more on the `help page <https://typo3.org/help>`__
-
+For information about the different versions of TYPO3 and its system requirements, visit https://get.typo3.org.
 
 .. _how-the-documentation-is-organized:
 
