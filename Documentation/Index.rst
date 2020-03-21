@@ -60,34 +60,27 @@ How the documentation is organized
 
 .. _start-theme:
 
-Create a theme
-==============
+Templating with Fluid
+=====================
 
-*Theme* | *Templating* | *Sitepackage*
+TYPO3 uses Fluid as its templating engine. Fluid acts as the glue between your HTML templates and the content
+you create in TYPO3. You can find out more about templating and where to get started by visiting the
+`Templating Tutorial. <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__
 
-It is considered good practice to create a **Sitepackage**. This is an extension which
-contains the resources required for a theme.
-
-Sitepackage:
-
-* `Concept of Sitepackages <https://www.slideshare.net/benjaminkott/typo3-the-anatomy-of-sitepackages>`__
-* :ref:`t3sitepackage:start`
-
-More introductions:
-
-* The `Fluid documentation <https://github.com/TYPO3/Fluid>`__
-  contains information about Fluid. As it is an independent project, the documentation is not
+* `Backend Layouts <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/BackendLayout/Index.html#be-layout>`__
+ join the content you create in TYPO3 to specific points in your HTML templates. With backend layouts we are able to map our content
+to selected points in our HTML where we wish to display our content.
+* The `Fluid repository <https://github.com/TYPO3/Fluid>`__
+  contains further information about Fluid. As it is an independent project, the documentation is not
   maintained on docs.typo3.org.
-* The system extension :ref:`fluid_styled_content <fsc:start>` handles the rendering of the default
-  set of content elements shipped with the core by using the template engine
-  `Fluid <https://typo3.org/fluid>`__
-* :ref:`Backend layouts <t3coreapi:be-layout>`
-* :ref:`Create custom content elements <t3coreapi:adding-your-own-content-elements>`
+* `Custom content elements <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/ContentElements/AddingYourOwnContentElements.html#adding-your-own-content-elements>`__
+ give us the ability to create our own custom content types.
 
-References
+Manage your templates and more with Sitepackages
+================================================
 
-* :ref:`t3tsref:start`
-* :ref:`t3viewhelper:start`
+`Sitepackages <https://www.slideshare.net/benjaminkott/typo3-the-anatomy-of-sitepackages>`__ allow you to bundle
+your Fluid templates and other site assets into a single, reusable extension that can be installed with a single click.
 
 
 .. _start-extdev:
