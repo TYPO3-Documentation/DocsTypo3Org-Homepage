@@ -47,16 +47,10 @@ Find out more on the `help page <https://typo3.org/help>`__
 How the documentation is organized
 ==================================
 
-* :ref:`Tutorials and Guides <tutorials>` contains a comprehensive list of
-  guides and tutorials for each area of the CMS.
-* The :ref:`references` section provides information about the TYPO3 core
-  for technical users (developers, integrators). The main reference
-  manual is :ref:`t3coreapi:start`.
-* :ref:`System-Extensions` contains documentation for system
-  extensions. These are extensions that are included in the
-  TYPO3 core.
-* :ref:`extensions` can be used to search for documentation for third party
-  extensions.
+* :ref:`Tutorials and Guides <tutorials>` contain a comprehensive list of resources for both new and existing users of TYPO3 including documentation for editors, integrators and developers.
+* :ref:`references` features detailed information about TYPO3's core and is intended for integrators and developers.
+* :ref:`System-Extensions` provide a list of all extensions currently used in TYPO3's core along with documentation for each of the extensions listed.
+* :ref:`extensions` allow you to search for documentation that has been provided for third party extensions.
 
 .. _start-theme:
 
