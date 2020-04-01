@@ -115,7 +115,7 @@ TYPO3 Frontend Localization Guide updated
 
 The :ref:`TYPO3 Frontend Localization Guide <t3l10n:start>` manual
 was purged of many of its old parts this spring by Christopher,
-but still remained out of date, in particular with regards to screenshost.
+but still remained out of date, in particular with regards to screenshots.
 It is now fully up to date again for TYPO3 7. It is also restructured,
 reflecting the fact that it has less content than before.
 
