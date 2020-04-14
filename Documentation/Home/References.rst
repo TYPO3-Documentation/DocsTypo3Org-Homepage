@@ -82,10 +82,9 @@ depending on which task should be achieved.
 
 .. tip::
 
-   Did you know, you can click on "Related links" at the bottom of a page in most
-   manuals to select a different version? The versions of the manual correspond to the TYPO3
-   version. :ref:`Read more ... <usage-version-selector>`
-
+   Did you know, you can click on the version selector which is located right under the title. This
+   enables you to read the manual for a different version. The versions of the manual correspond to
+   the TYPO3 version. :ref:`Read more ... <usage-version-selector>`
 
 **Migrated manuals**
 
