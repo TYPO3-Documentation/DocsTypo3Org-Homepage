@@ -17,6 +17,7 @@ listed here.
 .. toctree::
    :hidden:
 
+   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>
    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
    form                 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
@@ -49,6 +50,10 @@ part of the core and extracted at some point in time.
    - :Manual: Manual
      :ExtKey: Extension key
      :Comment: Comment
+
+   - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`_
+     :ExtKey: dashboard
+     :Comment:
 
    - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`_
      :ExtKey: felogin
