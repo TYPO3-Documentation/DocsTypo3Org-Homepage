@@ -15,13 +15,14 @@ Tutorials and Guides
    Core Contribution Guide             <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
    Extensions with Extbase and Fluid   <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
    Editors Tutorial                    <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
+   Extbase Guide                       <https://docs.typo3.org/m/typo3/guide-extbasefluid/master/en-us/>
+   Frontend Localization Guide         <https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/>
    Getting Started Tutorial            <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
    Installation & Upgrade Guide        <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
    Sitepackage Tutorial                <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
    Templating Tutorial                 <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
    TypoScript in 45 Minutes            <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
    Writing Documentation               <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
-
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
 with the documentation that is best suited for your background and the
@@ -296,9 +297,7 @@ which also serve as guidelines to the usage of reStructuredText.
 
 **Outdated**
 
-The following manuals have been removed or will soon be removed.
-They were either outdated or have been merged into other
-manuals.
+The following manuals are outdated and have not been maintained for some time.
 
 .. t3-field-list-table::
  :header-rows: 1
@@ -307,7 +306,7 @@ manuals.
    :Category:     Category
    :Status:       Status
 
- - :Title:        A TYPO3 Extbase and Fluid Guide
+ - :Title:        :ref:`t3extbase:start`
    :Category:     Development
    :Status:       Deprecated. 8.7 and 6.2 branch still contain manual ViewHelper reference:
                   `8.7 <https://docs.typo3.org/m/typo3/guide-extbasefluid/8.7/en-us/Fluid/ViewHelper/Index.html>`__  |
