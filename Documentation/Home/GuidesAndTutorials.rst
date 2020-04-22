@@ -13,15 +13,15 @@ Tutorials and Guides
    :hidden:
 
    Core Contribution Guide             <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
-   Extensions with Extbase and Fluid   <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
-   Editors Tutorial                    <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>
+   Extensions with Extbase and Fluid   <https://docs.typo3.org/m/typo3/book-extbasefluid/10.4/en-us/>
+   Editors Tutorial                    <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/>
    Extbase Guide                       <https://docs.typo3.org/m/typo3/guide-extbasefluid/master/en-us/>
-   Frontend Localization Guide         <https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/>
-   Getting Started Tutorial            <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>
-   Installation & Upgrade Guide        <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>
-   Sitepackage Tutorial                <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>
-   Templating Tutorial                 <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>
-   TypoScript in 45 Minutes            <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>
+   Frontend Localization Guide         <https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/>
+   Getting Started Tutorial            <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/>
+   Installation & Upgrade Guide        <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/>
+   Sitepackage Tutorial                <https://docs.typo3.org/m/typo3/tutorial-sitepackage/10.4/en-us/>
+   Templating Tutorial                 <https://docs.typo3.org/m/typo3/tutorial-templating/10.4/en-us/>
+   TypoScript in 45 Minutes            <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/>
    Writing Documentation               <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/>
 
 It is recommended to begin with the :ref:`t3start:start` and then continue
@@ -45,7 +45,8 @@ task at hand:
    :Description:  Description
 
  - :Title:        :ref:`t3start:start`
-   :Versions:     :ref:`master (10-dev) <t3start:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/tutorial-getting-started/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/tutorial-getting-started/7.6/en-us/>`__
@@ -54,21 +55,14 @@ task at hand:
                   It is based on the Introduction Package.
 
  - :Title:        :ref:`t3install:start`
-   :Versions:     :ref:`master (10.dev) <t3install:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__
    :Category:     Installation & Upgrade
    :Description:  How to **install** TYPO3 (with or without composer) and
                   how to **upgrade** an existing installation.
-
-
-.. tip::
-
-   Did you know, you can click on "Related links" at the bottom of the menu in most
-   manuals to select a different version? The versions of the manual correspond to the TYPO3
-   version. :ref:`Read more ... <usage-version-selector>`
-
 
 
 .. _tutguides-editors:
@@ -89,7 +83,8 @@ in the "Getting Started Tutorial".
    :Description:  Description
 
  - :Title:        :ref:`t3editors:start`
-   :Versions:     :ref:`master (10-dev) <t3editors:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/tutorial-editors/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/tutorial-editors/7.6/en-us/>`__
@@ -116,7 +111,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
 
 
  - :Title:        :ref:`t3ts45:start`
-   :Versions:     :ref:`master (10-dev) <t3ts45:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/7.6/en-us/>`__
@@ -126,7 +122,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   see :ref:`t3tsref:start` and :ref:`t3coreapi:typoscript-syntax-start`.
 
  - :Title:        :ref:`t3sitepackage:start`
-   :Versions:     :ref:`master (10-dev) <t3sitepackage:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-sitepackage/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/tutorial-sitepackage/8.7/en-us/>`__
    :Category:     Development / Integration
@@ -135,7 +132,8 @@ in the "Getting Started Tutorial". Integrators should also look in the
                   :ref:`[read more] <news-2018-06-13>`
 
  - :Title:        :ref:`t3templating:start`
-   :Versions:     :ref:`master (10-dev) <t3templating:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-templating/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-templating/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/tutorial-templating/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/tutorial-templating/8.7/en-us/>`__
    :Category:     Development / Integration
@@ -167,7 +165,8 @@ in the "Getting Started Tutorial". Developers should also look in the
    :Description:  Description
 
  - :Title:        :ref:`t3extbasebook:start`
-   :Versions:     :ref:`master (10-dev) <t3extbasebook:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/book-extbasefluid/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/book-extbasefluid/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/book-extbasefluid/8.7/en-us/>`__
    :Category:     Development
@@ -235,7 +234,8 @@ in the "Getting Started Tutorial". Developers should also look in the
    :Description:  Description
 
  - :Title:        :ref:`t3install:start`
-   :Versions:     :ref:`master (10.dev) <t3install:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/guide-installation/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/guide-installation/7.6/en-us/>`__

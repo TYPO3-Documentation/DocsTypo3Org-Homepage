@@ -21,7 +21,8 @@ depending on which task should be achieved.
    :Description:  Description
 
  - :Manual:       :ref:`TYPO3 Explained <t3coreapi:start>`
-   :Versions:     :ref:`master (10-dev) <t3coreapi:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/reference-coreapi/7.6/en-us/>`__
@@ -31,7 +32,8 @@ depending on which task should be achieved.
                   different target groups and outlined accordingly.
 
  - :Manual:       `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
-   :Versions:     `master (10-dev) <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-10.html>`__ |
                   `9.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-9.html>`__ |
                   `8.7 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-8.html>`__ |
                   `7.6 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-7.html>`__
@@ -46,7 +48,8 @@ depending on which task should be achieved.
    :Description:  Documentation of system extensions in the core.
 
  - :Manual:       :ref:`t3tca:start`
-   :Versions:     :ref:`master (10-dev) <t3tca:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/reference-tca/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/reference-tca/7.6/en-us/>`__
@@ -54,7 +57,8 @@ depending on which task should be achieved.
                   used to extend the definition of database tables.
 
  - :Manual:       :ref:`t3tsconfig:start`
-   :Versions:     :ref:`master (10-dev) <t3tsconfig:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/reference-tsconfig/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/reference-tsconfig/7.6/en-us/>`__
@@ -62,7 +66,8 @@ depending on which task should be achieved.
                   to configure the backend.
 
  - :Manual:       :ref:`t3tsref:start`
-   :Versions:     :ref:`master (10-dev) <t3tsref:start>` |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript/8.7/en-us/>`__ |
                   `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript/7.6/en-us/>`__
@@ -72,7 +77,7 @@ depending on which task should be achieved.
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
  - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     :ref:`master (10-dev) <t3viewhelper:start>` |
+   :Versions:     `master (10.4 + 11-dev) <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__
    :Description:  A complete reference of all available Fluid ViewHelper within
@@ -133,10 +138,10 @@ are listed here:
    :hidden:
 
 
-   TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>
+   TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
    Core Changelog    <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
    SystemExtensions
-   TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
-   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
-   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
-   ViewHelper        <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>
+   TCA               <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>
+   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>
+   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>
+   ViewHelper        <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>
