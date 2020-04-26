@@ -77,7 +77,8 @@ depending on which task should be achieved.
                   :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
 
  - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     `master (10.4 + 11-dev) <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__ |
+   :Versions:     `master (11-dev) <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__ |
+                  `10.4 <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>`__ |
                   `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
                   `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__
    :Description:  A complete reference of all available Fluid ViewHelper within
