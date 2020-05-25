@@ -17,18 +17,18 @@ listed here.
 .. toctree::
    :hidden:
 
-   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>
-   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
-   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
-   form                 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
-   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
-   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
-   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
-   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>
-   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>
-   seo                  <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
-   sys_action           <https://docs.typo3.org/typo3cms/extensions/sys_action/>
-   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>
+   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>
+   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/10.4/en-us/>
+   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>
+   form                 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>
+   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/>
+   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/>
+   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/10.4/en-us/>
+   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>
+   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/10.4/en-us/>
+   seo                  <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>
+   sys_action           <https://docs.typo3.org/c/typo3/cms-sys-action/master/en-us/>
+   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/>
 
 
 Documentation of system extensions in current core version
@@ -51,47 +51,47 @@ part of the core and extracted at some point in time.
      :ExtKey: Extension key
      :Comment: Comment
 
-   - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`_
+   - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>`_
      :ExtKey: dashboard
      :Comment:
 
-   - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`_
+   - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/10.4/en-us/>`_
      :ExtKey: felogin
      :Comment:
 
-   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
+   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>`_
      :ExtKey: fluid_styled_content
      :Comment:
 
-   - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`_
+   - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`_
      :ExtKey: form
      :Comment: Extensive manual
 
-   - :Manual: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`_
+   - :Manual: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/>`_
      :ExtKey: indexed_search
      :Comment:
 
-   - :Manual: `Link validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`_
+   - :Manual: `Link validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/>`_
      :ExtKey: linkvalidator
      :Comment:
 
-   - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`_
+   - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/10.4/en-us/>`_
      :ExtKey: recycler
      :Comment:
 
-   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
+   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>`_
      :ExtKey: rte_ckeditor
      :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
 
-   - :Manual: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>`_
+   - :Manual: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/10.4/en-us/>`_
      :ExtKey: scheduler
      :Comment: Recently reworked
 
-   - :Manual: `SEO <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>`_
+   - :Manual: `SEO <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>`_
      :ExtKey: seo
      :Comment:
 
-   - :Manual: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>`_
+   - :Manual: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/>`_
      :ExtKey: workspaces
      :Comment:
 

@@ -4,6 +4,6 @@
     "description": "Homepage of docs.typo3.org",
     "license": "",
     "require": {
-      "typo3/cms-core": "^9.5"
+      "typo3/cms-core": "^10.4.2"
     }
 }
