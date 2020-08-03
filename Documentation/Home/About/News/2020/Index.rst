@@ -13,6 +13,75 @@
 ====
 
 
+.. _news-2020-snippets:
+.. rst-class:: panel panel-default
+
+Snippets
+========
+
+The `Snippets <https://github.com/TYPO3-Documentation/TYPO3CMS-Snippets>`__ were
+available a number of years and have been helpful. But for quite some time, they
+were no longer being used much and no new Snippets were being added.
+
+The main problem currently is that the manual was never versionized, so there is
+no way to see for which TYPO3 version the snippet applies. This makes it especially
+difficult for newcomers, while experts may still find the information they need
+and have no problem figuring out whether it applies to their TYPO3 version.
+
+However, the Matomo results also show, that there is very little traffic to
+these pages.
+
+Decreased activity may also be a reflection that people are now using other
+platforms, for example Stack Overflow or their own blogs to introduce tips,
+small snippets and examples and information on how to do things.
+
+As advertised on the start page, the snippets were never meant to be maintained by the Documentation Team,
+which meant everyone was free to add their own snippets, there was no quality
+control or entry exam to complete. While this made it very open and inviting,
+it had the inherent problem, that there never was an official review. Since
+we now have other platforms where you can vote and comment (e.g. Stack Overflow)
+or have an author who stands behind the content and has an incentive to keep
+it up to date or people just know it is something with an expiration date
+and never meant to be kept updated (e.g. blogs) - these may be better suited for this type of content.
+
+On the other hand, it is not easy to take down or deprecate content, people
+may find it disruptive and we hate to throw away content that was created
+by the community and that served its purpose many years.
+
+Because of this open decision, an `issue <https://github.com/TYPO3-Documentation/T3DocTeam/issues/74>`__
+and a `decision <https://decisions.typo3.org/t/what-to-do-with-the-snippets/591>`__
+were created which addressed the question of "What to do with the snippets".
+
+This is now the plan:
+
+* "Snippets" were removed from main menu on https://docs.typo3.org
+* the rendered pages are still available but contain a prominent banner, informing
+  about the fact that this manual is not being maintained
+* the repository is archived on GitHub
+
+At some time in the future, we may also remove the rendered snippets and redirect
+to the https://docs.typo3.org start page. The archived repository on GitHub is still available.
+
+Nothing was thrown away - it will just be less prominent in the future.
+
+How you can help:
+
+* Give us feedback on this decision or the structure of the documentation in
+  general, either as issues or via Slack
+* Help to increase the knowledgebase of useful examples for TYPO3 by contributing to
+  Stack Overflow, your blog or the existing documentation. Help to keep existing
+  documentation on docs.typo3.org updated.
+* When you find information in the Snippets that you think is important and helpful
+  to others, see if you can migrate it to a repository which has been versionized to
+  Stack Overflow or some other appropriate medium. (Get in touch with the original
+  authors to ask permission first!)
+
+
+Don't hesitate to contact us on `Slack <https://typo3.org/community/teams/documentation>`__
+in the channel #typo3-documentation.
+
+
+
 .. _news-2020-fluid-start:
 .. rst-class:: panel panel-default
 
