@@ -19,6 +19,8 @@
 Snippets
 ========
 
+*2020-08-04*
+
 The `Snippets <https://github.com/TYPO3-Documentation/TYPO3CMS-Snippets>`__ were
 available a number of years and have been helpful. But for quite some time, they
 were no longer being used much and no new Snippets were being added.
