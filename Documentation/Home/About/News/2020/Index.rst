@@ -21,7 +21,7 @@ Snippets
 
 *2020-08-04*
 
-The `Snippets <https://github.com/TYPO3-Documentation/TYPO3CMS-Snippets>`__ were
+The `Snippets <https://docs.typo3.org/m/typo3/docs-snippets/master/en-us/>`__ were
 available a number of years and have been helpful. But for quite some time, they
 were no longer being used much and no new Snippets were being added.
 
@@ -54,7 +54,7 @@ Because of this open decision, an `issue <https://github.com/TYPO3-Documentation
 and a `decision <https://decisions.typo3.org/t/what-to-do-with-the-snippets/591>`__
 were created which addressed the question of "What to do with the snippets".
 
-This is now the plan:
+**This is now the plan:**
 
 * "Snippets" were removed from main menu on https://docs.typo3.org
 * the rendered pages are still available but contain a prominent banner, informing
@@ -66,7 +66,7 @@ to the https://docs.typo3.org start page. The archived repository on GitHub is s
 
 Nothing was thrown away - it will just be less prominent in the future.
 
-How you can help:
+**How you can help:**
 
 * Give us feedback on this decision or the structure of the documentation in
   general, either as issues or via Slack
@@ -78,6 +78,7 @@ How you can help:
   Stack Overflow or some other appropriate medium. (Get in touch with the original
   authors to ask permission first!)
 
+**Contact us:**
 
 Don't hesitate to contact us on `Slack <https://typo3.org/community/teams/documentation>`__
 in the channel #typo3-documentation.
