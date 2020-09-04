@@ -25,10 +25,10 @@ Getting Started
 to install TYPO3 using Composer.
 
 * The :ref:`t3start:start` introduces you to TYPO3's backend - the interface used for managing
-content and configuring your TYPO3 installation.
+  content and configuring your TYPO3 installation.
 
 * Add a domain, set up languages and configure URL handling with the
-:ref:`site configuration <sitehandling-basics>` tutorial.
+  :ref:`site configuration <sitehandling-basics>` tutorial.
 
 * Additional resources are available in the :ref:`tutorials` section.
 
