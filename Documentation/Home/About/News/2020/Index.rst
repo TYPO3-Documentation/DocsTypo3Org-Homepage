@@ -12,6 +12,73 @@
 2020
 ====
 
+.. _news-2020-typo3-explained-menu:
+.. rst-class:: panel panel-default
+
+"TYPO3 Explained" menu structure
+================================
+
+*2020-07-11 by Sybille Peters*
+
+The menu of :ref:`t3coreapi:start` was considerably changed during and after
+the Initiatives Week 2020.
+
+The main goal was to make it easier to find and jump to a general topic.
+
+To achieve this, the subchapters previously in :guilabel:`TYPO3 API overview`
+were now moved to the top level. Previously we had several main topics in
+:guilabel:`TYPO3 API overview`, some other main topics on the top level (such
+as "Testing", "CGL" or "Security") and some smaller subtopics in
+:guilabel:`API overview > Examples`. Also, the ordering in "TYPO3 API overview"
+was partially alphabetical, partially not. Now we are using an alphabetical
+ordering.
+
+To see the "old" menu, look at the
+`6.2 version <https://docs.typo3.org/m/typo3/reference-coreapi/6.2/en-us/ApiOverview/Index.html>`__
+but please keep in mind that a number of additional chapter were added since
+then. Specifically, several manuals (such as CGL, Security, Inside TYPO3)
+were merged into "TYPO3 Explained".
+
+Additionally, the menu was reorganized so that some smaller chapters are
+now available via a general chapter:
+
+* "TypoScript syntax", "TSconfig", "Global configuration", etc. are now
+  subchapters of the new chapter :ref:`t3coreapi:configuration`.
+* "MetaTag API", "PageTitle API" etc were moved to :ref:`t3coreapi:seo`.
+
+While the change was generally met with approval, it does still have some
+flaws and could use some more improvements.
+
+For example, the menu is quite long which means you often have to scroll.
+If you are in a subchapter that is on the bottom of the menu (for example
+:ref:`"Upgrade wizards" <t3coreapi:update-wizards>`) and you are reading
+a page, you have to scroll down to select a subchapter of the current
+chapter from the menu.
+
+This might be improved, if some more chapters were merged into main chapters.
+
+Additionally, now some small and minor topics are in the top level menu.
+This is usually due to the fact, that is not so easy to find a more general
+category for a chapter or it could easily be expected to be found in
+more than one category. Examples of these are:
+
+* :ref:`t3coreapi:Enumerations`
+* :ref:`t3coreapi:pagination`
+
+These are some of the general navigational and structuring
+questions that need to be addressed.
+
+**What can you do to help?**
+
+* Ideally create a proof of concept for a better structure and navigation concept
+  for "TYPO3 Explained" or the documentation in general. You can
+  `create a pull request <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingDocsOfficial/LocalEditing.html>`__
+  for this or `contact us on Slack <https://typo3.org/community/teams/documentation>`__.
+* Look at the `open issue <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues/421>`__
+  or all `issues <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues>`__ with label
+  "content structure" in "TYPO3 Explained"
+
+
 
 .. _news-2020-snippets:
 .. rst-class:: panel panel-default
