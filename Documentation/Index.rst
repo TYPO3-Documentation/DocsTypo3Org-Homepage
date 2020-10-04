@@ -125,13 +125,13 @@ Configure your TYPO3 installation
 =================================
 
 TYPO3 is well known for being extensive and easy to configure. The :ref:`t3coreapi:config-overview`
-in `TYPO3 Explained <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Index.html>`__ gives you an overview of the various configuration options available to you.
+in :ref:`TYPO3 Explained <t3coreapi:start>` gives you an overview of the various configuration options available to you.
 
-* ref:`Site Handling and Configuration <sitehandling-basics>` shows you how to setup domains, languages, human-readable URLs and error pages.
+* :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how to setup domains, languages, human-readable URLs and error pages.
 * :ref:`Backend User Management <t3start:user-management>` explains how you setup backend users and grant them specific access to your installation of TYPO3.
 * The :ref:`Form system extension <form:quickstartIntegrators>` is a powerful tool that gives backend users the ability to create web forms.
-*`TypoScript in 45 Minutes <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__ introduces you to TypoScript, TYPO3's very own configuration language. TypoScript is used to configure the rendering of web pages, navigation menus, page content and much more.
-
+* :ref:`TypoScript in 45 Minutes <t3ts45:start>` introduces you to TypoScript, TYPO3's very own configuration language.
+  TypoScript is used to configure the rendering of web pages, navigation menus, page content and much more.
 
 .. _start-localization:
 
