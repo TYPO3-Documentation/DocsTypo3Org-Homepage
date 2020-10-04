@@ -109,22 +109,17 @@ all relevant changes for each TYPO3 version since 7.
 
 .. _start-configuration:
 
-Configure TYPO3
-===============
+Configure your TYPO3 installation
+=================================
 
-One of the major features of TYPO3 is its configurability. The :ref:`t3coreapi:config-overview`
-in "TYPO3 Explained" gives you an overview of various configuration languages.
+TYPO3 is well known for being extensive and easy to configure. The :ref:`t3coreapi:config-overview`
+in :ref:`TYPO3 Explained <t3coreapi:start>` gives you an overview of the various configuration options available to you.
 
-Specifically, you might want to
-
-* Set up the :ref:`site configuration <sitehandling-basics>` in the backend to configure
-  the domain, languages, URLs and error pages.
-* Configure :ref:`rte_ckeditor <ckeditor:configuration>`
-  to enhance the editing experience when handling rich text editing.
-* :ref:`Configure the form system extension <form:quickstartIntegrators>` to create
-  custom forms for the frontend.
-* :ref:`Configure backend users <t3start:user-management>`
-
+* :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how to setup domains, languages, human-readable URLs and error pages.
+* :ref:`Backend User Management <t3start:user-management>` explains how you setup backend users and grant them specific access to your installation of TYPO3.
+* The :ref:`Form system extension <form:quickstartIntegrators>` is a powerful tool that gives backend users the ability to create web forms.
+* :ref:`TypoScript in 45 Minutes <t3ts45:start>` introduces you to TypoScript, TYPO3's very own configuration language.
+  TypoScript is used to configure the rendering of web pages, navigation menus, page content and much more.
 
 .. _start-localization:
 
