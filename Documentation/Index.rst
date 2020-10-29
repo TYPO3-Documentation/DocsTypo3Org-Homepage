@@ -1,5 +1,4 @@
 .. include:: /Includes.rst.txt
-
 .. _start:
 
 ===========================================
@@ -14,9 +13,9 @@ PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
-- :ref:`tutorials`
-- :ref:`references`
-- :ref:`extensions`
+*  :ref:`tutorials`
+*  :ref:`references`
+*  :ref:`extensions`
 
 __________
 
@@ -32,7 +31,7 @@ Getting Started
    used for managing content and configuring your TYPO3 installation.
 
 *  Add a domain, set up languages and configure URL handling with the
-  :ref:`site configuration <sitehandling-basics>` tutorial.
+   :ref:`site configuration <sitehandling-basics>` tutorial.
 
 *  Additional resources are available in the :ref:`tutorials` section.
 
@@ -48,18 +47,18 @@ requirements, visit https://get.typo3.org.
 How the documentation is organized
 ==================================
 
-* :ref:`Tutorials and Guides <tutorials>` contain a comprehensive list of
-  resources for both new and existing users of TYPO3 including documentation
-  for editors, integrators and developers.
+*  :ref:`Tutorials and Guides <tutorials>` contain a comprehensive list of
+   resources for both new and existing users of TYPO3 including documentation
+   for editors, integrators and developers.
 
-* :ref:`references` features detailed information about TYPO3's core and is
-  intended for integrators and developers.
+*  :ref:`references` features detailed information about TYPO3's core and is
+   intended for integrators and developers.
 
-* :ref:`System-Extensions` provide a list of all extensions currently used in
-  TYPO3's core along with documentation for each of the extensions listed.
+*  :ref:`System-Extensions` provide a list of all extensions currently used in
+   TYPO3's core along with documentation for each of the extensions listed.
 
-* :ref:`extensions` allow you to search for documentation that has been
-  provided for third party extensions.
+*  :ref:`extensions` allow you to search for documentation that has been
+   provided for third party extensions.
 
 
 .. _start-theme:
@@ -107,12 +106,12 @@ developers,
 
 Getting started with extension development:
 
-* :ref:`Introduction to extensions in TYPO3
-  <t3coreapi:extension-architecture-introduction>`
+*  :ref:`Introduction to extensions in TYPO3
+   <t3coreapi:extension-architecture-introduction>`
 
-* Extension :ref:`t3coreapi:extension-files-locations`
+*  Extension :ref:`t3coreapi:extension-files-locations`
 
-* :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+*  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
 
 More topics can be found in :ref:`t3coreapi:start`, for example:
 
@@ -178,19 +177,19 @@ Contribute to the core
 The "Core contribution guide" contains information for creating core
 patches:
 
-* :ref:`Create a patch <t3contribute:quickstart-create-a-patch>`
+*  :ref:`Create a patch <t3contribute:quickstart-create-a-patch>`
 
-* :ref:`Commit message rules <t3contribute:commitmessage>`
+*  :ref:`Commit message rules <t3contribute:commitmessage>`
 
-* :ref:`Setup an installation with DDEV <t3contribute:ddev>`
+*  :ref:`Setup an installation with DDEV <t3contribute:ddev>`
 
 
 But contributions aren't just about writing patches. You can contribute
 in numerous other ways, including
 
-* :ref:`Writing issues <t3contribute:forge-index>`
+*  :ref:`Writing issues <t3contribute:forge-index>`
 
-* :ref:`Review patches <t3contribute:improving-a-patch>`
+*  :ref:`Review patches <t3contribute:improving-a-patch>`
 
 
 
