@@ -305,13 +305,14 @@ New manual: "Tell me something about topic X"
 ---------------------------------------------
 
 2018-02-02 by Martin Bless
+2020-10-29: Update: We removed the manual as it didn't work out
 
 Often questions are centered around topics: How does TYPO3
 caching work? How can I improve performance? How to use
 composer with TYPO3? And often answers are given in
 blogpostings, slides, videos and so on.
 
-`The new manual <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>`__
+The new manual 'TellMeSomethingAbout'
 is the dedicated spot to list and collect
 those topics. And it's up to you and everybody in the
 community to come up with explanations, helpful texts

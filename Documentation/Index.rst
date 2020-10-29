@@ -169,12 +169,11 @@ you think can be improved.
 .. toctree::
    :hidden:
 
-   Getting Started <https://docs.typo3.org/#gettting-started>
+   Getting Started      <https://docs.typo3.org/#gettting-started>
    Home/GuidesAndTutorials
    Home/References
    Home/Extensions
    Home/WhatsNew
-   Cheat Sheets                     <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
-   Tell Me Something About Topic X  <https://docs.typo3.org/typo3cms/TellMeSomethingAbout/>
+   Cheat Sheets         <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
    Home/About/Index
    Home/Contribute
