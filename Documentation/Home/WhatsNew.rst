@@ -1,4 +1,4 @@
-.. include:: ../Includes.txt
+.. include:: /Includes.rst.txt
 
 .. _whats_new:
 
@@ -43,7 +43,7 @@ version, for example 9.5.
 You can see this in the URL, for example:
 
 * ``/m/typo3/reference-coreapi/master/en-us/`` corresponds to the
-  latest development branch "master" of TYPO3 which 
+  latest development branch "master" of TYPO3 which
   may contain information about yet unreleased changes.
 * ``/m/typo3/reference-coreapi/9.5/en-us/`` corresponds to TYPO3
   version 9.5.

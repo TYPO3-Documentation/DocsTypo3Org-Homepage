@@ -1,5 +1,5 @@
 
-.. include:: ../../../../Includes.txt
+.. include:: /Includes.rst.txt
 .. highlight:: shell
 
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
@@ -275,8 +275,8 @@ This caused the following problems:
 * People who were aware of this but wanted to continue reading
   documentation for the same version had to click multiple times
   (to jump to the requested version) before continuing.
-* Often, readers were not aware of this and did not notice the 
-  change in version. They would then assume, the information 
+* Often, readers were not aware of this and did not notice the
+  change in version. They would then assume, the information
   was correct for the version they started reading in.
 
 Reading documentation on docs.typo3.org should not require knowledge

@@ -1,5 +1,5 @@
 
-.. include:: ../../../../Includes.txt
+.. include:: /Includes.rst.txt
 
 .. When creating a new year page, move the ".. _latest:" anchor to that page.
 
