@@ -139,7 +139,7 @@ to find their way around the documentation:
   link to the `help page on typo3.org <https://typo3.org/help>`__.
 
 .. figure:: files/tips-on-start-page.png
-   :class: with-shadow
+   :class:  with-border with-shadow
 
    Tips on start page
 
@@ -236,7 +236,7 @@ We also made some minor changes to make it easier for you to find things, like:
   next Slack call.
 
 .. figure:: files/slack_call.png
-   :class:  with-shadow
+   :class:  with-border with-shadow
    :target: https://typo3.slack.com
    :alt:    TYPO3 Slack call information
    :width:  50 %
@@ -249,7 +249,7 @@ We also made some minor changes to make it easier for you to find things, like:
   new issue or go to the issues tab as new contributor.
 
 .. figure:: files/github-contributing2.svg
-   :class: with-shadow
+   :class:  with-border with-shadow
    :target: https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/blob/latest/CONTRIBUTING.md
    :alt:    Link to CONTRIBUTING
    :width:  50 %
@@ -309,7 +309,7 @@ NEW: Documentation for rte_ckeditor
 .. figure:: files/ckeditor.png
    :target: https://docs.typo3.org/typo3cms/extensions/rte_ckeditor/
    :alt:    A teaser screenshot
-   :class:  float-left with-shadow
+   :class:  float-left with-border with-shadow
    :width:  50 %
 
 
