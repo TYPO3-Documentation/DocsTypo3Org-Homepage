@@ -48,7 +48,7 @@ example go to the :ref:`guides` page to select a guide or tutorial
 or :ref:`extensions` to go to the documentation of an extension.
 
 .. figure:: _images/mobilemenu.png
-   :class: with-shadow
+   :class: with-border with-shadow
 
    Open menu on mobile
 
@@ -64,7 +64,7 @@ and the menu will look different:
 
 
 .. figure:: _images/menu-of-getting-started.png
-   :class: with-shadow
+   :class: with-border with-shadow
 
    Menu of "Getting Started Tutorial"
 
@@ -80,7 +80,7 @@ left to return to the start page:
 
 
 .. figure:: _images/home.png
-   :alt: Go to documentation start page https://docs.typo3.org
+   :alt:    Go to documentation start page https://docs.typo3.org
 
    Go to documentation start page https://docs.typo3.org
 
@@ -98,8 +98,8 @@ go to the start page of the manual by clicking on the title of the manual
 
 
 .. figure:: _images/getting-started-menu-startpage.png
-   :class: with-shadow
-   :alt: Go to start page of "Getting Started Tutorial"
+   :class:  with-border with-shadow
+   :alt:    Go to start page of "Getting Started Tutorial"
 
    Go to start page of "Getting Started Tutorial"
 
@@ -115,7 +115,7 @@ The version usually reflects the TYPO3 version, so for example
 choose 8.7 if you are using TYPO3 8.7 LTS.
 
 .. figure:: _images/versionselector.png
-   :class: with-shadow
+   :class:  with-border with-shadow
 
    Version selector
 
