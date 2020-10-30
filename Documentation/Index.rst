@@ -5,8 +5,12 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. Usual maximum line length is 79 char plus newline (=80 in total). This
-   allows easy online editing and side by side comparisons.
+..       1         2         3         4         5         6         7         8
+   45678901234567890123456789012345678901234567890123456789012345678901234567890
+   Usual maximum line length is 79 char plus newline (=80 in total). This
+   allows easy online editing and side by side comparisons. Technically lines
+   can have any length, and there may be reasons to have longer lines. Try to
+   aproximate the 79+1 line lenght whenever you change text anyway.
 
 TYPO3 CMS is an Open Source Enterprise Content Management System powered by
 PHP.
