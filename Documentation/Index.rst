@@ -45,6 +45,11 @@ Support is available via StackOverflow and Slack. Visit the `help page
 For information about the different versions of TYPO3 and its system
 requirements, visit https://get.typo3.org.
 
+`The TYPO3 Guidebook: Understand and Use TYPO3 CMS
+<https://www.apress.com/gb/book/9781484265246>`__
+is available for purchase which provides a broad overview of the CMS, 
+and includes practical guides to get started including installing, 
+extending and troubleshooting.
 
 .. _how-the-documentation-is-organized:
 
