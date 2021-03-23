@@ -15,7 +15,6 @@ Tutorials and Guides
    Core Contribution Guide             <https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/>
    Extensions with Extbase and Fluid   <https://docs.typo3.org/m/typo3/book-extbasefluid/10.4/en-us/>
    Editors Tutorial                    <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/>
-   Extbase Guide                       <https://docs.typo3.org/m/typo3/guide-extbasefluid/master/en-us/>
    Frontend Localization Guide         <https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/>
    Getting Started Tutorial            <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/>
    Installation & Upgrade Guide        <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/>
