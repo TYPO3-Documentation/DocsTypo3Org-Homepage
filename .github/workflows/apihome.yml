@@ -26,5 +26,5 @@ jobs:
           # important - the api docs themselves are kept in the same directory
           rm: false
           strip_components: 1
-          tar_tmp_path: ${{ secrets.TMP_TARGET_PATH }}
-          target: ${{ secrets.TARGET_PATH }}
+          tar_tmp_path: ${{ secrets.API_TMP_TARGET_PATH }}
+          target: ${{ secrets.API_TARGET_PATH }}
