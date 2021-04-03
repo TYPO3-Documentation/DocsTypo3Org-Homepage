@@ -2,6 +2,9 @@ name: CI
 
 on:
   push:
+    paths:
+      - 'Documentation/**'
+      - '!WebRootResources-api.typo3.org/**'
   pull_request:
   repository_dispatch:
 

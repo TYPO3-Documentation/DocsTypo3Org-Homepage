@@ -1,0 +1,30 @@
+name: api.typo3.org Home Page
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - 'WebRootResources-api.typo3.org/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: SCP files to production system
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.DEPLOY_DOCS_API_HOST }}
+          username: ${{ secrets.DEPLOY_DOCS_API_USERNAME }}
+          key: ${{ secrets.DEPLOY_DOCS_API_KEY }}
+          source: "WebRootResources-api.typo3.org/*"
+          # important - the api docs themselves are kept in the same directory
+          rm: false
+          strip_components: 1
+          tar_tmp_path: ${{ secrets.TMP_TARGET_PATH }}
+          target: ${{ secrets.TARGET_PATH }}
