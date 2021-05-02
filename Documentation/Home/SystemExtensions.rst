@@ -17,6 +17,7 @@ listed here.
 .. toctree::
    :hidden:
 
+   admpanel             <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>
    dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>
    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/10.4/en-us/>
    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>
@@ -50,6 +51,10 @@ part of the core and extracted at some point in time.
    - :Manual: Manual
      :ExtKey: Extension key
      :Comment: Comment
+
+   - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`_
+     :ExtKey: admpanel
+     :Comment:
 
    - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>`_
      :ExtKey: dashboard
