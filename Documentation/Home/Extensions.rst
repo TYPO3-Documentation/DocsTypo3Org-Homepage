@@ -2,9 +2,9 @@
 
 .. _extensions:
 
-===========================
-Extensions by Extension Key
-===========================
+==========
+Extensions
+==========
 
 .. ATTENTION:
    Be careful with this special folder /typo3cms/extensions !!!
@@ -47,3 +47,9 @@ Third party extensions are available through the
    which is not only a theme but is loaded as Sphinx extension
    as well.
 
+.. toctree::
+   :hidden:
+
+   Extension Development Basics <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Index.html>
+   Extensions with Extbase & Fluid <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
+   SystemExtensions

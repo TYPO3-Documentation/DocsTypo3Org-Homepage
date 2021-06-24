@@ -3,9 +3,9 @@
 
 .. _references:
 
-==================
-Core Documentation
-==================
+=================
+Reference Manuals
+=================
 
 TYPO3 core documentation. :ref:`TYPO3 Explained <t3coreapi:start>`
 is the main manual for TYPO3 features, API and concepts.
@@ -138,11 +138,6 @@ are listed here:
 .. toctree::
    :hidden:
 
-
-   TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
-   Core Changelog    <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
-   SystemExtensions
-   TCA               <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>
-   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>
-   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>
-   ViewHelper        <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>
+   TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
+   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
+   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>

@@ -223,11 +223,17 @@ think can be improved.
 .. toctree::
    :hidden:
 
-   Getting Started      <https://docs.typo3.org/#gettting-started>
-   Home/GuidesAndTutorials
-   Home/References
+   Home/GettingStarted
+   Home/ContentCreation
+   Home/Templating
+   Home/CustomiseMaintain
+   Home/DevelopExtend
    Home/Extensions
+   Home/References
+   Home/Contribute
+
+..
+   Home/GuidesAndTutorials
    Home/WhatsNew
    Cheat Sheets         <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
    Home/About/Index
-   Home/Contribute
