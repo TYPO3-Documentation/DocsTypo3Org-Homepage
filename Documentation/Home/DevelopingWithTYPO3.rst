@@ -1,11 +1,11 @@
 .. include:: /Includes.rst.txt
 
-.. _develop-extend:
+.. _developingwithtypo3:
 
 
-================
-Develop & Extend
-================
+=====================
+Developing With TYPO3
+=====================
 
 .. toctree::
 

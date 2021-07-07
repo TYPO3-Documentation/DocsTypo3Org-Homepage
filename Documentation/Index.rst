@@ -224,11 +224,11 @@ think can be improved.
    :hidden:
 
    Home/GettingStarted
-   Home/ContentCreation
+   Home/CreatingManagingContent
    Home/Templating
-   Home/CustomiseMaintain
-   Home/DevelopExtend
-   Home/Extensions
+   Home/ConfiguringTYPO3
+   Home/DevelopingWithTYPO3
+   Home/ExtensionManuals
    Home/References
    Home/Contribute
 

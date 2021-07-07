@@ -141,3 +141,4 @@ are listed here:
    TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
    TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
    TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
+   Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>

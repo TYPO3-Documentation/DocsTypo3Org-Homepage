@@ -2,9 +2,9 @@
 
 .. _extensions:
 
-==========
-Extensions
-==========
+=================
+Extension Manuals
+=================
 
 .. ATTENTION:
    Be careful with this special folder /typo3cms/extensions !!!

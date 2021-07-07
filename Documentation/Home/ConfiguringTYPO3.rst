@@ -1,11 +1,11 @@
 .. include:: /Includes.rst.txt
 
-.. _customise-maintain:
+.. _configuringTYPO3:
 
 
-====================
-Customise & Maintain
-====================
+=================
+Configuring TYPO3
+=================
 
 .. toctree::
    :hidden:
