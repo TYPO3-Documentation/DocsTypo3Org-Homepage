@@ -17,43 +17,78 @@ Developing & Using Extensions
 Extension Development
 =====================
 
-Getting started with extension development:
+.. container:: row m-0 p-0
 
-*  :ref:`Introduction to extensions in TYPO3
-   <t3coreapi:extension-architecture-introduction>`
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-*  Extension :ref:`t3coreapi:extension-files-locations`
+      .. container:: card px-0 h-100
 
-*  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+         .. rst-class:: card-header
 
-More topics can be found in :ref:`t3coreapi:start`, for example:
+            .. rubric:: Getting started with extension development
 
-*  :ref:`QueryBuilder <t3coreapi:database-query-builder>` based on Doctrine
+         .. container:: card-body
 
-*  :ref:`t3coreapi:DependencyInjection`
-*  :ref:`t3coreapi:request-handling`
+            *  :ref:`Introduction to extensions in TYPO3
+               <t3coreapi:extension-architecture-introduction>`
 
+            *  Extension :ref:`t3coreapi:extension-files-locations`
+
+            *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: TYPO3 Explained - API Quicklinks
+
+         .. container:: card-body
+
+            *  :ref:`QueryBuilder <t3coreapi:database-query-builder>` based on Doctrine
+            *  :ref:`t3coreapi:DependencyInjection`
+            *  :ref:`t3coreapi:request-handling`
 
 Extension Manuals
 ==================
 
-System Extensions
------------------
+.. container:: row m-0 p-0
 
-Here you can find documentation of system extensions and third party extensions,
-if available.
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-System extensions are shipped with the TYPO3 core. A list of all available
-system extension documentation is found in the
-:ref:`system extensions section <System-Extensions>`.
+      .. container:: card px-0 h-100
 
-Third-party extensions
-----------------------
+         .. rst-class:: card-header
 
-Third party extensions are available through the
-`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__ or via composer.
+            .. rubric:: System Extensions
 
-**Use the following form to search by extension keys.**
+         .. container:: card-body
+
+            Here you can find documentation of system extensions and third party extensions,
+            if available.
+
+            System extensions are shipped with the TYPO3 core. A list of all available
+            system extension documentation is found in the
+            :ref:`system extensions section <System-Extensions>`.
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: Third-party extensions
+
+         .. container:: card-body
+
+            Third party extensions are available through the
+            `TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__ or via composer.
+
+            **Use the form below to search by extension keys.**
+
 
 .. Second:
    Don't do anything more!

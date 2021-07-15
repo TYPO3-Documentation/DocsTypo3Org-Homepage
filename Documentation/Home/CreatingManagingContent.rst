@@ -9,79 +9,91 @@ Creating & Managing Content
 
 The creation and management of pages and content are both handled within the Page module. Pages and page content can also be localized from the Page module.
 
+.. container:: row m-0 p-0
 
-Pages
-=====
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-The Page Management Guide introduces TYPO3's Page Tree and explains how pages are created and managed.
+      .. container:: card px-0 h-100
 
+         .. rst-class:: card-header
 
-.. t3-field-list-table::
- :header-rows: 1
+            .. rubric:: Pages
 
- - :Title:        Title
-   :Versions:     Versions
+         .. container:: card-body
 
- - :Title:        :ref:`Pages <t3editors:pages>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/Pages/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/Pages/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/Pages/Index.html>`__ |
+            The Page Management Guide introduces TYPO3's Page Tree and explains how pages are created and managed.
 
+         .. container:: card-footer pb-0
 
-Content
-=======
+            .. rst-class:: horizbuttons-striking-m
 
-The Content Creation Guide shows how page content is created in the form of Content Elements.
+            -  `11-dev <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/Pages/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/Pages/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/Pages/Index.html>`__
 
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-.. t3-field-list-table::
- :header-rows: 1
+      .. container:: card px-0 h-100
 
- - :Title:        Title
-   :Versions:     Versions
+         .. rst-class:: card-header
 
- - :Title:        :ref:`Content <t3editors:content-elements>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/ContentElements/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/ContentElements/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/ContentElements/Index.html>`__ |
+            .. rubric:: Content
 
+         .. container:: card-body
 
-Localizing Pages & Content
-==========================
+            The Content Creation Guide shows how page content is created in the form of Content Elements.
 
-The Localization Guide covers everything need to add additional languages to a TYPO3 site allowing content and pages
-to be translated into an almost limitless number of languages.
+         .. container:: card-footer pb-0
 
+            .. rst-class:: horizbuttons-striking-m
 
-.. t3-field-list-table::
- :header-rows: 1
-
- - :Title:        Title
-   :Versions:     Versions
-
- - :Title:        :ref:`Localizing Pages & Content <t3l10n:start>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/9.5/en-us/>`__ |
+            -  `11-dev <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/ContentElements/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/ContentElements/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/tutorial-editors/9.5/en-us/ContentElements/Index.html>`__
 
 
-Forms
-=====
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-With the new Form Framework, creating and customizing forms is even easier.
-The Form Framework allows non-technical as well technical users to create and extend complex web forms directly from TYPO3's backend.
+      .. container:: card px-0 h-100
 
+         .. rst-class:: card-header
 
-.. t3-field-list-table::
- :header-rows: 1
+            .. rubric:: Localizing Pages & Content
 
- - :Title:        Title
-   :Versions:     Versions
+         .. container:: card-body
 
- - :Title:        :ref:`Creating Forms <form:forEditors>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/c/typo3/cms-form/9.5/en-us/>`__ |
+            The Localization Guide covers everything need to add additional languages to a TYPO3 site allowing content and pages
+            to be translated into an almost limitless number of languages.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/9.5/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: Forms
+
+         .. container:: card-body
+
+            With the Form Framework, creating and customizing forms is easy.
+            The Form Framework allows non-technical as well technical users to create and extend complex web forms
+            directly from TYPO3's backend.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__
+            -  `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
+            -  `9.5 <https://docs.typo3.org/c/typo3/cms-form/9.5/en-us/>`__
 
 
 .. toctree::

@@ -7,101 +7,140 @@
 Configuring TYPO3
 =================
 
-Configuration Overview
-======================
 
-TYPO3 is well known for being extensive and easy to configure. The
-configuration overview gives an overview of the various
-configuration options available. It contains a description of the main
-system configuration options.
+.. container:: row m-0 p-0
 
-The tutorial "TypoScript in 45 Minutes" introduces TYPO3's configuration language
-"TypoScript".
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-.. t3-field-list-table::
- :header-rows: 1
+      .. container:: card px-0 h-100
 
- - :Title:        Title
-   :Versions:     Versions
+         .. rst-class:: card-header
 
- - :Title:        :ref:`Configuration Overview <t3coreapi:config-overview>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Configuration/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Configuration/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Configuration/Index.html>`__ |
- - :Title:        :ref:`TypoScript in 45 Minutes <t3ts45:start>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__ |
+            .. rubric:: Configuration Overview
 
-Site Handling
-=============
+         .. container:: card-body
 
-The site configuration defines how TYPO3 handles domains, languages and error handling.
+            TYPO3 is well known for being extensive and easy to configure. The
+            configuration overview gives an overview of the various
+            configuration options available. It contains a description of the main
+            system configuration options.
 
-.. t3-field-list-table::
- :header-rows: 1
+         .. container:: card-footer pb-0
 
- - :Title:        Title
-   :Versions:     Versions
+            .. rst-class:: horizbuttons-striking-m
 
- - :Title:        :ref:`Site Handling <t3coreapi:sitehandling>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/SiteHandling/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/SiteHandling/Index.html>`__ |
-
-SEO
-===
-
-The SEO module allows users to configure SEO related options like meta data or titles.
-
-.. t3-field-list-table::
- :header-rows: 1
-
- - :Title:        Title
-   :Versions:     Versions
-
- - :Title:        :ref:`SEO <t3coreapi:seo>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Seo/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Seo/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Seo/Index.html>`__ |
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Configuration/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Configuration/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Configuration/Index.html>`__
 
 
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-Security
-========
+      .. container:: card px-0 h-100
 
-Security is an important aspect for any website. The TYPO3 security guidelines
-contain information for installing, maintaining and using TYPO3 securely.
+         .. rst-class:: card-header
 
+            .. rubric:: TypoScript in 45 Minutes
 
-.. t3-field-list-table::
- :header-rows: 1
+         .. container:: card-body
 
- - :Title:        Title
-   :Versions:     Versions
+            The tutorial "TypoScript in 45 Minutes" introduces TYPO3's
+            configuration language "TypoScript".
 
- - :Title:        :ref:`Security Guidelines <t3coreapi:security>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/Security/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/Security/Index.html>`__ |
+         .. container:: card-footer pb-0
 
-RTE
-===
+            .. rst-class:: horizbuttons-striking-m
 
-The heart of any content management system is its' editor. TYPO3 uses ckeditor
-to provide a rich and configurable editing environment.
+            -  `11-dev <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__
 
 
-.. t3-field-list-table::
- :header-rows: 1
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
- - :Title:        Title
-   :Versions:     Versions
+      .. container:: card px-0 h-100
 
- - :Title:        :ref:`RTE <t3coreapi:rte>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Rte/Index.html>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Rte/Index.html>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Rte/Index.html>`__ |
+         .. rst-class:: card-header
+
+            .. rubric:: Site Handling
+
+         .. container:: card-body
+
+            The site configuration defines how TYPO3 handles domains, languages and error handling.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/SiteHandling/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/SiteHandling/Index.html>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: SEO
+
+         .. container:: card-body
+
+            The SEO module allows users to configure SEO related options like meta data or titles.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Seo/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Seo/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Seo/Index.html>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: Security
+
+         .. container:: card-body
+
+            Security is an important aspect for any website. The TYPO3 security
+            guidelines contain information for installing, maintaining and using
+            TYPO3 securely.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/Security/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/Security/Index.html>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: RTE
+
+         .. container:: card-body
+
+            The heart of any content management system is its' editor. TYPO3 uses ckeditor
+            to provide a rich and configurable editing environment.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Rte/Index.html>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Rte/Index.html>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Rte/Index.html>`__
 
 
 .. toctree::
