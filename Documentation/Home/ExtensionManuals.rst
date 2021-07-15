@@ -2,9 +2,9 @@
 
 .. _extensions:
 
-=================
-Extension Manuals
-=================
+=============================
+Developing & Using Extensions
+=============================
 
 .. ATTENTION:
    Be careful with this special folder /typo3cms/extensions !!!
@@ -14,21 +14,44 @@ Extension Manuals
 .. First
    You may add normal rst content here.
 
+Extension Development
+=====================
+
+Getting started with extension development:
+
+*  :ref:`Introduction to extensions in TYPO3
+   <t3coreapi:extension-architecture-introduction>`
+
+*  Extension :ref:`t3coreapi:extension-files-locations`
+
+*  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+
+More topics can be found in :ref:`t3coreapi:start`, for example:
+
+*  :ref:`QueryBuilder <t3coreapi:database-query-builder>` based on Doctrine
+
+*  :ref:`t3coreapi:DependencyInjection`
+*  :ref:`t3coreapi:request-handling`
+
+
+Extension Manuals
+==================
+
+System Extensions
+-----------------
+
 Here you can find documentation of system extensions and third party extensions,
 if available.
-
-The url schema for third party extensions is:
-``docs.typo3.org/p/<VENDOR>/<EXTKEY>/<VERSION>/en-us``.
-
-The url schema for system extensions is:
-``docs.typo3.org/c/typo3/cms-<EXTKEY>/<VERSION>/en-us/``
 
 System extensions are shipped with the TYPO3 core. A list of all available
 system extension documentation is found in the
 :ref:`system extensions section <System-Extensions>`.
 
+Third-party extensions
+----------------------
+
 Third party extensions are available through the
-`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__.
+`TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__ or via composer.
 
 **Use the following form to search by extension keys.**
 

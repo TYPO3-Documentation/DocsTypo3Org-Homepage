@@ -1,4 +1,4 @@
-.. include:: /Includes.rst.txt
+﻿.. include:: /Includes.rst.txt
 .. _start:
 
 ===========================================
@@ -227,8 +227,8 @@ think can be improved.
    Home/CreatingManagingContent
    Home/Templating
    Home/ConfiguringTYPO3
-   Home/DevelopingWithTYPO3
    Home/ExtensionManuals
+   Home/DevelopingWithTYPO3
    Home/References
    Home/Contribute
 
