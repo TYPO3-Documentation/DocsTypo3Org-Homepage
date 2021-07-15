@@ -28,7 +28,6 @@ listed here.
    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>
    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/10.4/en-us/>
    seo                  <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>
-   sys_action           <https://docs.typo3.org/c/typo3/cms-sys-action/master/en-us/>
    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/>
 
 
