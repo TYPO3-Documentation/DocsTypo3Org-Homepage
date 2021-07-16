@@ -3,9 +3,9 @@
 .. _developingwithtypo3:
 
 
-=====================
-Developing With TYPO3
-=====================
+================
+TYPO3 Components
+================
 
 
 .. container:: row m-0 p-0
