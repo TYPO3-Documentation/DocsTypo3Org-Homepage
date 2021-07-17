@@ -3,87 +3,144 @@
 
 .. _references:
 
-==================
-Core Documentation
-==================
+=================
+Reference Manuals
+=================
 
-TYPO3 core documentation. :ref:`TYPO3 Explained <t3coreapi:start>`
-is the main manual for TYPO3 features, API and concepts.
+.. container:: row m-0 p-0
 
-Beginners may have an additional look at :ref:`the available tutorials <tutorials>`
-depending on which task should be achieved.
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
-.. t3-field-list-table::
- :header-rows: 1
+      .. container:: card px-0 h-100
 
- - :Manual:       Manual
-   :Versions:     Links for other TYPO3 versions
-   :Description:  Description
+         .. rst-class:: card-header
 
- - :Manual:       :ref:`TYPO3 Explained <t3coreapi:start>`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-coreapi/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-coreapi/7.6/en-us/>`__
-   :Description:  **The main document about TYPO3** Reading this is recommended for anyone.
-                  This goes through all main aspects like installing, hosting, configuration,
-                  security aspects and detailed programming API's. Single chapters are for
-                  different target groups and outlined accordingly.
+            .. rubric:: :ref:`t3coreapi:start`
 
- - :Manual:       `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
-   :Versions:     `master (11-dev) <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-10.html>`__ |
-                  `9.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-9.html>`__ |
-                  `8.7 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-8.html>`__ |
-                  `7.6 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-7.html>`__
-   :Description:  New Features, Breaking Changes, Deprecations.
-                  Reading up here is strongly recommended for developers.
-                  For everyone else, the `What's new slides
-                  <https://typo3.org/help/documentation/whats-new/>`__
-                  provide the information in a more digestible way.
+         .. container:: card-body
 
- - :Manual:       :ref:`System-Extensions`
-   :Versions:
-   :Description:  Documentation of system extensions in the core.
+            TYPO3 Explained contains detailed information about concepts and
+            APIs for core and extension developers.
 
- - :Manual:       :ref:`t3tca:start`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-tca/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-tca/7.6/en-us/>`__
-   :Description:  Reference for the Table Configuration Array (TCA). TCA can be
-                  used to extend the definition of database tables.
+         .. container:: card-footer pb-0
 
- - :Manual:       :ref:`t3tsconfig:start`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-tsconfig/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-tsconfig/7.6/en-us/>`__
-   :Description:  Reference to Page TSconfig and User TSconfig. This is used
-                  to configure the backend.
+            .. rst-class:: horizbuttons-striking-m
 
- - :Manual:       :ref:`t3tsref:start`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/m/typo3/reference-typoscript/8.7/en-us/>`__ |
-                  `7.6 <https://docs.typo3.org/m/typo3/reference-typoscript/7.6/en-us/>`__
-   :Description:  TypoScript is a configuration language that is specific to
-                  TYPO3. This is used to configure the frontend.
-                  For an introduction see the
-                  :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
+            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>`__
+            -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>`__
+            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/>`__
 
- - :Manual:       :ref:`t3viewhelper:start`
-   :Versions:     `master (11-dev) <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__ |
-                  `10.4 <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>`__ |
-                  `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__ |
-                  `8.7 <https://docs.typo3.org/other/typo3/view-helper-reference/8.7/en-us/>`__
-   :Description:  A complete reference of all available Fluid ViewHelper within
-                  TYPO3 CMS. The reference for 9.5 is automatically generated. The
-                  others are currently maintained manually.
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`Changelog <t3changelog:Sitemap>`
+
+         .. container:: card-body
+
+            The changelog lists all relevant changes for each TYPO3 version since version 7.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `11-dev <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
+            -  `10.4 <https://docs.typo3.org/c/typo3/cms-core/10.4/en-us/>`__
+            -  `9.5 <https://docs.typo3.org/c/typo3/cms-core/9.5/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`t3tca:start`
+
+         .. container:: card-body
+
+            Reference for the Table Configuration Array (TCA). TCA can be
+            used to extend the definition of database tables.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+               - `11-dev <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>`__
+               - `10.4 <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>`__
+               - `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`t3tsconfig:start`
+
+         .. container:: card-body
+
+            Reference to Page TSconfig and User TSconfig. This is used
+            to configure the backend.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+               -  `11-dev <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>`__
+
+               -  `10.4 <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>`__
+
+               -  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`t3tsref:start`
+
+         .. container:: card-body
+
+            TypoScript is a configuration language that is specific to
+            TYPO3. This is used to configure the frontend.
+            For an introduction see the
+            :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+               -  `11-dev <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>`__
+               -  `10.4 <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>`__
+               -  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`t3viewhelper:start`
+
+         .. container:: card-body
+
+            A complete reference of all available Fluid ViewHelper within
+            TYPO3 CMS. The reference for 9.5 is automatically generated. The
+            others are currently maintained manually.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+               -  `11-dev <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__
+               -  `10.4 <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>`__
+               -  `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__
 
 
 .. tip::
@@ -138,11 +195,9 @@ are listed here:
 .. toctree::
    :hidden:
 
-
-   TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
-   Core Changelog    <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
-   SystemExtensions
-   TCA               <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>
-   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>
-   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>
-   ViewHelper        <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>
+   TYPO3 Explained         <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
+   Changelog               <https://docs.typo3.org/c/typo3/cms-core/10.4/en-us/>
+   TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
+   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
+   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
+   Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>
