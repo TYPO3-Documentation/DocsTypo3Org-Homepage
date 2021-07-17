@@ -1,12 +1,6 @@
 ﻿.. include:: /Includes.rst.txt
 .. _start:
 
-.. sidebar:: About
-
-   * :ref:`About TYPO3 Documentation <about-documentation>`
-   * :ref:`Using this site <usage-start-page-manual>`
-   * :ref:`Documentation News <news>`
-
 ===========================================
 Welcome to the official TYPO3 Documentation
 ===========================================
@@ -18,12 +12,18 @@ Welcome to the official TYPO3 Documentation
    can have any length, and there may be reasons to have longer lines. Try to
    approximate the 79+1 line length whenever you change text anyway.
 
+.. sidebar:: About
+
+   * :ref:`About TYPO3 Documentation <about-documentation>`
+   * :ref:`Using this site <usage-start-page-manual>`
+   * :ref:`Documentation News <news>`
 
 TYPO3 CMS is an Open Source Enterprise Content Management System powered by
 PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
+*  :ref:`getting-started`
 *  :ref:`references`
 *  :ref:`extensions`
 
@@ -122,9 +122,10 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            TYPO3 is well known for being extensive and easy to configure. The
-            :ref:`t3coreapi:config-overview` in :ref:`TYPO3 Explained <t3coreapi:start>`
-            gives you an overview of the various configuration options available to you.
+            The :ref:`configuration overview <t3coreapi:config-overview>`
+            in :ref:`TYPO3 Explained <t3coreapi:start>`
+            gives an overview of the various configuration options available.
+            It contains a description of the main system configuration options.
 
             *  :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how
                to setup domains, languages, human-readable URLs and error pages.
@@ -139,7 +140,7 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`Developing with TYPO3 <developingwithtypo3>`
+            .. rubric:: :ref:`References <references>`
 
          .. container:: card-body
 
@@ -204,7 +205,7 @@ Contributing
             *  :ref:`Setup an installation with DDEV <t3contribute:ddev>`
 
 
-            But contributions aren't just about writing patches. You can contribute
+            But contributions aren't just about writing patches. Contributions happen
             in numerous other ways, including
 
             *  :ref:`Writing issues <t3contribute:forge-index>`
@@ -251,7 +252,6 @@ Contributing
    Home/Templating
    Home/ConfiguringTYPO3
    Home/ExtensionManuals
-   Home/DevelopingWithTYPO3
    Home/References
    Home/Contribute
 

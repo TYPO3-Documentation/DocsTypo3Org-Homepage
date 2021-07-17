@@ -16,7 +16,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header
 
-            .. rubric:: Pages
+            .. rubric:: :ref:`Pages <t3editors:pages>`
 
          .. container:: card-body
 
@@ -36,7 +36,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header
 
-            .. rubric:: Content
+            .. rubric:: :ref:`Content <t3editors:content-elements>`
 
          .. container:: card-body
 
@@ -57,7 +57,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header
 
-            .. rubric:: Localizing Pages & Content
+            .. rubric:: :ref:`Localizing Pages & Content <t3l10n:start>`
 
          .. container:: card-body
 
@@ -77,7 +77,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header
 
-            .. rubric:: Forms
+            .. rubric:: :ref:`Forms <form:start>`
 
          .. container:: card-body
 

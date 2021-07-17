@@ -14,7 +14,7 @@ Getting Started
 
          .. rst-class:: card-header
 
-            .. rubric:: Installing TYPO3
+            .. rubric:: :ref:`Installing TYPO3 <t3install:start>`
 
          .. container:: card-body
 
@@ -35,7 +35,7 @@ Getting Started
 
          .. rst-class:: card-header
 
-            .. rubric:: Site Setup
+            .. rubric:: :ref:`Site Setup <t3coreapi:sitehandling>`
 
          .. container:: card-body
 
@@ -57,7 +57,7 @@ Getting Started
 
          .. rst-class:: card-header
 
-            .. rubric:: Backend User Management
+            .. rubric:: :ref:`Backend User Management <t3start:user-management>`
 
          .. container:: card-body
 
@@ -77,7 +77,7 @@ Getting Started
 
          .. rst-class:: card-header
 
-            .. rubric:: Installing Extensions
+            .. rubric:: :ref:`Installing Extensions <t3install:extension-installation>`
 
          .. container:: card-body
 

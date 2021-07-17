@@ -16,7 +16,7 @@ Templating
 
          .. rst-class:: card-header
 
-            .. rubric:: The Fluid Templating Engine
+            .. rubric:: :ref:`The Fluid Templating Engine <t3coreapi:fluid>`
 
          .. container:: card-body
 
@@ -39,7 +39,7 @@ Templating
 
          .. rst-class:: card-header
 
-            .. rubric:: Sitepackages
+            .. rubric:: :ref:`Sitepackages <t3sitepackage:start>`
 
          .. container:: card-body
 
