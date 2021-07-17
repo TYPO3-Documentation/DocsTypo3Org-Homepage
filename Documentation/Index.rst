@@ -1,6 +1,10 @@
 ﻿.. include:: /Includes.rst.txt
 .. _start:
 
+.. _examples:
+.. _guides:
+.. _tutorials:
+
 ===========================================
 Welcome to the official TYPO3 Documentation
 ===========================================
@@ -256,8 +260,6 @@ Contributing
    Home/Contribute
 
 ..
-   Home/GuidesAndTutorials
-   Home/WhatsNew
    Cheat Sheets         <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
 
             Support is available via StackOverflow and Slack. Visit the `help page
