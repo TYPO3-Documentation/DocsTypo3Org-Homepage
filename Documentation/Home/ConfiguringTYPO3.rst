@@ -20,8 +20,7 @@ Configuring TYPO3
 
          .. container:: card-body
 
-            TYPO3 is well known for being extensive and easy to configure. The
-            configuration overview gives an overview of the various
+            The configuration overview gives an overview of the various
             configuration options available. It contains a description of the main
             system configuration options.
 
@@ -131,7 +130,7 @@ Configuring TYPO3
 
          .. container:: card-body
 
-            The heart of any content management system is its' editor. TYPO3 uses ckeditor
+            The heart of any content management system is its editor. TYPO3 uses ckeditor
             to provide a rich and configurable editing environment.
 
          .. container:: card-footer pb-0

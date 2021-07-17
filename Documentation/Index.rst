@@ -85,7 +85,7 @@ Getting Started with TYPO3
             *  :ref:`Fluid is TYPO3’s templating engine. <t3coreapi:fluid>`
                Fluid acts as the glue between your static HTML templates and the content you create in TYPO3’s backend.
 
-            * :ref:`Sitepackages <t3sitepackage:start>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension that can be installed with a single click.
+            * :ref:`Sitepackages <t3sitepackage:start>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension.
 
 
    .. _start-extdev:

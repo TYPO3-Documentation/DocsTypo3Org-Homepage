@@ -7,7 +7,6 @@
 Creating & Managing Content
 ===========================
 
-The creation and management of pages and content are both handled within the Page module. Pages and page content can also be localized from the Page module.
 
 .. container:: row m-0 p-0
 
@@ -62,8 +61,7 @@ The creation and management of pages and content are both handled within the Pag
 
          .. container:: card-body
 
-            The Localization Guide covers everything need to add additional languages to a TYPO3 site allowing content and pages
-            to be translated into an almost limitless number of languages.
+            The Localization Guide covers everything needed to add additional languages to a TYPO3 site, and how to translate content and pages.
 
          .. container:: card-footer pb-0
 
@@ -83,7 +81,6 @@ The creation and management of pages and content are both handled within the Pag
 
          .. container:: card-body
 
-            With the Form Framework, creating and customizing forms is easy.
             The Form Framework allows non-technical as well technical users to create and extend complex web forms
             directly from TYPO3's backend.
 
