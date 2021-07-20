@@ -91,6 +91,8 @@ Extension Manuals
 
             **Use the form below to search by extension keys.**
 
+Extension Manual Search
+=======================
 
 .. Second:
    Don't do anything more!
@@ -113,3 +115,4 @@ Extension Manuals
    Extension Development Basics <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Index.html>
    Extensions with Extbase & Fluid <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
    SystemExtensions
+   Extension Manuals  <https://docs.typo3.org/Home/ExtensionManuals.html#extension-manual-search>
