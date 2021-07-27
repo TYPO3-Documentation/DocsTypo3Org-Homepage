@@ -9,10 +9,8 @@ Page not found (404)
 
 The page you were redirected to no longer exists.
 
-To search the entire TYPO3 documentation (https://docs.typo3.org), use your search
-engine of choice. In the search field enter `site:docs.typo3.org` and your search term.
-
-* `Google: site:docs.typo3.org <https://www.google.com/search?q=site%3Adocs.typo3.org>`__
+To search the entire TYPO3 documentation (https://docs.typo3.org), use the search
+box on the top of the page.
 
 Or pick one of the following:
 
