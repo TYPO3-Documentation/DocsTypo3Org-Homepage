@@ -47,9 +47,9 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
-            -  `10.4 <https://docs.typo3.org/c/typo3/cms-core/10.4/en-us/>`__
-            -  `9.5 <https://docs.typo3.org/c/typo3/cms-core/9.5/en-us/>`__
+            -  `11-dev <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-11.html>`__
+            -  `10.4 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-10.html>`__
+            -  `9.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-9.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -196,7 +196,7 @@ are listed here:
    :hidden:
 
    TYPO3 Explained         <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
-   Changelog               <https://docs.typo3.org/c/typo3/cms-core/10.4/en-us/>
+   Changelog               <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
    TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
    TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
    TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
