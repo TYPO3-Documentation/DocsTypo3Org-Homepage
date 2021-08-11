@@ -12,6 +12,7 @@ TYPO3 Documentation
 
    The wiki you were trying to access has been discontinued. Take a look at the
    following resources or use the search at the top right to find what you are
-   looking for.
+   looking for. 
+   For a backup of all wiki pages, please see `https://gitlab.typo3.org/services/wiki.typo3.org`__.
 
 .. include:: OverviewInclude.rst.txt
