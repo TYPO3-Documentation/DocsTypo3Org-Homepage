@@ -14,6 +14,6 @@ TYPO3 Documentation
    following resources or use the search at the top right to find what you are
    looking for. 
    If you want to take a nostalgic look into the past, find a backup of all wiki
-   pages at `https://gitlab.typo3.org/services/wiki.typo3.org`__.
+   pages at `Gitlab <https://gitlab.typo3.org/services/wiki.typo3.org>`_.
 
 .. include:: OverviewInclude.rst.txt
