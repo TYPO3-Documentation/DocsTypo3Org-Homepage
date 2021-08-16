@@ -43,7 +43,8 @@ Getting Started with TYPO3
             *  The :ref:`form system extension <form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
 
-            *  The :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a TYPO3 site, and how to translate content and pages.
+            *  The :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
+               TYPO3 site, and how to translate content and pages.
 
 
    .. _start-theme:
