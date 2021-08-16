@@ -39,8 +39,12 @@ Getting Started with TYPO3
          .. container:: card-body
 
             *  The :ref:`editors tutorial <t3editors:start>` explains the creation and management of pages and content.
+
             *  The :ref:`form system extension <form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
+
+            *  The :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a TYPO3 site, and how to translate content and pages.
+
 
    .. _start-theme:
 
@@ -139,6 +143,8 @@ Getting Started with TYPO3
          .. container:: card-body
 
             *Internationalization* | *Translation* | *Multiple Languages*
+
+            *  :ref:`Localization Guide <t3l10n:start>`
 
             *  :ref:`Supported languages <t3coreapi:i18n_languages>`
 
