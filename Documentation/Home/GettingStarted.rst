@@ -15,7 +15,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Concepts <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/GeneralPrinciples/Index.html>`
+            .. rubric:: `Concepts <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/GeneralPrinciples/Index.html>`__
 
          .. container:: card-body
 
@@ -35,7 +35,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`System Requirements <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html>`
+            .. rubric:: `System Requirements <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html>`__
 
          .. container:: card-body
 
@@ -55,7 +55,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Installation <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/Installation/Index.html>`
+            .. rubric:: `Installation <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/Installation/Index.html>`__
 
          .. container:: card-body
 
@@ -75,7 +75,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Setup <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/Index.html>`
+            .. rubric:: `Setup <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/Index.html>`__
 
          .. container:: card-body
 
@@ -95,7 +95,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Troubleshooting <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`
+            .. rubric:: `Troubleshooting <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
 
          .. container:: card-body
 
@@ -115,7 +115,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`
+            .. rubric:: `Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
 
          .. container:: card-body
 
@@ -135,7 +135,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`The Introduction Package <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`
+            .. rubric:: `The Introduction Package <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
 
          .. container:: card-body
 
@@ -157,7 +157,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Next Steps <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`
+            .. rubric:: `Next Steps <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`__
 
          .. container:: card-body
 
