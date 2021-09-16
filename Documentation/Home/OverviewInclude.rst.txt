@@ -12,7 +12,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Getting Started <getting-started>`
 
@@ -32,7 +32,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Creating & Managing Content <creatingmanagingcontent>`
 
@@ -53,7 +53,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Templating & Sitepackages <templating>`
 
@@ -71,7 +71,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Developing & using extensions <extensions>`
 
@@ -93,7 +93,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Configuring TYPO3 <configuringTYPO3>`
 
@@ -115,7 +115,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`References <references>`
 
