@@ -40,6 +40,7 @@ PHP.
    Home/CreatingManagingContent
    Home/Templating
    Home/ConfiguringTYPO3
+   Home/UpgradingTYPO3
    Home/ExtensionManuals
    Home/References
    Home/Contribute
