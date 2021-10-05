@@ -28,9 +28,9 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Configuration/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Configuration/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Configuration/Index.html>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Configuration/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -50,9 +50,9 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/master/en-us/>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/11.5/en-us/>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/9.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -71,9 +71,9 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/SiteHandling/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/SiteHandling/Index.html>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/SiteHandling/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -92,9 +92,9 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Seo/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Seo/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Seo/Index.html>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Seo/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -115,9 +115,9 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/Security/Index.html>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/Security/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -137,16 +137,16 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Rte/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Rte/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Rte/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Rte/Index.html>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/ApiOverview/Rte/Index.html>`__
 
 
 .. toctree::
    :hidden:
 
-   Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Configuration/Index.html>
-   Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/SiteHandling/Index.html>
-   SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Seo/Index.html>
-   Security <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/Security/Index.html>
-   RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/ApiOverview/Rte/Index.html>
+   Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html>
+   Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html>
+   SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html>
+   Security <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html>
+   RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Rte/Index.html>

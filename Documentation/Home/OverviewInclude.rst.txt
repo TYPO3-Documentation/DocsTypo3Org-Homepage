@@ -1,7 +1,7 @@
 
 __________
 
-.. _start-getting-stared:
+.. _start-getting-started:
 
 Getting Started with TYPO3
 ==========================
@@ -18,14 +18,17 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  Follow the :ref:`quick installation guide <t3install:install-via-composer>`
-               to install TYPO3 using Composer.
+            *  :ref:`TYPO3 Concepts <t3start:concepts>` introduces some of TYPO3s
+               core concepts.
 
-            *  The :ref:`t3start:start` introduces you to TYPO3's backend - the interface
-               used for managing content and configuring your TYPO3 installation.
+            *  :ref:`System Requirements <t3start:system-requirements>` for the
+               host operating system including its web server and database.
 
-            *  Add a domain, set up languages and configure URL handling with the
-               :ref:`site configuration <sitehandling-basics>` tutorial.
+            *  :ref:`Installation Guide <t3start:installation_index>` details
+               the entire installation process.
+
+            *  :ref:`Setup Guide <t3start:setup>` guides you through the next steps
+               post installation.
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -64,6 +67,29 @@ Getting Started with TYPO3
 
             * :ref:`Sitepackages <t3sitepackage:start>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension.
 
+   .. _start-configuration:
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: :ref:`Configuring TYPO3 <configuringTYPO3>`
+
+         .. container:: card-body
+
+            The :ref:`configuration overview <t3coreapi:config-overview>`
+            in :ref:`TYPO3 Explained <t3coreapi:start>`
+            gives an overview of the various configuration options available.
+            It contains a description of the main system configuration options.
+
+            *  :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how
+               to setup domains, languages, human-readable URLs and error pages.
+
+            *  :ref:`Backend User Management <t3start:backendusers>` explains how you
+               setup backend users and grant them specific access to your installation of
+               TYPO3.
 
    .. _start-extdev:
 
@@ -87,30 +113,6 @@ Getting Started with TYPO3
             *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
 
 
-   .. _start-configuration:
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`Configuring TYPO3 <configuringTYPO3>`
-
-         .. container:: card-body
-
-            The :ref:`configuration overview <t3coreapi:config-overview>`
-            in :ref:`TYPO3 Explained <t3coreapi:start>`
-            gives an overview of the various configuration options available.
-            It contains a description of the main system configuration options.
-
-            *  :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how
-               to setup domains, languages, human-readable URLs and error pages.
-
-            *  :ref:`Backend User Management <t3start:user-management>` explains how you
-               setup backend users and grant them specific access to your installation of
-               TYPO3.
-
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
       .. container:: card px-0 h-100
@@ -128,7 +130,6 @@ Getting Started with TYPO3
                lists all relevant changes for each TYPO3 version since 7.
 
             * The :ref:`references section <references>` lists all available reference manuals.
-
 
 
    .. _start-localization:
@@ -149,7 +150,7 @@ Getting Started with TYPO3
 
             *  :ref:`Supported languages <t3coreapi:i18n_languages>`
 
-            *  :ref:`Manage backend languages <t3start:changing-backend-language>`
+            *  :ref:`Manage backend languages <t3start:backendlanguages>`
 
             *  :ref:`Working with languages as an editor <t3editors:languages>`
 

@@ -26,9 +26,9 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>`__
-            -  `9.5 <https://docs.typo3.org/m/typo3/reference-coreapi/9.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -47,9 +47,8 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `11-dev <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-11.html>`__
+            -  `11.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-11.html>`__
             -  `10.4 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-10.html>`__
-            -  `9.5 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog-9.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -68,9 +67,9 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-               - `11-dev <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>`__
+               - `12-dev <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>`__
+               - `11.5 <https://docs.typo3.org/m/typo3/reference-tca/11.5/en-us/>`__
                - `10.4 <https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/>`__
-               - `9.5 <https://docs.typo3.org/m/typo3/reference-tca/9.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -89,11 +88,11 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-               -  `11-dev <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>`__
+               -  `12-dev <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>`__
+
+               -  `11.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/11.5/en-us/>`__
 
                -  `10.4 <https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/>`__
-
-               -  `9.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/9.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -115,9 +114,9 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-               -  `11-dev <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>`__
+               -  `12-dev <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>`__
+               -  `11.5 <https://docs.typo3.org/m/typo3/reference-typoscript/11.5/en-us/>`__
                -  `10.4 <https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/>`__
-               -  `9.5 <https://docs.typo3.org/m/typo3/reference-typoscript/9.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -138,9 +137,9 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-               -  `11-dev <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__
+               -  `12-dev <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>`__
+               -  `11.5 <https://docs.typo3.org/other/typo3/view-helper-reference/11.5/en-us/>`__
                -  `10.4 <https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/>`__
-               -  `9.5 <https://docs.typo3.org/other/typo3/view-helper-reference/9.5/en-us/>`__
 
 
 .. tip::
@@ -195,9 +194,9 @@ are listed here:
 .. toctree::
    :hidden:
 
-   TYPO3 Explained         <https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/>
+   TYPO3 Explained         <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/>
    Changelog               <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>
-   TCA               <https://docs.typo3.org/m/typo3/reference-tca/master/en-us/>
-   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/master/en-us/>
-   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/master/en-us/>
-   Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/master/en-us/>
+   TCA               <https://docs.typo3.org/m/typo3/reference-tca/11.5/en-us/>
+   TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/11.5/en-us/>
+   TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/11.5/en-us/>
+   Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/11.5/en-us/>
