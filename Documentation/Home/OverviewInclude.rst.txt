@@ -1,7 +1,7 @@
 
 __________
 
-.. _start-getting-stared:
+.. _start-getting-started:
 
 Getting Started with TYPO3
 ==========================
@@ -18,14 +18,17 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  Follow the :ref:`quick installation guide <t3install:install-via-composer>`
-               to install TYPO3 using Composer.
+            *  :ref:`TYPO3 Concepts <t3start:concepts>` introduces some of TYPO3s
+               core concepts.
 
-            *  The :ref:`t3start:start` introduces you to TYPO3's backend - the interface
-               used for managing content and configuring your TYPO3 installation.
+            *  :ref:`System Requirements <t3start:system-requirements>` for the
+               host operating system including its web server and database.
 
-            *  Add a domain, set up languages and configure URL handling with the
-               :ref:`site configuration <sitehandling-basics>` tutorial.
+            *  :ref:`Installation Guide <t3start:installation_index>` details
+               the entire installation process.
+
+            *  :ref:`Setup Guide <t3start:setup>` guides you through the next steps
+               post installation.
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -38,12 +41,12 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  The :ref:`editors tutorial <t3editors:start>` explains the creation and management of pages and content.
+            *  :ref:`Editors Tutorial <t3editors:start>` explains the creation and management of pages and content.
 
-            *  The :ref:`form system extension <form:quickstartEditors>` is a powerful
+            *  :ref:`Form System Extension <form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
 
-            *  The :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
+            *  :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
                TYPO3 site, and how to translate content and pages.
 
 
@@ -63,29 +66,6 @@ Getting Started with TYPO3
                Fluid acts as the glue between your static HTML templates and the content you create in TYPO3’s backend.
 
             * :ref:`Sitepackages <t3sitepackage:start>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension.
-
-
-   .. _start-extdev:
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`Developing & using extensions <extensions>`
-
-         .. container:: card-body
-
-            Getting started with extension development:
-
-            *  :ref:`Introduction to extensions in TYPO3
-               <t3coreapi:extension-architecture-introduction>`
-
-            *  Extension :ref:`t3coreapi:extension-files-locations`
-
-            *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
-
 
    .. _start-configuration:
 
@@ -107,9 +87,49 @@ Getting Started with TYPO3
             *  :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how
                to setup domains, languages, human-readable URLs and error pages.
 
-            *  :ref:`Backend User Management <t3start:user-management>` explains how you
+            *  :ref:`Backend User Management <t3start:backendusers>` explains how you
                setup backend users and grant them specific access to your installation of
                TYPO3.
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: :ref:`Upgrading TYPO3 <extensions>`
+
+         .. container:: card-body
+
+            *  :ref:`Minor Upgrades <t3upgrade:minor>` contains information on how to upgrade to a newer minor version of TYPO3.
+
+            *  :ref:`Major Upgrades <t3upgrade:major>` details how to upgrade to a newer major release of TYPO3. 10.4 to 11.5 for example.
+
+            *  :ref:`Upgrading Extensions <t3upgrade:upgradingextensions>` details how to upgrade extensions using Composer.
+
+            *  :ref:`Migrate A TYPO3 Installation To Composer <t3upgrade:migratetocomposer>` Information on how to migrate a legacy installation of TYPO3 to a Composer based installation.
+
+   .. _start-extdev:
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: :ref:`Developing & Using Extensions <extensions>`
+
+         .. container:: card-body
+
+            Getting started with extension development:
+
+            *  :ref:`Introduction to extensions in TYPO3
+               <t3coreapi:extension-architecture-introduction>`
+
+            *  Extension :ref:`t3coreapi:extension-files-locations`
+
+            *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
+
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -130,14 +150,13 @@ Getting Started with TYPO3
             * The :ref:`references section <references>` lists all available reference manuals.
 
 
-
    .. _start-localization:
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: How to create translations
 
@@ -149,7 +168,7 @@ Getting Started with TYPO3
 
             *  :ref:`Supported languages <t3coreapi:i18n_languages>`
 
-            *  :ref:`Manage backend languages <t3start:changing-backend-language>`
+            *  :ref:`Manage backend languages <t3start:backendlanguages>`
 
             *  :ref:`Working with languages as an editor <t3editors:languages>`
 
@@ -168,7 +187,7 @@ Contributing
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: Contribute to the core
 
@@ -199,7 +218,7 @@ Contributing
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: Contribute to official documentation
 

@@ -15,7 +15,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Concepts <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/GeneralPrinciples/Index.html>`__
+            .. rubric:: `Concepts <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/GeneralPrinciples/Index.html>`__
 
          .. container:: card-body
 
@@ -25,9 +25,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Concepts/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Concepts/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/GeneralPrinciples/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/GeneralPrinciples/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/9.5/en-us/GeneralPrinciples/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -35,7 +35,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `System Requirements <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html>`__
+            .. rubric:: `System Requirements <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/SystemRequirements/Index.html>`__
 
          .. container:: card-body
 
@@ -45,9 +45,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/SystemRequirements/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html#system-requirements>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/In-depth/SystemRequirements/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/SystemRequirements/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/SystemRequirements/Index.html#system-requirements>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -55,7 +55,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Installation <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/Installation/Index.html>`__
+            .. rubric:: `Installation <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html>`__
 
          .. container:: card-body
 
@@ -65,9 +65,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Installation/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Installation/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/Installation/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/9.5/en-us/Installation/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -75,7 +75,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Setup <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/Index.html>`__
+            .. rubric:: `Setup <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/Index.html>`__
 
          .. container:: card-body
 
@@ -85,9 +85,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Setup/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Setup/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/In-depth/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -95,7 +95,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Troubleshooting <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
+            .. rubric:: `Troubleshooting <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Troubleshooting/Index.html>`__
 
          .. container:: card-body
 
@@ -106,8 +106,8 @@ Getting Started
             .. rst-class:: horizbuttons-striking-m
 
             - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Troubleshooting/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/Troubleshooting/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Troubleshooting/Index.html>`__
+            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -115,7 +115,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
+            .. rubric:: `Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/ExtensionInstallation/Index.html>`__
 
          .. container:: card-body
 
@@ -126,8 +126,8 @@ Getting Started
             .. rst-class:: horizbuttons-striking-m
 
             - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Extensions/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/ExtensionInstallation/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/ExtensionInstallation/Index.html>`__
+            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -135,7 +135,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `The Introduction Package <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
+            .. rubric:: `The Introduction Package <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/QuickInstall/IntroductionPackage/Index.html>`__
 
          .. container:: card-body
 
@@ -147,8 +147,8 @@ Getting Started
             .. rst-class:: horizbuttons-striking-m
 
             - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/IntroductionPackage/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/9.5/en-us/QuickInstall/IntroductionPackage/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/QuickInstall/IntroductionPackage/Index.html>`__
+            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -157,7 +157,7 @@ Getting Started
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Next Steps <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`__
+            .. rubric:: `Next Steps <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
 
          .. container:: card-body
 
@@ -168,19 +168,19 @@ Getting Started
             .. rst-class:: horizbuttons-striking-m
 
             - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/NextSteps/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
+            - `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
 
 
 
    .. toctree::
       :hidden:
 
-      TYPO3 Concepts          <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/GeneralPrinciples/Index.html>
-      System Requirements     <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/SystemRequirements/Index.html>
-      Installation            <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/Installation/Index.html>
-      Setup                   <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/In-depth/Index.html>
-      Troubleshooting         <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>
-      Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>
-      Introduction Package    <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>
-      Next Steps              <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>
+      TYPO3 Concepts          <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/GeneralPrinciples/Index.html>
+      System Requirements     <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/SystemRequirements/Index.html>
+      Installation            <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html>
+      Setup                   <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/In-depth/Index.html>
+      Troubleshooting         <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Troubleshooting/Index.html>
+      Working With Extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/ExtensionInstallation/Index.html>
+      Introduction Package    <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/QuickInstall/IntroductionPackage/Index.html>
+      Next Steps              <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>
