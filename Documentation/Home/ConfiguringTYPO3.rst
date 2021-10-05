@@ -14,7 +14,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Configuration Overview <t3coreapi:configuration>`
 
@@ -37,7 +37,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`TypoScript in 45 Minutes <t3ts45:start>`
 
@@ -59,7 +59,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Site Handling <t3coreapi:sitehandling>`
 
@@ -80,7 +80,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`SEO <t3coreapi:seo>`
 
@@ -101,7 +101,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Security <t3coreapi:security>`
 
@@ -124,7 +124,7 @@ Configuring TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`RTE <t3coreapi:rte>`
 

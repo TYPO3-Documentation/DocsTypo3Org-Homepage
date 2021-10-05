@@ -41,12 +41,12 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  The :ref:`editors tutorial <t3editors:start>` explains the creation and management of pages and content.
+            *  :ref:`Editors Tutorial <t3editors:start>` explains the creation and management of pages and content.
 
-            *  The :ref:`form system extension <form:quickstartEditors>` is a powerful
+            *  :ref:`Form System Extension <form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
 
-            *  The :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
+            *  :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
                TYPO3 site, and how to translate content and pages.
 
 
@@ -91,6 +91,24 @@ Getting Started with TYPO3
                setup backend users and grant them specific access to your installation of
                TYPO3.
 
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: :ref:`Upgrading TYPO3 <extensions>`
+
+         .. container:: card-body
+
+            *  :ref:`Minor Upgrades <t3upgrade:minor>` contains information on how to upgrade to a newer minor version of TYPO3.
+
+            *  :ref:`Major Upgrades <t3upgrade:major>` details how to upgrade to a newer major release of TYPO3. 10.4 to 11.5 for example.
+
+            *  :ref:`Upgrading Extensions <t3upgrade:upgradingextensions>` details how to upgrade extensions using Composer.
+
+            *  :ref:`Migrate A TYPO3 Installation To Composer <t3upgrade:migratetocomposer>` Information on how to migrate a legacy installation of TYPO3 to a Composer based installation.
+
    .. _start-extdev:
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -99,7 +117,7 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Developing & using extensions <extensions>`
+            .. rubric:: :ref:`Developing & Using Extensions <extensions>`
 
          .. container:: card-body
 
@@ -138,7 +156,7 @@ Getting Started with TYPO3
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: How to create translations
 
@@ -169,7 +187,7 @@ Contributing
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: Contribute to the core
 
@@ -200,7 +218,7 @@ Contributing
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: Contribute to official documentation
 
