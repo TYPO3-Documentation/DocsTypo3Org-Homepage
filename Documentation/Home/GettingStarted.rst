@@ -109,6 +109,7 @@ Getting Started
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
 
+
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
       .. container:: card px-0 h-100
