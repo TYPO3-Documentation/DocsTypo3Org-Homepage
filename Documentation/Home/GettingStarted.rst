@@ -105,9 +105,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Troubleshooting/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Troubleshooting/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Troubleshooting/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -125,9 +125,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Extensions/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/ExtensionInstallation/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/Extensions/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Extensions/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/ExtensionInstallation/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -146,9 +146,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/IntroductionPackage/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/QuickInstall/IntroductionPackage/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/IntroductionPackage/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/IntroductionPackage/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/QuickInstall/IntroductionPackage/Index.html>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -167,10 +167,9 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `11-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/NextSteps/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
-            - `9.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
-
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/NextSteps/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/NextSteps/Index.html>`__
 
 
    .. toctree::
