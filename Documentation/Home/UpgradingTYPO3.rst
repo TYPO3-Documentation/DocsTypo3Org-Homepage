@@ -139,9 +139,9 @@ Upgrading TYPO3
 .. toctree::
    :hidden:
 
-   Minor upgrades   <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Upgrade/Index.html>
-   Major upgrades   <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Upgrade/Index.html>
-   Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Composer/Index.html#update-single-packages>
-   Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Upgrade/Index.html>
+   Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>
+   Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>
+   Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions>
+   Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>
    Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>
    Migrate content <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>
