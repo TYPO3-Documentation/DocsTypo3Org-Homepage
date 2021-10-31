@@ -63,9 +63,9 @@ part of the core and extracted at some point in time.
      :ExtKey: felogin
      :Comment:
 
-   - :Manual: `Content Elements based on Fluid <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
+   - :Manual: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
      :ExtKey: fluid_styled_content
-     :Comment:
+     :Comment: Content Elements based on Fluid
 
    - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`_
      :ExtKey: form
