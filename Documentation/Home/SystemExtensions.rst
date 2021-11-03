@@ -24,7 +24,9 @@ listed here.
    form                 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
+   lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>
    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
+   redirects            <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>
    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>
    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>
    seo                  <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>
@@ -83,9 +85,17 @@ part of the core and extracted at some point in time.
      :ExtKey: linkvalidator
      :Comment:
 
+   - :Manual: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>`_
+     :ExtKey: lowlevel
+     :Comment:
+
    - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`_
      :ExtKey: recycler
      :Comment:
+
+   - :Manual: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>`_
+     :ExtKey: redirects
+     :Comment: Documentation added in 11/2021
 
    - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
      :ExtKey: rte_ckeditor
