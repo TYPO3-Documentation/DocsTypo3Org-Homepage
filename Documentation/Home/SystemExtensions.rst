@@ -22,6 +22,7 @@ listed here.
    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>
    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>
    form                 <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>
+   impexp               <https://docs.typo3.org/c/typo3/cms-impexp/master/en-us/>
    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>
    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>
    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>
