@@ -49,69 +49,69 @@ part of the core and extracted at some point in time.
 .. t3-field-list-table::
    :header-rows: 1
 
-   - :Manual: Manual
-     :ExtKey: Extension key
-     :Comment: Comment
+   - :Manual: Documentation
+     :Package: Package
+     :Descr: Description
 
    - :Manual: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`_
-     :ExtKey: adminpanel
-     :Comment:
+     :Package: typo3/cms-adminpanel
+     :Descr: The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching, Preview...)
 
    - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`_
-     :ExtKey: dashboard
-     :Comment:
+     :Package: typo3/cms-dashboard
+     :Descr: A Dashboard for the TYPO3 backend
 
    - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`_
-     :ExtKey: felogin
-     :Comment:
+     :Package: typo3/cms-felogin
+     :Descr: Frontend login
 
    - :Manual: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
-     :ExtKey: fluid_styled_content
-     :Comment: Content Elements based on Fluid
+     :Package: typo3/cms-fluid-styled-content
+     :Descr: Content Elements based on Fluid
 
    - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`_
-     :ExtKey: form
-     :Comment: Extensive manual
+     :Package: typo3/cms-form
+     :Descr: Form Library, Plugin and Editor
 
    - :Manual: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`_
-     :ExtKey: indexed_search
-     :Comment:
+     :Package: typo3/cms-indexed_search
+     :Descr: Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module for statistics of the indexer and a frontend plugin.
 
    - :Manual: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/master/en-us/>`_
-     :ExtKey: impexp
-     :Comment:
+     :Package: typo3/cms-impexp
+     :Descr: Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other TYPO3 systems.
 
    - :Manual: `Link validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`_
-     :ExtKey: linkvalidator
-     :Comment:
+     :Package: typo3/cms-linkvalidator
+     :Descr: The LinkValidator checks the links in your website for validity
 
    - :Manual: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>`_
-     :ExtKey: lowlevel
-     :Comment:
+     :Package: typo3/cms-lowlevel
+     :Descr: Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw database search, checking relations, counting pages and records etc.
 
    - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`_
-     :ExtKey: recycler
-     :Comment:
+     :Package: typo3/cms-recycler
+     :Descr: The recycler offers the possibility to restore deleted records or remove them from the database permanently.
 
    - :Manual: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>`_
-     :ExtKey: redirects
-     :Comment: 
+     :Package: typo3/cms-redirects
+     :Descr: Custom redirects in TYPO3
 
-   - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
-     :ExtKey: rte_ckeditor
-     :Comment: Documentation added in 2/2019, rte_ckeditor available since TYPO3 8.7 LTS
+   - :Manual: `CKEditor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
+     :Package: typo3/cms-rte-ckeditor
+     :Descr: Integration of CKEditor as Rich Text Editor
 
    - :Manual: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/master/en-us/>`_
-     :ExtKey: scheduler
-     :Comment: Recently reworked
+     :Package: typo3/cms-scheduler
+     :Descr: The TYPO3 Scheduler lets you register tasks to happen at a specific time
 
    - :Manual: `SEO <https://docs.typo3.org/c/typo3/cms-seo/master/en-us/>`_
-     :ExtKey: seo
-     :Comment:
+     :Package: typo3/cms-seo
+     :Descr: SEO features for TYPO3
 
    - :Manual: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/master/en-us/>`_
-     :ExtKey: workspaces
-     :Comment:
+     :Package: typo3/cms-workspaces
+     :Descr: Adds workspaces functionality with custom stages to TYPO3.
 
 
 Documentation of system extensions abandoned from current core version
@@ -121,78 +121,78 @@ Documentation of system extensions abandoned from current core version
    :header-rows: 1
 
    - :Manual: Manual
-     :ExtKey: Extension key
+     :Package: Extension key
      :Versions: Versions
-     :Comment: Comment
+     :Descr: Comment
 
    - :Manual: `ADOdb <https://docs.typo3.org/p/friendsoftypo3/adodb/8.4/en-us/>`_
-     :ExtKey: adodb
+     :Package: adodb
      :Versions: `8.4 <https://docs.typo3.org/p/friendsoftypo3/adodb/8.4/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/adodb/7.6/>`__
-     :Comment: Included until TYPO3 <= 7.6
+     :Descr: Included until TYPO3 <= 7.6
 
    - :Manual: `CSS Styled Content <https://docs.typo3.org/c/typo3/cms-css-styled-content/8.7/en-us/>`_
-     :ExtKey: css_styled_content
+     :Package: css_styled_content
      :Versions: `8.7 <https://docs.typo3.org/c/typo3/cms-css-styled-content/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/css_styled_content/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/css_styled_content/6.2/>`__
-     :Comment: Included until TYPO3 <= 8.7
+     :Descr: Included until TYPO3 <= 8.7
 
    - :Manual: `Database abstraction layer <https://docs.typo3.org/p/friendsoftypo3/dbal/8.4/en-us/>`_
-     :ExtKey: dbal
+     :Package: dbal
      :Versions: `8.4 <https://docs.typo3.org/p/friendsoftypo3/dbal/8.4/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/dbal/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/dbal/6.2/>`__
-     :Comment: Included until TYPO3 <= 7.6
+     :Descr: Included until TYPO3 <= 7.6
 
    - :Manual: `func <https://docs.typo3.org/typo3cms/extensions/func/stable/>`_
-     :ExtKey: func
+     :Package: func
      :Versions:
-     :Comment: Was removed from core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
+     :Descr: Was removed from core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
 
 
    - :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
-     :ExtKey: openid
+     :Package: openid
      :Versions: `8.1 <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`__ |
                 `8.0 <https://docs.typo3.org/p/friendsoftypo3/openid/8.0/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/p/friendsoftypo3/openid/7.6/en-us/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/openid/6.2/>`__
-     :Comment: Included until TYPO3 <= 6.2
+     :Descr: Included until TYPO3 <= 6.2
 
    - :Manual: `RSA authentication <https://docs.typo3.org/c/typo3/cms-rsaauth/9.5/en-us/>`_
-     :ExtKey: rsaauth
+     :Package: rsaauth
      :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-rsaauth/9.5/en-us/>`__ |
                 `8.7 <https://docs.typo3.org/c/typo3/cms-rsaauth/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/rsaauth/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/rsaauth/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
+     :Descr: Included until TYPO3 <= 9.5
 
    - :Manual: `htmlarea RTE <https://docs.typo3.org/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`_
-     :ExtKey: rtehtmlarea
+     :Package: rtehtmlarea
      :Versions: `8.7 <https://docs.typo3.org/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/6.2/>`__
-     :Comment: Included until TYPO3 <= 7.6
+     :Descr: Included until TYPO3 <= 7.6
 
    - :Manual: `Salted user password hashes <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
-     :ExtKey: saltedpasswords
+     :Package: saltedpasswords
      :Versions: `8.7 <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/6.2/>`__
-     :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+     :Descr: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
 
    - :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
-     :ExtKey: sys_action
+     :Package: sys_action
      :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`__ |
                 `8.7 <https://docs.typo3.org/c/typo3/cms-sys-action/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/sys_action/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/sys_action/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
+     :Descr: Included until TYPO3 <= 9.5
 
    - :Manual: `Taskcenter <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`_
-     :ExtKey: taskcenter
+     :Package: taskcenter
      :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`__ |
                 `8.7 <https://docs.typo3.org/c/typo3/cms-taskcenter/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/taskcenter/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/taskcenter/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
+     :Descr: Included until TYPO3 <= 9.5
