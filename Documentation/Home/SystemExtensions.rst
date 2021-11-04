@@ -95,7 +95,7 @@ part of the core and extracted at some point in time.
 
    - :Manual: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>`_
      :ExtKey: redirects
-     :Comment: Documentation added in 11/2021
+     :Comment: 
 
    - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
      :ExtKey: rte_ckeditor
