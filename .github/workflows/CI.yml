@@ -2,6 +2,8 @@ name: CI
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'Documentation/**'
       - '!WebRootResources-api.typo3.org/**'
