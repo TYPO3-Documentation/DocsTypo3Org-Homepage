@@ -3,7 +3,9 @@ name: CI
 on:
   push:
     branches:
-      - master
+      - '*'
+      - '!devmarble'
+      - '!debug'
     paths:
       - 'Documentation/**'
       - '!WebRootResources-api.typo3.org/**'
