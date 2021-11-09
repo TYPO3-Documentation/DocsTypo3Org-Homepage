@@ -109,6 +109,25 @@ Getting Started
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Troubleshooting/Index.html>`__
 
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Managing Backend Users <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/UserManagement/Index.html>`__
+
+         .. container:: card-body
+
+            Learn how to create users and configure their backend privileges.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/master/en-us/UserManagement/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/UserManagement/Index.html>`__
+            - `10.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/UserManagement/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -181,6 +200,7 @@ Getting Started
       Installation            <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html>
       Setup                   <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Setup/Index.html>
       Troubleshooting         <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html>
+      Managing Backend Users  <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/UserManagement/Index.html>
       Working With Extensions <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Extensions/Index.html>
       Introduction Package    <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/IntroductionPackage/Index.html>
       Next Steps              <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>
