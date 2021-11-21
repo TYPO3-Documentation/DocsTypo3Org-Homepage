@@ -9,10 +9,16 @@ System Extensions
 Documentation of extensions managed within the core repository directly
 and maintained by the core team and core contributors are called
 *system extensions*. If working with the full core package, these
-extensions can be found in :file:`typo3/sysext` directory.
+extensions can be found in the
+`typo3/sysext <https://github.com/TYPO3/typo3/tree/master/typo3/sysext>`__
+directory.
 
-Some of these extensions provide documentation, too. These are
-listed here.
+Some of these extensions provide documentation, too. The documentation
+is linked here. You can find a more detailed list below. EXT:core, EXT:backend
+and other low level system extensions do not have their own documentation; the
+functionality is documented in :ref:`TYPO3 Explained <t3coreapi:start>`.
+For Extbase and Fluid, please see
+:ref:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:start>`.
 
 .. toctree::
    :hidden:
@@ -36,6 +42,42 @@ listed here.
 Documentation of system extensions in current core version
 ==========================================================
 
+`adminpanel <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`__ |
+backend |
+belog |
+beuser |
+core |
+`dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`__ |
+extbase |
+extensionmanager |
+`felogin <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`__ |
+filelist |
+filemetadata |
+fluid |
+`fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`__ |
+`form <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__ |
+frontend |
+impexp |
+`indexed_search <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`__ |
+info |
+install |
+`linkvalidator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`__ |
+lowlevel |
+opendocs |
+recordlist |
+recycler |
+redirects |
+reports |
+rte_ckeditor |
+scheduler |
+seo |
+setup |
+sys_note |
+t3editor |
+tstemplate |
+viewpage |
+workspaces |
+
 The list of extensions developed directly in the core repository
 changes from time to time: Some extensions are merged into others,
 some are integrated, others abandoned from core and maintained at
@@ -46,48 +88,214 @@ of the core, the table further below lists extensions that were
 part of the core and extracted at some point in time.
 
 
+.. container:: row m-0 p-0
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Admin Panel (adminpanel) <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`__
+
+         .. container:: card-body
+
+            The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching, Preview...)
+
+            Packagist: `typo3/cms-adminpanel <https://packagist.org/packages/typo3/cms-adminpanel>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Dashboard (dashboard) <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`__
+
+         .. container:: card-body
+
+            A Dashboard for the TYPO3 backend
+
+            Packagist: `typo3/cms-dashboard <https://packagist.org/packages/typo3/cms-dashboard>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Frontend Login (felogin) <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`__
+
+         .. container:: card-body
+
+            Frontend login based on frontend users and user groups
+
+            Packagist: `typo3/cms-indexed-search <https://packagist.org/packages/typo3/cms-indexed-search>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Fluid Styled Content (fluid_styled_content) <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
+
+         .. container:: card-body
+
+            Content Elements based on Fluid
+
+            Packagist: `typo3/cms-fluid-styled-content <https://packagist.org/packages/typo3/cms-fluid-styled-content>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>`_
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Form framework (form) <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__
+
+         .. container:: card-body
+
+            Form Library, Plugin and Editor
+
+            Packagist: `typo3/cms-form <https://packagist.org/packages/typo3/cms-form>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Indexed Search (indexed_search) <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`__
+
+         .. container:: card-body
+
+            Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module for statistics of the indexer and a frontend plugin.
+
+            Packagist: `typo3/cms-indexed_search <https://packagist.org/packages/typo3/cms-indexed_search>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/master/en-us/>`__
+
+         .. container:: card-body
+
+            Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other TYPO3 systems.
+
+            Packagist: `typo3/impexp <https://packagist.org/packages/typo3/cms-impexp>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-impexp/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-impexp/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Link Validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`__
+
+         .. container:: card-body
+
+            The Link Validator checks the links in your website for validity
+
+            Packagist: `typo3/cms-linkvalidator <https://packagist.org/packages/typo3/cms-linkvalidator>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>`__
+
+         .. container:: card-body
+
+            Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw database search, checking relations, counting pages and records etc.
+
+            Packagist: `typo3/cms-lowlevel <https://packagist.org/packages/typo3/cms-lowlevel>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
+            - `10.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/10.4/en-us/>`__
+
+
 .. t3-field-list-table::
    :header-rows: 1
 
    - :Manual: Documentation
      :Package: Package
      :Descr: Description
-
-   - :Manual: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/>`_
-     :Package: typo3/cms-adminpanel
-     :Descr: The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching, Preview...)
-
-   - :Manual: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/master/en-us/>`_
-     :Package: typo3/cms-dashboard
-     :Descr: A Dashboard for the TYPO3 backend
-
-   - :Manual: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/master/en-us/>`_
-     :Package: typo3/cms-felogin
-     :Descr: Frontend login
-
-   - :Manual: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/master/en-us/>`_
-     :Package: typo3/cms-fluid-styled-content
-     :Descr: Content Elements based on Fluid
-
-   - :Manual: `Form framework <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`_
-     :Package: typo3/cms-form
-     :Descr: Form Library, Plugin and Editor
-
-   - :Manual: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/master/en-us/>`_
-     :Package: typo3/cms-indexed_search
-     :Descr: Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module for statistics of the indexer and a frontend plugin.
-
-   - :Manual: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/master/en-us/>`_
-     :Package: typo3/cms-impexp
-     :Descr: Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other TYPO3 systems.
-
-   - :Manual: `Link validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/master/en-us/>`_
-     :Package: typo3/cms-linkvalidator
-     :Descr: The LinkValidator checks the links in your website for validity
-
-   - :Manual: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/master/en-us/>`_
-     :Package: typo3/cms-lowlevel
-     :Descr: Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw database search, checking relations, counting pages and records etc.
 
    - :Manual: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`_
      :Package: typo3/cms-recycler
