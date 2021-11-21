@@ -14,11 +14,7 @@ extensions can be found in the
 directory.
 
 Some of these extensions provide documentation, too. The documentation
-is linked here. You can find a more detailed list below. EXT:core, EXT:backend
-and other low level system extensions do not have their own documentation; the
-functionality is documented in :ref:`TYPO3 Explained <t3coreapi:start>`.
-For Extbase and Fluid, please see
-:ref:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:start>`.
+is linked here. You can find a more detailed list below. 
 
 .. toctree::
    :hidden:
