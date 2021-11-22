@@ -14,7 +14,7 @@ extensions can be found in :file:`typo3/sysext` directory.
 Some of these extensions provide documentation, too. These are
 listed here.
 
-EXT:core, EXT:backend and other low level system extensions do not have their
+EXT:core, EXT:backend and other system extensions do not have their
 own documentation; the functionality is documented in
 :ref:`TYPO3 Explained <t3coreapi:start>`. For Extbase and Fluid, please see
 :ref:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:start>`.
