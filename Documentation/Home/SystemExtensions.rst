@@ -14,6 +14,11 @@ extensions can be found in :file:`typo3/sysext` directory.
 Some of these extensions provide documentation, too. These are
 listed here.
 
+EXT:core, EXT:backend and other system extensions do not have their
+own documentation; the functionality is documented in
+:ref:`TYPO3 Explained <t3coreapi:start>`. For Extbase and Fluid, please see
+:ref:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:start>`.
+
 .. toctree::
    :hidden:
 
@@ -96,7 +101,7 @@ part of the core and extracted at some point in time.
 
    - :Manual: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>`_
      :ExtKey: redirects
-     :Comment: 
+     :Comment:
 
    - :Manual: `Integration of CKEditor as Rich Text Editor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/master/en-us/>`_
      :ExtKey: rte_ckeditor
