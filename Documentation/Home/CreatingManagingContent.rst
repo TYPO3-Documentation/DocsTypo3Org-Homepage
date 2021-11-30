@@ -14,7 +14,7 @@ Creating & Managing Content
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Pages <t3editors:pages>`
 
@@ -34,7 +34,7 @@ Creating & Managing Content
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Content <t3editors:content-elements>`
 
@@ -55,7 +55,7 @@ Creating & Managing Content
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Localizing Pages & Content <t3l10n:start>`
 
@@ -75,7 +75,7 @@ Creating & Managing Content
 
       .. container:: card px-0 h-100
 
-         .. rst-class:: card-header
+         .. rst-class:: card-header h3
 
             .. rubric:: :ref:`Forms <form:start>`
 
@@ -92,6 +92,25 @@ Creating & Managing Content
             -  `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
             -  `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
 
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: :ref:`Deep Linking <t3editors:deeplinking>`
+
+         .. container:: card-body
+
+            Deep linking allows users to share links to specific pages, content elements and modules from within TYPO3’s backend.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/DeepLinking/Index.html>`__
+            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/DeepLinking/Index.html>`__
+
 
 .. toctree::
    :hidden:
@@ -100,3 +119,4 @@ Creating & Managing Content
    Content <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/ContentElements/Index.html>
    Localization<https://docs.typo3.org/m/typo3/guide-frontendlocalization/11.5/en-us/>
    Forms <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>
+   Deep Linking <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/DeepLinking/Index.html>
