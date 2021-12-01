@@ -5,25 +5,26 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Welcome!" name="docsearch:name" />
     <meta content="" name="docsearch:package_type" />
-    <meta content="master" name="docsearch:release" />
+    <meta content="main" name="docsearch:release" />
     <meta content="2.0" name="docsearch:version" />
-    <meta content="2021-04-03T08:19:44+00:00" name="docsearch:modified" />
+    <meta content="2021-11-30T14:27:47+00:00" name="docsearch:modified" />
     <link href="http://purl.org/dc/elements/1.1/" rel="schema.dc" />
-    <meta content="2021-04-03T08:19:44+00:00" name="dc.modified" />
-    <meta content="2021-04-03T08:19:44+00:00" property="article:modified_time" />
-    <title>Welcome to the official TYPO3 Documentation — Welcome! master documentation</title>
-    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/css/theme.css" rel="stylesheet" type="text/css" />
-    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/css/webfonts.css" rel="stylesheet" type="text/css" />
-    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/css/fontawesome.css" rel="stylesheet" type="text/css" />
+    <meta content="2021-11-30T14:27:47+00:00" name="dc.modified" />
+    <meta content="2021-11-30T14:27:47+00:00" property="article:modified_time" />
+    <title>Welcome to the official TYPO3 Documentation — Welcome! main documentation</title>
+    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/css/theme.css" rel="stylesheet" type="text/css" />
+    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/css/webfonts.css" rel="stylesheet" type="text/css" />
+    <link href="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/css/fontawesome.css" rel="stylesheet" type="text/css" />
     <link href="_static/graphviz.css" rel="stylesheet" type="text/css" />
+    <link href="_static/copybutton.css" rel="stylesheet" type="text/css" />
     <!-- linktags -->
     <link href="genindex.html" rel="index" title="Index" />
     <link href="search.html" rel="search" title="Search" />
-    <link href="#" rel="top" title="Welcome! master documentation" />
-    <link href="Home/GuidesAndTutorials.html" rel="next" title="Tutorials and Guides" />
+    <link href="#" rel="top" title="Welcome! main documentation" />
+    <link href="https://docs.typo3.org/Home/GettingStarted.html" rel="next" title="Getting Started" />
     <!-- /linktags -->
     <!-- extrahead --><!-- /extrahead -->
-    <script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/modernizr.min.js"></script>
+    <script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/modernizr.min.js"></script>
     <!-- UNIVERSE BAR START -->
     <script src="https://typo3.azureedge.net/typo3infrastructure/universe/dist/webcomponents-loader.js"></script>
     <script src="https://typo3.azureedge.net/typo3infrastructure/universe/dist/typo3-universe.js" type="module"></script>
@@ -42,13 +43,31 @@
     </div>
     <div class="page-header">
         <div class="page-header-inner">
-            <!-- pageheader -->
-            <a class="logo" href="https://docs.typo3.org/" title="TYPO3 Documentation">
-                <img alt="TYPO3 Logo" class="logo-image" height="130" src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.1/img/typo3-logo.svg" width="484" />
-            </a>
-            <!-- /pageheader -->
-        </div>
-    </div>
+            <!--block pageheader-->
+            <div class="row">
+                <div class="col-sm-6 col-lg-7">
+                    <div class="logo">
+                        <a href="https://docs.typo3.org/" title="TYPO3 Documentation">
+                            <img alt="TYPO3 Logo" class="logo-image" height="130" src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/img/typo3-logo.svg" width="484" />
+                        </a>
+                    </div>
+                </div><!--/.col-x-->
+                <div class="col-sm-6 col-lg-5">
+                    <div role="search">
+                        <form action="https://docs.typo3.org/search/search" id="global-search-form" method="get">
+                            <div class="input-group mb-3 mt-sm-3">
+                                <input autocomplete="off" class="form-control shadow-none" id="globalsearchinput" name="q" placeholder="Search all TYPO3 documentation" type="text" value="" />
+                                <div class="input-group-append">
+                                    <button class="btn btn-sm btn-primary" type="submit"><i class="fa fa-search"></i> Search</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div><!--/.col-x-->
+            </div><!--/.row-->
+            <!--/block pageheader-->
+        </div><!--/.page-header-inner-->
+    </div><!--/.page-header-inner-->
 
     <div class="page-main">
         <div class="page-main-inner">
@@ -66,73 +85,104 @@
                         <div aria-label="main navigation" class="toc" role="navigation">
                             <!-- menu -->
                             <ul>
-                                <li class="toctree-l1"><a class="reference external" href="https://docs.typo3.org/#gettting-started">Getting Started</a></li>
-                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/GuidesAndTutorials.html">Tutorials and Guides</a>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/GettingStarted.html">Getting Started</a>
                                     <ul>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/">Core Contribution Guide</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/book-extbasefluid/10.4/en-us/">Extensions with Extbase and Fluid</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/">Editors Tutorial</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/">Frontend Localization Guide</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/10.4/en-us/">Getting Started Tutorial</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/">Installation &amp; Upgrade Guide</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-sitepackage/10.4/en-us/">Sitepackage Tutorial</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-templating/10.4/en-us/">Templating Tutorial</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/10.4/en-us/">TypoScript in 45 Minutes</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/">Writing Documentation</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Concepts/Index.html#concepts">TYPO3 Concepts</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/SystemRequirements/Index.html#system-requirements">System Requirements</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html">Installation</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Setup/Index.html">Setup</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html">Troubleshooting</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/UserManagement/Index.html">Managing Backend Users</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Extensions/Index.html">Working With Extensions</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/IntroductionPackage/Index.html">Introduction Package</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html">Next Steps</a></li>
                                     </ul>
                                 </li>
-                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/References.html">Core Documentation</a>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/CreatingManagingContent.html">Creating &amp; Managing Content</a>
                                     <ul>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/10.4/en-us/">TYPO3 Explained</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-core/master/en-us/">Core Changelog</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/Pages/Index.html">Pages</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/ContentElements/Index.html">Content</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-frontendlocalization/11.5/en-us/">Localization</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/">Forms</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/DeepLinking/Index.html">Deep Linking</a></li>
+                                    </ul>
+                                </li>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/Templating.html">Templating</a>
+                                    <ul>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Fluid/Index.html">Templating With Fluid</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/tutorial-sitepackage/11.5/en-us/">Sitepackages</a></li>
+                                    </ul>
+                                </li>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/ConfiguringTYPO3.html">Configuring TYPO3</a>
+                                    <ul>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html">Configuration Overview</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html">Site Handling</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html">SEO</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html">Security</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Rte/Index.html">RTE's</a></li>
+                                    </ul>
+                                </li>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/UpgradingTYPO3.html">Upgrading TYPO3</a>
+                                    <ul>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html">Minor upgrades</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html">Major upgrades</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions">Upgrading extensions</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html">Legacy upgrade</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html">Migrate to Composer</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html">Migrate content</a></li>
+                                    </ul>
+                                </li>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/ExtensionManuals.html">Developing &amp; Using Extensions</a>
+                                    <ul>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/Index.html">Extension Development Basics</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/book-extbasefluid/main/en-us/">Extensions with Extbase &amp; Fluid</a></li>
                                         <li class="toctree-l2"><a class="reference internal" href="https://docs.typo3.org/Home/SystemExtensions.html">System Extensions</a>
                                             <ul>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-adminpanel/master/en-us/">adminpanel</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/">dashboard</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-felogin/10.4/en-us/">felogin</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/">fluid_styled_content</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/">form</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/">indexed_search</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/">linkvalidator</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-recycler/10.4/en-us/">recycler</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/">rte_ckeditor</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-scheduler/10.4/en-us/">scheduler</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/">seo</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-sys-action/master/en-us/">sys_action</a></li>
-                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/">workspaces</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/">adminpanel</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/">dashboard</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/">felogin</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/">fluid_styled_content</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-form/main/en-us/">form</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/">impexp</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/">indexed_search</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/">linkvalidator</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/">lowlevel</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/">recycler</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/">redirects</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/">rte_ckeditor</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/">scheduler</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-seo/main/en-us/">seo</a></li>
+                                                <li class="toctree-l3"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/">workspaces</a></li>
                                             </ul>
                                         </li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-tca/10.4/en-us/">TCA</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-tsconfig/10.4/en-us/">TSconfig</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-typoscript/10.4/en-us/">TypoScript</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/other/typo3/view-helper-reference/10.4/en-us/">ViewHelper</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/Home/ExtensionManuals.html#extension-manual-search">Extension Manuals</a></li>
                                     </ul>
                                 </li>
-                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/Extensions.html">Extensions by Extension Key</a></li>
-                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/WhatsNew.html">What’s new?</a></li>
-                                <li class="toctree-l1"><a class="reference external" href="https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/">Cheat Sheets</a></li>
-                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/About/Index.html">About TYPO3 Documentation</a>
+                                <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/References.html">Reference Manuals</a>
                                     <ul>
-                                        <li class="toctree-l2"><a class="reference internal" href="https://docs.typo3.org/Home/About/UsingThisSite/Index.html">Usage tips</a></li>
-                                        <li class="toctree-l2"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/Index.html">Documentation Changelog</a>
-                                            <ul>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2020/Index.html">2020</a></li>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2019/Index.html">2019</a></li>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2018/Index.html">2018</a></li>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2017/Index.html">2017</a></li>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2016/Index.html">2016</a></li>
-                                                <li class="toctree-l3"><a class="reference internal" href="https://docs.typo3.org/Home/About/News/2012-2015/Index.html">2012 - 2015</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/typo3cms/HowToDocument/">Writing Documentation</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://typo3.org/community/teams/documentation/#c9886">Contact</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/">TYPO3 Explained</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/c/typo3/cms-core/main/en-us/">Changelog</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-tca/11.5/en-us/">TCA</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-tsconfig/11.5/en-us/">TSconfig</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-typoscript/11.5/en-us/">TypoScript</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/other/typo3/view-helper-reference/11.5/en-us/">Fluid ViewHelpers</a></li>
                                     </ul>
                                 </li>
                                 <li class="toctree-l1"><a class="reference internal" href="https://docs.typo3.org/Home/Contribute.html">Contribute</a>
                                     <ul>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/master/en-us/">Contribute to Core</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/">Contribute to Core</a></li>
                                         <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html">Contribute to Documentation</a></li>
-                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/team-t3oteam/master/en-us/">Contribute to typo3.org website</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/team-t3oteam/main/en-us/">Contribute to typo3.org website</a></li>
+                                        <li class="toctree-l2"><a class="reference external" href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/CodingGuidelines/Index.html">Coding Guidelines</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <p class="caption"><span class="caption-text">PAGE CONTENTS</span></p>
+                            <ul>
+                                <li><a class="reference internal" href="#">Welcome to the official TYPO3 Documentation</a>
+                                    <ul>
+                                        <li><a class="reference internal" href="#getting-started-with-typo3">Getting Started with TYPO3</a></li>
+                                        <li><a class="reference internal" href="#contributing">Contributing</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -144,7 +194,7 @@
             <div class="page-main-content">
                 <div class="rst-content">
                     <!-- pager-hidden.html -->
-                    <a accesskey="n" class="no-focus" href="Home/GuidesAndTutorials.html" tabindex="-1"></a>
+                    <a accesskey="n" class="no-focus" href="https://docs.typo3.org/Home/GuidesAndTutorials.html" tabindex="-1"></a>
                     <!-- /pager-hidden.html -->
                     <!-- breadcrumbs.html -->
                     <div aria-label="breadcrumbs navigation" class="breadcrumb-bar" role="navigation">
@@ -164,7 +214,8 @@
                                     TYPO3 source code is well documented and allows you to understand many internals just by browsing through the various classes and methods.
                                 </p>
                                 <ul>
-                                    <li class="toctree-l1"><a class="reference internal" href="/master">master</a></li>
+                                    <li class="toctree-l1"><a class="reference internal" href="/main">main</a></li>
+                                    <li class="toctree-l1"><a class="reference internal" href="/11.5">11.5</a></li>
                                     <li class="toctree-l1"><a class="reference internal" href="/10.4">10.4</a></li>
                                     <li class="toctree-l1"><a class="reference internal" href="/9.5">9.5</a></li>
                                     <li class="toctree-l1"><a class="reference internal" href="/TYPO3_8-7">8.7</a></li>
@@ -194,14 +245,14 @@
                         </ul>
                         <div class="footer-additional">
                             <p class="text-center">
-                                Last updated: <a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/commit/a43a02b161bc50ec8e27e9d8d52d9e7e03bc2f12" rel="nofollow noopener" target="_blank" title="Last commit">
-                                Apr 03, 2021 08:19
+                                Last updated: <a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/commit/fc31516c83be746359137810a3ee13da12351963" rel="nofollow noopener" target="_blank" title="Last commit">
+                                Nov 30, 2021 14:27
                             </a>
                             </p>
-                            <p class="text-center">Last rendered: Apr 17, 2021 15:30</p>
+                            <p class="text-center">Last rendered: Dec 01, 2021 13:23</p>
                             <p class="text-center">
                                 <a href="https://github.com/TYPO3-Documentation/sphinx_typo3_theme" rel="nofollow noopener" target="_blank">
-                                    TYPO3 Theme 4.5.2
+                                    TYPO3 Theme 4.6.2
                                 </a>
                             </p>
                         </div>
@@ -224,21 +275,23 @@
 <script type="text/javascript">
   var DOCUMENTATION_OPTIONS = {
     URL_ROOT: './',
-    VERSION: 'master',
+    VERSION: 'main',
     COLLAPSE_INDEX: false,
     FILE_SUFFIX: '.html',
     HAS_SOURCE: true
   };
 </script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/jquery.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/underscore.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/doctools.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/popper.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/theme.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/jquery.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/underscore.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/doctools.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/popper.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/theme.min.js" type="text/javascript"></script>
 <script src="_static/language_data.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/searchtools.min.js" type="text/javascript"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.5.2/js/autocomplete.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/searchtools.min.js" type="text/javascript"></script>
+<script src="https://typo3.azureedge.net/typo3documentation/theme/sphinx_typo3_theme/4.6.2/js/autocomplete.min.js" type="text/javascript"></script>
+<script src="_static/clipboard.min.js" type="text/javascript"></script>
+<script src="_static/copybutton.js" type="text/javascript"></script>
 <script type="text/javascript">
   jQuery(function () {
     Search.loadIndex("searchindex.js");
