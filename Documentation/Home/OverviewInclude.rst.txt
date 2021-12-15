@@ -97,7 +97,7 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Upgrading TYPO3 <extensions>`
+            .. rubric:: :ref:`Upgrading TYPO3 <t3upgrade>`
 
          .. container:: card-body
 
