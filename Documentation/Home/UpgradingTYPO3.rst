@@ -81,6 +81,26 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
+            .. rubric:: `Third-party Tools <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
+
+         .. container:: card-body
+
+            Tools and resources developed by the community that can assist with common upgrade and maintenance tasks.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Tools/Index.html>`__
+            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
+
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
             .. rubric:: `Legacy upgrade guide <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
 
          .. container:: card-body
@@ -142,6 +162,7 @@ Upgrading TYPO3
    Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>
    Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>
    Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions>
+   Third-party Tools <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>
    Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>
    Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>
    Migrate content <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>
