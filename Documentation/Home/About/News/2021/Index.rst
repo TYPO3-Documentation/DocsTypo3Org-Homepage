@@ -12,6 +12,11 @@
 2021
 ====
 
+2021-12 TYPO3 Documentation Team Report 2021
+============================================
+
+See https://typo3.org/article/typo3-documentation-team-report-2021
+
 2021-07 Main Menu & Homepage Restructuring
 ==========================================
 
