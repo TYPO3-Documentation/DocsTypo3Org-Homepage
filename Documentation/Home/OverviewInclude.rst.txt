@@ -43,7 +43,7 @@ Getting Started with TYPO3
 
             *  :ref:`Editors Tutorial <t3editors:start>` explains the creation and management of pages and content.
 
-            *  :ref:`Form System Extension <form:quickstartEditors>` is a powerful
+            *  :ref:`Form System Extension <ext_form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
 
             *  :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
@@ -97,7 +97,7 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Upgrading TYPO3 <t3upgrade>`
+            .. rubric:: :doc:`Upgrading TYPO3 <t3upgrade:Index>`
 
          .. container:: card-body
 

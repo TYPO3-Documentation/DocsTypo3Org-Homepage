@@ -75,8 +75,8 @@ and extension programming in general.
 
 
 * There is an overview page with resources for developers in the
-  :ref:`Getting Started Tutorial <next-steps-developers>`
-* On that same page, there is a section "Fluid / Extbase"
+  :doc:`Getting Started Tutorial <t3start:Index>`.
+* On that same page, there is a section "Fluid / Extbase".
 
 
 The "Extbase / Fluid Guide" still contains the manually maintained Fluid ViewHelper
