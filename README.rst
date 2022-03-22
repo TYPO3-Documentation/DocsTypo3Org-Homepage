@@ -1,9 +1,8 @@
-============================================================
-Contents of the docs.typo3.org homepage and the "glue"-pages
-============================================================
+==========================
+Homepage of docs.typo3.org
+==========================
 
-:Repository:   https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
+This documentation covers the content of the docs.typo3.org homepage and the "glue" pages.
 
-:Published:    https://docs.typo3.org/
-
-:Authors:      TYPO3 Documentation Team
+:Repository:  https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage
+:Read online: https://docs.typo3.org/

@@ -22,13 +22,13 @@ The ultimate explanation of optionSplit
 
 2016-12-28 by Martin Bless
 
-So you think you really understand what the TypoScript :ts:`optionSplit`
+So you think you really understand what the TypoScript :typoscript:`optionSplit`
 function does? Maybe, but better do a quick check:
-What is the result of :ts:`wrap = a|*|r|||||||*|z`?
-The wish to really understand :ts:`optionSplit` came up and in return
+What is the result of :typoscript:`wrap = a|*|r|||||||*|z`?
+The wish to really understand :typoscript:`optionSplit` came up and in return
 I reworked the :ref:`optionSplit chapter
 <t3tsref:objects-optionSplit>` in the :ref:`TypoScript reference <t3tsref:start>`.
-Hopefully it's the "ultimate explanation" of :ts:`optionSplit`.
+Hopefully it's the "ultimate explanation" of :typoscript:`optionSplit`.
 
 Is there something still missing?
 
