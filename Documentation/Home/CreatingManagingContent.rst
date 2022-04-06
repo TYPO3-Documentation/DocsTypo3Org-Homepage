@@ -57,7 +57,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Localizing Pages & Content <t3l10n:start>`
+            .. rubric:: :doc:`Localizing Pages & Content <t3l10n:Index>`
 
          .. container:: card-body
 
@@ -77,7 +77,7 @@ Creating & Managing Content
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :ref:`Forms <ext_form:start>`
+            .. rubric:: :doc:`Forms <ext_form:Index>`
 
          .. container:: card-body
 

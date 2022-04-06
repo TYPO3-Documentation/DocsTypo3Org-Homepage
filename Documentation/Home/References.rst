@@ -15,7 +15,7 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`t3coreapi:start`
+            .. rubric:: :doc:`t3coreapi:Index`
 
          .. container:: card-body
 
@@ -56,7 +56,7 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`t3tca:start`
+            .. rubric:: :doc:`t3tca:Index`
 
          .. container:: card-body
 
@@ -77,7 +77,7 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`t3tsconfig:start`
+            .. rubric:: :doc:`t3tsconfig:Index`
 
          .. container:: card-body
 
@@ -101,14 +101,14 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`t3tsref:start`
+            .. rubric:: :doc:`t3tsref:Index`
 
          .. container:: card-body
 
             TypoScript is a configuration language that is specific to
             TYPO3. This is used to configure the frontend.
             For an introduction see the
-            :ref:`TypoScript in 45 Minutes <t3ts45:start>` tutorial.
+            :doc:`TypoScript in 45 Minutes <t3ts45:Index>` tutorial.
 
          .. container:: card-footer pb-0
 
@@ -125,7 +125,7 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`t3viewhelper:start`
+            .. rubric:: :doc:`t3viewhelper:Index`
 
          .. container:: card-body
 
@@ -154,7 +154,7 @@ Reference Manuals
 With our ongoing consolidation efforts, some documents have been merged into other documents
 for better overview, less duplication and confusion. The latest versions (since TYPO3 9.5) of
 these documents only show a "Has been moved" message. The information has been moved to
-:ref:`t3coreapi:start`.
+:doc:`t3coreapi:Index`.
 
 In case information for older TYPO3 versions (8.7 and below) is required, the obsoleted documents
 are listed here:
@@ -168,7 +168,7 @@ are listed here:
  - :Manual:        Inside TYPO3
                    `8.7 <https://docs.typo3.org/m/typo3/reference-inside/8.7/en-us/>`__ |
                    `7.6 <https://docs.typo3.org/m/typo3/reference-inside/7.6/en-us/>`__
-   :Description:   Outdated. Core v9 version and above have been integrated into :ref:`t3coreapi:start`
+   :Description:   Outdated. Core v9 version and above have been integrated into :doc:`t3coreapi:Index`
 
  - :Manual:        Core Coding Guidelines
    :Description:   Outdated. **All versions** have been integrated into :ref:`t3coreapi:cgl` (TYPO3 Explained)

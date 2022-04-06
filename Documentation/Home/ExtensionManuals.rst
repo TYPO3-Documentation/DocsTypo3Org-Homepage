@@ -36,7 +36,7 @@ Extension Development
 
             *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
 
-            * :ref:`t3extbasebook:start`
+            * :doc:`t3extbasebook:Index`
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
