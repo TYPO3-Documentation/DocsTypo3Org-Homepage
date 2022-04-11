@@ -129,7 +129,7 @@ Some more changes were made to make it easier for people new to TYPO3
 to find their way around the documentation:
 
 * The tips on the start page used to address advanced documentation
-  contribution. This has now been moved to :ref:`h2document:start` and
+  contribution. This has now been moved to :doc:`h2document:Index` and
   more basic tips about TYPO3 and the documentation added, see
   `start page <https://docs.typo3.org>`__. This includes for example a
   link to the `help page on typo3.org <https://typo3.org/help>`__.
@@ -163,7 +163,7 @@ Thanks goes to Sybille Peters
 2019-05-09 by Sybille Peters
 
 
-The :ref:`t3start:start` was updated for TYPO3 9.5.
+The :doc:`t3start:Index` was updated for TYPO3 9.5.
 
 Additionally, some more improvements were made:
 
@@ -199,7 +199,7 @@ or find out which of the information was relevant and up to date.
 Because of this, we made several improvements.
 
 These include additional chapters to the
-manual :ref:`h2document:start` to help you get started, such as:
+manual :doc:`h2document:Index` to help you get started, such as:
 
 * :ref:`h2document:docs-contribute` : Main entry point for information about
   contributing and a walkthrough of editing with GitHub.
@@ -325,7 +325,7 @@ The community is invited to participate in enhancing it:
   to ask questions (`Register <https://my.typo3.org/index.php?id=35>`__)
 * Click "Edit me on GitHub" in the top right corner to make small changes
   (`Find out more ... <https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html>`__)
-  or follow the :ref:`t3contribute:start`
+  or follow the :doc:`t3contribute:Index`
 
 
 .. rst-class:: horizbuttons-primary-m clear-both

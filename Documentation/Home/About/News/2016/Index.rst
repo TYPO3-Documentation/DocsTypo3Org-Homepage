@@ -27,7 +27,7 @@ function does? Maybe, but better do a quick check:
 What is the result of :typoscript:`wrap = a|*|r|||||||*|z`?
 The wish to really understand :typoscript:`optionSplit` came up and in return
 I reworked the :ref:`optionSplit chapter
-<t3tsref:objects-optionSplit>` in the :ref:`TypoScript reference <t3tsref:start>`.
+<t3tsref:objects-optionSplit>` in the :doc:`TypoScript reference <t3tsref:Index>`.
 Hopefully it's the "ultimate explanation" of :typoscript:`optionSplit`.
 
 Is there something still missing?
@@ -41,7 +41,7 @@ The FAL Reference has landed
 
 2016-11-18 by François Suter
 
-Until recently the :ref:`File Abstraction Layer Reference <t3fal:start>` was
+Until recently the :doc:`File Abstraction Layer Reference <t3fal:Index>` was
 pretty much an empty husk and users had to rely on a wiki page which was
 not always up to date.
 
@@ -113,7 +113,7 @@ TYPO3 Frontend Localization Guide updated
 
 2016-10-05 by Francois Suter
 
-The :ref:`TYPO3 Frontend Localization Guide <t3l10n:start>` manual
+The :doc:`TYPO3 Frontend Localization Guide <t3l10n:Index>` manual
 was purged of many of its old parts this spring by Christopher,
 but still remained out of date, in particular with regards to screenshots.
 It is now fully up to date again for TYPO3 7. It is also restructured,
@@ -171,7 +171,7 @@ TYPO3 Services Reference updated and expanded
 
 2016-09-07 by Francois Suter
 
-The :ref:`TYPO3 Services References <t3services:start>` manual is finally up to date again
+The :doc:`TYPO3 Services References <t3services:Index>` manual is finally up to date again
 (for TYPO3 CMS 7). What's more it contains a whole new chapter
 about authentication services. This chapter also describes the
 TYPO3 CMS authentication process on a very general level, the
@@ -210,7 +210,7 @@ Inside TYPO3 updated
 
 2016-08-05 by Francois Suter
 
-The :ref:`Inside TYPO3 Reference <t3inside:start>`
+The :doc:`Inside TYPO3 Reference <t3inside:Index>`
 is finally up to date for TYPO3 CMS 7. A lot of content was fully
 rewritten, while many obsolete parts were removed.
 

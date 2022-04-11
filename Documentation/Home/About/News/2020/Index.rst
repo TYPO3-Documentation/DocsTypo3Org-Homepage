@@ -19,7 +19,7 @@
 
 *2020-07-11 by Sybille Peters*
 
-The menu of :ref:`t3coreapi:start` was considerably changed during and after
+The menu of :doc:`t3coreapi:Index` was considerably changed during and after
 the Initiatives Week 2020.
 
 The main goal was to make it easier to find and jump to a general topic.
@@ -170,7 +170,7 @@ Fluid as was the case when it was initially introduced.
 
 As **next steps** the documentation could be further restructured, moving
 for example general Fluid information that is not specific to Extbase /
-Fluid from the :ref:`t3extbasebook:start` to "TYPO3 Explained".
+Fluid from the :doc:`t3extbasebook:Index` to "TYPO3 Explained".
 
 .. _news-2020-tsref:
 .. rst-class:: panel panel-default
@@ -180,7 +180,7 @@ TypoScript Reference
 
 *2020-01-26*
 
-We made several changes to the :ref:`TypoScript reference <t3tsref:start>` and documentation for the
+We made several changes to the :doc:`TypoScript reference <t3tsref:Index>` and documentation for the
 topic TypoScript in general.
 
 **Summary**
