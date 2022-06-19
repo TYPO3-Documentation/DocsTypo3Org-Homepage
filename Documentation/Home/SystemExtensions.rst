@@ -19,6 +19,25 @@ own documentation; the functionality is documented in
 :doc:`TYPO3 Explained <t3coreapi:Index>`. For Extbase and Fluid, please see
 :doc:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:Index>`.
 
+.. toctree::
+   :hidden:
+
+   adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>
+   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>
+   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>
+   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>
+   form                 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>
+   impexp               <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>
+   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>
+   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>
+   lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>
+   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>
+   redirects            <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>
+   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>
+   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>
+   seo                  <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>
+   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>
+
 Documentation of system extensions in current core version
 ==========================================================
 
