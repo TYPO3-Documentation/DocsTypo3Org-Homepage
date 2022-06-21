@@ -37,7 +37,7 @@ Reference Manuals
 
          .. rst-class:: card-header
 
-            .. rubric:: :ref:`Changelog <ext_core:Sitemap>`
+            .. rubric:: :doc:`Changelog <ext_core:Sitemap>`
 
          .. container:: card-body
 
