@@ -13,6 +13,7 @@ Documentation Changelog
 
 .. toctree::
 
+   2022/Index
    2021/Index
    2020/Index
    2019/Index
