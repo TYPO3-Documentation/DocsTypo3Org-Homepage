@@ -145,7 +145,7 @@ Configuring TYPO3
 .. toctree::
    :hidden:
 
-   Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html>
+   Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Configuration/Index.html>   
    Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html>
    SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html>
    Security <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html>
