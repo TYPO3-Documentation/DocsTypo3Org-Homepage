@@ -26,8 +26,6 @@ Extension Development
 
             *  :ref:`t3coreapi:extension-naming` and :ref:`t3coreapi:cgl`
 
-            * :doc:`t3extbasebook:Index`
-
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -89,6 +87,5 @@ Extension Manuals
    :hidden:
 
    Extension Development Basics <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Index.html>
-   Extensions with Extbase & Fluid <https://docs.typo3.org/m/typo3/book-extbasefluid/master/en-us/>
    SystemExtensions
    Third party extensions <https://extensions.typo3.org/>
