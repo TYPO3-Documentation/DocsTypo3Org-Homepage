@@ -16,8 +16,7 @@ listed here.
 
 EXT:core, EXT:backend and other system extensions do not have their
 own documentation; the functionality is documented in
-:doc:`TYPO3 Explained <t3coreapi:Index>`. For Extbase and Fluid, please see
-:doc:`Developing TYPO3 Extensions with Extbase and Fluid <t3extbasebook:Index>`.
+:doc:`TYPO3 Explained <t3coreapi:Index>`.
 
 .. toctree::
    :hidden:
