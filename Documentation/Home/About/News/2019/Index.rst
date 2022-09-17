@@ -53,12 +53,7 @@ New Chapters for Extbase / Fluid Book
 *2019-08-09*
 
 Some documentation that was missing but is required for developer certification
-version 9 was added:
-
-* :ref:`Dispatching within Extbase (Request / Response) <t3extbasebook:dispatching>`
-
-
-
+version 9 was added.
 
 .. _news-2019-06-26:
 .. rst-class:: panel panel-default

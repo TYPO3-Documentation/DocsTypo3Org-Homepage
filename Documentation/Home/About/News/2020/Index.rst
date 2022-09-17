@@ -170,7 +170,7 @@ Fluid as was the case when it was initially introduced.
 
 As **next steps** the documentation could be further restructured, moving
 for example general Fluid information that is not specific to Extbase /
-Fluid from the :doc:`t3extbasebook:Index` to "TYPO3 Explained".
+Fluid from the Extbase Fluid Book to "TYPO3 Explained".
 
 .. _news-2020-tsref:
 .. rst-class:: panel panel-default
