@@ -30,8 +30,10 @@ own documentation; the functionality is documented in
    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>
    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>
    lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>
+   reactions            <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>
    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>
    redirects            <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>
+   reports              <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>
    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>
    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>
    seo                  <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>
@@ -260,6 +262,26 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
+            .. rubric:: `Reactions <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+
+         .. container:: card-body
+
+            This extension handles incoming webhooks to TYPO3.
+
+            `typo3/cms-reactions <https://packagist.org/packages/typo3/cms-reactions>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
             .. rubric:: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/master/en-us/>`__
 
          .. container:: card-body
@@ -297,6 +319,27 @@ part of the core and extracted at some point in time.
             - `12-dev <https://docs.typo3.org/c/typo3/cms-redirects/master/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
             - `10.4 <https://docs.typo3.org/c/typo3/cms-redirects/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `Reports <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
+
+         .. container:: card-body
+
+            This extension shows status reports and installed services in the
+            :guilabel:`System > Reports` backend module.
+
+            `typo3/cms-reports <https://packagist.org/packages/typo3/cms-reports>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
