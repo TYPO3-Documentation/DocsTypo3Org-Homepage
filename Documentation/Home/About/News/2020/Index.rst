@@ -71,7 +71,7 @@ questions that need to be addressed.
 
 * Ideally create a proof of concept for a better structure and navigation concept
   for "TYPO3 Explained" or the documentation in general. You can
-  `create a pull request <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingDocsOfficial/LocalEditing.html>`__
+  `create a pull request <https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/WritingDocsOfficial/LocalEditing.html>`__
   for this or `contact us on Slack <https://typo3.org/community/teams/documentation>`__.
 * Look at the `open issue <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues/421>`__
   or all `issues <https://github.com/TYPO3-Documentation/TYPO3CMS-Reference-CoreApi/issues>`__ with label
@@ -267,7 +267,7 @@ referred to the "TCA Reference" by clicking a link, you would continue
 reading information for the latest TYPO3 version (currently, the
 not yet released as LTS version 10.2). Changes between TYPO3
 versions are minimal most of the time, but significant in some cases
-(for example, see `Changelog for 9.0 <https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.0/Index.html>`__).
+(for example, see `Changelog for 9.0 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Index.html>`__).
 
 This caused the following problems:
 

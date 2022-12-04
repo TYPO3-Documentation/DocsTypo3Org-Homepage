@@ -46,7 +46,7 @@ PHP.
    Home/Contribute
 
 ..
-   Cheat Sheets         <https://docs.typo3.org/m/typo3/docs-cheatsheets/master/en-us/>
+   Cheat Sheets         <https://docs.typo3.org/m/typo3/docs-cheatsheets/main/en-us/>
 
             Support is available via StackOverflow and Slack. Visit the `help page
          <https://typo3.org/help>`__ for more information.
