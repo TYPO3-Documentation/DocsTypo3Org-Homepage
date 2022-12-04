@@ -26,7 +26,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/Pages/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/Pages/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/Pages/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/Pages/Index.html>`__
 
@@ -46,7 +46,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-editors/master/en-us/ContentElements/Index.html>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/ContentElements/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/ContentElements/Index.html>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/tutorial-editors/10.4/en-us/ContentElements/Index.html>`__
 
@@ -67,7 +67,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `12-dev <https://docs.typo3.org/m/typo3/guide-frontendlocalization/master/en-us/>`__
+            -  `12-dev <https://docs.typo3.org/m/typo3/guide-frontendlocalization/main/en-us/>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/11.5/en-us/>`__
             -  `10.4 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/10.4/en-us/>`__
 
@@ -88,7 +88,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `12-dev <https://docs.typo3.org/c/typo3/cms-form/master/en-us/>`__
+            -  `12-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
             -  `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
             -  `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
 

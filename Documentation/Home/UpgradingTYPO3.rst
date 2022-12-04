@@ -27,7 +27,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/Minor/>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Minor/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
@@ -50,7 +50,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/Major/>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Major/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
@@ -71,7 +71,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/UpgradingExtensions/>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/UpgradingExtensions/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Composer/Index.html#update-single-packages>`__
 
@@ -111,7 +111,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/Legacy/>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Legacy/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
@@ -131,7 +131,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/MigrateToComposer/>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateToComposer/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/MigrateToComposer/Index.html>`__
 
@@ -151,7 +151,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/master/en-us/MigrateContent/Index.html>`__
+            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateContent/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
             - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/MigrateContent/Index.html>`__
 
