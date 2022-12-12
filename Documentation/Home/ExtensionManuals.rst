@@ -86,6 +86,6 @@ Extension Manuals
 .. toctree::
    :hidden:
 
-   Extension Development Basics <https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ExtensionArchitecture/Index.html>
+   Extension Development Basics <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/Index.html>
    SystemExtensions
    Third party extensions <https://extensions.typo3.org/>
