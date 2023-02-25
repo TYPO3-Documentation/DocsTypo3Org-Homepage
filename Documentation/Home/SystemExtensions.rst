@@ -16,7 +16,7 @@ listed here.
 
 EXT:core, EXT:backend and other system extensions do not have their
 own documentation; the functionality is documented in
-:doc:`TYPO3 Explained <t3coreapi:Index>`.
+:ref:`TYPO3 Explained <t3coreapi:start>`.
 
 .. toctree::
    :hidden:

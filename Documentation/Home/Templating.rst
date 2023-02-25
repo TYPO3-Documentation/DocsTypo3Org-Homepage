@@ -39,7 +39,7 @@ Templating
 
          .. rst-class:: card-header
 
-            .. rubric:: :doc:`Sitepackages <t3sitepackage:Index>`
+            .. rubric:: :ref:`Sitepackages <t3sitepackage:start>`
 
          .. container:: card-body
 

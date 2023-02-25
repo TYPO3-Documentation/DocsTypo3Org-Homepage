@@ -39,7 +39,7 @@ Configuring TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :doc:`TypoScript in 45 Minutes <t3ts45:Index>`
+            .. rubric:: :ref:`TypoScript in 45 Minutes <t3ts45:start>`
 
          .. container:: card-body
 
