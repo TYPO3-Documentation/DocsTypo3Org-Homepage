@@ -62,10 +62,10 @@ TYPO3 Explained and more
 
 Our ongoing efforts to integrate, streamline, simplify, modernize and structure the main
 TYPO3 Core documents reached a next level: The well known "Core API" has been renamed to
-:doc:`TYPO3 Explained <t3coreapi:Index>`: This document gained more and more aspects over time
+:ref:`TYPO3 Explained <t3coreapi:start>`: This document gained more and more aspects over time
 and many different ones have been merged into it. This has advantages for everyone:
 
-* One main entry point: :doc:`TYPO3 Explained <t3coreapi:Index>` becomes *the* main document where
+* One main entry point: :ref:`TYPO3 Explained <t3coreapi:start>` becomes *the* main document where
   all main aspects of the TYPO3 Core can be found. You are getting less confused by all the existing
   other documents and references, TYPO3 Explained is *the* main thing to look at.
 
@@ -82,7 +82,7 @@ and many different ones have been merged into it. This has advantages for everyo
 * Less duplication: We already streamlined at least four places where the main filesystem structure
   of the system has been explained. All in different documents. There are probably more places. This
   is true for other topics, too. And none of them is the real source of truth. Integrating repositories
-  into :doc:`TYPO3 Explained <t3coreapi:Index>` gives us the opportunity to merge this stuff around and
+  into :ref:`TYPO3 Explained <t3coreapi:start>` gives us the opportunity to merge this stuff around and
   streamline it once and for all. If we then maintain this stuff, it happens at one place and one place only.
 
 How does all that materialize? Here are some of the works that happened already, with more
@@ -100,7 +100,7 @@ on the list:
   :ref:`XML Site map <t3coreapi:xmlsitemap>` have been documented. Thanks to Richard Haeser for this
   incredible work!
 
-* All added / changed properties of v9 are reflected in :doc:`TYPO3 Explained <t3coreapi:Index>` and
+* All added / changed properties of v9 are reflected in :ref:`TYPO3 Explained <t3coreapi:start>` and
   the reference documents already. Our workflow to review the `Changelog files
   <https://docs.typo3.org/typo3cms/extensions/core/latest/>`_ and merge relevant parts directly
   works out great. Special thanks to Anja Leichsenring for her continued efforts in this area!
@@ -114,7 +114,7 @@ on the list:
 
 * The :ref:`Coding Guidelines chapter <t3coreapi:cgl>` of TYPO3 Explained got major additions by Sybille
   Peters. She is active in the documentation area at various places and for instance continuously
-  improves the :doc:`Contribution workflow <t3contribute:Index>` document. Thanks a ton for this!
+  improves the :ref:`Contribution workflow <t3contribute:start>` document. Thanks a ton for this!
 
 * We see an increasing number of persons changing details of the documentation all over the place, too
   many to mention in person. This is great! We try our best to review pull requests in time and
@@ -251,14 +251,14 @@ We modernized some of the main TYPO3 core documents with more than 100
 single commits the last days:
 
 * The old "Inside TYPO3" document is gone and all information has been merged into the
-  :doc:`TYPO3 Core API <t3coreapi:Index>`. The Core API document more and more evolves
+  :ref:`TYPO3 Core API <t3coreapi:start>`. The Core API document more and more evolves
   into **the** TYPO3 core documentation compendium where all conceptual core related
   information should be looked up in. The term "Core API" will probably change at
   some point to reflect this, too.
 
-* The :doc:`t3tsconfig:Index` received a major overhaul. This document
+* The :ref:`t3tsconfig:start` received a major overhaul. This document
   is one of the most important documents next to the other two references, namely the
-  :doc:`t3tsref:Index` and the :doc:`TCA Reference <t3tca:Index>`.
+  :ref:`t3tsref:start` and the :ref:`TCA Reference <t3tca:start>`.
   The TSconfig Reference didn't receive too much love within the last years, but now it comes with
   a reworked menu structure, a lot of streamlined information and a simplified property listing
   with more examples. Various chapters have been moved around between the main core documents

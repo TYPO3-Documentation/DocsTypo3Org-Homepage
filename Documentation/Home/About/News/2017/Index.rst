@@ -62,7 +62,7 @@ TCA Reference overhaul
 
 2017-03-14 by Christian Kuhn
 
-The :doc:`TCA Reference <t3tca:Index>` got a major overhaul and should be ready for TYPO3 v8 LTS now.
+The :ref:`TCA Reference <t3tca:start>` got a major overhaul and should be ready for TYPO3 v8 LTS now.
 
 
 
@@ -81,7 +81,7 @@ The FormEngine code construct of the core has been refactored since version 6.2
 and is much more flexible in version 7 LTS and 8 LTS.
 
 An overview of the :ref:`FormEngine API <t3coreapi:FormEngine>` has now been added
-to :doc:`TYPO3 API documentation <t3coreapi:Index>`.
+to :ref:`TYPO3 API documentation <t3coreapi:start>`.
 
 **Contribute:** Don't hesitate to use the "Edit me on Github" button
 to improve the documentation.

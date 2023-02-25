@@ -41,12 +41,12 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  :doc:`Editors Tutorial <t3editors:Index>` explains the creation and management of pages and content.
+            *  :ref:`Editors Tutorial <t3editors:start>` explains the creation and management of pages and content.
 
             *  :ref:`Form System Extension <ext_form:quickstartEditors>` is a powerful
                tool that gives backend users the ability to create web forms.
 
-            *  :doc:`Localization Guide <t3l10n:Index>` covers everything needed to add additional languages to a
+            *  :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
                TYPO3 site, and how to translate content and pages.
 
 
@@ -65,7 +65,7 @@ Getting Started with TYPO3
             *  :ref:`Fluid is TYPO3’s templating engine. <t3coreapi:fluid>`
                Fluid acts as the glue between your static HTML templates and the content you create in TYPO3’s backend.
 
-            * :doc:`Sitepackages <t3sitepackage:Index>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension.
+            * :ref:`Sitepackages <t3sitepackage:start>` allow you to bundle your Fluid templates and other site assets into a single, reusable extension.
 
    .. _start-configuration:
 
@@ -80,7 +80,7 @@ Getting Started with TYPO3
          .. container:: card-body
 
             The :ref:`configuration overview <t3coreapi:config-overview>`
-            in :doc:`TYPO3 Explained <t3coreapi:Index>`
+            in :ref:`TYPO3 Explained <t3coreapi:start>`
             gives an overview of the various configuration options available.
             It contains a description of the main system configuration options.
 
@@ -97,7 +97,7 @@ Getting Started with TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: :doc:`Upgrading TYPO3 <t3upgrade:Index>`
+            .. rubric:: :ref:`Upgrading TYPO3 <t3upgrade:start>`
 
          .. container:: card-body
 
@@ -141,7 +141,7 @@ Getting Started with TYPO3
 
          .. container:: card-body
 
-            *  :doc:`TYPO3 Explained <t3coreapi:Index>` contains detailed information
+            *  :ref:`TYPO3 Explained <t3coreapi:start>` contains detailed information
                about concepts and APIs for core and extension developers.
 
             *  The `Core changelog <https://docs.typo3.org/c/typo3/cms-core/master/en-us/>`__
@@ -164,7 +164,7 @@ Getting Started with TYPO3
 
             *Internationalization* | *Translation* | *Multiple Languages*
 
-            *  :doc:`Localization Guide <t3l10n:Index>`
+            *  :ref:`Localization Guide <t3l10n:start>`
 
             *  :ref:`Supported languages <t3coreapi:i18n_languages>`
 

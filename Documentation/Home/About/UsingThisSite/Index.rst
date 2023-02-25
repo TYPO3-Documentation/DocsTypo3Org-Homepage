@@ -16,7 +16,7 @@ The page you are currently reading is part of a few start pages we call **"glue 
 From here, everything else is linked. The entire documentation is built out of individual
 **"manuals"**. This can be an extension manual like
 `ext:form <https://docs.typo3.org/typo3cms/extensions/form/latest/>`__ or a tutorial
-like :doc:`t3start:Index`.
+like :ref:`t3start:start`.
 
 You can regard the "glue pages" as a special top-level manual which is used for information,
 orientation and navigation.
@@ -28,7 +28,7 @@ The "glue pages" **contain**:
 
 * the start page https://docs.typo3.org
 * :ref:`tutorials`: A list of tutorials and guides
-* :ref:`references`: A list of core documentation manuals, including :doc:`t3coreapi:Index`
+* :ref:`references`: A list of core documentation manuals, including :ref:`t3coreapi:start`
   and several references.
 * this page and the entire :ref:`about-documentation` section
 * ...
@@ -56,7 +56,7 @@ or :ref:`extensions` to go to the documentation of an extension.
 Menu of other manuals
 ---------------------
 
-As soon as you go to a manual (e.g. :doc:`t3start:Index`), you leave the "glue pages"
+As soon as you go to a manual (e.g. :ref:`t3start:start`), you leave the "glue pages"
 and the menu will look different:
 
 * **On a glue page**: Menu of "glue pages", no search field
@@ -108,7 +108,7 @@ go to the start page of the manual by clicking on the title of the manual
 Version selector
 ================
 
-When you are reading a manual, for example the :doc:`t3start:Index`, you can select
+When you are reading a manual, for example the :ref:`t3start:start`, you can select
 a version from the version selector (which is located under the title).
 
 The version usually reflects the TYPO3 version, so for example
@@ -129,7 +129,7 @@ Search
 ======
 
 The search box only searches in the selected manual. For example, if you are
-reading :doc:`t3start:Index`, then search will only search within this manual.
+reading :ref:`t3start:start`, then search will only search within this manual.
 
 Alternatively, you can use an external search engine:
 
