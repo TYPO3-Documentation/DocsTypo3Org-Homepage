@@ -37,6 +37,7 @@ own documentation; the functionality is documented in
    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>
    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>
    seo                  <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>
+   t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>
    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>
 
 Documentation of system extensions in current core version
@@ -406,6 +407,27 @@ part of the core and extracted at some point in time.
             - `12-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
             - `10.4 <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+
+         .. container:: card-body
+
+            This system extension provides a backend editor with syntax highlighting.
+
+            `typo3/cms-t3editor <https://packagist.org/packages/typo3/cms-t3editor>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12-dev <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
