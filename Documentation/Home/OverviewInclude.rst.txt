@@ -103,7 +103,7 @@ Getting Started with TYPO3
 
             *  :ref:`Minor Upgrades <t3upgrade:minor>` contains information on how to upgrade to a newer minor version of TYPO3.
 
-            *  :ref:`Major Upgrades <t3upgrade:major>` details how to upgrade to a newer major release of TYPO3. 10.4 to 11.5 for example.
+            *  :ref:`Major Upgrades <t3upgrade:major>` details how to upgrade to a newer major release of TYPO3. 11.5 to 12.4 for example.
 
             *  :ref:`Upgrading Extensions <t3upgrade:upgradingextensions>` details how to upgrade extensions using Composer.
 
