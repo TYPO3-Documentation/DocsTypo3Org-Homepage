@@ -14,7 +14,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
+            .. rubric:: `Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>`__
 
          .. container:: card-body
 
@@ -27,9 +27,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Minor/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -37,7 +35,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
+            .. rubric:: `Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>`__
 
          .. container:: card-body
 
@@ -50,9 +48,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Major/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -60,7 +56,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/>`__
+            .. rubric:: `Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions/>`__
 
          .. container:: card-body
 
@@ -71,9 +67,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/UpgradingExtensions/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Composer/Index.html#update-single-packages>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -81,7 +75,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
+            .. rubric:: `Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>`__
 
          .. container:: card-body
 
@@ -91,7 +85,6 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Tools/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
 
 
@@ -101,7 +94,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Legacy upgrade guide <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
+            .. rubric:: `Legacy upgrade guide <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>`__
 
          .. container:: card-body
 
@@ -111,9 +104,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Legacy/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/Upgrade/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -121,7 +112,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Migrate a TYPO3 installation to Composer <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
+            .. rubric:: `Migrate a TYPO3 installation to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>`__
 
          .. container:: card-body
 
@@ -131,9 +122,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateToComposer/>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/MigrateToComposer/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -141,7 +130,7 @@ Upgrading TYPO3
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Migrate content <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
+            .. rubric:: `Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>`__
 
          .. container:: card-body
 
@@ -151,18 +140,16 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateContent/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
-            - `10.4 <https://docs.typo3.org/m/typo3/guide-installation/10.4/en-us/MigrateContent/Index.html>`__
 
 
 .. toctree::
    :hidden:
 
-   Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>
-   Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>
-   Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions>
-   Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>
-   Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>
-   Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>
-   Migrate content <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>
+   Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>
+   Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>
+   Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions>
+   Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>
+   Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>
+   Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>
+   Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>
