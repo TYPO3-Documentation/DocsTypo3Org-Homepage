@@ -27,6 +27,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -48,6 +49,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -67,6 +69,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -85,6 +88,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
 
 
@@ -104,6 +108,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -122,6 +127,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -140,6 +146,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
 
 

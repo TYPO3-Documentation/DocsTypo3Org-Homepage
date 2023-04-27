@@ -26,6 +26,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/Pages/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -44,6 +45,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/ContentElements/Index.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -62,6 +64,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `12.4 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -81,6 +84,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
             -  `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -99,6 +103,7 @@ Creating & Managing Content
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/DeepLinking/Index.html>`__
 
 
