@@ -28,6 +28,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Configuration/Index.html>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Configuration/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html>`__
 
@@ -49,6 +50,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/main/en-us/>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/12.4/en-us/>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/11.5/en-us/>`__
 
@@ -69,6 +71,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/SiteHandling/Index.html>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html>`__
 
@@ -89,6 +92,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Seo/Index.html>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html>`__
 
@@ -111,6 +115,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Security/Index.html>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html>`__
 
@@ -132,6 +137,7 @@ Configuring TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Rte/Index.html>`__
             -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html>`__
             -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Rte/Index.html>`__
 
