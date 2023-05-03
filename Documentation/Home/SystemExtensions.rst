@@ -73,9 +73,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -95,9 +95,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -117,9 +117,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -140,9 +140,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`_
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`_
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
             - `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>`_
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -162,9 +162,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -185,9 +185,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -208,9 +208,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-impexp/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -230,9 +230,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -253,9 +253,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -275,7 +275,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -295,9 +296,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-recycler/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -317,9 +318,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-redirects/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -340,7 +341,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -360,9 +362,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -382,9 +384,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -404,9 +406,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -426,7 +428,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -447,9 +450,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/>`__
 
 
 Documentation of system extensions abandoned from current core version
