@@ -89,6 +89,25 @@ Reference Manuals
                -  `11.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+   
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header
+
+            .. rubric:: :ref:`t3tsref:start`
+
+         .. container:: card-body
+
+            TypoScript is a configuration language that is specific to
+            TYPO3. This is used to configure the frontend.
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+               -  `12.4 <https://docs.typo3.org/m/typo3/reference-typoscript/12.4/en-us/>`__
+               -  `11.5 <https://docs.typo3.org/m/typo3/reference-typoscript/11.5/en-us/>`__
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
       .. container:: card px-0 h-100
 
