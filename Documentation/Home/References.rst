@@ -45,8 +45,8 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `12.4 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-12.html>`__
-            -  `11.5 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-11.html>`__
+            -  `v12 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-12.html>`__
+            -  `v11 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-11.html>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -89,7 +89,7 @@ Reference Manuals
                -  `11.5 <https://docs.typo3.org/m/typo3/reference-tsconfig/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-   
+
       .. container:: card px-0 h-100
 
          .. rst-class:: card-header
