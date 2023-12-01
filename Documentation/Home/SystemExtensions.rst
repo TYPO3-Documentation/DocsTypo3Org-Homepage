@@ -6,9 +6,9 @@
 System Extensions
 =================
 
-Documentation of extensions managed within the core repository directly
-and maintained by the core team and core contributors are called
-*system extensions*. If working with the full core package, these
+Documentation of extensions managed within the Core repository directly
+and maintained by the Core Team and Core contributors are called
+*system extensions*. If working with the full Core package, these
 extensions can be found in :file:`typo3/sysext` directory.
 
 Some of these extensions provide documentation, too. These are
@@ -400,27 +400,6 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
-
-         .. container:: card-body
-
-            This system extension provides a backend editor with syntax highlighting.
-
-            `typo3/cms-t3editor <https://packagist.org/packages/typo3/cms-t3editor>`__
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
             .. rubric:: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
 
          .. container:: card-body
@@ -437,7 +416,7 @@ part of the core and extracted at some point in time.
             - `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
 
 
-Documentation of system extensions abandoned from current core version
+Documentation of system extensions abandoned from current Core version
 ======================================================================
 
 .. t3-field-list-table::
@@ -511,6 +490,12 @@ Documentation of system extensions abandoned from current core version
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/sys_action/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/sys_action/6.2/>`__
      :Comment: Included until TYPO3 <= 9.5
+
+   - :Manual: `t3editor <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
+     :ExtKey: t3editor
+     :Versions: `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__ |
+                `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
+     :Comment: Merged into backend system extension since TYPO3 >= 13.0. See :ref:`TYPO3 Explained <t3coreapi:code-editor>`
 
    - :Manual: `Taskcenter <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`_
      :ExtKey: taskcenter
