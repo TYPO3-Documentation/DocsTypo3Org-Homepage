@@ -414,7 +414,7 @@ part of the core and extracted at some point in time.
             .. rst-class:: horizbuttons-striking-m
 
             - `main <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
