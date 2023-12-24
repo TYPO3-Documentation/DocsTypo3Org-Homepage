@@ -37,6 +37,7 @@ own documentation; the functionality is documented in
    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
    seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
+   sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>
    t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
@@ -393,6 +394,27 @@ part of the core and extracted at some point in time.
 
             - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `System Notes <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`_
+
+         .. container:: card-body
+
+            Allows to add notes to pages, that can only be seen in the backend.
+
+            `typo3/cms-sys-note <https://packagist.org/packages/typo3/cms-sys-note>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `main <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
