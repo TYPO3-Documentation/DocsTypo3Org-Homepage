@@ -405,7 +405,8 @@ part of the core and extracted at some point in time.
 
          .. container:: card-body
 
-            Allows to add notes to pages, that can only be seen in the backend.
+            The internal notes are a useful feature for adding context and notes to pages. 
+            It provides a way for users to document important information related to specific pages.
 
             `typo3/cms-sys-note <https://packagist.org/packages/typo3/cms-sys-note>`__
 
