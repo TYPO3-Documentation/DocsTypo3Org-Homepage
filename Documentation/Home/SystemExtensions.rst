@@ -21,24 +21,25 @@ own documentation; the functionality is documented in
 .. toctree::
    :hidden:
 
-   adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>
-   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>
-   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>
-   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>
-   form                 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>
-   impexp               <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>
-   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>
-   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>
-   lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>
-   reactions            <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>
-   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>
-   redirects            <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>
-   reports              <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>
-   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>
-   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>
-   seo                  <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>
-   t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>
-   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>
+   adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
+   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
+   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
+   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
+   form                 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
+   impexp               <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
+   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
+   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
+   lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
+   reactions            <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
+   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
+   redirects            <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
+   reports              <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
+   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
+   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
+   seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
+   sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
+   t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
+   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
 Documentation of system extensions in current core version
 ==========================================================
@@ -60,7 +61,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
+            .. rubric:: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -73,9 +74,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -83,7 +83,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
+            .. rubric:: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -95,9 +95,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-dashboard/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -105,7 +104,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
+            .. rubric:: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -117,9 +116,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
 
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -128,7 +126,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`_
+            .. rubric:: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
 
          .. container:: card-body
 
@@ -140,9 +138,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`_
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
             - `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/10.4/en-us/>`_
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -150,7 +147,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Form framework <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
+            .. rubric:: `Form framework <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -162,9 +159,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-form/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -172,7 +168,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
+            .. rubric:: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -185,9 +181,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -195,7 +190,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
+            .. rubric:: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -208,9 +203,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-impexp/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -218,7 +212,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Link Validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
+            .. rubric:: `Link Validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -230,9 +224,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -240,7 +233,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
+            .. rubric:: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -253,9 +246,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -263,7 +255,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Reactions <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+            .. rubric:: `Reactions <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -275,7 +267,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -283,7 +275,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
+            .. rubric:: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -295,9 +287,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-recycler/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -305,7 +296,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
+            .. rubric:: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -317,9 +308,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-redirects/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -327,7 +317,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Reports <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
+            .. rubric:: `Reports <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -340,7 +330,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -348,7 +338,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `CKEditor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            .. rubric:: `CKEditor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -360,9 +350,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -370,7 +359,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/>`_
+            .. rubric:: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`_
 
          .. container:: card-body
 
@@ -382,9 +371,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -392,7 +380,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `SEO <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`_
+            .. rubric:: `SEO <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`_
 
          .. container:: card-body
 
@@ -404,9 +392,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-seo/10.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -414,7 +401,28 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+            .. rubric:: `System Notes <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`_
+
+         .. container:: card-body
+
+            The internal notes are a useful feature for adding context and notes to pages.
+            It provides a way for users to document important information related to specific pages.
+
+            `typo3/cms-sys-note <https://packagist.org/packages/typo3/cms-sys-note>`__
+
+         .. container:: card-footer pb-0
+
+            .. rst-class:: horizbuttons-striking-m
+
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`__
+
+   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+
+      .. container:: card px-0 h-100
+
+         .. rst-class:: card-header h3
+
+            .. rubric:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -426,7 +434,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-t3editor/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -435,7 +443,7 @@ part of the core and extracted at some point in time.
 
          .. rst-class:: card-header h3
 
-            .. rubric:: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
+            .. rubric:: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
 
          .. container:: card-body
 
@@ -447,9 +455,8 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
-            - `10.4 <https://docs.typo3.org/c/typo3/cms-workspaces/10.4/en-us/>`__
 
 
 Documentation of system extensions abandoned from current core version
