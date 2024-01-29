@@ -6,9 +6,9 @@
 System Extensions
 =================
 
-Documentation of extensions managed within the core repository directly
-and maintained by the core team and core contributors are called
-*system extensions*. If working with the full core package, these
+Documentation of extensions managed within the Core repository directly
+and maintained by the Core Team and Core contributors are called
+*system extensions*. If working with the full Core package, these
 extensions can be found in :file:`typo3/sysext` directory.
 
 Some of these extensions provide documentation, too. These are
@@ -41,17 +41,17 @@ own documentation; the functionality is documented in
    t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
-Documentation of system extensions in current core version
+Documentation of system extensions in current Core version
 ==========================================================
 
-The list of extensions developed directly in the core repository
+The list of extensions developed directly in the Core repository
 changes from time to time: Some extensions are merged into others,
-some are integrated, others abandoned from core and maintained at
+some are integrated, others abandoned from Core and maintained at
 a different place.
 
 The list below is kept in sync with the current development version
-of the core, the table further below lists extensions that were
-part of the core and extracted at some point in time.
+of the Core, the table further below lists extensions that were
+part of the Core and extracted at some point in time.
 
 .. container:: row m-0 p-0
 
@@ -74,6 +74,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
 
@@ -95,6 +96,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
 
@@ -116,6 +118,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
 
@@ -138,6 +141,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
             - `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
 
@@ -159,6 +163,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
 
@@ -181,6 +186,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
 
@@ -203,6 +209,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
 
@@ -224,6 +231,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
 
@@ -246,6 +254,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
 
@@ -267,6 +276,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -287,6 +297,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>`__
 
@@ -308,6 +319,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
 
@@ -330,6 +342,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -350,6 +363,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
 
@@ -371,8 +385,9 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/>`__
+            - `12.4 <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`__
+            - `11.5 <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
@@ -392,6 +407,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
 
@@ -414,6 +430,7 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`__
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
@@ -430,10 +447,13 @@ part of the core and extracted at some point in time.
 
             `typo3/cms-t3editor <https://packagist.org/packages/typo3/cms-t3editor>`__
 
+            This system extension was merged into EXT:backend with TYPO3 v13.0.
+
          .. container:: card-footer pb-0
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/CodeEditor/Index.html>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
 
@@ -455,11 +475,12 @@ part of the core and extracted at some point in time.
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
             - `12.4 <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
             - `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
 
 
-Documentation of system extensions abandoned from current core version
+Documentation of system extensions abandoned from current Core version
 ======================================================================
 
 .. t3-field-list-table::
@@ -493,7 +514,7 @@ Documentation of system extensions abandoned from current core version
    - :Manual: `func <https://docs.typo3.org/typo3cms/extensions/func/stable/>`_
      :ExtKey: func
      :Versions:
-     :Comment: Was removed from core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
+     :Comment: Was removed from Core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
 
 
    - :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
@@ -524,7 +545,7 @@ Documentation of system extensions abandoned from current core version
      :Versions: `8.7 <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`__ |
                 `7.6 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/7.6/>`__ |
                 `6.2 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/6.2/>`__
-     :Comment: Merged into main core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+     :Comment: Merged into main Core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
 
    - :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
      :ExtKey: sys_action
