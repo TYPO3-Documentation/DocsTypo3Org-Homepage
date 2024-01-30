@@ -2,9 +2,9 @@
 
 .. _upgrading-typo3:
 
-=================
+===============
 Upgrading TYPO3
-=================
+===============
 
 .. container:: row m-0 p-0
 
@@ -18,7 +18,7 @@ Upgrading TYPO3
 
          .. container:: card-body
 
-            Minor updates (for example 10.4.20 to 10.4.21)
+            Minor updates (for example 12.4.1 to 12.4.2)
             contain bugfixes and/or security updates.
             This chapter details how updates are installed and highlights what tasks need to
             be carried out before and after the core is updated.
@@ -27,6 +27,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Minor/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
 
@@ -40,7 +41,7 @@ Upgrading TYPO3
 
          .. container:: card-body
 
-            Major updates (for example 10.4 to 11.5) can contain new features
+            Major updates (for example 11.5 to 12.4) can contain new features
             and breaking changes as well as bugfixes.
             This chapter details how updates are installed and highlights what tasks need to
             be carried out before and after the core is updated.
@@ -49,6 +50,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Major/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
 
@@ -69,6 +71,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/UpgradingExtensions/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/Index.html>`__
 
@@ -88,6 +91,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Tools/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
 
@@ -108,6 +112,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Legacy/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
 
@@ -121,12 +126,13 @@ Upgrading TYPO3
 
          .. container:: card-body
 
-            Information on how to migrate a legacy installation of TYPO3 to a Composer based installation.
+            Information on how to migrate a legacy installation of TYPO3 to a Composer-based installation.
 
          .. container:: card-footer pb-0
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateToComposer/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
 
@@ -146,6 +152,7 @@ Upgrading TYPO3
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateContent/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
 
