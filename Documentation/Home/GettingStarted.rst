@@ -25,6 +25,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Concepts/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Concepts/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Concepts/Index.html>`__
 
@@ -44,6 +45,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/SystemRequirements/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/SystemRequirements/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/SystemRequirements/Index.html>`__
 
@@ -63,6 +65,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Installation/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Installation/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Installation/Index.html>`__
 
@@ -82,6 +85,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Setup/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Setup/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Setup/Index.html>`__
 
@@ -101,6 +105,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Troubleshooting/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Troubleshooting/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Troubleshooting/Index.html>`__
 
@@ -120,6 +125,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/UserManagement/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/UserManagement/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/UserManagement/Index.html>`__
 
@@ -139,6 +145,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/Extensions/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Extensions/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/Extensions/Index.html>`__
 
@@ -159,6 +166,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/IntroductionPackage/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/IntroductionPackage/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/IntroductionPackage/Index.html>`__
 
@@ -178,6 +186,7 @@ Getting Started
 
             .. rst-class:: horizbuttons-striking-m
 
+            - `13-dev <https://docs.typo3.org/m/typo3/tutorial-getting-started/main/en-us/NextSteps/Index.html>`__
             - `12.4 <https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/NextSteps/Index.html>`__
             - `11.5 <https://docs.typo3.org/m/typo3/tutorial-getting-started/11.5/en-us/NextSteps/Index.html>`__
 
