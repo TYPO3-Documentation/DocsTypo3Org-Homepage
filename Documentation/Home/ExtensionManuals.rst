@@ -93,8 +93,8 @@ Extension Manuals
          .. container:: card-body
 
             Documentation is an essential part of an extension.
-            Learn :ref:`how to document <how-to-start-docs-extension>` an extension
-            and :ref:`publish the documentation <register-for-rendering>` on docs.typo3.org.
+            Learn :ref:`how to document <h2document:how-to-start-docs-extension>` an extension
+            and :ref:`publish the documentation <h2document:register-for-rendering>` on docs.typo3.org.
 
 
 
