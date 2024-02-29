@@ -9,12 +9,6 @@
 Welcome to the official TYPO3 Documentation
 ===========================================
 
-.. sidebar:: About
-
-   * :ref:`About TYPO3 Documentation <about-documentation>`
-   * :ref:`Using this site <usage-start-page-manual>`
-   * :ref:`Documentation News <news>`
-
 TYPO3 CMS is an Open Source Enterprise Content Management System powered by
 PHP.
 
