@@ -84,7 +84,7 @@ Getting Started with TYPO3
             gives an overview of the various configuration options available.
             It contains a description of the main system configuration options.
 
-            *  :ref:`Site Handling and Configuration <sitehandling-basics>` shows you how
+            *  :ref:`Site Handling and Configuration <t3coreapi:sitehandling-basics>` shows you how
                to setup domains, languages, human-readable URLs and error pages.
 
             *  :ref:`Backend User Management <t3start:backendusers>` explains how you
@@ -235,7 +235,7 @@ Contributing
             *  :ref:`h2document:docs-contribute` explains the workflow for contributing.
 
             *  The documentation is edited in text files using reStructuredText syntax. Use
-               the :ref:`rest-cheat-sheet` to lookup most commonly used directives.
+               the :ref:`h2document:rest-cheat-sheet` to lookup most commonly used directives.
 
             *  General conventions can be found in :ref:`h2document:conventions`
 
