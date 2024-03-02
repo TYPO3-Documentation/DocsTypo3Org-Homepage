@@ -80,8 +80,6 @@ Extension Manuals
             Go to the `TYPO3 Extension Repository (TER) <https://extensions.typo3.org/>`__ to search
             for documentation of third-party extensions.
 
-            The legacy :ref:`Extension manual search <extensionsManualSearch>` is still available.
-
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
       .. container:: card px-0 h-100
