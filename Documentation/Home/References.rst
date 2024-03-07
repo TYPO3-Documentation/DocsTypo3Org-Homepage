@@ -46,9 +46,7 @@ Reference Manuals
 
             .. rst-class:: horizbuttons-striking-m
 
-            -  `13-dev <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-13.html>`__
-            -  `v12 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-12.html>`__
-            -  `v11 <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-11.html>`__
+            -  :doc:`Changelog <ext_core:Sitemap>`
 
    .. container:: col-md-6 pl-0 pr-3 py-3 m-0
 
