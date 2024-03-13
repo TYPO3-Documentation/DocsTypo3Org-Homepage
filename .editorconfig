@@ -2,8 +2,17 @@
 #
 # Use as master: https://github.com/TYPO3-Documentation/T3DocTeam/blob/master/.editorconfig
 
-# top-most EditorConfig file
-root = false
+# top-most EditorConfig file? false = no!
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+insert_final_newline = true
+max_line_length = 80
+trim_trailing_whitespace = true
+charset = utf-8
 
 [{*.rst,*.rst.txt}]
 charset = utf-8
@@ -21,3 +30,18 @@ insert_final_newline = true
 trim_trailing_whitespace = true
 indent_style = space
 indent_size = 4
+
+# JS-Files
+[*.js]
+indent_size = 2
+
+# YAML-Files
+[*.{yaml,yml}]
+indent_size = 2
+
+[*.{typoscript,tsconfig}]
+indent_size = 2
+
+[Makefile]
+# Use tabs for indentation (Makefiles require tabs)
+indent_style = tab
