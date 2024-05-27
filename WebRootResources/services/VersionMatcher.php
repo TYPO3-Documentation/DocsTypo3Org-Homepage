@@ -1,5 +1,8 @@
 <?php
 
+// NOTE: THIS IS NOT GETTING DEPLOYED! This file is archived.
+// Currently served via: https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/blob/main/.github/workflows/docshome.yml
+
 // mb, 2013-08-19, 2015-09-25, 2016-09-05, 2018-09-25
 
 class VersionMatcher
@@ -584,6 +587,8 @@ class VersionMatcher
 
 $vm = new VersionMatcher();
 
+// NOTE: THIS IS NOT GETTING DEPLOYED! This file is archived.
+// Currently served via: https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/blob/main/.github/workflows/docshome.yml
 $url = $_GET['url'];
 $htmlResult = $vm->processTheUrl($url);
 
