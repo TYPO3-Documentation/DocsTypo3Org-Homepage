@@ -594,4 +594,3 @@ $htmlResult = $vm->processTheUrl($url);
 
 echo $htmlResult;
 
-?>
