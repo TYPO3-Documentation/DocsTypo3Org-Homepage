@@ -71,17 +71,21 @@ jobs:
           fi
       - name: docker run
         run: |
-          docker run --rm --user=$(id -u):$(id -g) \
-            -v $(pwd):/PROJECT:ro \
-            -v $(pwd)/Documentation-GENERATED-temp:/RESULT \
-            ghcr.io/t3docs/render-documentation:v3.0.dev30 makehtml \
-              -c make_singlehtml 1 \
-              -c jobfile /RESULT/jobfile.json
+          using: 'docker'
+          image: 'docker://ghcr.io/typo3-documentation/render-guides:latest'
+          env:
+            SHELL_VERBOSITY: '3'
+          args:
+            - 'render'
+            - '--working-dir="./Documentation"'
+            - '--config="./Documentation"'
+            - '--output="./Documentation-GENERATED-temp"'
+            - '${{ inputs.input }}'
       - name: Verify rendering result
-        run: stat Documentation-GENERATED-temp/Result/project/0.0.0/index.html || stat Documentation-GENERATED-temp/Result/project/0.0.0/Index.html
+        run: stat Documentation-GENERATED-temp/index.html || stat Documentation-GENERATED-temp/Index.html
       - name: Upload
         uses: actions/upload-artifact@v1
         with:
           name: Rendering of ${{ github.event.repository.name }} (mode ${{ matrix.mode }})
-          path: ./Documentation-GENERATED-temp/Result/project/0.0.0
+          path: ./Documentation-GENERATED-temp/
 
