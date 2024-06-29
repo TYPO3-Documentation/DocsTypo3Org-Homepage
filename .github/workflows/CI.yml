@@ -71,16 +71,7 @@ jobs:
           fi
       - name: docker run
         run: |
-          using: 'docker'
-          image: 'docker://ghcr.io/typo3-documentation/render-guides:latest'
-          env:
-            SHELL_VERBOSITY: '3'
-          args:
-            - 'render'
-            - '--working-dir="./Documentation"'
-            - '--config="./Documentation"'
-            - '--output="./Documentation-GENERATED-temp"'
-            - '${{ inputs.input }}'
+          docker run --rm --pull always -v $(pwd):/project ghcr.io/typo3-documentation/render-guides:latest --config=Documentation
       - name: Verify rendering result
         run: stat Documentation-GENERATED-temp/index.html || stat Documentation-GENERATED-temp/Index.html
       - name: Upload
