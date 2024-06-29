@@ -92,7 +92,7 @@ Extension Manuals
 
             Documentation is an essential part of an extension.
             Learn :ref:`how to document <h2document:how-to-start-docs-extension>` an extension
-            and :ref:`publish the documentation <h2document:register-for-rendering>` on docs.typo3.org.
+            and :ref:`publish the documentation <h2document:webhook>` on docs.typo3.org.
 
 
 
