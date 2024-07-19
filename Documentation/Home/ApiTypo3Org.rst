@@ -11,16 +11,33 @@ Welcome to the official TYPO3 API Documentation
 TYPO3 source code is well documented and allows you to understand many internals
 just by browsing through the various classes and methods.
 
-You can find the sourcecode of TYPO3 in a mono-repository on GitHub:
+..  card-grid::
+    :columns: 1
+    :columns-md: 3
+    :gap: 4
+    :class: pb-4
+    :card-height: 100
 
-*   `13-dev (main) <https://github.com/typo3/typo3>`__
-*   `12.4 (current stable) <https://github.com/typo3/typo3/tree/12.4>`__
-*   `11.5 (old stable) <https://github.com/typo3/typo3/tree/11.5>`__
+    ..  card:: `TYPO3 13-dev API <https://api.typo3.org/main/>`
 
-For explanations please refer to :ref:`TYPO3 explained <t3coreapi:start>`
-in the desired version:
+        Automatically generated API from the 
+        `13-dev (main) <https://github.com/typo3/typo3>`__ branch of TYPO3.
 
+        ..  card-footer:: `API <https://api.typo3.org/main/>`__ `GitHub <https://github.com/typo3/typo3>`__ :ref:`Docs <t3coreapimain:start>`
+            :button-style: btn btn-light
 
-*   :ref:`13-dev (main) <t3coreapimain:start>`
-*   :ref:`12.4 (current stable) <t3coreapi12:start>`
-*   :ref:`11.5 (old stable) <t3coreapi11:start>`
+    ..  card:: :ref:`TYPO3 12.4-dev API <https://api.typo3.org/12.4/>`
+
+        Automatically generated API from the 
+        `12.4 (current stable) <https://github.com/typo3/typo3/tree/12.4>`__ branch of TYPO3.
+
+        ..  card-footer:: `API <https://api.typo3.org/12.4/>`__ `GitHub <https://github.com/typo3/typo3/tree/12.4>`__ :ref:`Docs <t3coreapi12:start>`
+            :button-style: btn btn-light
+
+    ..  card:: :ref:`TYPO3 11.5-dev API <https://api.typo3.org/11.5/>`
+
+        Automatically generated API from the 
+        `11.5 (old stable) <https://github.com/typo3/typo3/tree/11.5>`__ branch of TYPO3.
+
+        ..  card-footer:: `API <https://api.typo3.org/main/>`__ `GitHub <https://github.com/typo3/typo3/tree/11.5>`__ :ref:`Docs <t3coreapi11:start>`
+            :button-style: btn btn-light
