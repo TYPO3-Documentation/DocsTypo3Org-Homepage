@@ -338,7 +338,7 @@ Documentation of system extensions abandoned from current Core version
 
     -   :Manual: `func <https://docs.typo3.org/p/friendsoftypo3/cms-func/9.0/en-us/>`_
         :Composer: :composer:`friendsoftypo3/cms-func`
-        :Comment: Was removed from Core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`
+        :Comment: Was removed from Core in 9.0, see `Changelog <changelog:breaking-81787>`
 
     -   :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
         :Composer: :composer:`friendsoftypo3/openid`
@@ -354,7 +354,7 @@ Documentation of system extensions abandoned from current Core version
 
     -   :Manual: `Salted user password hashes <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
         :Composer: :composer:`typo3/cms-saltedpasswords`
-        :Comment: Merged into main Core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+        :Comment: Merged into main Core extension since TYPO3 >=7.4. See :ref:`Core API <t3coreapi:password-hashing>`
 
     -   :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
         :Composer: :composer:`typo3/cms-sys-action`
