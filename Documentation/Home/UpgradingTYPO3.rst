@@ -6,164 +6,109 @@
 Upgrading TYPO3
 ===============
 
-.. container:: row m-0 p-0
+..  card-grid::
+    :columns: 1
+    :columns-md: 2
+    :gap: 4
+    :card-height: 100
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+    ..  card:: :ref:`Minor upgrades <t3upgrade:minor>`
 
-      .. container:: card px-0 h-100
+        Minor updates (for example 12.4.1 to 12.4.2)
+        contain bugfixes and/or security updates.
+        This chapter details how updates are installed and highlights what tasks need to
+        be carried out before and after the core is updated.
 
-         .. rst-class:: card-header h3
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rubric:: `Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>`__
+            :ref:`13-dev <t3upgrade/dev:minor>`
+            :ref:`12.4 <t3upgrade:minor>`
+            :ref:`11.5 <t3upgrade/oldstable:minor>`
 
-         .. container:: card-body
+    ..  card:: :ref:`Major upgrades <t3upgrade:major>`
 
-            Minor updates (for example 12.4.1 to 12.4.2)
-            contain bugfixes and/or security updates.
-            This chapter details how updates are installed and highlights what tasks need to
-            be carried out before and after the core is updated.
+        Major updates (for example 11.5 to 12.4) can contain new features
+        and breaking changes as well as bugfixes.
+        This chapter details how updates are installed and highlights what tasks need to
+        be carried out before and after the core is updated.
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :ref:`13-dev <t3upgrade/dev:major>`
+            :ref:`12.4 <t3upgrade:major>`
+            :ref:`11.5 <t3upgrade/oldstable:major>`
 
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Minor/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Minor/Index.html>`__
+    ..  card:: :ref:`Upgrading extensions <t3upgrade:upgradingextensions>`
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        Just like TYPO3's core, extensions also need to be regularly updated.
+        This chapter details how to upgrade extensions using Composer.
 
-      .. container:: card px-0 h-100
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. rst-class:: card-header h3
+            :ref:`13-dev <t3upgrade/dev:upgradingextensions>`
+            :ref:`12.4 <t3upgrade:upgradingextensions>`
+            :ref:`11.5 <t3upgrade/oldstable:upgradingextensions>`
 
-            .. rubric:: `Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>`__
+    ..  card:: :ref:`Third-party tools <t3upgrade:tools>`
 
-         .. container:: card-body
+        Tools and resources developed by the community that can assist with
+        common upgrade and maintenance tasks.
 
-            Major updates (for example 11.5 to 12.4) can contain new features
-            and breaking changes as well as bugfixes.
-            This chapter details how updates are installed and highlights what tasks need to
-            be carried out before and after the core is updated.
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. container:: card-footer pb-0
+            :ref:`13-dev <t3upgrade/dev:tools>`
+            :ref:`12.4 <t3upgrade:tools>`
+            :ref:`11.5 <t3upgrade/oldstable:tools>`
 
-            .. rst-class:: horizbuttons-striking-m
 
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Major/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Major/Index.html>`__
+    ..  card:: :ref:`Legacy upgrade guide <t3upgrade:legacy>`
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        Using TYPO3 without Composer? This chapter details how to upgrade
+        TYPO3 manually.
 
-      .. container:: card px-0 h-100
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. rst-class:: card-header h3
+            :ref:`13-dev <t3upgrade/dev:legacy>`
+            :ref:`12.4 <t3upgrade:legacy>`
+            :ref:`11.5 <t3upgrade/oldstable:legacy>`
 
-            .. rubric:: `Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions/>`__
+    ..  card:: :ref:`Migrate a TYPO3 installation to Composer <t3upgrade:migratetocomposer>`
 
-         .. container:: card-body
+        Information on how to migrate a legacy installation of TYPO3 to a
+        Composer-based installation.
 
-            Just like TYPO3's core, extensions also need to be regularly updated.
-            This chapter details how to upgrade extensions using Composer.
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. container:: card-footer pb-0
+            :ref:`13-dev <t3upgrade/dev:migratetocomposer>`
+            :ref:`12.4 <t3upgrade:migratetocomposer>`
+            :ref:`11.5 <t3upgrade/oldstable:migratetocomposer>`
 
-            .. rst-class:: horizbuttons-striking-m
+    ..  card:: :ref:`Migrate content <t3upgrade:migratecontent>`
 
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/UpgradingExtensions/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/UpgradingExtensions/Index.html>`__
+        This chapter details how pages and content can be exported and then
+        imported into another installation of TYPO3.
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        ..  card-footer::
+            :button-styles: secondary
 
-      .. container:: card px-0 h-100
+            :ref:`13-dev <t3upgrade/dev:migratecontent>`
+            :ref:`12.4 <t3upgrade:migratecontent>`
+            :ref:`11.5 <t3upgrade/oldstable:migratecontent>`
 
-         .. rst-class:: card-header h3
 
-            .. rubric:: `Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>`__
+..  toctree::
+    :hidden:
 
-         .. container:: card-body
-
-            Tools and resources developed by the community that can assist with common upgrade and maintenance tasks.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Tools/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Tools/Index.html>`__
-
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Legacy upgrade guide <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>`__
-
-         .. container:: card-body
-
-            Using TYPO3 without Composer? This chapter details how to upgrade TYPO3 manually.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/Legacy/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/Legacy/Index.html>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Migrate a TYPO3 installation to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>`__
-
-         .. container:: card-body
-
-            Information on how to migrate a legacy installation of TYPO3 to a Composer-based installation.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateToComposer/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateToComposer/Index.html>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>`__
-
-         .. container:: card-body
-
-            This chapter details how pages and content can be exported and then imported into another installation of TYPO3.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            - `13-dev <https://docs.typo3.org/m/typo3/guide-installation/main/en-us/MigrateContent/Index.html>`__
-            - `12.4 <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>`__
-            - `11.5 <https://docs.typo3.org/m/typo3/guide-installation/11.5/en-us/MigrateContent/Index.html>`__
-
-
-.. toctree::
-   :hidden:
-
-   Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>
-   Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>
-   Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions>
-   Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>
-   Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>
-   Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>
-   Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>
+    Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>
+    Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>
+    Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions>
+    Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>
+    Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>
+    Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>
+    Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>
