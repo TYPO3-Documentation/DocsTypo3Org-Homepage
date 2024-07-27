@@ -14,23 +14,23 @@ PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
-*  :ref:`getting-started`
-*  :ref:`references`
-*  :ref:`extensions`
+*   :ref:`getting-started`
+*   :ref:`references`
+*   :ref:`extensions`
 
-.. include:: Home/OverviewInclude.rst.txt
+..  include:: Home/_OverviewInclude.rst.txt
 
-.. toctree::
-   :hidden:
+..  toctree::
+    :hidden:
 
-   Home/GettingStarted
-   Home/CreatingManagingContent
-   Home/Templating
-   Home/ConfiguringTYPO3
-   Home/UpgradingTYPO3
-   Home/ExtensionManuals
-   Home/References
-   Home/Contribute
+    Home/GettingStarted
+    Home/CreatingManagingContent
+    Home/Templating
+    Home/ConfiguringTYPO3
+    Home/UpgradingTYPO3
+    Home/ExtensionManuals
+    Home/References
+    Home/Contribute
 
 
 Support is available via StackOverflow and Slack. Visit the `help page

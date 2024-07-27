@@ -1,6 +1,6 @@
-..  include:: /Includes.rst.txt
+.. include:: /Includes.rst.txt
 
-..  _System-Extensions:
+.. _System-Extensions:
 
 =================
 System Extensions
@@ -21,25 +21,25 @@ own documentation; the functionality is documented in
 ..  toctree::
     :hidden:
 
-    adminpanel              <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
-    dashboard                <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
-    felogin                  <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
+    aditor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
+    workminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
+    dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
+    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
     fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
-    form                      <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
-    impexp                    <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
-    indexed_search         <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
-    linkvalidator          <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
-    lowlevel                 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
-    reactions                <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
-    recycler                 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
-    redirects                <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
-    reports                  <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
-    rte_ckeditor            <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
-    scheduler                <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
-    seo                        <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
-    sys_note                 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
-    t3editor                 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
-    workspaces              <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
+    form                 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
+    impexp               <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
+    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
+    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
+    lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
+    reactions            <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
+    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
+    redirects            <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
+    reports              <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
+    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
+    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
+    seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
+    sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
+    t3edspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
 Documentation of system extensions in current Core version
 ==========================================================
@@ -57,188 +57,262 @@ part of the Core and extracted at some point in time.
     :columns: 1
     :columns-md: 2
     :gap: 4
-    :class: pb-4
     :card-height: 100
 
-    ..  card:: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
+    ..  card:: :doc:`Admin Panel <typo3/cms-adminpanel:Index>`
 
-        The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching,
-        Preview...).
+            The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching,
+            Preview...).
 
-        Composer: :composer:`typo3/cms-adminpanel`
+            Composer name: :composer:`typo3/cms-adminpanel`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+        ..  card-footer::
+            :button-styles: secondary
 
-    ..  card:: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
+            :doc:`13-dev <typo3/cms-adminpanel/dev:Index>`
+            :doc:`12.4 <typo3/cms-adminpanel:Index>`
+            :doc:`11.5 <typo3/cms-adminpanel/oldstable:Index>`
 
-        A Dashboard for the TYPO3 backend.
+    ..  card:: :doc:`Dashboard <typo3/cms-dashboard:Index>`
 
-        Composer: :composer:`typo3/cms-dashboard`
+            A Dashboard for the TYPO3 backend.
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Composer name: :composer:`typo3/cms-dashboard`
 
-    ..  card:: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
+        ..  card-footer::
+            :button-styles: secondary
 
-        Frontend login based on frontend users and user groups
+            :doc:`13-dev <typo3/cms-dashboard/dev:Index>`
+            :doc:`12.4 <typo3/cms-dashboard:Index>`
+            :doc:`11.5 <typo3/cms-dashboard/oldstable:Index>`
 
-        Composer: :composer:`typo3/cms-felogin`
+    ..  card:: :doc:`Frontend Login <typo3/cms-felogin:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Frontend login based on frontend users and user groups
 
-    ..  card:: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
+            Composer name: :composer:`typo3/cms-felogin`
 
-        Content Elements based on Fluid.
+        ..  card-footer::
+            :button-styles: secondary
 
-        Composer: :composer:`typo3/cms-fluid-styled-content`
+            :doc:`13-dev <typo3/cms-felogin/dev:Index>`
+            :doc:`12.4 <typo3/cms-felogin:Index>`
+            :doc:`11.5 <typo3/cms-felogin/oldstable:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_ `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
-            :button-style: btn btn-secondary
 
-    ..  card:: `Form framework <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
+    ..  card:: :doc:`Fluid Styled Content <typo3/cms-fluid-styled-content:Index>`
 
-        Form Library, Plugin and Editor.
+            Content Elements based on Fluid.
 
-        Composer: :composer:`typo3/cms-form`
+            Composer name: :composer:`typo3/cms-fluid-styled-content`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+        ..  card-footer::
+            :button-styles: secondary
 
-    ..  card:: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
+            :doc:`13-dev <typo3/cms-fluid-styled-content/dev:Index>`
+            :doc:`12.4 <typo3/cms-fluid-styled-content:Index>`
+            :doc:`11.5 <typo3/cms-fluid-styled-content/oldstable:Index>`
 
-        Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module
-        for statistics of the indexer and a frontend plugin.
+    ..  card:: :doc:`Form framework <typo3/cms-form:Index>`
 
-        Composer: :composer:`typo3/cms-indexed-search`
+            Form Library, Plugin and Editor.
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Composer name: :composer:`typo3/cms-form`
 
-    ..  card:: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
+        ..  card-footer::
+            :button-styles: secondary
 
-        Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other
-        TYPO3 systems.
+            :doc:`13-dev <typo3/cms-form/dev:Index>`
+            :doc:`12.4 <typo3/cms-form:Index>`
+            :doc:`11.5 <typo3/cms-form/oldstable:Index>`
 
-        Composer: :composer:`typo3/cms-impexp`
+    ..  card:: :doc:`Indexed Search <typo3/cms-indexed-search:Index>`
 
-        ..  card-footer::  `13-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module
+            for statistics of the indexer and a frontend plugin.
 
-    ..  card:: `Link Validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
+            Composer name: :composer:`typo3/cms-indexed-search`
 
-        The Link Validator checks the links in your website for validity.
+        ..  card-footer::
+            :button-styles: secondary
 
-        Composer: :composer:`typo3/cms-linkvalidator`
+            :doc:`13-dev <typo3/cms-indexed-search/dev:Index>`
+            :doc:`12.4 <typo3/cms-indexed-search:Index>`
+            :doc:`11.5 <typo3/cms-indexed-search/oldstable:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+    ..  card:: :doc:`Import / Export <typo3/cms-impexp:Index>`
 
-    ..  card:: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
+            Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other
+            TYPO3 systems.
 
-        Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw
-        database search, checking relations, counting pages and records etc.
+            Composer name: :composer:`typo3/cms-impexp`
 
-        Composer: :composer:`typo3/cms-lowlevel`
+        ..  card-footer::
+            :button-styles: secondary
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            :doc:`13-dev <typo3/cms-impexp/dev:Index>`
+            :doc:`12.4 <typo3/cms-impexp:Index>`
+            :doc:`11.5 <typo3/cms-impexp/oldstable:Index>`
 
-    ..  card:: `Reactions <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
+    ..  card:: :doc:`Link Validator <typo3/cms-linkvalidator:Index>`
 
-        This extension handles incoming webhooks to TYPO3.
+            The Link Validator checks the links in your website for validity.
 
-        Composer: :composer:`typo3/cms-reactions`
+            Composer name: :composer:`typo3/cms-linkvalidator`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
-            :button-style: btn btn-secondary
+        ..  card-footer::
+            :button-styles: secondary
 
-    ..  card:: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
+            :doc:`13-dev <typo3/cms-linkvalidator/dev:Index>`
+            :doc:`12.4 <typo3/cms-linkvalidator:Index>`
+            :doc:`11.5 <typo3/cms-linkvalidator/oldstable:Index>`
 
-        The recycler offers the possibility to restore deleted records or remove them from the database permanently.
+    ..  card:: :doc:`Lowlevel <typo3/cms-lowlevel:Index>`
 
-        Composer: :composer:`typo3/cms-recycler`
+            Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw
+            database search, checking relations, counting pages and records etc.
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Composer name: :composer:`typo3/cms-lowlevel`
 
-    ..  card:: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
+        ..  card-footer::
+            :button-styles: secondary
 
-        Create manual redirects, list existing redirects and automatically create\nredirects on slug changes.
+            :doc:`13-dev <typo3/cms-lowlevel/dev:Index>`
+            :doc:`12.4 <typo3/cms-lowlevel:Index>`
+            :doc:`11.5 <typo3/cms-lowlevel/oldstable:Index>`
 
-        Composer: :composer:`typo3/cms-redirects`
+    ..  card:: :doc:`Reactions <typo3/cms-reactions:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            This extension handles incoming webhooks to TYPO3.
 
-    ..  card:: `Reports <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
+            Composer name: :composer:`typo3/cms-reactions`
 
-        This extension shows status reports and installed services in the
-        :guilabel:`System > Reports` backend module.
+        ..  card-footer::
+            :button-styles: secondary
 
-        Composer: :composer:`typo3/cms-reports`
+            :doc:`13-dev <typo3/cms-reactions/dev:Index>`
+            :doc:`12.4 <typo3/cms-reactions:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
-            :button-style: btn btn-secondary
+    ..  card:: :doc:`Recycler <typo3/cms-recycler:Index>`
 
-    ..  card:: `CKEditor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
+            The recycler offers the possibility to restore deleted records or remove them from the database permanently.
 
-        Integration of CKEditor as a Rich Text Editor for the TYPO3 backend.
+            Composer name: :composer:`typo3/cms-recycler`
 
-        Composer: :composer:`typo3/cms-rte-ckeditor`
+        ..  card-footer::
+            :button-styles: secondary
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            :doc:`13-dev <typo3/cms-recycler/dev:Index>`
+            :doc:`12.4 <typo3/cms-recycler:Index>`
+            :doc:`11.5 <typo3/cms-recycler/oldstable:Index>`
 
-    ..  card:: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`_
+    ..  card:: :doc:`Redirects <typo3/cms-redirects:Index>`
 
-        The TYPO3 Scheduler lets you register tasks to happen at a specific time.
+            Create manual redirects, list existing redirects and automatically create\nredirects on slug changes.
 
-        Composer: :composer:`typo3/cms-scheduler`
+            Composer name: :composer:`typo3/cms-redirects`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+        ..  card-footer::
+            :button-styles: secondary
 
-    ..  card:: `SEO <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`_
+            :doc:`13-dev <typo3/cms-redirects/dev:Index>`
+            :doc:`12.4 <typo3/cms-redirects:Index>`
+            :doc:`11.5 <typo3/cms-redirects/oldstable:Index>`
 
-        SEO features including specific fields for SEO purposes, rendering of HTML meta tags and sitemaps.
+    ..  card:: :doc:`Reports <typo3/cms-reports:Index>`
 
-        Composer: :composer:`typo3/cms-seo`
+            This extension shows status reports and installed services in the
+            :guilabel:`System > Reports` backend module.
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            Composer name: :composer:`typo3/cms-reports`
 
-    ..  card:: `System Notes <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`_
+        ..  card-footer::
+            :button-styles: secondary
 
-        The internal notes are a useful feature for adding context and notes to pages.
-        It provides a way for users to document important information related to specific pages.
+            :doc:`13-dev <typo3/cms-reports/dev:Index>`
+            :doc:`12.4 <typo3/cms-reports:Index>`
 
-        Composer: :composer:`typo3/cms-sys-note`
+    ..  card:: :doc:`CKEditor <typo3/cms-rte-ckeditor:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`__
-            :button-style: btn btn-secondary
+            Integration of CKEditor as a Rich Text Editor for the TYPO3 backend.
 
-    ..  card:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
+            Composer name: :composer:`typo3/cms-rte-ckeditor`
 
-        This system extension provides a backend editor with syntax highlighting.
+        ..  card-footer::
+            :button-styles: secondary
 
-        Composer: :composer:`typo3/cms-t3editor`
+            :doc:`13-dev <typo3/cms-rte-ckeditor/dev:Index>`
+            :doc:`12.4 <typo3/cms-rte-ckeditor:Index>`
+            :doc:`11.5 <typo3/cms-rte-ckeditor/oldstable:Index>`
 
-        This system extension was merged into EXT:backend with TYPO3 v13.0.
+    ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`_
 
-        ..  card-footer:: `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+            The TYPO3 Scheduler lets you register tasks to happen at a specific time.
 
-    ..  card:: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
+            Composer name: :composer:`typo3/cms-scheduler`
 
-        Adds workspaces functionality with custom stages to TYPO3.
+        ..  card-footer::
+            :button-styles: secondary
 
-        Composer: :composer:`typo3/cms-workspaces`
+            :doc:`13-dev <typo3/cms-scheduler/dev:Index>`
+            :doc:`12.4 <typo3/cms-scheduler:Index>`
+            :doc:`11.5 <typo3/cms-scheduler/oldstable:Index>`
 
-        ..  card-footer:: `13-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__ `12.4 <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__ `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
-            :button-style: btn btn-secondary
+    ..  card:: :doc:`SEO <typo3/cms-seo:Index>`
 
+            SEO features including specific fields for SEO purposes, rendering of HTML meta tags and sitemaps.
+
+            Composer name: :composer:`typo3/cms-seo`
+
+        ..  card-footer::
+            :button-styles: secondary
+
+            :doc:`13-dev <typo3/cms-seo/dev:Index>`
+            :doc:`12.4 <typo3/cms-seo:Index>`
+            :doc:`11.5 <typo3/cms-seo/oldstable:Index>`
+
+    ..  card:: :doc:`System Notes <typo3/cms-sys-note:Index>`
+
+            The internal notes are a useful feature for adding context and notes to pages.
+            It provides a way for users to document important information related to specific pages.
+
+            Composer name: :composer:`typo3/cms-sys-note`
+
+        ..  card-footer::
+            :button-styles: secondary
+
+            :doc:`13-dev <typo3/cms-sys-note/dev:Index>`
+            :doc:`12.4 <typo3/cms-sys-note:Index>`
+
+    ..  card:: :doc:`T3Editor <typo3/cms-t3editor:Index>`
+
+            This system extension provides a backend editor with syntax highlighting.
+
+            Composer name: :composer:`typo3/cms-t3editor`
+
+            This system extension was merged into EXT:backend with TYPO3 v13.0.
+
+        ..  card-footer::
+            :button-styles: secondary
+
+            :doc:`13-dev <typo3/cms-t3editor/dev:Index>`
+            :doc:`12.4 <typo3/cms-t3editor:Index>`
+            :doc:`11.5 <typo3/cms-t3editor/oldstable:Index>`
+
+    ..  card:: :doc:`Workspaces and Versioning <typo3/cms-workspaces:Index>`
+
+            Adds workspaces functionality with custom stages to TYPO3.
+
+            Composer name: :composer:`typo3/cms-workspaces`
+
+        ..  card-footer::
+            :button-styles: secondary
+
+            :doc:`13-dev <typo3/cms-workspaces/dev:Index>`
+            :doc:`12.4 <typo3/cms-workspaces:Index>`
+            :doc:`11.5 <typo3/cms-workspaces/oldstable:Index>`
+
+.. _System-Extensions-outdated:
 
 Documentation of system extensions abandoned from current Core version
 ======================================================================
@@ -264,7 +338,7 @@ Documentation of system extensions abandoned from current Core version
 
     -   :Manual: `func <https://docs.typo3.org/p/friendsoftypo3/cms-func/9.0/en-us/>`_
         :Composer: :composer:`friendsoftypo3/cms-func`
-        :Comment: Was removed from Core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
+        :Comment: Was removed from Core in 9.0, see `Changelog <changelog:breaking-81787>`
 
     -   :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
         :Composer: :composer:`friendsoftypo3/openid`
@@ -280,7 +354,7 @@ Documentation of system extensions abandoned from current Core version
 
     -   :Manual: `Salted user password hashes <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
         :Composer: :composer:`typo3/cms-saltedpasswords`
-        :Comment: Merged into main Core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+        :Comment: Merged into main Core extension since TYPO3 >=7.4. See :ref:`Core API <t3coreapi:password-hashing>`
 
     -   :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
         :Composer: :composer:`typo3/cms-sys-action`

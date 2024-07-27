@@ -2,121 +2,82 @@
 
 .. _creatingmanagingcontent:
 
-
 ===========================
 Creating & Managing Content
 ===========================
 
+..  card-grid::
+    :columns: 1
+    :columns-md: 2
+    :gap: 4
+    :card-height: 100
 
-.. container:: row m-0 p-0
+    ..  card:: :ref:`Pages <t3editors:pages>`
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        The Page Management Guide introduces TYPO3's Page Tree and explains
+        how pages are created and managed.
 
-      .. container:: card px-0 h-100
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. rst-class:: card-header h3
+            :ref:`13-dev <t3editors/dev:pages>`
+            :ref:`12.4 <t3editors:pages>`
+            :ref:`11.5 <t3editors/oldstable:pages>`
 
-            .. rubric:: :ref:`Pages <t3editors:pages>`
+    ..  card:: :ref:`Content <t3editors:content-elements>`
 
-         .. container:: card-body
+        The Content Creation Guide shows how page content is created in the
+        form of Content Elements.
 
-            The Page Management Guide introduces TYPO3's Page Tree and explains how pages are created and managed.
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. container:: card-footer pb-0
+            :ref:`13-dev <t3editors/dev:content-elements>`
+            :ref:`12.4 <t3editors:content-elements>`
+            :ref:`11.5 <t3editors/oldstable:content-elements>`
 
-            .. rst-class:: horizbuttons-striking-m
+    ..  card:: :doc:`Localizing Pages & Content <t3translate:Index>`
 
-            -  `13-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/Pages/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/Pages/Index.html>`__
+        The Localization Guide covers everything needed to add additional
+        languages to a TYPO3 site, and how to translate content and pages.
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        ..  card-footer::
+            :button-styles: secondary
 
-      .. container:: card px-0 h-100
+            :doc:`13-dev <t3translate/dev:Index>`
+            :doc:`12.4 <t3translate:Index>`
+            :doc:`11.5 <t3translate/oldstable:Index>`
 
-         .. rst-class:: card-header h3
+    ..  card:: :doc:`Forms <typo3/cms-form:Index>`
 
-            .. rubric:: :ref:`Content <t3editors:content-elements>`
+        The Form Framework allows non-technical as well technical users to
+        create and extend complex web forms directly from TYPO3's backend.
 
-         .. container:: card-body
+        ..  card-footer::
+            :button-styles: secondary
 
-            The Content Creation Guide shows how page content is created in the form of Content Elements.
+            :doc:`13-dev <typo3/cms-form/dev:Index>`
+            :doc:`12.4 <typo3/cms-form:Index>`
+            :doc:`11.5 <typo3/cms-form/oldstable:Index>`
 
-         .. container:: card-footer pb-0
+    ..  card:: :ref:`Deep Linking <t3editors:deeplinking>`
 
-            .. rst-class:: horizbuttons-striking-m
+        Deep linking allows users to share links to specific pages, content
+        elements and modules from within TYPO3’s backend.
 
-            -  `13-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/ContentElements/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/ContentElements/Index.html>`__
+        ..  card-footer::
+            :button-styles: secondary
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :doc:`Localizing Pages & Content <t3l10n:Index>`
-
-         .. container:: card-body
-
-            The Localization Guide covers everything needed to add additional languages to a TYPO3 site, and how to translate content and pages.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/guide-frontendlocalization/main/en-us/>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/guide-frontendlocalization/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :doc:`Forms <ext_form:Index>`
-
-         .. container:: card-body
-
-            The Form Framework allows non-technical as well technical users to create and extend complex web forms
-            directly from TYPO3's backend.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
-            -  `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
-            -  `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`Deep Linking <t3editors:deeplinking>`
-
-         .. container:: card-body
-
-            Deep linking allows users to share links to specific pages, content elements and modules from within TYPO3’s backend.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/tutorial-editors/main/en-us/DeepLinking/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-editors/11.5/en-us/DeepLinking/Index.html>`__
+            :ref:`13-dev <t3editors/dev:deeplinking>`
+            :ref:`12.4 <t3editors:deeplinking>`
+            :ref:`11.5 <t3editors/oldstable:deeplinking>`
 
 
-.. toctree::
-   :hidden:
+..  toctree::
+    :hidden:
 
-   Pages <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html>
-   Content <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html>
-   Localization<https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/>
-   Forms <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
-   Deep Linking <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html>
+    Pages <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html>
+    Content <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html>
+    Localization<https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/>
+    Forms <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
+    Deep Linking <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html>

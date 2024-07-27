@@ -1,152 +1,101 @@
-.. include:: /Includes.rst.txt
+..  include:: /Includes.rst.txt
 
-.. _configuringTYPO3:
-
+..  _configuringTYPO3:
 
 =================
 Configuring TYPO3
 =================
 
+..  card-grid::
+    :columns: 1
+    :columns-md: 2
+    :gap: 4
+    :card-height: 100
 
-.. container:: row m-0 p-0
+    ..  card:: :ref:`Configuration Overview <t3coreapi:configuration>`
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+        The configuration overview gives an overview of the various
+        configuration options available. It contains a description of the main
+        system configuration options.
 
-      .. container:: card px-0 h-100
+        ..  card-footer::
+            :button-styles: secondary
 
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`Configuration Overview <t3coreapi:configuration>`
-
-         .. container:: card-body
-
-            The configuration overview gives an overview of the various
-            configuration options available. It contains a description of the main
-            system configuration options.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Configuration/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Configuration/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Configuration/Index.html>`__
+            :ref:`13-dev <t3coreapi/dev:configuration>`
+            :ref:`12.4 <t3coreapi:configuration>`
+            :ref:`11.5 <t3coreapi/oldstable:configuration>`
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+    ..  card:: :ref:`TypoScript in 45 Minutes <t3ts45:start>`
 
-      .. container:: card px-0 h-100
+        The tutorial "TypoScript in 45 Minutes" introduces TYPO3's
+        configuration language "TypoScript".
 
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`TypoScript in 45 Minutes <t3ts45:start>`
-
-         .. container:: card-body
-
-            The tutorial "TypoScript in 45 Minutes" introduces TYPO3's
-            configuration language "TypoScript".
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/main/en-us/>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/12.4/en-us/>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/tutorial-typoscript-in-45-minutes/11.5/en-us/>`__
+        ..  card-footer::
+            :button-styles: secondary
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: :ref:`Site Handling <t3coreapi:sitehandling>`
-
-         .. container:: card-body
-
-            The site configuration defines how TYPO3 handles domains, languages and error handling.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/SiteHandling/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/SiteHandling/Index.html>`__
+            :ref:`13-dev <t3ts45/dev:start>`
+            :ref:`12.4 <t3ts45:start>`
+            :ref:`11.5 <t3ts45/oldstable:start>`
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+    ..  card:: :ref:`Site Handling <t3coreapi:sitehandling>`
 
-      .. container:: card px-0 h-100
+        The site configuration defines how TYPO3 handles domains, languages and error handling.
 
-         .. rst-class:: card-header h3
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rubric:: :ref:`SEO <t3coreapi:seo>`
-
-         .. container:: card-body
-
-            The SEO module allows users to configure SEO related options like meta data or titles.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Seo/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Seo/Index.html>`__
+            :ref:`13-dev <t3coreapi/dev:sitehandling>`
+            :ref:`12.4 <t3coreapi:sitehandling>`
+            :ref:`11.5 <t3coreapi/oldstable:sitehandling>`
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+    ..  card:: :ref:`SEO <t3coreapi:seo>`
 
-      .. container:: card px-0 h-100
+        The SEO module allows users to configure SEO related options like meta data or titles.
 
-         .. rst-class:: card-header h3
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rubric:: :ref:`Security <t3coreapi:security>`
-
-         .. container:: card-body
-
-            Security is an important aspect for any website. The TYPO3 security
-            guidelines contain information for installing, maintaining and using
-            TYPO3 securely.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Security/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Security/Index.html>`__
+            :ref:`13-dev <t3coreapi/dev:seo>`
+            :ref:`12.4 <t3coreapi:seo>`
+            :ref:`11.5 <t3coreapi/oldstable:seo>`
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
+    ..  card:: :ref:`Security <t3coreapi:security>`
 
-      .. container:: card px-0 h-100
+        Security is an important aspect for any website. The TYPO3 security
+        guidelines contain information for installing, maintaining and using
+        TYPO3 securely.
 
-         .. rst-class:: card-header h3
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rubric:: :ref:`RTE <t3coreapi:rte>`
-
-         .. container:: card-body
-
-            The heart of any content management system is its editor. TYPO3 uses ckeditor
-            to provide a rich and configurable editing environment.
-
-         .. container:: card-footer pb-0
-
-            .. rst-class:: horizbuttons-striking-m
-
-            -  `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/Rte/Index.html>`__
-            -  `12.4 <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html>`__
-            -  `11.5 <https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/ApiOverview/Rte/Index.html>`__
+            :ref:`13-dev <t3coreapi/dev:security>`
+            :ref:`12.4 <t3coreapi:security>`
+            :ref:`11.5 <t3coreapi/oldstable:security>`
 
 
-.. toctree::
-   :hidden:
+    ..  card:: :ref:`RTE <t3coreapi:rte>`
 
-   Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Configuration/Index.html>
-   Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html>
-   SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html>
-   Security <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html>
-   RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html>
+        The heart of any content management system is its editor. TYPO3 uses ckeditor
+        to provide a rich and configurable editing environment.
+
+        ..  card-footer::
+            :button-styles: secondary
+
+            :ref:`13-dev <t3coreapi/dev:rte>`
+            :ref:`12.4 <t3coreapi:rte>`
+            :ref:`11.5 <t3coreapi/oldstable:rte>`
+
+
+..  toctree::
+    :hidden:
+
+    Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Configuration/Index.html>
+    Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html>
+    SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html>
+    Security <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html>
+    RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html>
