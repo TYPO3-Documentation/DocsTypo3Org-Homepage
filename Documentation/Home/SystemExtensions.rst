@@ -18,28 +18,28 @@ EXT:core, EXT:backend and other system extensions do not have their
 own documentation; the functionality is documented in
 :ref:`TYPO3 Explained <t3coreapi:start>`.
 
-.. toctree::
-   :hidden:
+..  toctree::
+    :hidden:
 
-   adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
-   dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
-   felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
-   fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
-   form                 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
-   impexp               <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
-   indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
-   linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
-   lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
-   reactions            <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
-   recycler             <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
-   redirects            <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
-   reports              <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
-   rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
-   scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
-   seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
-   sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
-   t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
-   workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
+    aditor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
+    workminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
+    dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
+    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
+    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
+    form                 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
+    impexp               <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
+    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
+    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
+    lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
+    reactions            <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
+    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
+    redirects            <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
+    reports              <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
+    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
+    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
+    seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
+    sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
+    t3edspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
 Documentation of system extensions in current Core version
 ==========================================================
@@ -53,512 +53,313 @@ The list below is kept in sync with the current development version
 of the Core, the table further below lists extensions that were
 part of the Core and extracted at some point in time.
 
-.. container:: row m-0 p-0
+..  card-grid::
+    :columns: 1
+    :columns-md: 2
+    :gap: 4
+    :card-height: 100
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Admin Panel <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Admin Panel <typo3/cms-adminpanel:Index>`
 
             The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching,
             Preview...).
 
-            `typo3/cms-adminpanel <https://packagist.org/packages/typo3/cms-adminpanel>`__
+            Composer name: :composer:`typo3/cms-adminpanel`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-adminpanel/dev:Index>`
+            :doc:`12.4 <typo3/cms-adminpanel:Index>`
+            :doc:`11.5 <typo3/cms-adminpanel/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-adminpanel/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-adminpanel/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Dashboard <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Dashboard <typo3/cms-dashboard:Index>`
 
             A Dashboard for the TYPO3 backend.
 
-            `typo3/cms-dashboard <https://packagist.org/packages/typo3/cms-dashboard>`__
+            Composer name: :composer:`typo3/cms-dashboard`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-dashboard/dev:Index>`
+            :doc:`12.4 <typo3/cms-dashboard:Index>`
+            :doc:`11.5 <typo3/cms-dashboard/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-dashboard/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-dashboard/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Frontend Login <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Frontend Login <typo3/cms-felogin:Index>`
 
             Frontend login based on frontend users and user groups
 
-            `typo3/cms-felogin <https://packagist.org/packages/typo3/cms-felogin>`__
+            Composer name: :composer:`typo3/cms-felogin`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
-
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-felogin/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-felogin/11.5/en-us/>`__
+            :doc:`13-dev <typo3/cms-felogin/dev:Index>`
+            :doc:`12.4 <typo3/cms-felogin:Index>`
+            :doc:`11.5 <typo3/cms-felogin/oldstable:Index>`
 
 
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Fluid Styled Content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
-
-         .. container:: card-body
+    ..  card:: :doc:`Fluid Styled Content <typo3/cms-fluid-styled-content:Index>`
 
             Content Elements based on Fluid.
 
-            `typo3/cms-fluid-styled-content <https://packagist.org/packages/typo3/cms-fluid-styled-content>`__
+            Composer name: :composer:`typo3/cms-fluid-styled-content`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-fluid-styled-content/dev:Index>`
+            :doc:`12.4 <typo3/cms-fluid-styled-content:Index>`
+            :doc:`11.5 <typo3/cms-fluid-styled-content/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>`_
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/11.5/en-us/>`_
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Form framework <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Form framework <typo3/cms-form:Index>`
 
             Form Library, Plugin and Editor.
 
-            `typo3/cms-form <https://packagist.org/packages/typo3/cms-form>`__
+            Composer name: :composer:`typo3/cms-form:Index>`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-form/dev:Index>`
+            :doc:`12.4 <typo3/cms-form:Index>`
+            :doc:`11.5 <typo3/cms-form/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-form/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-form/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Indexed Search <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Indexed Search <typo3/cms-indexed-search:Index>`
 
             Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module
             for statistics of the indexer and a frontend plugin.
 
-            `typo3/cms-indexed-search <https://packagist.org/packages/typo3/cms-indexed-search>`__
+            Composer name: :composer:`typo3/cms-indexed-search`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-indexed-search/dev:Index>`
+            :doc:`12.4 <typo3/cms-indexed-search:Index>`
+            :doc:`11.5 <typo3/cms-indexed-search/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-indexed-search/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-indexed-search/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Import / Export <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Import / Export <typo3/cms-impexp:Index>`
 
             Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other
             TYPO3 systems.
 
-            `typo3/cms-impexp <https://packagist.org/packages/typo3/cms-impexp>`__
+            Composer name: :composer:`typo3/cms-impexp`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-impexp/dev:Index>`
+            :doc:`12.4 <typo3/cms-impexp:Index>`
+            :doc:`11.5 <typo3/cms-impexp/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-impexp/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-impexp/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Link Validator <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Link Validator <typo3/cms-linkvalidator:Index>`
 
             The Link Validator checks the links in your website for validity.
 
-            `typo3/cms-linkvalidator <https://packagist.org/packages/typo3/cms-linkvalidator>`__
+            Composer name: :composer:`typo3/cms-linkvalidator`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-linkvalidator/dev:Index>`
+            :doc:`12.4 <typo3/cms-linkvalidator:Index>`
+            :doc:`11.5 <typo3/cms-linkvalidator/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-linkvalidator/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-linkvalidator/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Lowlevel <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Lowlevel <typo3/cms-lowlevel:Index>`
 
             Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw
             database search, checking relations, counting pages and records etc.
 
-            `typo3/cms-lowlevel <https://packagist.org/packages/typo3/cms-lowlevel>`__
+            Composer name: :composer:`typo3/cms-lowlevel`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-lowlevel/dev:Index>`
+            :doc:`12.4 <typo3/cms-lowlevel:Index>`
+            :doc:`11.5 <typo3/cms-lowlevel/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-lowlevel/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-lowlevel/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Reactions <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Reactions <typo3/cms-reactions:Index>`
 
             This extension handles incoming webhooks to TYPO3.
 
-            `typo3/cms-reactions <https://packagist.org/packages/typo3/cms-reactions>`__
+            Composer name: :composer:`typo3/cms-reactions`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-reactions/dev:Index>`
+            :doc:`12.4 <typo3/cms-reactions:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-reactions/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Recycler <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Recycler <typo3/cms-recycler:Index>`
 
             The recycler offers the possibility to restore deleted records or remove them from the database permanently.
 
-            `typo3/cms-recycler <https://packagist.org/packages/typo3/cms-recycler>`__
+            Composer name: :composer:`typo3/cms-recycler`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-recycler/dev:Index>`
+            :doc:`12.4 <typo3/cms-recycler:Index>`
+            :doc:`11.5 <typo3/cms-recycler/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-recycler/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-recycler/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Redirects <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Redirects <typo3/cms-redirects:Index>`
 
             Create manual redirects, list existing redirects and automatically create\nredirects on slug changes.
 
-            `typo3/cms-redirects <https://packagist.org/packages/typo3/cms-redirects>`__
+            Composer name: :composer:`typo3/cms-redirects`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-redirects/dev:Index>`
+            :doc:`12.4 <typo3/cms-redirects:Index>`
+            :doc:`11.5 <typo3/cms-redirects/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-redirects/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-redirects/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Reports <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Reports <typo3/cms-reports:Index>`
 
             This extension shows status reports and installed services in the
             :guilabel:`System > Reports` backend module.
 
-            `typo3/cms-reports <https://packagist.org/packages/typo3/cms-reports>`__
+            Composer name: :composer:`typo3/cms-reports`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-reports/dev:Index>`
+            :doc:`12.4 <typo3/cms-reports:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-reports/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `CKEditor <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`CKEditor <typo3/cms-rte-ckeditor:Index>`
 
             Integration of CKEditor as a Rich Text Editor for the TYPO3 backend.
 
-            `typo3/cms-rte-ckeditor <https://packagist.org/packages/typo3/cms-rte-ckeditor>`__
+            Composer name: :composer:`typo3/cms-rte-ckeditor`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-rte-ckeditor/dev:Index>`
+            :doc:`12.4 <typo3/cms-rte-ckeditor:Index>`
+            :doc:`11.5 <typo3/cms-rte-ckeditor/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Scheduler <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`_
-
-         .. container:: card-body
+    ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`_
 
             The TYPO3 Scheduler lets you register tasks to happen at a specific time.
 
-            `typo3/cms-scheduler <https://packagist.org/packages/typo3/cms-scheduler>`__
+            Composer name: :composer:`typo3/cms-scheduler`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-scheduler/dev:Index>`
+            :doc:`12.4 <typo3/cms-scheduler:Index>`
+            :doc:`11.5 <typo3/cms-scheduler/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-scheduler/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-scheduler/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `SEO <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`_
-
-         .. container:: card-body
+    ..  card:: :doc:`SEO <typo3/cms-seo:Index>`
 
             SEO features including specific fields for SEO purposes, rendering of HTML meta tags and sitemaps.
 
-            `typo3/cms-seo <https://packagist.org/packages/typo3/cms-seo>`__
+            Composer name: :composer:`typo3/cms-seo`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-seo/dev:Index>`
+            :doc:`12.4 <typo3/cms-seo:Index>`
+            :doc:`11.5 <typo3/cms-seo/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-seo/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-seo/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `System Notes <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`_
-
-         .. container:: card-body
+    ..  card:: :doc:`System Notes <typo3/cms-sys-note:Index>`
 
             The internal notes are a useful feature for adding context and notes to pages.
             It provides a way for users to document important information related to specific pages.
 
-            `typo3/cms-sys-note <https://packagist.org/packages/typo3/cms-sys-note>`__
+            Composer name: :composer:`typo3/cms-sys-note`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-sys-note/dev:Index>`
+            :doc:`12.4 <typo3/cms-sys-note:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-sys-note/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `T3Editor <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`T3Editor <typo3/cms-t3editor:Index>`
 
             This system extension provides a backend editor with syntax highlighting.
 
-            `typo3/cms-t3editor <https://packagist.org/packages/typo3/cms-t3editor>`__
+            Composer name: :composer:`typo3/cms-t3editor`
 
             This system extension was merged into EXT:backend with TYPO3 v13.0.
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-t3editor/dev:Index>`
+            :doc:`12.4 <typo3/cms-t3editor:Index>`
+            :doc:`11.5 <typo3/cms-t3editor/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ApiOverview/CodeEditor/Index.html>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-t3editor/11.5/en-us/>`__
-
-   .. container:: col-md-6 pl-0 pr-3 py-3 m-0
-
-      .. container:: card px-0 h-100
-
-         .. rst-class:: card-header h3
-
-            .. rubric:: `Workspaces and Versioning <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
-
-         .. container:: card-body
+    ..  card:: :doc:`Workspaces and Versioning <typo3/cms-workspaces:Index>`
 
             Adds workspaces functionality with custom stages to TYPO3.
 
-            `typo3/cms-workspaces <https://packagist.org/packages/typo3/cms-workspaces>`__
+            Composer name: :composer:`typo3/cms-workspaces`
 
-         .. container:: card-footer pb-0
+        ..  card-footer::
+            :button-styles: secondary
 
-            .. rst-class:: horizbuttons-striking-m
+            :doc:`13-dev <typo3/cms-workspaces/dev:Index>`
+            :doc:`12.4 <typo3/cms-workspaces:Index>`
+            :doc:`11.5 <typo3/cms-workspaces/oldstable:Index>`
 
-            - `13-dev <https://docs.typo3.org/c/typo3/cms-workspaces/main/en-us/>`__
-            - `12.4 <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>`__
-            - `11.5 <https://docs.typo3.org/c/typo3/cms-workspaces/11.5/en-us/>`__
-
+.. _System-Extensions-outdated:
 
 Documentation of system extensions abandoned from current Core version
 ======================================================================
 
-.. t3-field-list-table::
-   :header-rows: 1
+..  t3-field-list-table::
+    :header-rows: 1
 
-   - :Manual: Manual
-     :ExtKey: Extension key
-     :Versions: Versions
-     :Comment: Comment
+    -   :Manual: Manual
+        :Composer: Composer name
+        :Comment: Comment
 
-   - :Manual: `ADOdb <https://docs.typo3.org/p/friendsoftypo3/adodb/8.4/en-us/>`_
-     :ExtKey: adodb
-     :Versions: `8.4 <https://docs.typo3.org/p/friendsoftypo3/adodb/8.4/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/adodb/7.6/>`__
-     :Comment: Included until TYPO3 <= 7.6
+    -   :Manual: `ADOdb <https://docs.typo3.org/p/friendsoftypo3/adodb/8.4/en-us/>`_
+        :Composer: :composer:`friendsoftypo3/adodb`
+        :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `CSS Styled Content <https://docs.typo3.org/c/typo3/cms-css-styled-content/8.7/en-us/>`_
-     :ExtKey: css_styled_content
-     :Versions: `8.7 <https://docs.typo3.org/c/typo3/cms-css-styled-content/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/css_styled_content/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/css_styled_content/6.2/>`__
-     :Comment: Included until TYPO3 <= 8.7
+    -   :Manual: `CSS Styled Content <https://docs.typo3.org/c/typo3/cms-css-styled-content/8.7/en-us/>`_
+        :Composer: :composer:`typo3/cms-css-styled-content`
+        :Comment: Included until TYPO3 <= 8.7
 
-   - :Manual: `Database abstraction layer <https://docs.typo3.org/p/friendsoftypo3/dbal/8.4/en-us/>`_
-     :ExtKey: dbal
-     :Versions: `8.4 <https://docs.typo3.org/p/friendsoftypo3/dbal/8.4/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/dbal/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/dbal/6.2/>`__
-     :Comment: Included until TYPO3 <= 7.6
+    -   :Manual: `Database abstraction layer <https://docs.typo3.org/p/friendsoftypo3/dbal/8.4/en-us/>`_
+        :Composer: :composer:`friendsoftypo3/dbal`
+        :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `func <https://docs.typo3.org/typo3cms/extensions/func/stable/>`_
-     :ExtKey: func
-     :Versions:
-     :Comment: Was removed from Core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`__
+    -   :Manual: `func <https://docs.typo3.org/p/friendsoftypo3/cms-func/9.0/en-us/>`_
+        :Composer: :composer:`friendsoftypo3/cms-func`
+        :Comment: Was removed from Core in 9.0, see `Changelog <https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/9.0/Breaking-81787-DropEXTfunc.html>`
 
+    -   :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
+        :Composer: :composer:`friendsoftypo3/openid`
+        :Comment: Included until TYPO3 <= 6.2
 
-   - :Manual: `Openid <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`_
-     :ExtKey: openid
-     :Versions: `8.1 <https://docs.typo3.org/p/friendsoftypo3/openid/8.1/en-us/>`__ |
-                `8.0 <https://docs.typo3.org/p/friendsoftypo3/openid/8.0/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/p/friendsoftypo3/openid/7.6/en-us/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/openid/6.2/>`__
-     :Comment: Included until TYPO3 <= 6.2
+    -   :Manual: `RSA authentication <https://docs.typo3.org/c/typo3/cms-rsaauth/9.5/en-us/>`_
+        :Composer: :composer:`typo3/cms-rsaauth`
+        :Comment: Included until TYPO3 <= 9.5
 
-   - :Manual: `RSA authentication <https://docs.typo3.org/c/typo3/cms-rsaauth/9.5/en-us/>`_
-     :ExtKey: rsaauth
-     :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-rsaauth/9.5/en-us/>`__ |
-                `8.7 <https://docs.typo3.org/c/typo3/cms-rsaauth/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/rsaauth/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/rsaauth/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
+    -   :Manual: `htmlarea RTE <https://docs.typo3.org/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`_
+        :Composer: :composer:`friendsoftypo3/rtehtmlarea`
+        :Comment: Included until TYPO3 <= 7.6
 
-   - :Manual: `htmlarea RTE <https://docs.typo3.org/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`_
-     :ExtKey: rtehtmlarea
-     :Versions: `8.7 <https://docs.typo3.org/p/friendsoftypo3/rtehtmlarea/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/rtehtmlarea/6.2/>`__
-     :Comment: Included until TYPO3 <= 7.6
+    -   :Manual: `Salted user password hashes <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
+        :Composer: :composer:`typo3/cms-saltedpasswords`
+        :Comment: Merged into main Core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
 
-   - :Manual: `Salted user password hashes <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`_
-     :ExtKey: saltedpasswords
-     :Versions: `8.7 <https://docs.typo3.org/c/typo3/cms-saltedpasswords/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/saltedpasswords/6.2/>`__
-     :Comment: Merged into main Core extension since TYPO3 >=7.4. See `Core API <https://docs.typo3.org/typo3cms/CoreApiReference/ApiOverview/PasswordHashing/Index.html>`_
+    -   :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
+        :Composer: :composer:`typo3/cms-sys-action`
+        :Comment: Included until TYPO3 <= 9.5
 
-   - :Manual: `System Actions <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`_
-     :ExtKey: sys_action
-     :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-sys-action/9.5/en-us/>`__ |
-                `8.7 <https://docs.typo3.org/c/typo3/cms-sys-action/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/sys_action/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/sys_action/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
-
-   - :Manual: `Taskcenter <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`_
-     :ExtKey: taskcenter
-     :Versions: `9.5 <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`__ |
-                `8.7 <https://docs.typo3.org/c/typo3/cms-taskcenter/8.7/en-us/>`__ |
-                `7.6 <https://docs.typo3.org/typo3cms/extensions/taskcenter/7.6/>`__ |
-                `6.2 <https://docs.typo3.org/typo3cms/extensions/taskcenter/6.2/>`__
-     :Comment: Included until TYPO3 <= 9.5
+    -   :Manual: `Taskcenter <https://docs.typo3.org/c/typo3/cms-taskcenter/9.5/en-us/>`_
+        :Composer: :composer:`typo3/cms-taskcenter`
+        :Comment: Included until TYPO3 <= 9.5
