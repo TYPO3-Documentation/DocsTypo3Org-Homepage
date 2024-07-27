@@ -117,7 +117,7 @@ part of the Core and extracted at some point in time.
 
             Form Library, Plugin and Editor.
 
-            Composer name: :composer:`typo3/cms-form:Index>`
+            Composer name: :composer:`typo3/cms-form`
 
         ..  card-footer::
             :button-styles: secondary

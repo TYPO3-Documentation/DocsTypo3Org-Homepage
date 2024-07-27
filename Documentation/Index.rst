@@ -14,9 +14,9 @@ PHP.
 
 .. rst-class:: horizbuttons-primary-m
 
-*  :ref:`getting-started`
-*  :ref:`references`
-*  :ref:`extensions`
+*   :ref:`getting-started`
+*   :ref:`references`
+*   :ref:`extensions`
 
 ..  include:: Home/_OverviewInclude.rst.txt
 
