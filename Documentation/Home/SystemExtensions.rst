@@ -61,10 +61,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Admin Panel <typo3/cms-adminpanel:Index>`
 
-            The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching,
-            Preview...).
+        The TYPO3 admin panel provides a panel with additional functionality in the frontend (Debugging, Caching,
+        Preview...).
 
-            Composer name: :composer:`typo3/cms-adminpanel`
+        Composer name: :composer:`typo3/cms-adminpanel`
 
         ..  card-footer::
             :button-styles: secondary
@@ -75,9 +75,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Dashboard <typo3/cms-dashboard:Index>`
 
-            A Dashboard for the TYPO3 backend.
+        A Dashboard for the TYPO3 backend.
 
-            Composer name: :composer:`typo3/cms-dashboard`
+        Composer name: :composer:`typo3/cms-dashboard`
 
         ..  card-footer::
             :button-styles: secondary
@@ -88,9 +88,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Frontend Login <typo3/cms-felogin:Index>`
 
-            Frontend login based on frontend users and user groups
+        Frontend login based on frontend users and user groups
 
-            Composer name: :composer:`typo3/cms-felogin`
+        Composer name: :composer:`typo3/cms-felogin`
 
         ..  card-footer::
             :button-styles: secondary
@@ -102,9 +102,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Fluid Styled Content <typo3/cms-fluid-styled-content:Index>`
 
-            Content Elements based on Fluid.
+        Content Elements based on Fluid.
 
-            Composer name: :composer:`typo3/cms-fluid-styled-content`
+        Composer name: :composer:`typo3/cms-fluid-styled-content`
 
         ..  card-footer::
             :button-styles: secondary
@@ -115,9 +115,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Form framework <typo3/cms-form:Index>`
 
-            Form Library, Plugin and Editor.
+        Form Library, Plugin and Editor.
 
-            Composer name: :composer:`typo3/cms-form`
+        Composer name: :composer:`typo3/cms-form`
 
         ..  card-footer::
             :button-styles: secondary
@@ -128,10 +128,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Indexed Search <typo3/cms-indexed-search:Index>`
 
-            Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module
-            for statistics of the indexer and a frontend plugin.
+        Indexed Search Engine for TYPO3 pages, PDF-files, Word-files, HTML and text files. Provides a backend module
+        for statistics of the indexer and a frontend plugin.
 
-            Composer name: :composer:`typo3/cms-indexed-search`
+        Composer name: :composer:`typo3/cms-indexed-search`
 
         ..  card-footer::
             :button-styles: secondary
@@ -142,10 +142,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Import / Export <typo3/cms-impexp:Index>`
 
-            Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other
-            TYPO3 systems.
+        Import and Export of records from TYPO3 in a custom serialized format (.T3D) for data exchange with other
+        TYPO3 systems.
 
-            Composer name: :composer:`typo3/cms-impexp`
+        Composer name: :composer:`typo3/cms-impexp`
 
         ..  card-footer::
             :button-styles: secondary
@@ -156,9 +156,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Link Validator <typo3/cms-linkvalidator:Index>`
 
-            The Link Validator checks the links in your website for validity.
+        The Link Validator checks the links in your website for validity.
 
-            Composer name: :composer:`typo3/cms-linkvalidator`
+        Composer name: :composer:`typo3/cms-linkvalidator`
 
         ..  card-footer::
             :button-styles: secondary
@@ -169,10 +169,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Lowlevel <typo3/cms-lowlevel:Index>`
 
-            Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw
-            database search, checking relations, counting pages and records etc.
+        Enables the 'Config' and 'DB Check' modules for technical analysis of the system. This includes raw
+        database search, checking relations, counting pages and records etc.
 
-            Composer name: :composer:`typo3/cms-lowlevel`
+        Composer name: :composer:`typo3/cms-lowlevel`
 
         ..  card-footer::
             :button-styles: secondary
@@ -183,9 +183,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Reactions <typo3/cms-reactions:Index>`
 
-            This extension handles incoming webhooks to TYPO3.
+        This extension handles incoming webhooks to TYPO3.
 
-            Composer name: :composer:`typo3/cms-reactions`
+        Composer name: :composer:`typo3/cms-reactions`
 
         ..  card-footer::
             :button-styles: secondary
@@ -195,9 +195,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Recycler <typo3/cms-recycler:Index>`
 
-            The recycler offers the possibility to restore deleted records or remove them from the database permanently.
+        The recycler offers the possibility to restore deleted records or remove them from the database permanently.
 
-            Composer name: :composer:`typo3/cms-recycler`
+        Composer name: :composer:`typo3/cms-recycler`
 
         ..  card-footer::
             :button-styles: secondary
@@ -208,9 +208,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Redirects <typo3/cms-redirects:Index>`
 
-            Create manual redirects, list existing redirects and automatically create\nredirects on slug changes.
+        Create manual redirects, list existing redirects and automatically create\nredirects on slug changes.
 
-            Composer name: :composer:`typo3/cms-redirects`
+        Composer name: :composer:`typo3/cms-redirects`
 
         ..  card-footer::
             :button-styles: secondary
@@ -221,10 +221,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Reports <typo3/cms-reports:Index>`
 
-            This extension shows status reports and installed services in the
-            :guilabel:`System > Reports` backend module.
+        This extension shows status reports and installed services in the
+        :guilabel:`System > Reports` backend module.
 
-            Composer name: :composer:`typo3/cms-reports`
+        Composer name: :composer:`typo3/cms-reports`
 
         ..  card-footer::
             :button-styles: secondary
@@ -234,9 +234,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`CKEditor <typo3/cms-rte-ckeditor:Index>`
 
-            Integration of CKEditor as a Rich Text Editor for the TYPO3 backend.
+        Integration of CKEditor as a Rich Text Editor for the TYPO3 backend.
 
-            Composer name: :composer:`typo3/cms-rte-ckeditor`
+        Composer name: :composer:`typo3/cms-rte-ckeditor`
 
         ..  card-footer::
             :button-styles: secondary
@@ -247,9 +247,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`_
 
-            The TYPO3 Scheduler lets you register tasks to happen at a specific time.
+        The TYPO3 Scheduler lets you register tasks to happen at a specific time.
 
-            Composer name: :composer:`typo3/cms-scheduler`
+        Composer name: :composer:`typo3/cms-scheduler`
 
         ..  card-footer::
             :button-styles: secondary
@@ -260,9 +260,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`SEO <typo3/cms-seo:Index>`
 
-            SEO features including specific fields for SEO purposes, rendering of HTML meta tags and sitemaps.
+        SEO features including specific fields for SEO purposes, rendering of HTML meta tags and sitemaps.
 
-            Composer name: :composer:`typo3/cms-seo`
+        Composer name: :composer:`typo3/cms-seo`
 
         ..  card-footer::
             :button-styles: secondary
@@ -273,10 +273,10 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`System Notes <typo3/cms-sys-note:Index>`
 
-            The internal notes are a useful feature for adding context and notes to pages.
-            It provides a way for users to document important information related to specific pages.
+        The internal notes are a useful feature for adding context and notes to pages.
+        It provides a way for users to document important information related to specific pages.
 
-            Composer name: :composer:`typo3/cms-sys-note`
+        Composer name: :composer:`typo3/cms-sys-note`
 
         ..  card-footer::
             :button-styles: secondary
@@ -286,11 +286,11 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`T3Editor <typo3/cms-t3editor:Index>`
 
-            This system extension provides a backend editor with syntax highlighting.
+        This system extension provides a backend editor with syntax highlighting.
 
-            Composer name: :composer:`typo3/cms-t3editor`
+        Composer name: :composer:`typo3/cms-t3editor`
 
-            This system extension was merged into EXT:backend with TYPO3 v13.0.
+        This system extension was merged into EXT:backend with TYPO3 v13.0.
 
         ..  card-footer::
             :button-styles: secondary
@@ -301,9 +301,9 @@ part of the Core and extracted at some point in time.
 
     ..  card:: :doc:`Workspaces and Versioning <typo3/cms-workspaces:Index>`
 
-            Adds workspaces functionality with custom stages to TYPO3.
+        Adds workspaces functionality with custom stages to TYPO3.
 
-            Composer name: :composer:`typo3/cms-workspaces`
+        Composer name: :composer:`typo3/cms-workspaces`
 
         ..  card-footer::
             :button-styles: secondary
