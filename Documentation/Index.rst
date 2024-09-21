@@ -31,6 +31,7 @@ PHP.
     Home/ExtensionManuals
     Home/References
     Home/Contribute
+    Home/Overview
 
 
 Support is available via StackOverflow and Slack. Visit the `help page
