@@ -21,8 +21,7 @@ own documentation; the functionality is documented in
 ..  toctree::
     :hidden:
 
-    aditor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
-    workminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
+    adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
     dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
     felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
     fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
@@ -39,7 +38,8 @@ own documentation; the functionality is documented in
     scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
     seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
     sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
-    t3edspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
+    t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
+    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
 
 Documentation of system extensions in current Core version
 ==========================================================
