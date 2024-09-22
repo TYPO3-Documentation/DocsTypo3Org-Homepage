@@ -25,4 +25,8 @@
     <inventory id="t3fal" url="https://docs.typo3.org/m/typo3/reference-fal/main/en-us/"/>
     <inventory id="t3inside" url="https://docs.typo3.org/m/typo3/reference-inside/main/en-us/"/>
     <inventory id="t3services" url="https://docs.typo3.org/m/typo3/reference-services/main/en-us/"/>
+    <output-format>html</output-format>
+    <output-format>singlepage</output-format>
+    <output-format>interlink</output-format>
+    <output-format>mainmenujson</output-format>
 </guides>
