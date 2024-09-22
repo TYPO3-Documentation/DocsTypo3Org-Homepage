@@ -10,8 +10,6 @@ on:
 
 
 jobs:
-
-
   some-context-vars:
     runs-on: ubuntu-latest
     steps:
@@ -59,7 +57,8 @@ jobs:
         mode: ['online']
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: Prepare jobfile
         run: |
           mkdir -p Documentation-GENERATED-temp
@@ -69,13 +68,16 @@ jobs:
           if [[ "${{ matrix.mode }}" = "online" ]]; then
             echo '{"Overrides_cfg":{"html_theme_options":{"docstypo3org":"nonempty"}}}' > Documentation-GENERATED-temp/jobfile.json
           fi
+
       - name: docker run
         run: |
           docker run --rm --pull always -v $(pwd):/project ghcr.io/typo3-documentation/render-guides:latest --config=Documentation
+
       - name: Verify rendering result
         run: stat Documentation-GENERATED-temp/index.html || stat Documentation-GENERATED-temp/Index.html
+
       - name: Upload
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
           name: Rendering of ${{ github.event.repository.name }} (mode ${{ matrix.mode }})
           path: ./Documentation-GENERATED-temp/
