@@ -10,6 +10,7 @@
                edit-on-github-branch="main" edit-on-github="TYPO3-Documentation/DocsTypo3Org-Homepage"
                typo3-core-preferred="stable"
                interlink-shortcode="t3docs"
+               disable-version-switch="true"
     />
     <project title="Homepage of docs.typo3.org"
              release="2.0"
