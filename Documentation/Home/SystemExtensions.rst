@@ -245,7 +245,7 @@ part of the Core and extracted at some point in time.
             :doc:`12.4 <typo3/cms-rte-ckeditor:Index>`
             :doc:`11.5 <typo3/cms-rte-ckeditor/oldstable:Index>`
 
-    ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`_
+    ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`
 
         The TYPO3 Scheduler lets you register tasks to happen at a specific time.
 
