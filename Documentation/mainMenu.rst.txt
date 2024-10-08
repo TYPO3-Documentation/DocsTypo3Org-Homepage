@@ -76,13 +76,7 @@
     *   :ref:`Content and Marketing Guide <t3content:start>`
     *   :ref:`Language and Writing Guide <t3writing:start>`
 
-*   :ref:`System Extensions <t3docs:System-Extensions>`
-
-    *   :doc:`t3editor <typo3/cms-t3editor:Index>`
-
-        *   :doc:`main <typo3/cms-t3editor/main:Index>`
-        *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
-        *   :doc:`11.5 <typo3/cms-t3editor/11:Index>`
+*   :ref:`System Extensions A-Q <t3docs:System-Extensions>`
 
     *   :doc:`adminpanel <typo3/cms-adminpanel:Index>`
 
@@ -138,6 +132,8 @@
         *   :doc:`12.4 <typo3/cms-lowlevel/12:Index>`
         *   :doc:`11.5 <typo3/cms-lowlevel/11:Index>`
 
+*   :ref:`System Extensions R-Z <t3docs:System-Extensions>`
+
     *   :doc:`reactions <typo3/cms-reactions:Index>`
 
         *   :doc:`main <typo3/cms-reactions/main:Index>`
@@ -182,6 +178,12 @@
 
         *   :doc:`main <typo3/cms-sys-note/main:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
+
+    *   :doc:`t3editor <typo3/cms-t3editor:Index>`
+
+        *   :doc:`main <typo3/cms-t3editor/main:Index>`
+        *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
+        *   :doc:`11.5 <typo3/cms-t3editor/11:Index>`
 
     *   :doc:`workspaces <typo3/cms-workspaces:Index>`
 
