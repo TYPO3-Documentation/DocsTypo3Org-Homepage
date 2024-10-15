@@ -21,25 +21,25 @@ own documentation; the functionality is documented in
 ..  toctree::
     :hidden:
 
-    adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/>
-    dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/>
-    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/>
-    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/>
-    form                 <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
-    impexp               <https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/>
-    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/>
-    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/>
-    lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/>
-    reactions            <https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/>
-    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/>
-    redirects            <https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/>
-    reports              <https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/>
-    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/>
-    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/>
-    seo                  <https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/>
-    sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/>
-    t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/>
-    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/>
+    adminpanel           <https://docs.typo3.org/c/typo3/cms-adminpanel/13.4/en-us/>
+    dashboard            <https://docs.typo3.org/c/typo3/cms-dashboard/13.4/en-us/>
+    felogin              <https://docs.typo3.org/c/typo3/cms-felogin/13.4/en-us/>
+    fluid_styled_content <https://docs.typo3.org/c/typo3/cms-fluid-styled-content/13.4/en-us/>
+    form                 <https://docs.typo3.org/c/typo3/cms-form/13.4/en-us/>
+    impexp               <https://docs.typo3.org/c/typo3/cms-impexp/13.4/en-us/>
+    indexed_search       <https://docs.typo3.org/c/typo3/cms-indexed-search/13.4/en-us/>
+    linkvalidator        <https://docs.typo3.org/c/typo3/cms-linkvalidator/13.4/en-us/>
+    lowlevel             <https://docs.typo3.org/c/typo3/cms-lowlevel/13.4/en-us/>
+    reactions            <https://docs.typo3.org/c/typo3/cms-reactions/13.4/en-us/>
+    recycler             <https://docs.typo3.org/c/typo3/cms-recycler/13.4/en-us/>
+    redirects            <https://docs.typo3.org/c/typo3/cms-redirects/13.4/en-us/>
+    reports              <https://docs.typo3.org/c/typo3/cms-reports/13.4/en-us/>
+    rte_ckeditor         <https://docs.typo3.org/c/typo3/cms-rte-ckeditor/13.4/en-us/>
+    scheduler            <https://docs.typo3.org/c/typo3/cms-scheduler/13.4/en-us/>
+    seo                  <https://docs.typo3.org/c/typo3/cms-seo/13.4/en-us/>
+    sys_note             <https://docs.typo3.org/c/typo3/cms-sys-note/13.4/en-us/>
+    t3editor             <https://docs.typo3.org/c/typo3/cms-t3editor/13.4/en-us/>
+    workspaces           <https://docs.typo3.org/c/typo3/cms-workspaces/13.4/en-us/>
 
 Documentation of system extensions in current Core version
 ==========================================================
@@ -69,9 +69,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-adminpanel/dev:Index>`
-            :doc:`12.4 <typo3/cms-adminpanel:Index>`
-            :doc:`11.5 <typo3/cms-adminpanel/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-adminpanel/dev:Index>`
+            :doc:`13.4 <typo3/cms-adminpanel:Index>`
+            :doc:`12.4 <typo3/cms-adminpanel/oldstable:Index>`
 
     ..  card:: :doc:`Dashboard <typo3/cms-dashboard:Index>`
 
@@ -82,9 +82,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-dashboard/dev:Index>`
-            :doc:`12.4 <typo3/cms-dashboard:Index>`
-            :doc:`11.5 <typo3/cms-dashboard/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-dashboard/dev:Index>`
+            :doc:`13.4 <typo3/cms-dashboard:Index>`
+            :doc:`12.4 <typo3/cms-dashboard/oldstable:Index>`
 
     ..  card:: :doc:`Frontend Login <typo3/cms-felogin:Index>`
 
@@ -95,9 +95,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-felogin/dev:Index>`
-            :doc:`12.4 <typo3/cms-felogin:Index>`
-            :doc:`11.5 <typo3/cms-felogin/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-felogin/dev:Index>`
+            :doc:`13.4 <typo3/cms-felogin:Index>`
+            :doc:`12.4 <typo3/cms-felogin/oldstable:Index>`
 
 
     ..  card:: :doc:`Fluid Styled Content <typo3/cms-fluid-styled-content:Index>`
@@ -109,9 +109,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-fluid-styled-content/dev:Index>`
-            :doc:`12.4 <typo3/cms-fluid-styled-content:Index>`
-            :doc:`11.5 <typo3/cms-fluid-styled-content/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-fluid-styled-content/dev:Index>`
+            :doc:`13.4 <typo3/cms-fluid-styled-content:Index>`
+            :doc:`12.4 <typo3/cms-fluid-styled-content/oldstable:Index>`
 
     ..  card:: :doc:`Form framework <typo3/cms-form:Index>`
 
@@ -122,9 +122,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-form/dev:Index>`
-            :doc:`12.4 <typo3/cms-form:Index>`
-            :doc:`11.5 <typo3/cms-form/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-form/dev:Index>`
+            :doc:`13.4 <typo3/cms-form:Index>`
+            :doc:`12.4 <typo3/cms-form/oldstable:Index>`
 
     ..  card:: :doc:`Indexed Search <typo3/cms-indexed-search:Index>`
 
@@ -136,9 +136,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-indexed-search/dev:Index>`
-            :doc:`12.4 <typo3/cms-indexed-search:Index>`
-            :doc:`11.5 <typo3/cms-indexed-search/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-indexed-search/dev:Index>`
+            :doc:`13.4 <typo3/cms-indexed-search:Index>`
+            :doc:`12.4 <typo3/cms-indexed-search/oldstable:Index>`
 
     ..  card:: :doc:`Import / Export <typo3/cms-impexp:Index>`
 
@@ -150,9 +150,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-impexp/dev:Index>`
-            :doc:`12.4 <typo3/cms-impexp:Index>`
-            :doc:`11.5 <typo3/cms-impexp/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-impexp/dev:Index>`
+            :doc:`13.4 <typo3/cms-impexp:Index>`
+            :doc:`12.4 <typo3/cms-impexp/oldstable:Index>`
 
     ..  card:: :doc:`Link Validator <typo3/cms-linkvalidator:Index>`
 
@@ -163,9 +163,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-linkvalidator/dev:Index>`
-            :doc:`12.4 <typo3/cms-linkvalidator:Index>`
-            :doc:`11.5 <typo3/cms-linkvalidator/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-linkvalidator/dev:Index>`
+            :doc:`13.4 <typo3/cms-linkvalidator:Index>`
+            :doc:`12.4 <typo3/cms-linkvalidator/oldstable:Index>`
 
     ..  card:: :doc:`Lowlevel <typo3/cms-lowlevel:Index>`
 
@@ -177,9 +177,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-lowlevel/dev:Index>`
-            :doc:`12.4 <typo3/cms-lowlevel:Index>`
-            :doc:`11.5 <typo3/cms-lowlevel/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-lowlevel/dev:Index>`
+            :doc:`13.4 <typo3/cms-lowlevel:Index>`
+            :doc:`12.4 <typo3/cms-lowlevel/oldstable:Index>`
 
     ..  card:: :doc:`Reactions <typo3/cms-reactions:Index>`
 
@@ -190,8 +190,8 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-reactions/dev:Index>`
-            :doc:`12.4 <typo3/cms-reactions:Index>`
+            :doc:`14-dev <typo3/cms-reactions/dev:Index>`
+            :doc:`13.4 <typo3/cms-reactions:Index>`
 
     ..  card:: :doc:`Recycler <typo3/cms-recycler:Index>`
 
@@ -202,9 +202,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-recycler/dev:Index>`
-            :doc:`12.4 <typo3/cms-recycler:Index>`
-            :doc:`11.5 <typo3/cms-recycler/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-recycler/dev:Index>`
+            :doc:`13.4 <typo3/cms-recycler:Index>`
+            :doc:`12.4 <typo3/cms-recycler/oldstable:Index>`
 
     ..  card:: :doc:`Redirects <typo3/cms-redirects:Index>`
 
@@ -215,9 +215,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-redirects/dev:Index>`
-            :doc:`12.4 <typo3/cms-redirects:Index>`
-            :doc:`11.5 <typo3/cms-redirects/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-redirects/dev:Index>`
+            :doc:`13.4 <typo3/cms-redirects:Index>`
+            :doc:`12.4 <typo3/cms-redirects/oldstable:Index>`
 
     ..  card:: :doc:`Reports <typo3/cms-reports:Index>`
 
@@ -229,8 +229,8 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-reports/dev:Index>`
-            :doc:`12.4 <typo3/cms-reports:Index>`
+            :doc:`14-dev <typo3/cms-reports/dev:Index>`
+            :doc:`13.4 <typo3/cms-reports:Index>`
 
     ..  card:: :doc:`CKEditor <typo3/cms-rte-ckeditor:Index>`
 
@@ -241,9 +241,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-rte-ckeditor/dev:Index>`
-            :doc:`12.4 <typo3/cms-rte-ckeditor:Index>`
-            :doc:`11.5 <typo3/cms-rte-ckeditor/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-rte-ckeditor/dev:Index>`
+            :doc:`13.4 <typo3/cms-rte-ckeditor:Index>`
+            :doc:`12.4 <typo3/cms-rte-ckeditor/oldstable:Index>`
 
     ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`
 
@@ -254,9 +254,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-scheduler/dev:Index>`
-            :doc:`12.4 <typo3/cms-scheduler:Index>`
-            :doc:`11.5 <typo3/cms-scheduler/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-scheduler/dev:Index>`
+            :doc:`13.4 <typo3/cms-scheduler:Index>`
+            :doc:`12.4 <typo3/cms-scheduler/oldstable:Index>`
 
     ..  card:: :doc:`SEO <typo3/cms-seo:Index>`
 
@@ -267,9 +267,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-seo/dev:Index>`
-            :doc:`12.4 <typo3/cms-seo:Index>`
-            :doc:`11.5 <typo3/cms-seo/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-seo/dev:Index>`
+            :doc:`13.4 <typo3/cms-seo:Index>`
+            :doc:`12.4 <typo3/cms-seo/oldstable:Index>`
 
     ..  card:: :doc:`System Notes <typo3/cms-sys-note:Index>`
 
@@ -281,8 +281,8 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-sys-note/dev:Index>`
-            :doc:`12.4 <typo3/cms-sys-note:Index>`
+            :doc:`14-dev <typo3/cms-sys-note/dev:Index>`
+            :doc:`13.4 <typo3/cms-sys-note:Index>`
 
     ..  card:: :doc:`T3Editor <typo3/cms-t3editor:Index>`
 
@@ -295,9 +295,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-t3editor/dev:Index>`
-            :doc:`12.4 <typo3/cms-t3editor:Index>`
-            :doc:`11.5 <typo3/cms-t3editor/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-t3editor/dev:Index>`
+            :doc:`13.4 <typo3/cms-t3editor:Index>`
+            :doc:`12.4 <typo3/cms-t3editor/oldstable:Index>`
 
     ..  card:: :doc:`Workspaces and Versioning <typo3/cms-workspaces:Index>`
 
@@ -308,9 +308,9 @@ part of the Core and extracted at some point in time.
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-workspaces/dev:Index>`
-            :doc:`12.4 <typo3/cms-workspaces:Index>`
-            :doc:`11.5 <typo3/cms-workspaces/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-workspaces/dev:Index>`
+            :doc:`13.4 <typo3/cms-workspaces:Index>`
+            :doc:`12.4 <typo3/cms-workspaces/oldstable:Index>`
 
 .. _System-Extensions-outdated:
 

@@ -20,24 +20,16 @@ just by browsing through the various classes and methods.
 
     ..  card:: `TYPO3 13-dev API <https://api.typo3.org/main/>`__
 
-        Automatically generated API from the 
+        Automatically generated API from the
         `13-dev (main) <https://github.com/typo3/typo3>`__ branch of TYPO3.
 
-        ..  card-footer:: `API <https://api.typo3.org/main/>`__ `GitHub <https://github.com/typo3/typo3>`__ :ref:`Docs <t3coreapimain:start>`
+        ..  card-footer:: `API <https://api.typo3.org/main/>`__ `GitHub <https://github.com/typo3/typo3>`__ :ref:`Docs <t3coreapi/main:start>`
             :button-style: btn btn-light
 
     ..  card:: `TYPO3 12.4 API <https://api.typo3.org/12.4/>`__
 
-        Automatically generated API from the 
+        Automatically generated API from the
         `12.4 (current stable) <https://github.com/typo3/typo3/tree/12.4>`__ branch of TYPO3.
 
-        ..  card-footer:: `API <https://api.typo3.org/12.4/>`__ `GitHub <https://github.com/typo3/typo3/tree/12.4>`__ :ref:`Docs <t3coreapi12:start>`
-            :button-style: btn btn-light
-
-    ..  card:: `TYPO3 11.5 API <https://api.typo3.org/11.5/>`__
-
-        Automatically generated API from the 
-        `11.5 (old stable) <https://github.com/typo3/typo3/tree/11.5>`__ branch of TYPO3.
-
-        ..  card-footer:: `API <https://api.typo3.org/main/>`__ `GitHub <https://github.com/typo3/typo3/tree/11.5>`__ :ref:`Docs <t3coreapi11:start>`
+        ..  card-footer:: `API <https://api.typo3.org/12.4/>`__ `GitHub <https://github.com/typo3/typo3/tree/12.4>`__ :ref:`Docs <t3coreapi/12:start>`
             :button-style: btn btn-light

@@ -17,8 +17,6 @@
              version="2.0"
              copyright="since 2014 by the TYPO3 contributors"/>
     <inventory id="t3coreapimain" url="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/"/>
-    <inventory id="t3coreapi12" url="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/"/>
-    <inventory id="t3coreapi11" url="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/"/>
     <inventory id="t3l10n" url="https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/"/>
     <inventory id="t3upgrade" url="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/"/>
     <inventory id="ext_core" url="https://docs.typo3.org/c/typo3/cms-core/main/en-us/"/>

@@ -21,7 +21,7 @@ Getting Started with TYPO3
         *  :ref:`Installation Guide <t3start:installation_index>` details
            the entire installation process.
 
-        *  :ref:`Setup Guide <t3start:setup>` guides you through the next steps
+        *  :ref:`Setup Guide <t3start:first-project-setup>` guides you through the next steps
            post installation.
 
     ..  card:: :ref:`Creating & Managing Content <creatingmanagingcontent>`
@@ -33,7 +33,6 @@ Getting Started with TYPO3
 
         *  :ref:`Localization Guide <t3l10n:start>` covers everything needed to add additional languages to a
            TYPO3 site, and how to translate content and pages.
-
 
     ..  card:: :ref:`Templating & Sitepackages <templating>`
 

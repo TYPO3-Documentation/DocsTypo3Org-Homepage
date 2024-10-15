@@ -21,9 +21,9 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:start>`
-            :ref:`12.4 <t3coreapi:start>`
-            :ref:`11.5 <t3coreapi/oldstable:start>`
+            :ref:`14-dev <t3coreapi/dev:start>`
+            :ref:`13.4 <t3coreapi:start>`
+            :ref:`12.4 <t3coreapi/oldstable:start>`
 
 
     ..  card:: :doc:`Changelog <changelog:Index>`
@@ -33,7 +33,7 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <changelog:Changelog-13>`
+            :doc:`14-dev <changelog:Changelog-13>`
             :doc:`v12 <changelog:Changelog-12>`
             :doc:`v11 <changelog/oldstable:Changelog-11>`
 
@@ -46,9 +46,9 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3tca/dev:start>`
-            :ref:`12.4 <t3tca:start>`
-            :ref:`11.5 <t3tca/oldstable:start>`
+            :ref:`14-dev <t3tca/dev:start>`
+            :ref:`13.4 <t3tca:start>`
+            :ref:`12.4 <t3tca/oldstable:start>`
 
 
     ..  card:: :ref:`t3tsconfig:start`
@@ -59,9 +59,9 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3tsconfig/dev:start>`
-            :ref:`12.4 <t3tsconfig:start>`
-            :ref:`11.5 <t3tsconfig/oldstable:start>`
+            :ref:`14-dev <t3tsconfig/dev:start>`
+            :ref:`13.4 <t3tsconfig:start>`
+            :ref:`12.4 <t3tsconfig/oldstable:start>`
 
 
     ..  card:: :ref:`t3tsref:start`
@@ -72,9 +72,9 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3tsref/dev:start>`
-            :ref:`12.4 <t3tsref:start>`
-            :ref:`11.5 <t3tsref/oldstable:start>`
+            :ref:`14-dev <t3tsref/dev:start>`
+            :ref:`13.4 <t3tsref:start>`
+            :ref:`12.4 <t3tsref/oldstable:start>`
 
     ..  card:: :ref:`t3viewhelper:start`
 
@@ -84,9 +84,9 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3viewhelper/dev:start>`
-            :ref:`12.4 <t3viewhelper:start>`
-            :ref:`11.5 <t3viewhelper/oldstable:start>`
+            :ref:`14-dev <t3viewhelper/dev:start>`
+            :ref:`13.4 <t3viewhelper:start>`
+            :ref:`12.4 <t3viewhelper/oldstable:start>`
 
 
 ..  tip::
@@ -99,9 +99,9 @@ Reference Manuals
 ..  toctree::
     :hidden:
 
-    TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/>
+    TYPO3 Explained   <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/>
     Changelog         <https://docs.typo3.org/c/typo3/cms-core/main/en-us/>
-    TCA               <https://docs.typo3.org/m/typo3/reference-tca/12.4/en-us/>
-    TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/12.4/en-us/>
-    TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/12.4/en-us/>
-    Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/12.4/en-us/>
+    TCA               <https://docs.typo3.org/m/typo3/reference-tca/13.4/en-us/>
+    TSconfig          <https://docs.typo3.org/m/typo3/reference-tsconfig/13.4/en-us/>
+    TypoScript        <https://docs.typo3.org/m/typo3/reference-typoscript/13.4/en-us/>
+    Fluid ViewHelpers <https://docs.typo3.org/other/typo3/view-helper-reference/13.4/en-us/>

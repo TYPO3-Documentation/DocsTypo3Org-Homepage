@@ -20,9 +20,9 @@ Creating & Managing Content
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3editors/dev:pages>`
-            :ref:`12.4 <t3editors:pages>`
-            :ref:`11.5 <t3editors/oldstable:pages>`
+            :ref:`14-dev <t3editors/dev:pages>`
+            :ref:`13.4 <t3editors/13:pages>`
+            :ref:`12.4 <t3editors/12:pages>`
 
     ..  card:: :ref:`Content <t3editors:content-elements>`
 
@@ -32,9 +32,9 @@ Creating & Managing Content
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3editors/dev:content-elements>`
-            :ref:`12.4 <t3editors:content-elements>`
-            :ref:`11.5 <t3editors/oldstable:content-elements>`
+            :ref:`14-dev <t3editors/dev:content-elements>`
+            :ref:`13.4 <t3editors/13:content-elements>`
+            :ref:`12.4 <t3editors/12:content-elements>`
 
     ..  card:: :doc:`Localizing Pages & Content <t3translate:Index>`
 
@@ -44,9 +44,9 @@ Creating & Managing Content
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <t3translate/dev:Index>`
-            :doc:`12.4 <t3translate:Index>`
-            :doc:`11.5 <t3translate/oldstable:Index>`
+            :doc:`14-dev <t3translate/dev:Index>`
+            :doc:`13.4 <t3translate/13:Index>`
+            :doc:`12.4 <t3translate/12:Index>`
 
     ..  card:: :doc:`Forms <typo3/cms-form:Index>`
 
@@ -56,9 +56,9 @@ Creating & Managing Content
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`13-dev <typo3/cms-form/dev:Index>`
-            :doc:`12.4 <typo3/cms-form:Index>`
-            :doc:`11.5 <typo3/cms-form/oldstable:Index>`
+            :doc:`14-dev <typo3/cms-form/dev:Index>`
+            :doc:`13.4 <typo3/cms-form/13:Index>`
+            :doc:`12.4 <typo3/cms-form/12:Index>`
 
     ..  card:: :ref:`Deep Linking <t3editors:deeplinking>`
 
@@ -68,16 +68,16 @@ Creating & Managing Content
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3editors/dev:deeplinking>`
-            :ref:`12.4 <t3editors:deeplinking>`
-            :ref:`11.5 <t3editors/oldstable:deeplinking>`
+            :ref:`14-dev <t3editors/dev:deeplinking>`
+            :ref:`13.4 <t3editors/13:deeplinking>`
+            :ref:`12.4 <t3editors/12:deeplinking>`
 
 
 ..  toctree::
     :hidden:
 
-    Pages <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html>
-    Content <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html>
-    Localization<https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/>
-    Forms <https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/>
-    Deep Linking <https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html>
+    Pages <https://docs.typo3.org/m/typo3/tutorial-editors/13.4/en-us/Pages/Index.html>
+    Content <https://docs.typo3.org/m/typo3/tutorial-editors/13.4/en-us/ContentElements/Index.html>
+    Localization<https://docs.typo3.org/m/typo3/guide-frontendlocalization/13.4/en-us/>
+    Forms <https://docs.typo3.org/c/typo3/cms-form/13.4/en-us/>
+    Deep Linking <https://docs.typo3.org/m/typo3/tutorial-editors/13.4/en-us/DeepLinking/Index.html>
