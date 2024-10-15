@@ -98,8 +98,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:migratecontent>`
-            :ref:`13.4 <t3upgrade:migratecontent>`
-            :ref:`12.4 <t3upgrade/oldstable:migratecontent>`
+            :ref:`13.4 <t3upgrade/13:migratecontent>`
+            :ref:`12.4 <t3upgrade/12:migratecontent>`
 
 
 ..  toctree::
