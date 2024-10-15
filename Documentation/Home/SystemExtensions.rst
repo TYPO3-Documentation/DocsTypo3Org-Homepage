@@ -70,8 +70,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-adminpanel/dev:Index>`
-            :doc:`13.4 <typo3/cms-adminpanel:Index>`
-            :doc:`12.4 <typo3/cms-adminpanel/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-adminpanel/13:Index>`
+            :doc:`12.4 <typo3/cms-adminpanel/12:Index>`
 
     ..  card:: :doc:`Dashboard <typo3/cms-dashboard:Index>`
 
@@ -83,8 +83,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-dashboard/dev:Index>`
-            :doc:`13.4 <typo3/cms-dashboard:Index>`
-            :doc:`12.4 <typo3/cms-dashboard/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-dashboard/13:Index>`
+            :doc:`12.4 <typo3/cms-dashboard/12:Index>`
 
     ..  card:: :doc:`Frontend Login <typo3/cms-felogin:Index>`
 
@@ -96,8 +96,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-felogin/dev:Index>`
-            :doc:`13.4 <typo3/cms-felogin:Index>`
-            :doc:`12.4 <typo3/cms-felogin/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-felogin/13:Index>`
+            :doc:`12.4 <typo3/cms-felogin/12:Index>`
 
 
     ..  card:: :doc:`Fluid Styled Content <typo3/cms-fluid-styled-content:Index>`
@@ -110,8 +110,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-fluid-styled-content/dev:Index>`
-            :doc:`13.4 <typo3/cms-fluid-styled-content:Index>`
-            :doc:`12.4 <typo3/cms-fluid-styled-content/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-fluid-styled-content/13:Index>`
+            :doc:`12.4 <typo3/cms-fluid-styled-content/12:Index>`
 
     ..  card:: :doc:`Form framework <typo3/cms-form:Index>`
 
@@ -123,8 +123,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-form/dev:Index>`
-            :doc:`13.4 <typo3/cms-form:Index>`
-            :doc:`12.4 <typo3/cms-form/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-form/13:Index>`
+            :doc:`12.4 <typo3/cms-form/12:Index>`
 
     ..  card:: :doc:`Indexed Search <typo3/cms-indexed-search:Index>`
 
@@ -137,8 +137,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-indexed-search/dev:Index>`
-            :doc:`13.4 <typo3/cms-indexed-search:Index>`
-            :doc:`12.4 <typo3/cms-indexed-search/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-indexed-search/13:Index>`
+            :doc:`12.4 <typo3/cms-indexed-search/12:Index>`
 
     ..  card:: :doc:`Import / Export <typo3/cms-impexp:Index>`
 
@@ -151,8 +151,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-impexp/dev:Index>`
-            :doc:`13.4 <typo3/cms-impexp:Index>`
-            :doc:`12.4 <typo3/cms-impexp/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-impexp/13:Index>`
+            :doc:`12.4 <typo3/cms-impexp/12:Index>`
 
     ..  card:: :doc:`Link Validator <typo3/cms-linkvalidator:Index>`
 
@@ -164,8 +164,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-linkvalidator/dev:Index>`
-            :doc:`13.4 <typo3/cms-linkvalidator:Index>`
-            :doc:`12.4 <typo3/cms-linkvalidator/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-linkvalidator/13:Index>`
+            :doc:`12.4 <typo3/cms-linkvalidator/12:Index>`
 
     ..  card:: :doc:`Lowlevel <typo3/cms-lowlevel:Index>`
 
@@ -178,8 +178,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-lowlevel/dev:Index>`
-            :doc:`13.4 <typo3/cms-lowlevel:Index>`
-            :doc:`12.4 <typo3/cms-lowlevel/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-lowlevel/13:Index>`
+            :doc:`12.4 <typo3/cms-lowlevel/12:Index>`
 
     ..  card:: :doc:`Reactions <typo3/cms-reactions:Index>`
 
@@ -191,7 +191,7 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-reactions/dev:Index>`
-            :doc:`13.4 <typo3/cms-reactions:Index>`
+            :doc:`13.4 <typo3/cms-reactions/13:Index>`
 
     ..  card:: :doc:`Recycler <typo3/cms-recycler:Index>`
 

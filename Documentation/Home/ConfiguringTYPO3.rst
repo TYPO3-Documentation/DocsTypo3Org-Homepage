@@ -48,7 +48,7 @@ Configuring TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3coreapi/main:sitehandling>`
-            :ref:`12.4 <t3coreapi/13:sitehandling>`
+            :ref:`13.4 <t3coreapi/13:sitehandling>`
             :ref:`12.4 <t3coreapi/12:sitehandling>`
 
 
@@ -61,7 +61,7 @@ Configuring TYPO3
 
             :ref:`14-dev <t3coreapi/dev:seo>`
             :ref:`13.4 <t3coreapi/13:seo>`
-            :ref:`13.4 <t3coreapi/12:seo>`
+            :ref:`12.4 <t3coreapi/12:seo>`
 
 
     ..  card:: :ref:`Security <t3coreapi:security>`

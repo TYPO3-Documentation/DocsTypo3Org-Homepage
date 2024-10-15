@@ -47,8 +47,8 @@ Reference Manuals
             :button-styles: secondary
 
             :ref:`14-dev <t3tca/dev:start>`
-            :ref:`13.4 <t3tca:start>`
-            :ref:`12.4 <t3tca/oldstable:start>`
+            :ref:`13.4 <t3tca/13:start>`
+            :ref:`12.4 <t3tca/12:start>`
 
 
     ..  card:: :ref:`t3tsconfig:start`
@@ -60,8 +60,8 @@ Reference Manuals
             :button-styles: secondary
 
             :ref:`14-dev <t3tsconfig/dev:start>`
-            :ref:`13.4 <t3tsconfig:start>`
-            :ref:`12.4 <t3tsconfig/oldstable:start>`
+            :ref:`13.4 <t3tsconfig/13:start>`
+            :ref:`12.4 <t3tsconfig/12:start>`
 
 
     ..  card:: :ref:`t3tsref:start`
@@ -73,8 +73,8 @@ Reference Manuals
             :button-styles: secondary
 
             :ref:`14-dev <t3tsref/dev:start>`
-            :ref:`13.4 <t3tsref:start>`
-            :ref:`12.4 <t3tsref/oldstable:start>`
+            :ref:`13.4 <t3tsref/13:start>`
+            :ref:`12.4 <t3tsref/12:start>`
 
     ..  card:: :ref:`t3viewhelper:start`
 
@@ -85,8 +85,8 @@ Reference Manuals
             :button-styles: secondary
 
             :ref:`14-dev <t3viewhelper/dev:start>`
-            :ref:`13.4 <t3viewhelper:start>`
-            :ref:`12.4 <t3viewhelper/oldstable:start>`
+            :ref:`13.4 <t3viewhelper/13:start>`
+            :ref:`12.4 <t3viewhelper/12:start>`
 
 
 ..  tip::
