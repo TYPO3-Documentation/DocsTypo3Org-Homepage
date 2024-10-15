@@ -282,7 +282,7 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-sys-note/dev:Index>`
-            :doc:`13.4 <typo3/cms-sys-note:Index>`
+            :doc:`13.4 <typo3/cms-sys-note/13:Index>`
 
     ..  card:: :doc:`T3Editor <typo3/cms-t3editor:Index>`
 
