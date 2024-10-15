@@ -21,9 +21,9 @@ Configuring TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:configuration>`
-            :ref:`12.4 <t3coreapi:configuration>`
-            :ref:`11.5 <t3coreapi/oldstable:configuration>`
+            :ref:`14-dev <t3coreapi/main:configuration>`
+            :ref:`13.4 <t3coreapi/13:configuration>`
+            :ref:`12.4 <t3coreapi/12:configuration>`
 
 
     ..  card:: :ref:`TypoScript in 45 Minutes <t3ts45:start>`
@@ -35,9 +35,9 @@ Configuring TYPO3
             :button-styles: secondary
 
 
-            :ref:`13-dev <t3ts45/dev:start>`
-            :ref:`12.4 <t3ts45:start>`
-            :ref:`11.5 <t3ts45/oldstable:start>`
+            :ref:`14-dev <t3ts45/main:start>`
+            :ref:`13.4 <t3ts45/13:start>`
+            :ref:`12.4 <t3ts45/12:start>`
 
 
     ..  card:: :ref:`Site Handling <t3coreapi:sitehandling>`
@@ -47,9 +47,9 @@ Configuring TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:sitehandling>`
-            :ref:`12.4 <t3coreapi:sitehandling>`
-            :ref:`11.5 <t3coreapi/oldstable:sitehandling>`
+            :ref:`14-dev <t3coreapi/main:sitehandling>`
+            :ref:`13.4 <t3coreapi/13:sitehandling>`
+            :ref:`12.4 <t3coreapi/12:sitehandling>`
 
 
     ..  card:: :ref:`SEO <t3coreapi:seo>`
@@ -59,9 +59,9 @@ Configuring TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:seo>`
-            :ref:`12.4 <t3coreapi:seo>`
-            :ref:`11.5 <t3coreapi/oldstable:seo>`
+            :ref:`14-dev <t3coreapi/dev:seo>`
+            :ref:`13.4 <t3coreapi/13:seo>`
+            :ref:`12.4 <t3coreapi/12:seo>`
 
 
     ..  card:: :ref:`Security <t3coreapi:security>`
@@ -73,9 +73,9 @@ Configuring TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:security>`
-            :ref:`12.4 <t3coreapi:security>`
-            :ref:`11.5 <t3coreapi/oldstable:security>`
+            :ref:`14-dev <t3coreapi/dev:security>`
+            :ref:`13.4 <t3coreapi/13:security>`
+            :ref:`12.4 <t3coreapi/12:security>`
 
 
     ..  card:: :ref:`RTE <t3coreapi:rte>`
@@ -86,16 +86,16 @@ Configuring TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:rte>`
-            :ref:`12.4 <t3coreapi:rte>`
-            :ref:`11.5 <t3coreapi/oldstable:rte>`
+            :ref:`14-dev <t3coreapi/dev:rte>`
+            :ref:`13.4 <t3coreapi/13:rte>`
+            :ref:`12.4 <t3coreapi/12:rte>`
 
 
 ..  toctree::
     :hidden:
 
-    Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Configuration/Index.html>
-    Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html>
-    SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html>
-    Security <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html>
-    RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html>
+    Configuration Overview <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/Configuration/Index.html>
+    Site Handling <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/ApiOverview/SiteHandling/Index.html>
+    SEO      <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/ApiOverview/Seo/Index.html>
+    Security <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/Security/Index.html>
+    RTE's    <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/ApiOverview/Rte/Index.html>

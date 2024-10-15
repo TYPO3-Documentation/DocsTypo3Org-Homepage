@@ -14,7 +14,7 @@ Upgrading TYPO3
 
     ..  card:: :ref:`Minor upgrades <t3upgrade:minor>`
 
-        Minor updates (for example 12.4.1 to 12.4.2)
+        Minor updates (for example 13.4.1 to 13.4.2)
         contain bugfixes and/or security updates.
         This chapter details how updates are installed and highlights what tasks need to
         be carried out before and after the core is updated.
@@ -22,13 +22,13 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:minor>`
-            :ref:`12.4 <t3upgrade:minor>`
-            :ref:`11.5 <t3upgrade/oldstable:minor>`
+            :ref:`14-dev <t3upgrade/dev:minor>`
+            :ref:`13.4 <t3upgrade/13:minor>`
+            :ref:`12.4 <t3upgrade/12:minor>`
 
     ..  card:: :ref:`Major upgrades <t3upgrade:major>`
 
-        Major updates (for example 11.5 to 12.4) can contain new features
+        Major updates (for example 12.4 to 13.4) can contain new features
         and breaking changes as well as bugfixes.
         This chapter details how updates are installed and highlights what tasks need to
         be carried out before and after the core is updated.
@@ -36,9 +36,9 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:major>`
-            :ref:`12.4 <t3upgrade:major>`
-            :ref:`11.5 <t3upgrade/oldstable:major>`
+            :ref:`14-dev <t3upgrade/dev:major>`
+            :ref:`13.4 <t3upgrade/13:major>`
+            :ref:`12.4 <t3upgrade/12:major>`
 
     ..  card:: :ref:`Upgrading extensions <t3upgrade:upgradingextensions>`
 
@@ -48,9 +48,9 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:upgradingextensions>`
-            :ref:`12.4 <t3upgrade:upgradingextensions>`
-            :ref:`11.5 <t3upgrade/oldstable:upgradingextensions>`
+            :ref:`14-dev <t3upgrade/dev:upgradingextensions>`
+            :ref:`13.4 <t3upgrade/13:upgradingextensions>`
+            :ref:`12.4 <t3upgrade/12:upgradingextensions>`
 
     ..  card:: :ref:`Third-party tools <t3upgrade:tools>`
 
@@ -60,9 +60,9 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:tools>`
-            :ref:`12.4 <t3upgrade:tools>`
-            :ref:`11.5 <t3upgrade/oldstable:tools>`
+            :ref:`14-dev <t3upgrade/dev:tools>`
+            :ref:`13.4 <t3upgrade/13:tools>`
+            :ref:`12.4 <t3upgrade/12:tools>`
 
 
     ..  card:: :ref:`Legacy upgrade guide <t3upgrade:legacy>`
@@ -73,9 +73,9 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:legacy>`
-            :ref:`12.4 <t3upgrade:legacy>`
-            :ref:`11.5 <t3upgrade/oldstable:legacy>`
+            :ref:`14-dev <t3upgrade/dev:legacy>`
+            :ref:`13.4 <t3upgrade/13:legacy>`
+            :ref:`12.4 <t3upgrade/12:legacy>`
 
     ..  card:: :ref:`Migrate a TYPO3 installation to Composer <t3upgrade:migratetocomposer>`
 
@@ -85,9 +85,9 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:migratetocomposer>`
-            :ref:`12.4 <t3upgrade:migratetocomposer>`
-            :ref:`11.5 <t3upgrade/oldstable:migratetocomposer>`
+            :ref:`14-dev <t3upgrade/dev:migratetocomposer>`
+            :ref:`13.4 <t3upgrade/13:migratetocomposer>`
+            :ref:`12.4 <t3upgrade/12:migratetocomposer>`
 
     ..  card:: :ref:`Migrate content <t3upgrade:migratecontent>`
 
@@ -97,18 +97,18 @@ Upgrading TYPO3
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3upgrade/dev:migratecontent>`
-            :ref:`12.4 <t3upgrade:migratecontent>`
-            :ref:`11.5 <t3upgrade/oldstable:migratecontent>`
+            :ref:`14-dev <t3upgrade/dev:migratecontent>`
+            :ref:`13.4 <t3upgrade/13:migratecontent>`
+            :ref:`12.4 <t3upgrade/12:migratecontent>`
 
 
 ..  toctree::
     :hidden:
 
-    Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html>
-    Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html>
-    Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions>
-    Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html>
-    Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html>
-    Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html>
-    Migrate content <https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html>
+    Minor upgrades <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/Minor/Index.html>
+    Major upgrades <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/Major/Index.html>
+    Upgrading extensions <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/UpgradingExtensions>
+    Third-party tools <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/Tools/Index.html>
+    Legacy upgrade <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/Legacy/Index.html>
+    Migrate to Composer <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/MigrateToComposer/Index.html>
+    Migrate content <https://docs.typo3.org/m/typo3/guide-installation/13.4/en-us/MigrateContent/Index.html>

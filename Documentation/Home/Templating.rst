@@ -22,9 +22,9 @@ Templating
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3coreapi/dev:fluid>`
-            :ref:`12.4 <t3coreapi:fluid>`
-            :ref:`11.5 <t3coreapi/oldstable:fluid>`
+            :ref:`14-dev <t3coreapi/dev:fluid>`
+            :ref:`13.4 <t3coreapi/13:fluid>`
+            :ref:`12.4 <t3coreapi/12:fluid>`
 
     ..  card:: :ref:`Sitepackages <t3sitepackage:start>`
 
@@ -34,12 +34,12 @@ Templating
         ..  card-footer::
             :button-styles: secondary
 
-            :ref:`13-dev <t3sitepackage/dev:start>`
-            :ref:`12.4 <t3sitepackage:start>`
-            :ref:`11.5 <t3sitepackage/oldstable:start>`
+            :ref:`14-dev <t3sitepackage/dev:start>`
+            :ref:`13.4 <t3sitepackage/13:start>`
+            :ref:`12.4 <t3sitepackage/12:start>`
 
 ..  toctree::
     :hidden:
 
-    Templating With Fluid <https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Fluid/Index.html>
-    Sitepackages <https://docs.typo3.org/m/typo3/tutorial-sitepackage/12.4/en-us/>
+    Templating With Fluid <https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/ApiOverview/Fluid/Index.html>
+    Sitepackages <https://docs.typo3.org/m/typo3/tutorial-sitepackage/13.4/en-us/>
