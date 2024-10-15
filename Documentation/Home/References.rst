@@ -22,8 +22,8 @@ Reference Manuals
             :button-styles: secondary
 
             :ref:`14-dev <t3coreapi/dev:start>`
-            :ref:`13.4 <t3coreapi:start>`
-            :ref:`12.4 <t3coreapi/oldstable:start>`
+            :ref:`13.4 <t3coreapi/13:start>`
+            :ref:`12.4 <t3coreapi/12:start>`
 
 
     ..  card:: :doc:`Changelog <changelog:Index>`

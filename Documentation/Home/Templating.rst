@@ -23,8 +23,8 @@ Templating
             :button-styles: secondary
 
             :ref:`14-dev <t3coreapi/dev:fluid>`
-            :ref:`13.4 <t3coreapi:fluid>`
-            :ref:`12.4 <t3coreapi/oldstable:fluid>`
+            :ref:`13.4 <t3coreapi/13:fluid>`
+            :ref:`12.4 <t3coreapi/12:fluid>`
 
     ..  card:: :ref:`Sitepackages <t3sitepackage:start>`
 
@@ -35,8 +35,8 @@ Templating
             :button-styles: secondary
 
             :ref:`14-dev <t3sitepackage/dev:start>`
-            :ref:`13.4 <t3sitepackage:start>`
-            :ref:`12.4 <t3sitepackage/oldstable:start>`
+            :ref:`13.4 <t3sitepackage/13:start>`
+            :ref:`12.4 <t3sitepackage/12:start>`
 
 ..  toctree::
     :hidden:

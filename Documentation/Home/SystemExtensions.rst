@@ -203,8 +203,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-recycler/dev:Index>`
-            :doc:`13.4 <typo3/cms-recycler:Index>`
-            :doc:`12.4 <typo3/cms-recycler/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-recycler/13:Index>`
+            :doc:`12.4 <typo3/cms-recycler/12:Index>`
 
     ..  card:: :doc:`Redirects <typo3/cms-redirects:Index>`
 
@@ -216,8 +216,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-redirects/dev:Index>`
-            :doc:`13.4 <typo3/cms-redirects:Index>`
-            :doc:`12.4 <typo3/cms-redirects/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-redirects/13:Index>`
+            :doc:`12.4 <typo3/cms-redirects/12:Index>`
 
     ..  card:: :doc:`Reports <typo3/cms-reports:Index>`
 
@@ -230,7 +230,7 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-reports/dev:Index>`
-            :doc:`13.4 <typo3/cms-reports:Index>`
+            :doc:`13.4 <typo3/cms-reports/13:Index>`
 
     ..  card:: :doc:`CKEditor <typo3/cms-rte-ckeditor:Index>`
 
@@ -242,8 +242,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-rte-ckeditor/dev:Index>`
-            :doc:`13.4 <typo3/cms-rte-ckeditor:Index>`
-            :doc:`12.4 <typo3/cms-rte-ckeditor/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-rte-ckeditor/13:Index>`
+            :doc:`12.4 <typo3/cms-rte-ckeditor/12:Index>`
 
     ..  card:: :doc:`Scheduler <typo3/cms-scheduler:Index>`
 
@@ -255,8 +255,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-scheduler/dev:Index>`
-            :doc:`13.4 <typo3/cms-scheduler:Index>`
-            :doc:`12.4 <typo3/cms-scheduler/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-scheduler/13:Index>`
+            :doc:`12.4 <typo3/cms-scheduler/12:Index>`
 
     ..  card:: :doc:`SEO <typo3/cms-seo:Index>`
 
@@ -268,8 +268,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-seo/dev:Index>`
-            :doc:`13.4 <typo3/cms-seo:Index>`
-            :doc:`12.4 <typo3/cms-seo/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-seo/13:Index>`
+            :doc:`12.4 <typo3/cms-seo/12:Index>`
 
     ..  card:: :doc:`System Notes <typo3/cms-sys-note:Index>`
 
@@ -296,8 +296,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-t3editor/dev:Index>`
-            :doc:`13.4 <typo3/cms-t3editor:Index>`
-            :doc:`12.4 <typo3/cms-t3editor/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-t3editor/13:Index>`
+            :doc:`12.4 <typo3/cms-t3editor/12:Index>`
 
     ..  card:: :doc:`Workspaces and Versioning <typo3/cms-workspaces:Index>`
 
@@ -309,8 +309,8 @@ part of the Core and extracted at some point in time.
             :button-styles: secondary
 
             :doc:`14-dev <typo3/cms-workspaces/dev:Index>`
-            :doc:`13.4 <typo3/cms-workspaces:Index>`
-            :doc:`12.4 <typo3/cms-workspaces/oldstable:Index>`
+            :doc:`13.4 <typo3/cms-workspaces/13:Index>`
+            :doc:`12.4 <typo3/cms-workspaces/12:Index>`
 
 .. _System-Extensions-outdated:
 

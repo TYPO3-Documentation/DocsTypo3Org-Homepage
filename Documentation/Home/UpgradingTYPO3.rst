@@ -23,8 +23,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:minor>`
-            :ref:`13.4 <t3upgrade:minor>`
-            :ref:`12.4 <t3upgrade/oldstable:minor>`
+            :ref:`13.4 <t3upgrade/13:minor>`
+            :ref:`12.4 <t3upgrade/12:minor>`
 
     ..  card:: :ref:`Major upgrades <t3upgrade:major>`
 
@@ -37,8 +37,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:major>`
-            :ref:`13.4 <t3upgrade:major>`
-            :ref:`12.4 <t3upgrade/oldstable:major>`
+            :ref:`13.4 <t3upgrade/13:major>`
+            :ref:`12.4 <t3upgrade/12:major>`
 
     ..  card:: :ref:`Upgrading extensions <t3upgrade:upgradingextensions>`
 
@@ -49,8 +49,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:upgradingextensions>`
-            :ref:`13.4 <t3upgrade:upgradingextensions>`
-            :ref:`12.4 <t3upgrade/oldstable:upgradingextensions>`
+            :ref:`13.4 <t3upgrade/13:upgradingextensions>`
+            :ref:`12.4 <t3upgrade/12:upgradingextensions>`
 
     ..  card:: :ref:`Third-party tools <t3upgrade:tools>`
 
@@ -61,8 +61,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:tools>`
-            :ref:`13.4 <t3upgrade:tools>`
-            :ref:`12.4 <t3upgrade/oldstable:tools>`
+            :ref:`13.4 <t3upgrade/13:tools>`
+            :ref:`12.4 <t3upgrade/12:tools>`
 
 
     ..  card:: :ref:`Legacy upgrade guide <t3upgrade:legacy>`
@@ -74,8 +74,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:legacy>`
-            :ref:`13.4 <t3upgrade:legacy>`
-            :ref:`12.4 <t3upgrade/oldstable:legacy>`
+            :ref:`13.4 <t3upgrade/13:legacy>`
+            :ref:`12.4 <t3upgrade/12:legacy>`
 
     ..  card:: :ref:`Migrate a TYPO3 installation to Composer <t3upgrade:migratetocomposer>`
 
@@ -86,8 +86,8 @@ Upgrading TYPO3
             :button-styles: secondary
 
             :ref:`14-dev <t3upgrade/dev:migratetocomposer>`
-            :ref:`13.4 <t3upgrade:migratetocomposer>`
-            :ref:`12.4 <t3upgrade/oldstable:migratetocomposer>`
+            :ref:`13.4 <t3upgrade/13:migratetocomposer>`
+            :ref:`12.4 <t3upgrade/12:migratetocomposer>`
 
     ..  card:: :ref:`Migrate content <t3upgrade:migratecontent>`
 
