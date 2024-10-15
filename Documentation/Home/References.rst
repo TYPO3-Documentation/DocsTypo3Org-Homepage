@@ -33,7 +33,7 @@ Reference Manuals
         ..  card-footer::
             :button-styles: secondary
 
-            :doc:`14-dev <changelog:Changelog-13>`
+            :doc:`13-dev <changelog:Changelog-13>`
             :doc:`v12 <changelog:Changelog-12>`
             :doc:`v11 <changelog/oldstable:Changelog-11>`
 
