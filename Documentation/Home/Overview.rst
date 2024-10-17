@@ -1,3 +1,4 @@
+:orphan:
 .. include:: /Includes.rst.txt
 
 ..  _resources:
@@ -6,4 +7,4 @@
 Official documentation resources
 ================================
 
-..  include:: /mainMenu.rst.txt
+..  include:: /_mainMenu.rst.txt

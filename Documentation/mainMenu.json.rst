@@ -3,4 +3,4 @@
 
 ..  main-menu-json::
 
-    ..  include:: /mainMenu.rst.txt
+    ..  include:: /_mainMenu.rst.txt
