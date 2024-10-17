@@ -31,7 +31,7 @@ PHP.
     ..  card:: Getting started guide
 
         This guide introduces some of the core concepts of TYPO3, guides you
-        through installation, helps you to set up your first small project with
+        through installation, helps you set up your first small project with
         a custom template and gives you information on trou
 
         ..  card-footer:: :ref:`Get started with TYPO3 <t3start:start>`
@@ -39,15 +39,15 @@ PHP.
 
     ..  card:: Site package tutorial
 
-        This tutorial describes step by step how to come from your first
-        site package or theme in TYPO3 from the scratch.
+        This tutorial describes step by step how to create your first
+        site package or theme in TYPO3 from scratch.
 
         ..  card-footer:: :ref:`Build your own site package <t3sitepackage:start>`
             :button-style: btn btn-secondary stretched-link
 
     ..  card:: Editors guide
 
-        Learn about how to log into the TYPO3 backend, how to work with the
+        Learn about how you log into the TYPO3 backend, how to work with the
         page tree, how to create and manage content, how to work with translations
         and other useful tricks for editors.
 
@@ -56,7 +56,7 @@ PHP.
 
     ..  card:: Download TYPO3
 
-        For information about the different versions of TYPO3 and its system
+        For information about the different versions of TYPO3 and their system
         requirements, visit https://get.typo3.org
 
         You can also download the the sources from there. We suggest to
@@ -71,9 +71,9 @@ References
 ==========
 
 :ref:`TYPO3 explained <t3coreapi:api-overview>`
-    The main document for advanced developers and integrators, describes
+    The main document for advanced developers and integrators. It describes
     the API, coding guidelines, configuration options and security
-    guidelines. Introduces extension development to enhance TYPO3.
+    guidelines. Introduces creating extension to enhance TYPO3.
 :doc:`TYPO3 Core changelog <changelog:Index#typo3-core-changelog>`
     Learn what is new in TYPO3 and how to migrate away from deprecated
     functionality.
@@ -86,6 +86,6 @@ References
 :ref:`TSconfig rference <t3tsconfig:start>`
     Configuration options to customize the TYPO3 backend.
 :ref:`TCA reference <t3tca:start>`
-    The complete reference of the Table Configuration Array (TCA) which
-    is used to map between raw database tables and their representation
-    as database records in the TYPO3 backend and in Extbase.
+    Complete reference of the Table Configuration Array (TCA) which
+    maps raw database tables to
+    records in the TYPO3 backend and in Extbase.
