@@ -32,7 +32,7 @@ PHP.
 
         This guide introduces some of the core concepts of TYPO3, guides you
         through installation, helps you set up your first small project with
-        a custom template and gives you information on trou
+        a custom template and gives you information on troubleshooting.
 
         ..  card-footer:: :ref:`Get started with TYPO3 <t3start:start>`
             :button-style: btn btn-secondary stretched-link
