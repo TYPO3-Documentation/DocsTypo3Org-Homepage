@@ -157,10 +157,9 @@
         *   :doc:`13.4 <typo3/cms-redirects/13:Index>`
         *   :doc:`12.4 <typo3/cms-redirects/12:Index>`
 
-    *   :doc:`reports <typo3/cms-reports:Index>`
+    *   :doc:`reports <typo3/cms-reports/main:Index>`
 
         *   :doc:`main <typo3/cms-reports/main:Index>`
-        *   :doc:`13.4 <typo3/cms-reports/13:Index>`
         *   :doc:`12.4 <typo3/cms-reports/12:Index>`
 
     *   :doc:`rte_ckeditor <typo3/cms-rte-ckeditor:Index>`
@@ -181,15 +180,14 @@
         *   :doc:`13.4 <typo3/cms-seo/13:Index>`
         *   :doc:`12.4 <typo3/cms-seo/12:Index>`
 
-    *   :doc:`sys_note <typo3/main/cms-sys-note:Index>`
+    *   :doc:`sys_note <typo3/cms-sys-note/main:Index>`
 
         *   :doc:`main <typo3/cms-sys-note/main:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
 
-    *   :doc:`t3editor <typo3/cms-t3editor:Index>`
+    *   :doc:`t3editor <typo3/cms-t3editor/main:Index>`
 
         *   :doc:`main <typo3/cms-t3editor/main:Index>`
-        *   :doc:`13.4 <typo3/cms-t3editor/13:Index>`
         *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
 
     *   :doc:`workspaces <typo3/cms-workspaces:Index>`
