@@ -1,4 +1,4 @@
-*   :ref:`References <t3docs:references>`
+*   `References <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :doc:`Changelog TYPO3 Core <typo3/cms-core:Index>`
 
@@ -34,13 +34,19 @@
 
     *   :ref:`TYPO3 Exceptions <t3exceptions:start>`
 
-*   :ref:`Guides <t3docs:references>`
+*   `Guides / Tutorials <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :ref:`TYPO3 - Getting Started Tutorial <t3start:start>`
 
         *   :ref:`main <t3start/main:start>`
         *   :ref:`13.4 <t3start/13:start>`
         *   :ref:`12.4 <t3start/12:start>`
+
+    *   :ref:`TYPO3 Site Package Tutorial <t3sitepackage:start>`
+
+        *   :ref:`main <t3sitepackage/main:start>`
+        *   :ref:`13.4 <t3sitepackage/13:start>`
+        *   :ref:`12.4 <t3sitepackage/12:start>`
 
     *   :ref:`TYPO3 Editors Guide <t3editors:start>`
 
@@ -60,15 +66,14 @@
         *   :ref:`13.4 <t3upgrade/13:start>`
         *   :ref:`12.4 <t3upgrade/12:start>`
 
-*   :ref:`Tutorials <t3docs:references>`
+*   `API TYPO3 Core <https://api.typo3.org/>`__
 
-    *   :ref:`TYPO3 Sitepackage Tutorial <t3sitepackage:start>`
+    *   `TYPO3 v14.0-dev API <https://api.typo3.org/main/>`__
+    *   `TYPO3 v13.4 LTS API <https://api.typo3.org/13.4/>`__
+    *   `TYPO3 v12.4 LTS API <https://api.typo3.org/12.4/>`__
+    *   `TYPO3 v11.4 eLTS API <https://api.typo3.org/11.5/>`__
 
-        *   :ref:`main <t3sitepackage/main:start>`
-        *   :ref:`13.4 <t3sitepackage/13:start>`
-        *   :ref:`12.4 <t3sitepackage/12:start>`
-
-*   :ref:`Contribution <t3docs:contribute>`
+*   `Contribution <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :ref:`TYPO3 Core Contribution Guide <t3contribute:recommended-reading>`
     *   :ref:`Writing documentation <h2document:start>`
@@ -76,7 +81,7 @@
     *   :ref:`Content and Marketing Guide <t3content:start>`
     *   :ref:`Language and Writing Guide <t3writing:start>`
 
-*   :ref:`System Extensions A-Q <t3docs:System-Extensions>`
+*   `System Extensions A-Q <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :doc:`adminpanel <typo3/cms-adminpanel:Index>`
 
@@ -132,7 +137,7 @@
         *   :doc:`13.4 <typo3/cms-lowlevel/13:Index>`
         *   :doc:`12.4 <typo3/cms-lowlevel/12:Index>`
 
-*   :ref:`System Extensions R-Z <t3docs:System-Extensions>`
+*   `System Extensions R-Z <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :doc:`reactions <typo3/cms-reactions:Index>`
 
@@ -152,10 +157,9 @@
         *   :doc:`13.4 <typo3/cms-redirects/13:Index>`
         *   :doc:`12.4 <typo3/cms-redirects/12:Index>`
 
-    *   :doc:`reports <typo3/cms-reports:Index>`
+    *   :doc:`reports <typo3/cms-reports/main:Index>`
 
         *   :doc:`main <typo3/cms-reports/main:Index>`
-        *   :doc:`13.4 <typo3/cms-reports/13:Index>`
         *   :doc:`12.4 <typo3/cms-reports/12:Index>`
 
     *   :doc:`rte_ckeditor <typo3/cms-rte-ckeditor:Index>`
@@ -176,16 +180,14 @@
         *   :doc:`13.4 <typo3/cms-seo/13:Index>`
         *   :doc:`12.4 <typo3/cms-seo/12:Index>`
 
-    *   :doc:`sys_note <typo3/cms-sys-note:Index>`
+    *   :doc:`sys_note <typo3/cms-sys-note/main:Index>`
 
         *   :doc:`main <typo3/cms-sys-note/main:Index>`
-        *   :doc:`13.4 <typo3/cms-sys-note/13:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
 
-    *   :doc:`t3editor <typo3/cms-t3editor:Index>`
+    *   :doc:`t3editor <typo3/cms-t3editor/main:Index>`
 
         *   :doc:`main <typo3/cms-t3editor/main:Index>`
-        *   :doc:`13.4 <typo3/cms-t3editor/13:Index>`
         *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
 
     *   :doc:`workspaces <typo3/cms-workspaces:Index>`
