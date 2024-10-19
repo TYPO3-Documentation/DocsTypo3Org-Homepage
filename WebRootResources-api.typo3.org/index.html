@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
-    <title>Welcome to the official TYPO3 API Documentation — Homepage of docs.typo3.org main documentation</title>
+    <title>Welcome to the official TYPO3 API Documentation — Homepage of docs.typo3.org 2.0 documentation</title>
 
     
 <meta charset="utf-8">
@@ -9,19 +9,19 @@
 <meta content="phpdocumentor/guides" name="generator">
 <meta content="Homepage of docs.typo3.org" name="docsearch:name">
 <meta content="" name="docsearch:package_type">
-<meta content="main" name="docsearch:release">
-<meta content="main" name="docsearch:version">
-<meta content="2024-07-19T08:07:57+00:00" name="docsearch:modified">
-<meta content="2024-07-19T08:07:57+00:00" name="dc.modified">
-<meta content="2024-07-19T08:07:57+00:00" property="article:modified_time">
+<meta content="2.0" name="docsearch:release">
+<meta content="2.0" name="docsearch:version">
+<meta content="2024-10-19T08:55:32+00:00" name="docsearch:modified">
+<meta content="2024-10-19T08:55:32+00:00" name="dc.modified">
+<meta content="2024-10-19T08:55:32+00:00" property="article:modified_time">
 <meta name="x-typo3-indexer" content="noindex">
     <meta name="robots" content="noindex">    <link href="http://purl.org/dc/elements/1.1/" rel="schema.dc">
-<link href="https://typo3.azureedge.net/typo3documentation/theme/typo3-docs-theme/0.7.3/css/theme.css" rel="stylesheet">
+<link href="../_resources/css/theme.css" rel="stylesheet">
 <link href="https://docs.typo3.org/search/" rel="search" title="Search">
 <script src="https://typo3.azureedge.net/typo3infrastructure/universe/dist/webcomponents-loader.js"></script>
 <script src="https://typo3.azureedge.net/typo3infrastructure/universe/dist/typo3-universe.js" type="module"></script>
                         <link href="../404.html" rel="prev" title="Page not found (404)"/>
-            <link href="WikiLanding.html" rel="next" title="TYPO3 Documentation"/>
+            <link href="Overview.html" rel="next" title="Official documentation resources"/>
             <link href="../Index.html" rel="top" title="Welcome to the official TYPO3 Documentation"/>
     </head>
 <body>
@@ -38,24 +38,27 @@
     <div class="page-header">
         <div class="page-header-inner">
             <div class="row">
-                <div class="col-sm-3 col-md-4 col-lg-6">
+                <div class="col-md-2 col-lg-4">
                     <a class="logo" href="https://docs.typo3.org/" title="TYPO3 Documentation">
-                        <img alt="TYPO3 Logo" class="logo-image" src="https://typo3.azureedge.net/typo3documentation/theme/typo3-docs-theme/0.7.3/img/typo3-logo.svg" width="484" height="130">
+                        <img alt="TYPO3 Logo" class="logo-image" src="../_resources/img/typo3-logo.svg" width="484" height="130">
                     </a>
                 </div>
-                <div class="col-sm-9 col-md-8 col-lg-6">
-                    <search role="search">
-                        <form action="https://docs.typo3.org/search/search" id="global-search-form" method="get">
-			                <div class="sr-only"><label for="globalsearchinput">TYPO3 documentation...</label></div>
-                            <div class="input-group mb-3 mt-sm-3">
-                                <select class="form-select search__scope" id="searchscope" name="scope">
-                                    <option value="">Search all</option>
-                                </select>
-                                <input autocomplete="off" class="form-control shadow-none" id="globalsearchinput" name="q" placeholder="TYPO3 documentation..." type="text" value="">
-                                <button class="btn btn-light search__submit" type="submit"><i class="fa fa-search"></i>&nbsp;<span class="d-none d-md-inline">Search</span></button>
-                            </div>
-                        </form>
-                    </search>
+                <div class="col-md-10 col-lg-8">
+                    <div class="menu-search-wrapper">
+                        <all-documentations-menu data-override-url="https://render-guides.ddev.site/menu-proxy.php"></all-documentations-menu>
+                                                <search role="search">
+                            <form action="https://docs.typo3.org/search/search" id="global-search-form" method="get">
+                                <div class="sr-only"><label for="globalsearchinput">TYPO3 documentation...</label></div>
+                                <div class="input-group mb-3 mt-sm-3">
+                                    <select class="form-select search__scope" id="searchscope" name="scope">
+                                        <option value="">Search all</option>
+                                    </select>
+                                    <input autocomplete="off" class="form-control shadow-none" id="globalsearchinput" name="q" placeholder="TYPO3 documentation..." type="text" value="">
+                                    <button class="btn btn-light search__submit" type="submit"><i class="fa fa-search"></i>&nbsp;<span class="d-none d-md-inline">Search</span></button>
+                                </div>
+                            </form>
+                        </search>
+                    </div>
                 </div>
             </div>
         </div>
@@ -70,15 +73,7 @@
 <div class="toc-header">
     <div class="toc-title">
         <a class="toc-title-project" href="../Index.html">Homepage of docs.typo3.org</a>
-            <div class="toc-version-wrapper" id="toc-version-wrapper">
-                <div id="toc-version" class="toc-version">
-                    <span class="toc-version-prefix">Release:</span>
-                    <span class="toc-version-number">main</span>
-                </div>
-                <div id="toc-version-options" class="toc-version-options">
-                    <p><span class="fa fa-spinner fa-spin"></span> Loading data.</p>
-                </div>
-            </div></div>
+            </div>
     <div class="toc-actions">
         <label class="toc-toggle" for="toggleToc">
             Menu
@@ -88,221 +83,6 @@
                                                 <div aria-label="main navigation" class="toc" role="navigation">
                                 <div aria-label="Main navigation" class="main_menu" role="navigation">
         
-    <ul class="menu-level-1">
-    <li class="">
-    <a href="GettingStarted.html">
-        Getting Started
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Concepts/Index.html#concepts">
-        TYPO3 Concepts
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/SystemRequirements/Index.html#system-requirements">
-        System Requirements
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Installation/Index.html">
-        Installation
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Setup/Index.html">
-        Setup
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Troubleshooting/Index.html">
-        Troubleshooting
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/UserManagement/Index.html">
-        Managing Backend Users
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/Extensions/Index.html">
-        Working With Extensions
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/IntroductionPackage/Index.html">
-        Introduction Package
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-getting-started/12.4/en-us/NextSteps/Index.html">
-        Next Steps
-    </a></li></ul></li>    <li class="">
-    <a href="CreatingManagingContent.html">
-        Creating &amp; Managing Content
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/Pages/Index.html">
-        Pages
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/ContentElements/Index.html">
-        Content
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/">
-        Localization
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/">
-        Forms
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-editors/12.4/en-us/DeepLinking/Index.html">
-        Deep Linking
-    </a></li></ul></li>    <li class="">
-    <a href="Templating.html">
-        Templating
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Fluid/Index.html">
-        Templating With Fluid
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/tutorial-sitepackage/12.4/en-us/">
-        Sitepackages
-    </a></li></ul></li>    <li class="">
-    <a href="ConfiguringTYPO3.html">
-        Configuring TYPO3
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Configuration/Index.html">
-        Configuration Overview
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/SiteHandling/Index.html">
-        Site Handling
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Seo/Index.html">
-        SEO
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Security/Index.html">
-        Security
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/ApiOverview/Rte/Index.html">
-        RTE&#039;s
-    </a></li></ul></li>    <li class="">
-    <a href="UpgradingTYPO3.html">
-        Upgrading TYPO3
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Minor/Index.html">
-        Minor upgrades
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Major/Index.html">
-        Major upgrades
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/UpgradingExtensions">
-        Upgrading extensions
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Tools/Index.html">
-        Third-party tools
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/Legacy/Index.html">
-        Legacy upgrade
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateToComposer/Index.html">
-        Migrate to Composer
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/MigrateContent/Index.html">
-        Migrate content
-    </a></li></ul></li>    <li class="">
-    <a href="ExtensionManuals.html">
-        Developing &amp; Using Extensions
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/ExtensionArchitecture/Index.html">
-        Extension Development Basics
-    </a></li><li class="">
-    <a href="https://extensions.typo3.org/">
-        Third-party extensions
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/WritingDocForExtension/Index.html">
-        Document an extension
-    </a></li><li class="">
-    <a href="SystemExtensions.html">
-        System Extensions
-    </a>        <ul class="menu-level-2"><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-adminpanel/12.4/en-us/">
-        adminpanel
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-dashboard/12.4/en-us/">
-        dashboard
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-felogin/12.4/en-us/">
-        felogin
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-fluid-styled-content/12.4/en-us/">
-        fluid_styled_content
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-form/12.4/en-us/">
-        form
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-impexp/12.4/en-us/">
-        impexp
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-indexed-search/12.4/en-us/">
-        indexed_search
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-linkvalidator/12.4/en-us/">
-        linkvalidator
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-lowlevel/12.4/en-us/">
-        lowlevel
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-reactions/12.4/en-us/">
-        reactions
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-recycler/12.4/en-us/">
-        recycler
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-redirects/12.4/en-us/">
-        redirects
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-reports/12.4/en-us/">
-        reports
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-rte-ckeditor/12.4/en-us/">
-        rte_ckeditor
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-scheduler/12.4/en-us/">
-        scheduler
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-seo/12.4/en-us/">
-        seo
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-sys-note/12.4/en-us/">
-        sys_note
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-t3editor/12.4/en-us/">
-        t3editor
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-workspaces/12.4/en-us/">
-        workspaces
-    </a></li></ul></li></ul></li>    <li class="">
-    <a href="References.html">
-        Reference Manuals
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/">
-        TYPO3 Explained
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/c/typo3/cms-core/main/en-us/">
-        Changelog
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-tca/12.4/en-us/">
-        TCA
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-tsconfig/12.4/en-us/">
-        TSconfig
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-typoscript/12.4/en-us/">
-        TypoScript
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/other/typo3/view-helper-reference/12.4/en-us/">
-        Fluid ViewHelpers
-    </a></li></ul></li>    <li class="">
-    <a href="Contribute.html">
-        Contribute
-    </a>        <ul class="menu-level-1"><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-contributionworkflow/main/en-us/">
-        Contribute to Core
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html">
-        Contribute to Documentation
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/team-t3oteam/main/en-us/">
-        Contribute to typo3.org website
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/CodingGuidelines/Index.html">
-        Coding Guidelines
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/writing-guide/main/en-us/index.html">
-        Writing and Language Guide
-    </a></li><li class="">
-    <a href="https://docs.typo3.org/m/typo3/guide-contentandmarketing/main/en-us/Index.html">
-        Content and Marketing Guide
-    </a></li></ul></li>    </ul>
     </div>
     <div aria-label="Meta navigation" class="main_menu  d-block d-lg-none" role="navigation">
     <hr/>
@@ -329,7 +109,11 @@
     <li class="breadcrumb-item"><a href="../Index.html">Welcome to the official TYPO3 Documentation</a></li>
                     <li aria-current="page"  class="breadcrumb-item  active">Welcome to the official TYPO3 API Documentation</li>
         </ol>
-        <div class="breadcrumb-additions">    <a class="btn btn-sm btn-light" href="../_sources/Home/ApiTypo3Org.rst.txt" rel="nofollow noopener" target="_blank">
+        <div class="breadcrumb-additions">        <a class="btn btn-sm btn-light" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues/new/choose?title=Problem+on+https%3A%2F%2Fdocs.typo3.org%2FHome%2FApiTypo3Org.html" id="btnReportIssue" rel="nofollow noopener" target="_blank">
+            <span class="btn-icon"><i class="fas fa-bug"></i></span>
+            <span class="btn-text">Report issue</span>
+        </a>
+        <a class="btn btn-sm btn-light" href="../_sources/Home/ApiTypo3Org.rst.txt" rel="nofollow noopener" target="_blank">
         <span class="btn-icon"><span class="fas fa-code"></span></span>
         <span class="btn-text">View source</span>
     </a>
@@ -349,7 +133,7 @@
                 
 <section class="section" id="welcome-to-the-official-typo3-api-documentation" data-rst-anchor="apilanding">
             <a id="apilanding"></a>
-            <h1>Welcome to the official TYPO3 API Documentation<a class="headerlink" href="#welcome-to-the-official-typo3-api-documentation" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">¶</a></h1>
+            <h1>Welcome to the official TYPO3 API Documentation<a class="headerlink" href="#welcome-to-the-official-typo3-api-documentation" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline"><i class="fa-solid fa-paragraph"></i></a></h1>
             
     <p>TYPO3 source code is well documented and allows you to understand many internals
 just by browsing through the various classes and methods.</p>
@@ -358,46 +142,46 @@ just by browsing through the various classes and methods.</p>
     <div class="col">
             <div class="card h-100">
             <div class="card-body">
-        <h3><a href="https://api.typo3.org/main/">TYPO3 13-dev API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">¶</a></h3>
+        <h3><a href="https://api.typo3.org/main/">TYPO3 14-dev (main) API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline"><i class="fa-solid fa-paragraph"></i></a></h3>
         <div class="card-text">
             
-    <p>Automatically generated API from the 
-<a href="https://github.com/typo3/typo3">13-dev (main)</a> branch of TYPO3.</p>
+    <p>Automatically generated API from the
+<a href="https://github.com/typo3/typo3">14-dev (main)</a> branch of TYPO3.</p>
 
         </div>
     </div>
-                <div class="card-footer">
+                                <div class="card-footer ">
                             <a href="https://api.typo3.org/main/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Index.html#start" class="btn btn-light">Docs</a>
                                 </div>
     </div>
         </div><div class="col">
             <div class="card h-100">
             <div class="card-body">
-        <h3><a href="https://api.typo3.org/12.4/">TYPO3 12.4 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">¶</a></h3>
+        <h3><a href="https://api.typo3.org/13.4/">TYPO3 13.4 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline"><i class="fa-solid fa-paragraph"></i></a></h3>
         <div class="card-text">
             
-    <p>Automatically generated API from the 
-<a href="https://github.com/typo3/typo3/tree/12.4">12.4 (current stable)</a> branch of TYPO3.</p>
+    <p>Automatically generated API from the
+<a href="https://github.com/typo3/typo3/tree/13.4">13.4 (current stable)</a> branch of TYPO3.</p>
 
         </div>
     </div>
-                <div class="card-footer">
-                            <a href="https://api.typo3.org/12.4/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/12.4" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Index.html#start" class="btn btn-light">Docs</a>
+                                <div class="card-footer ">
+                            <a href="https://api.typo3.org/13.4/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/13.4" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/Index.html#start" class="btn btn-light">Docs</a>
                                 </div>
     </div>
         </div><div class="col">
             <div class="card h-100">
             <div class="card-body">
-        <h3><a href="https://api.typo3.org/11.5/">TYPO3 11.5 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">¶</a></h3>
+        <h3><a href="https://api.typo3.org/12.4/">TYPO3 12.4 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline"><i class="fa-solid fa-paragraph"></i></a></h3>
         <div class="card-text">
             
-    <p>Automatically generated API from the 
-<a href="https://github.com/typo3/typo3/tree/11.5">11.5 (old stable)</a> branch of TYPO3.</p>
+    <p>Automatically generated API from the
+<a href="https://github.com/typo3/typo3/tree/12.4">12.4 (current stable)</a> branch of TYPO3.</p>
 
         </div>
     </div>
-                <div class="card-footer">
-                            <a href="https://api.typo3.org/main/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/11.5" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/11.5/en-us/Index.html#start" class="btn btn-light">Docs</a>
+                                <div class="card-footer ">
+                            <a href="https://api.typo3.org/12.4/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/12.4" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/12.4/en-us/Index.html#start" class="btn btn-light">Docs</a>
                                 </div>
     </div>
         </div></div>
@@ -414,7 +198,7 @@ just by browsing through the various classes and methods.</p>
                             </a>
                         </li>
                     <li class="page-item">
-                            <a class="page-link" href="WikiLanding.html"
+                            <a class="page-link" href="Overview.html"
                                title="Accesskey Alt(+Shift)+n">
                                 Next
                             </a>
@@ -427,7 +211,7 @@ just by browsing through the various classes and methods.</p>
     </main>
 
     <div class="modal fade" id="linkReferenceModal" tabindex="-1" aria-labelledby="linkReferenceModalLabel"
-    aria-hidden="true" data-current-filename="Home/ApiTypo3Org">
+    aria-hidden="true" data-current-filename="Home/ApiTypo3Org" data-interlink-shortcode="t3docs">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -501,7 +285,7 @@ just by browsing through the various classes and methods.</p>
                                                 <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues" rel="nofollow noopener" title="Issues"><span>Issues</span></a></li>
                                                 <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage" rel="nofollow noopener" title="Repository"><span>Repository</span></a></li>
                                             </ul>                <div class="footer-additional">
-                    <p class="text-center">Last rendered: Jul 19, 2024 08:07</p>
+                    <p class="text-center">Last rendered: Oct 19, 2024 08:55</p>
                 </div>
                 <div class="footer-meta">
                                         <div class="footer-meta-copyright">
@@ -516,17 +300,12 @@ just by browsing through the various classes and methods.</p>
         </div>
     </div>
 </footer>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/typo3-docs-theme/0.7.3/js/popper.min.js"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/typo3-docs-theme/0.7.3/js/bootstrap.min.js"></script>
-<script src="https://typo3.azureedge.net/typo3documentation/theme/typo3-docs-theme/0.7.3/js/theme.min.js"></script>
+<script src="../_resources/js/popper.min.js"></script>
+<script src="../_resources/js/bootstrap.min.js"></script>
+<script src="../_resources/js/theme.min.js"></script>
 
-<script id="R9wBKTwzv" src="https://app.usercentrics.eu/latest/main.js"></script>
-<script data-usercentrics="Matomo" src="/js/piwik.js" type="text/plain"></script>
-
-<script type="text/plain" data-usercentrics="Google Tag Manager">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MKNXD8Q');</script>
+<!--
+ Locally rendered. No tracking embedded.
+-->
 </body>
 </html>
