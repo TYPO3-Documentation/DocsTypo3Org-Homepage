@@ -181,10 +181,9 @@
         *   :doc:`13.4 <typo3/cms-seo/13:Index>`
         *   :doc:`12.4 <typo3/cms-seo/12:Index>`
 
-    *   :doc:`sys_note <typo3/cms-sys-note:Index>`
+    *   :doc:`sys_note <typo3/main/cms-sys-note:Index>`
 
         *   :doc:`main <typo3/cms-sys-note/main:Index>`
-        *   :doc:`13.4 <typo3/cms-sys-note/13:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
 
     *   :doc:`t3editor <typo3/cms-t3editor:Index>`
