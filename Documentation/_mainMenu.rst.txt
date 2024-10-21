@@ -185,9 +185,8 @@
         *   :doc:`main <typo3/cms-sys-note/main:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
 
-    *   :doc:`t3editor <typo3/cms-t3editor/main:Index>`
+    *   :doc:`t3editor <typo3/cms-t3editor/12:Index>`
 
-        *   :doc:`main <typo3/cms-t3editor/main:Index>`
         *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
 
     *   :doc:`workspaces <typo3/cms-workspaces:Index>`
