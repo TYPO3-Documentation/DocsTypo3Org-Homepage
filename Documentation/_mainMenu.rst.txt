@@ -6,31 +6,31 @@
 
         *   :ref:`13.4 <t3coreapi/13:start>`
         *   :ref:`12.4 <t3coreapi/12:start>`
-        *   :ref:`14.4-dev <t3coreapi/main:start>`
+        *   :ref:`14-dev <t3coreapi/main:start>`
 
     *   :ref:`Fluid ViewHelper Reference <t3viewhelper:start>`
 
         *   :ref:`13.4 <t3viewhelper/13:start>`
         *   :ref:`12.4 <t3viewhelper/12:start>`
-        *   :ref:`14.4-dev <t3viewhelper/main:start>`
+        *   :ref:`14-dev <t3viewhelper/main:start>`
 
     *   :ref:`TCA Reference <t3tca:start>`
 
         *   :ref:`13.4 <t3tca/13:start>`
         *   :ref:`12.4 <t3tca/12:start>`
-        *   :ref:`14.4-dev <t3tca/main:start>`
+        *   :ref:`14-dev <t3tca/main:start>`
 
     *   :ref:`TSconfig Reference <t3tsconfig:start>`
 
         *   :ref:`13.4 <t3tsconfig/13:start>`
         *   :ref:`12.4 <t3tsconfig/12:start>`
-        *   :ref:`14.4-dev <t3tsconfig/main:start>`
+        *   :ref:`14-dev <t3tsconfig/main:start>`
 
     *   :ref:`TypoScript Reference <t3tsref:start>`
 
         *   :ref:`13.4 <t3tsref/13:start>`
         *   :ref:`12.4 <t3tsref/12:start>`
-        *   :ref:`14.4-dev <t3tsref/main:start>`
+        *   :ref:`14-dev <t3tsref/main:start>`
 
     *   :ref:`TYPO3 Exceptions <t3exceptions:start>`
 
@@ -40,31 +40,31 @@
 
         *   :ref:`13.4 <t3start/13:start>`
         *   :ref:`12.4 <t3start/12:start>`
-        *   :ref:`14.4-dev <t3start/main:start>`
+        *   :ref:`14-dev <t3start/main:start>`
 
     *   :ref:`TYPO3 Site Package Tutorial <t3sitepackage:start>`
 
         *   :ref:`13.4 <t3sitepackage/13:start>`
         *   :ref:`12.4 <t3sitepackage/12:start>`
-        *   :ref:`14.4-dev <t3sitepackage/main:start>`
+        *   :ref:`14-dev <t3sitepackage/main:start>`
 
     *   :ref:`TYPO3 Editors Guide <t3editors:start>`
 
         *   :ref:`13.4 <t3editors/13:start>`
         *   :ref:`12.4 <t3editors/12:start>`
-        *   :ref:`14.4-dev <t3editors/main:start>`
+        *   :ref:`14-dev <t3editors/main:start>`
 
     *   :ref:`Frontend Localization Guide <t3translate:start>`
 
         *   :ref:`13.4 <t3translate/12:start>`
         *   :ref:`12.4 <t3translate/12:start>`
-        *   :ref:`14.4-dev <t3translate/main:start>`
+        *   :ref:`14-dev <t3translate/main:start>`
 
     *   :ref:`TYPO3 Upgrade Guide <t3upgrade:start>`
 
         *   :ref:`13.4 <t3upgrade/13:start>`
         *   :ref:`12.4 <t3upgrade/12:start>`
-        *   :ref:`14.4-dev <t3upgrade/main:start>`
+        *   :ref:`14-dev <t3upgrade/main:start>`
 
 *   `API TYPO3 Core <https://api.typo3.org/>`__
 
@@ -87,55 +87,55 @@
 
         *   :doc:`13.4 <typo3/cms-adminpanel/13:Index>`
         *   :doc:`12.4 <typo3/cms-adminpanel/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-adminpanel/main:Index>`
+        *   :doc:`14-dev <typo3/cms-adminpanel/main:Index>`
 
     *   :doc:`dashboard <typo3/cms-dashboard:Index>`
 
         *   :doc:`13.4 <typo3/cms-dashboard/13:Index>`
         *   :doc:`12.4 <typo3/cms-dashboard/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-dashboard/main:Index>`
+        *   :doc:`14-dev <typo3/cms-dashboard/main:Index>`
 
     *   :doc:`felogin <typo3/cms-felogin:Index>`
 
         *   :doc:`13.4 <typo3/cms-felogin/13:Index>`
         *   :doc:`12.4 <typo3/cms-felogin/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-felogin/main:Index>`
+        *   :doc:`14-dev <typo3/cms-felogin/main:Index>`
 
     *   :doc:`fluid_styled_content <typo3/cms-fluid-styled-content:Index>`
 
         *   :doc:`13.4 <typo3/cms-fluid-styled-content/13:Index>`
         *   :doc:`12.4 <typo3/cms-fluid-styled-content/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-fluid-styled-content/main:Index>`
+        *   :doc:`14-dev <typo3/cms-fluid-styled-content/main:Index>`
 
     *   :doc:`form <typo3/cms-form:Index>`
 
         *   :doc:`13.4 <typo3/cms-form/13:Index>`
         *   :doc:`12.4 <typo3/cms-form/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-form/main:Index>`
+        *   :doc:`14-dev <typo3/cms-form/main:Index>`
 
     *   :doc:`impexp <typo3/cms-impexp:Index>`
 
         *   :doc:`13.4 <typo3/cms-impexp/13:Index>`
         *   :doc:`12.4 <typo3/cms-impexp/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-impexp/main:Index>`
+        *   :doc:`14-dev <typo3/cms-impexp/main:Index>`
 
     *   :doc:`indexed_search <typo3/cms-indexed-search:Index>`
 
         *   :doc:`13.4 <typo3/cms-indexed-search/13:Index>`
         *   :doc:`12.4 <typo3/cms-indexed-search/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-indexed-search/main:Index>`
+        *   :doc:`14-dev <typo3/cms-indexed-search/main:Index>`
 
     *   :doc:`linkvalidator <typo3/cms-linkvalidator:Index>`
 
         *   :doc:`13.4 <typo3/cms-linkvalidator/13:Index>`
         *   :doc:`12.4 <typo3/cms-linkvalidator/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-linkvalidator/main:Index>`
+        *   :doc:`14-dev <typo3/cms-linkvalidator/main:Index>`
 
     *   :doc:`lowlevel <typo3/cms-lowlevel:Index>`
 
         *   :doc:`13.4 <typo3/cms-lowlevel/13:Index>`
         *   :doc:`12.4 <typo3/cms-lowlevel/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-lowlevel/main:Index>`
+        *   :doc:`14-dev <typo3/cms-lowlevel/main:Index>`
 
 *   `System Extensions R-Z <https://docs.typo3.org/Home/Overview.html>`__
 
@@ -143,47 +143,49 @@
 
         *   :doc:`13.4 <typo3/cms-reactions/13:Index>`
         *   :doc:`12.4 <typo3/cms-reactions/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-reactions/main:Index>`
+        *   :doc:`14-dev <typo3/cms-reactions/main:Index>`
 
     *   :doc:`recycler <typo3/cms-recycler:Index>`
 
         *   :doc:`13.4 <typo3/cms-recycler/13:Index>`
         *   :doc:`12.4 <typo3/cms-recycler/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-recycler/main:Index>`
+        *   :doc:`14-dev <typo3/cms-recycler/main:Index>`
 
     *   :doc:`redirects <typo3/cms-redirects:Index>`
 
         *   :doc:`13.4 <typo3/cms-redirects/13:Index>`
         *   :doc:`12.4 <typo3/cms-redirects/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-redirects/main:Index>`
+        *   :doc:`14-dev <typo3/cms-redirects/main:Index>`
 
     *   :doc:`reports <typo3/cms-reports/main:Index>`
 
+        *   :doc:`13.4 <typo3/cms-reports/main:Index>`
         *   :doc:`12.4 <typo3/cms-reports/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-reports/main:Index>`
+        *   :doc:`14-dev <typo3/cms-reports/main:Index>`
 
     *   :doc:`rte_ckeditor <typo3/cms-rte-ckeditor:Index>`
 
         *   :doc:`13.4 <typo3/cms-rte-ckeditor/13:Index>`
         *   :doc:`12.4 <typo3/cms-rte-ckeditor/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-rte-ckeditor/main:Index>`
+        *   :doc:`14-dev <typo3/cms-rte-ckeditor/main:Index>`
 
     *   :doc:`scheduler <typo3/cms-scheduler:Index>`
 
         *   :doc:`13.4 <typo3/cms-scheduler/13:Index>`
         *   :doc:`12.4 <typo3/cms-scheduler/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-scheduler/main:Index>`
+        *   :doc:`14-dev <typo3/cms-scheduler/main:Index>`
 
     *   :doc:`seo <typo3/cms-seo:Index>`
 
         *   :doc:`13.4 <typo3/cms-seo/13:Index>`
         *   :doc:`12.4 <typo3/cms-seo/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-seo/main:Index>`
+        *   :doc:`14-dev <typo3/cms-seo/main:Index>`
 
     *   :doc:`sys_note <typo3/cms-sys-note/main:Index>`
 
+        *   :doc:`13.4 <typo3/cms-sys-note/main:Index>`
         *   :doc:`12.4 <typo3/cms-sys-note/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-sys-note/main:Index>`
+        *   :doc:`14-dev <typo3/cms-sys-note/main:Index>`
 
     *   :doc:`t3editor <typo3/cms-t3editor/12:Index>`
 
@@ -193,4 +195,4 @@
 
         *   :doc:`13.4 <typo3/cms-workspaces/13:Index>`
         *   :doc:`12.4 <typo3/cms-workspaces/12:Index>`
-        *   :doc:`14.4-dev <typo3/cms-workspaces/main:Index>`
+        *   :doc:`14-dev <typo3/cms-workspaces/main:Index>`
