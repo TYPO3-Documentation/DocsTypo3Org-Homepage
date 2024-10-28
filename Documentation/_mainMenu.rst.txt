@@ -60,12 +60,6 @@
         *   :ref:`12.4 <t3translate/12:start>`
         *   :ref:`14-dev <t3translate/main:start>`
 
-    *   :ref:`TYPO3 Upgrade Guide <t3upgrade:start>`
-
-        *   :ref:`13.4 <t3upgrade/13:start>`
-        *   :ref:`12.4 <t3upgrade/12:start>`
-        *   :ref:`14-dev <t3upgrade/main:start>`
-
 *   `API TYPO3 Core <https://api.typo3.org/>`__
 
     *   `TYPO3 v14.0-dev API <https://api.typo3.org/main/>`__
