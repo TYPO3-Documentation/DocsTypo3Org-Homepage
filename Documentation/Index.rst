@@ -83,7 +83,7 @@ References
 :ref:`TypoScript reference <t3tsref:start>`
     Complete reference of TypoScript settings and configuration options.
     Useful to improve the frontend output of your site.
-:ref:`TSconfig rference <t3tsconfig:start>`
+:ref:`TSconfig reference <t3tsconfig:start>`
     Configuration options to customize the TYPO3 backend.
 :ref:`TCA reference <t3tca:start>`
     Complete reference of the Table Configuration Array (TCA) which
