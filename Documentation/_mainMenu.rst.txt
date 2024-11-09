@@ -36,19 +36,19 @@
 
 *   `Guides / Tutorials <https://docs.typo3.org/Home/Overview.html>`__
 
-    *   :ref:`TYPO3 - Getting Started Tutorial <t3start:start>`
+    *   :ref:`Getting Started Tutorial <t3start:start>`
 
         *   :ref:`13.4 <t3start/13:start>`
         *   :ref:`12.4 <t3start/12:start>`
         *   :ref:`14-dev <t3start/main:start>`
 
-    *   :ref:`TYPO3 Site Package Tutorial <t3sitepackage:start>`
+    *   :ref:`Site Package Tutorial <t3sitepackage:start>`
 
         *   :ref:`13.4 <t3sitepackage/13:start>`
         *   :ref:`12.4 <t3sitepackage/12:start>`
         *   :ref:`14-dev <t3sitepackage/main:start>`
 
-    *   :ref:`TYPO3 Editors Guide <t3editors:start>`
+    *   :ref:`Editors Guide <t3editors:start>`
 
         *   :ref:`13.4 <t3editors/13:start>`
         *   :ref:`12.4 <t3editors/12:start>`
