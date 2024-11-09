@@ -21,6 +21,11 @@ Welcome to the official TYPO3 Documentation
 TYPO3 CMS is an Open Source Enterprise Content Management System powered by
 PHP.
 
+..  toctree::
+    :hidden:
+
+    RecentlyMovedChapters
+
 
 ..  card-grid::
     :columns: 1
