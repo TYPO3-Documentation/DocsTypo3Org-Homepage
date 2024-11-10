@@ -24,7 +24,7 @@ PHP.
 ..  toctree::
     :hidden:
 
-    RecentlyMovedChapters
+    Home/RecentlyMovedChapters
 
 
 ..  card-grid::
