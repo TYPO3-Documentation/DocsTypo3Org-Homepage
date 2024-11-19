@@ -20,13 +20,7 @@
         *   :ref:`12.4 <t3tca/12:start>`
         *   :ref:`14-dev <t3tca/main:start>`
 
-    *   :ref:`TSconfig Reference <t3tsconfig:start>`
-
-        *   :ref:`13.4 <t3tsconfig/13:start>`
-        *   :ref:`12.4 <t3tsconfig/12:start>`
-        *   :ref:`14-dev <t3tsconfig/main:start>`
-
-    *   :ref:`TypoScript Reference <t3tsref:start>`
+    *   :ref:`TypoScript + TSconfig <t3tsref:start>`
 
         *   :ref:`13.4 <t3tsref/13:start>`
         *   :ref:`12.4 <t3tsref/12:start>`
