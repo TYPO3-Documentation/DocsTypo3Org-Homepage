@@ -42,17 +42,29 @@
         *   :ref:`12.4 <t3sitepackage/12:start>`
         *   :ref:`14-dev <t3sitepackage/main:start>`
 
+    *   :ref:`Administration (Install, Update) <t3coreapi:administration>`
+
+        *   :ref:`13.4 <t3coreapi/13:administration>`
+        *   :ref:`12.4 <t3coreapi/12:administration>`
+        *   :ref:`14-dev <t3coreapi/main:administration>`
+
+    *   :ref:`Extension Development <t3coreapi:extension-development>`
+
+        *   :ref:`13.4 <t3coreapi/13:extension-development>`
+        *   :ref:`12.4 <t3coreapi/12:extension-development>`
+        *   :ref:`14-dev <t3coreapi/main:extension-development>`
+
+    *   :ref:`Frontend Localization Guide <t3translate:start>`
+
+        *   :ref:`13.4 <t3translate/13:start>`
+        *   :ref:`12.4 <t3translate/12:start>`
+        *   :ref:`14-dev <t3translate/main:start>`
+
     *   :ref:`Editors Guide <t3editors:start>`
 
         *   :ref:`13.4 <t3editors/13:start>`
         *   :ref:`12.4 <t3editors/12:start>`
         *   :ref:`14-dev <t3editors/main:start>`
-
-    *   :ref:`Frontend Localization Guide <t3translate:start>`
-
-        *   :ref:`13.4 <t3translate/12:start>`
-        *   :ref:`12.4 <t3translate/12:start>`
-        *   :ref:`14-dev <t3translate/main:start>`
 
 *   `API TYPO3 Core <https://api.typo3.org/>`__
 
@@ -64,7 +76,7 @@
 *   `Contribution <https://docs.typo3.org/Home/Overview.html>`__
 
     *   :ref:`TYPO3 Core Contribution Guide <t3contribute:recommended-reading>`
-    *   :ref:`Writing documentation <h2document:start>`
+    *   :ref:`How to Document <h2document:start>`
     *   `typo3.org Team <https://docs.typo3.org/m/typo3/team-t3oteam/main/en-us/>`__
     *   :ref:`Content and Marketing Guide <t3content:start>`
     *   :ref:`Language and Writing Guide <t3writing:start>`
