@@ -8,15 +8,47 @@ Recently moved chapters
 
 ..  contents::
 
+..  _recently-moved-tsconfig:
+
+TSconfig reference into TypoScript Explained
+============================================
+
+*Starting with the documentation of TYPO3 12.4*
+
+The complete TSconfig reference has been moved from TYPO3 Explained
+into typoScript Explained.
+
+You find the chapters here now:
+
+*   :ref:`Using and setting TSconfig <t3tsref:typoscript-syntax-using-setting>`
+*   :ref:`Page TSconfig Reference <t3tsref:pagetoplevelobjects>`
+*   :ref:`User TSconfig reference <t3tsref:usertoplevelobjects>`
+
+References need to be changed like this:
+
+..  code-block:: diff
+
+    -:ref:`TCAdefaults <t3tsconfig:userTsTcaDefaults>`
+    +:ref:`TCAdefaults <t3tsref:userTsTcaDefaults>`
+
+Almost all anchors are persevered. The only exception is
+:ref:`Conditions (TScongi) <t3tsref:tsconfig-condition-differences>`. Anchors in
+this area have been prefixed with `tsconfig-`:
+
+..  code-block:: diff
+
+    -:ref:`Condition variables available in TSconfig <t3tsconfig:condition-variables>`
+    +:ref:`Condition variables available in TSconfig <t3tsref:tsconfig-condition-variables>`
+
 ..  _recently-moved-ts-syntax:
 
-TypoScript syntax into TypoScript reference
+TypoScript syntax into TypoScript Explained
 ===========================================
 
 *Starting with the documentation of TYPO3 12.4*
 
 The chapters regarding TypoScript syntax have been moved from TYPO3 Explained
-into the TypoScript reference.
+into the TypoScript Explained.
 
 You find the chapters here now: :ref:`TypoScript syntax <t3tsref:typoscript-syntax>`
 
@@ -29,13 +61,13 @@ References need to be changed like this:
 
 ..  _recently-moved-ts-45:
 
-TypoScript in 45 minutes into TypoScript reference
+TypoScript in 45 minutes into TypoScript Explained
 ==================================================
 
 *Starting with the documentation of TYPO3 12.4*
 
 The chapters of the former TypoScript in 45 minutes tutorial have been moved
-into the TypoScript reference, Getting Started section:
+into the TypoScript Explained, Getting Started section:
 
 :ref:`Getting started: A quick introduction into TypoScript <t3tsref:guide>`
 
