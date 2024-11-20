@@ -48,11 +48,11 @@
         *   :ref:`12.4 <t3sitepackage/12:start>`
         *   :ref:`14-dev <t3sitepackage/main:start>`
 
-    *   :ref:`Administration (Install, Update) <3coreapi:administration>`
+    *   :ref:`Administration (Install, Update) <t3coreapi:administration>`
 
-        *   :ref:`13.4 <3coreapi/13:administration>`
-        *   :ref:`12.4 <3coreapi/12:administration>`
-        *   :ref:`14-dev <3coreapi/main:administration>`
+        *   :ref:`13.4 <t3coreapi/13:administration>`
+        *   :ref:`12.4 <t3coreapi/12:administration>`
+        *   :ref:`14-dev <t3coreapi/main:administration>`
 
     *   :ref:`Extension Development <t3coreapi:extension-development>`
 
