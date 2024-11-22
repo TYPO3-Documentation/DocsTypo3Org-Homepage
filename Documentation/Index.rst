@@ -85,11 +85,10 @@ References
 :ref:`Fluid ViewHelper reference <t3viewhelper:start>`
     Complete reference of all Fluid ViewHelper provided by TYPO3. Used
     to improve your templates.
-:ref:`TypoScript reference <t3tsref:start>`
+:ref:`TypoScript Explained (including TSconfig) <t3tsref:start>`
     Complete reference of TypoScript settings and configuration options.
-    Useful to improve the frontend output of your site.
-:ref:`TSconfig reference <t3tsconfig:start>`
-    Configuration options to customize the TYPO3 backend.
+    Frontend TypoScript is useful to improve the frontend output of your site,
+    TSconfig options to customize the TYPO3 backend.
 :ref:`TCA reference <t3tca:start>`
     Complete reference of the Table Configuration Array (TCA) which
     maps raw database tables to
