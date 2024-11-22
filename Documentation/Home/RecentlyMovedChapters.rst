@@ -32,7 +32,7 @@ References need to be changed like this:
     +:ref:`TCAdefaults <t3tsref:userTsTcaDefaults>`
 
 Almost all anchors are persevered. The only exception is
-:ref:`Conditions (TScongi) <t3tsref:tsconfig-condition-differences>`. Anchors in
+:ref:`Conditions (TSconfig) <t3tsref:tsconfig-condition-differences>`. Anchors in
 this area have been prefixed with `tsconfig-`:
 
 ..  code-block:: diff
