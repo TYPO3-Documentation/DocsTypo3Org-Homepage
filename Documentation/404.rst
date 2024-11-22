@@ -14,9 +14,9 @@ box on the top of the page.
 
 Or pick one of the following:
 
-* :doc:`Core documentation <h2document:Basics/BasicPrinciples#core-documentation>`__
-* :doc:`Third-party extensions <h2document:Basics/BasicPrinciples#third-party-extensions>`__
-* :doc:`System extensions <h2document:Basics/BasicPrinciples#system-extensions>`__
+* :doc:`Core documentation <h2document:Basics/BasicPrinciples#core-documentation>`
+* :doc:`Third-party extensions <h2document:Basics/BasicPrinciples#third-party-extensions>`
+* :doc:`System extensions <h2document:Basics/BasicPrinciples#system-extensions>`
 
 
 Contact
