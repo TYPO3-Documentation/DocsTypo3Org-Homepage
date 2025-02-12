@@ -8,6 +8,8 @@
         *   :ref:`12.4 <t3coreapi/12:start>`
         *   :ref:`14-dev <t3coreapi/main:start>`
 
+    *   :ref:`<fluid:start>`
+
     *   :ref:`Fluid ViewHelper Reference <t3viewhelper:start>`
 
         *   :ref:`13.4 <t3viewhelper/13:start>`
