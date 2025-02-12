@@ -82,9 +82,12 @@ References
 :doc:`TYPO3 Core changelog <changelog:Index#typo3-core-changelog>`
     Learn what is new in TYPO3 and how to migrate away from deprecated
     functionality.
+:ref:`<fluid:start>`
+    Fluid is a PHP template engine and is the de facto standard for any
+    HTML-based output in the TYPO3 CMS.
 :ref:`Fluid ViewHelper reference <t3viewhelper:start>`
-    Complete reference of all Fluid ViewHelper provided by TYPO3. Used
-    to improve your templates.
+    Complete reference of all Fluid ViewHelpers provided by TYPO3. Used
+    to add logic and functionality to your templates.
 :ref:`TypoScript Explained (including TSconfig) <t3tsref:start>`
     Complete reference of TypoScript settings and configuration options.
     Frontend TypoScript is useful to improve the frontend output of your site,
