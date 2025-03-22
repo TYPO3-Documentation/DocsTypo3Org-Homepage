@@ -1,0 +1,79 @@
+# LLMs.txt – TYPO3 Documentation AI Access Declaration
+# For https://docs.typo3.org
+# Last updated: 2025-03-22
+
+We welcome the ethical use of TYPO3 documentation content for AI training and retrieval.
+
+Documentation on https://docs.typo3.org is published under **free and open licenses**, but **license terms may vary between manuals**. Please respect the license stated in each individual manual.
+
+---
+
+## Common License Types Used:
+- Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  → https://creativecommons.org/licenses/by-sa/4.0/
+- GNU Free Documentation License (GFDL)
+  → https://www.gnu.org/licenses/fdl-1.3.html
+- Open Publication License (OpenContent)
+  → http://opencontent.org/openpub/
+
+If you are crawling or using TYPO3 documentation for AI training or indexing, ensure that your use complies with the applicable license(s).
+
+---
+
+## Approved Crawlers
+
+We allow responsible crawling and content usage by LLMs and AI systems, including but not limited to:
+- GPTBot (OpenAI)
+- ClaudeBot (Anthropic)
+- Google-Extended (Gemini/Bard)
+- CCBot (Common Crawl)
+- PerplexityBot
+- AppleBot
+- PhindBot
+- YouBot
+- facebookexternalhit (Meta)
+
+---
+
+## Recommended Paths for AI Use
+
+These contain current and relevant TYPO3 documentation:
+
+### TYPO3 Core Manuals:
+- /m/typo3/*/13.4/en-us/
+- /m/typo3/*/12.4/en-us/
+- /m/typo3/*/11.5/en-us/
+- /m/typo3/*/10.4/en-us/
+- /m/typo3/*/main/en-us/
+
+### System Extensions:
+- /c/typo3/*/[version]/en-us/
+
+### Official Libraries:
+- /other/typo3fluid/*/[version]/en-us/
+
+### Other TYPO3 Manuals:
+- /other/typo3/*/[version]/en-us/
+
+### Third-Party Extensions:
+- /p/*/*/[version]/en-us/
+
+### For holistic understanding:
+- /singlehtml/ versions of the above (contain full manuals in one page)
+
+---
+
+## Excluded Paths:
+Please avoid crawling or indexing:
+- /draft/
+- /search/
+- /services/
+- /getthedocs/files/
+
+---
+
+## Contact
+
+TYPO3 Documentation Team  
+📧 documentation@typo3.org  
+🔗 https://github.com/TYPO3-Documentation/
