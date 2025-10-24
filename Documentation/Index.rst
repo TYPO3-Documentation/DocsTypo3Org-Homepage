@@ -37,7 +37,7 @@ PHP.
 
         This guide introduces some of the core concepts of TYPO3, guides you
         through installation, helps you set up your first small project with
-        a custom template and gives you information on troubleshooting.
+        a custom template, and gives you information on troubleshooting.
 
         ..  card-footer:: :ref:`Get started with TYPO3 <t3start:start>`
             :button-style: btn btn-secondary stretched-link
@@ -64,8 +64,8 @@ PHP.
         For information about the different versions of TYPO3 and their system
         requirements, visit https://get.typo3.org
 
-        You can also download the the sources from there. We suggest to
-        :ref:`Install TYPO3 using Composer <t3start:install>`, however.
+        You can also download the sources from there. We suggest
+        :ref:`Installing TYPO3 using Composer <t3start:install>`, however.
 
         ..  card-footer:: `Download TYPO3 <https://get.typo3.org>`__
             :button-style: btn btn-secondary stretched-link
@@ -78,7 +78,7 @@ References
 :ref:`TYPO3 explained <t3coreapi:api-overview>`
     The main document for advanced developers and integrators. It describes
     the API, coding guidelines, configuration options and security
-    guidelines. Introduces creating extension to enhance TYPO3.
+    guidelines. Introduces creating an extension to enhance TYPO3.
 :doc:`TYPO3 Core changelog <changelog:Index#typo3-core-changelog>`
     Learn what is new in TYPO3 and how to migrate away from deprecated
     functionality.
@@ -90,8 +90,8 @@ References
     to add logic and functionality to your templates.
 :ref:`TypoScript Explained (including TSconfig) <t3tsref:start>`
     Complete reference of TypoScript settings and configuration options.
-    Frontend TypoScript is useful to improve the frontend output of your site,
-    TSconfig options to customize the TYPO3 backend.
+    Frontend TypoScript is useful to improve the frontend output of your site, 
+    while TSconfig options let you customize the TYPO3 backend.
 :ref:`TCA reference <t3tca:start>`
     Complete reference of the Table Configuration Array (TCA) which
     maps raw database tables to
