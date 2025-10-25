@@ -197,7 +197,7 @@
 
         *   :doc:`13.4 <typo3/cms-webhooks/main:Index>`
         *   :doc:`12.4 <typo3/cms-webhooks/12:Index>`
-        *   :doc:`14-dev <cms-webhooks/main:Index>`
+        *   :doc:`14-dev <typo3/cms-webhooks/main:Index>`
 
     *   :doc:`workspaces <typo3/cms-workspaces:Index>`
 
