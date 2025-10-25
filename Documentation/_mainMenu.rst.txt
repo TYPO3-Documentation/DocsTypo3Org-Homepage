@@ -193,7 +193,7 @@
 
         *   :doc:`12.4 <typo3/cms-t3editor/12:Index>`
 
-    *   :doc:`webhooks <typo3/cms-webhooks/Index>`
+    *   :doc:`webhooks <typo3/cms-webhooks/13:Index>`
 
         *   :doc:`13.4 <typo3/cms-webhooks/main:Index>`
         *   :doc:`12.4 <typo3/cms-webhooks/12:Index>`
