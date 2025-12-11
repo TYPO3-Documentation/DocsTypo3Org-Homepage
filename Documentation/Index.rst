@@ -96,3 +96,13 @@ References
     Complete reference of the Table Configuration Array (TCA) which
     maps raw database tables to
     records in the TYPO3 backend and in Extbase.
+
+Further documentation
+=====================
+
+You can find a lot more documentation with a click on "**All documentation**" in the top
+menu bar.
+
+Documentation for community extensions can be found with the "**Search**"
+link in the top menu bar, or also via the further links in the detail view of a specific extension in the
+`TYPO3 Extension Repository (TER) <https://extensions.typo3.org>`__.
