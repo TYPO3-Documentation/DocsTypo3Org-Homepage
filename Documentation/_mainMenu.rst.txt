@@ -94,7 +94,7 @@
     *   :doc:`camino <typo3/theme-camino/main:Index>`
 
         *   :doc:`main <typo3/theme-camino/main:Index>`
-        *   :doc:`14.1 <typo3/theme-camino/14:Index>`
+        *   :doc:`14-dev <typo3/theme-camino/14:Index>`
 
     *   :doc:`dashboard <typo3/cms-dashboard:Index>`
 
