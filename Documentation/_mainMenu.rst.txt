@@ -91,6 +91,10 @@
         *   :doc:`12.4 <typo3/cms-adminpanel/12:Index>`
         *   :doc:`14-dev <typo3/cms-adminpanel/main:Index>`
 
+    *   :doc:`camino <typo3/theme-camino:Index>`
+
+        *   :doc:`main <typo3/theme-camino/main:Index>`
+
     *   :doc:`dashboard <typo3/cms-dashboard:Index>`
 
         *   :doc:`13.4 <typo3/cms-dashboard/13:Index>`
