@@ -10,11 +10,11 @@
 
 * In order to make changes on a [rendered page](https://docs.typo3.org/), just click on "Edit me on GitHub".
 * For a step-by-step walkthrough for making a change, see [Contribute to docs.typo3.org](https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/Index.html)
-* For a step-by-step walkthrough of alternative workflow, see [Local Editing and Rendering with Docker](https://docs.typo3.org/typo3cms/HowToDocument/WritingDocsOfficial/LocalEditing.html)
+* For a step-by-step walkthrough of alternative workflow, see [Local Editing and Rendering with Docker](https://docs.typo3.org/permalink/h2document:docs-contribute-git-docker)
 
 ## Get help
 
-* If you need help with contributing to the docs, see [How to get Help](https://docs.typo3.org/typo3cms/HowToDocument/HowToGetHelp.html)
+* If you need help with contributing to the docs, see [Help and support](https://docs.typo3.org/permalink/h2document:get-help-on-writing-docs)
 
 # Contribute to TYPO3 Core
 
@@ -22,4 +22,4 @@
 
 # General TYPO3 Support
 
-If you have some general TYPO3 support questions or need help with TYPO3, please see https://typo3.org/help.
+If you have some general TYPO3 support questions or need help with TYPO3, please see https://typo3.community/help.
