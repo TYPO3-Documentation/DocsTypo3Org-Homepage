@@ -8,6 +8,25 @@ Recently moved chapters
 
 ..  contents::
 
+..  _recently-moved-fluid:
+
+Consolidation of Fluid Documentation
+====================================
+
+*Starting with the documentation of TYPO3 13.4*
+
+Parts of TYPO3's Fluid documentation are moved to the documentation of Fluid Standalone,
+because they are not specific to TYPO3.
+
+You find the chapters here now:
+
+*   `Tag-based ViewHelpers <https://docs.typo3.org/permalink/fluid:tagbased-viewhelpers>`_
+*   `Fluid Syntax <https://docs.typo3.org/permalink/fluid:syntax>`_
+
+A separate chapter about the cObject ViewHelper has been moved to the ViewHelper reference:
+
+*   `CObject ViewHelper <f:cObject> <https://docs.typo3.org/permalink/t3viewhelper:typo3-fluid-cobject>`_
+
 ..  _recently-moved-tsconfig:
 
 TSconfig reference into TypoScript Explained
