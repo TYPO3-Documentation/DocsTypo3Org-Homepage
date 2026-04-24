@@ -12,12 +12,12 @@
     <meta content="" name="docsearch:package_type">
     <meta content="2.0" name="docsearch:release">
     <meta content="2.0" name="docsearch:version">
-    <meta content="2026-04-21T03:48:40+00:00" name="docsearch:modified">
-    <meta content="2026-04-21T03:48:40+00:00" name="dc.modified">
-    <meta content="2026-04-21T03:48:40+00:00" property="article:modified_time">
+    <meta content="2026-04-23T16:38:40+00:00" name="docsearch:modified">
+    <meta content="2026-04-23T16:38:40+00:00" name="dc.modified">
+    <meta content="2026-04-23T16:38:40+00:00" property="article:modified_time">
     <meta name="x-typo3-indexer" content="noindex">
     <meta name="robots" content="noindex">    <link href="http://purl.org/dc/elements/1.1/" rel="schema.dc">
-    <link href="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.22.2/css/theme.css" rel="stylesheet">
+    <link href="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.37.1/css/theme.css" rel="stylesheet">
     <link href="https://docs.typo3.org/search/" rel="search" title="Search">
     <script src="https://cdn.typo3.com/typo3infrastructure/universe/dist/webcomponents-loader.js"></script>
     <script src="https://cdn.typo3.com/typo3infrastructure/universe/dist/typo3-universe.js" type="module"></script>
@@ -38,7 +38,7 @@
                 <div class="d-flex flex-wrap">
                     <div class="logo-wrapper">
                         <a class="logo" href="https://docs.typo3.org/" title="TYPO3 Documentation">
-                            <img alt="TYPO3 Logo" class="logo-image" src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.22.2/img/typo3-logo.svg" width="484" height="130">
+                            <img alt="TYPO3 Logo" class="logo-image" src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.37.1/img/typo3-logo.svg" width="484" height="130">
                         </a>
                     </div>
                     <div class="align-self-center order-lg-2 order-last">
@@ -47,7 +47,8 @@
                             <div class="toc-title pe-3">
                                 <a class="toc-title-project" href="https://docs.typo3.org/">Welcome to the official TYPO3 Documentation</a>
                             </div>
-                        </div>                </div>
+                        </div>
+                    </div>
                     <div class="ms-auto order-lg-3 d-flex">
                         <div class="menu-search-wrapper">
                             <button id="toc-toggle" class="btn btn-light d-block d-lg-none" tabindex="0" aria-controls="toc-collapse" aria-expanded="false">
@@ -61,7 +62,7 @@
                                         <select class="form-select search__scope" id="searchscope" name="scope">
                                             <option value="">Search all</option>
                                         </select>
-                                        <input autocomplete="off" class="form-control shadow-none" id="globalsearchinput" name="q" placeholder="TYPO3 documentation..." type="text" value="">
+                                        <input autocomplete="off" class="form-control shadow-none" id="globalsearchinput" name="q" placeholder="TYPO3 documentation..."   type="text" value="">
                                         <button class="btn btn-light" type="submit"><i class="fa fa-search"></i>&nbsp;<span class="d-none d-md-inline">Search</span></button>
                                     </div>
                                 </form>
@@ -77,10 +78,25 @@
                                      role="menu"
                                      aria-hidden="true">
                                     <h6 class="dropdown-header text-muted text-uppercase small mb-2">Options</h6>
-
                                     <a class="dropdown-item d-flex align-items-center gap-2" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues/new/choose?title=Problem+on+https%3A%2F%2Fdocs.typo3.org%2FHome%2FApiTypo3Org.html" id="btnReportIssue" rel="nofollow noopener" target="_blank">
-                                        <i class="fas fa-comment-dots"></i>
-                                        Give feedback
+                                          <i class="fas fa-comment-dots"></i>
+                                          Give feedback
+                                    </a>
+                                    <a class="dropdown-item d-flex align-items-center gap-2" href="../_sources/Home/ApiTypo3Org.rst.txt" rel="nofollow noopener" target="_blank">
+                                        <i class="fas fa-code"></i>
+                                        View source
+                                    </a>
+                                    <a class="dropdown-item d-flex align-items-center gap-2" href="https://docs.typo3.org/m/typo3/docs-how-to-document/main/en-us/WritingDocsOfficial/GithubMethod.html" id="btnHowToEdit" rel="nofollow noopener" target="_blank">
+                                        <i class="fas fa-info-circle"></i>
+                                        How to edit
+                                    </a>
+                                    <a class="dropdown-item d-flex align-items-center gap-2" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/edit/main/Documentation/Home/ApiTypo3Org.rst" id="btnEditOnGitHub" rel="nofollow noopener" target="_blank">
+                                        <i class="fab fa-github"></i>
+                                        Edit on GitHub
+                                    </a>
+                                    <a class="dropdown-item d-flex align-items-center gap-2" href="../singlehtml/Index.html" target="_blank" rel="noopener">
+                                        <i class="fas fa-print"></i>
+                                        Full documentation (single file)
                                     </a>
                                 </div>
                             </div>
@@ -89,161 +105,169 @@
                 </div>
             </div>
         </div>
-    </header>    <main class="page-main">
-    <div class="page-main-inner">
-        <div class="page-main-navigation">
-            <nav>
-
-                <div id="toc-collapse">
-                    <div aria-label="main navigation" class="toc"
-                         role="navigation">
-                        <all-documentations-menu-mobile></all-documentations-menu-mobile>
-                        <div aria-label="Main navigation" class="main_menu" role="navigation">
-                            <p class="caption">Welcome to the official TYPO3 Documentation</p>
+    </header>
+    <main class="page-main">
+        <div class="page-main-inner">
+            <div class="page-main-navigation">
+                <nav>
+                    <div id="toc-collapse">
+                        <div aria-label="main navigation" class="toc"
+                             role="navigation">
+                            <all-documentations-menu-mobile></all-documentations-menu-mobile>
+                            <div aria-label="Main navigation" class="main_menu" role="navigation">
+                                <p class="caption">Welcome to the official TYPO3 Documentation</p>
+                                <ul class="menu-level-1" role="menubar">
+                                    <li class="" role="menuitem">
+                                        <a href="RecentlyMovedChapters.html">
+                                            Recently moved chapters
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </nav>
+                </nav>
+            </div>
+            <div class="page-main-content">
+                <div class="rst-content">
+                    <nav aria-label="breadcrumbs navigation" class="breadcrumb-bar" role="navigation">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="../Index.html">Welcome to the official TYPO3 Documentation</a></li>
+                            <li aria-current="page"  class="breadcrumb-item  active">Welcome to the official TYPO3 API Documentation</li>
+                        </ol>
+                        <div class="breadcrumb-additions">
+                            <a class="btn btn-sm btn-light" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues/new/choose?title=Problem+on+https%3A%2F%2Fdocs.typo3.org%2FHome%2FApiTypo3Org.html" id="btnReportIssue" rel="nofollow noopener" target="_blank">
+                                <span class="btn-icon"><i class="fas fa-comment-dots"></i></span>
+                                <span class="btn-text">Give feedback</span>
+                            </a>
+                            <a class="btn btn-sm btn-secondary" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/edit/main/Documentation/Home/ApiTypo3Org.rst" id="btnEditOnGitHub" rel="nofollow noopener" target="_blank">
+                                <span class="btn-icon"><span class="fab fa-github"></span></span>
+                                <span class="btn-text">Edit on GitHub</span>
+                            </a>
+                        </div>
+                    </nav>
+
+<article class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
+    <div itemprop="articleBody">
+        <!-- content start -->
+
+<section class="section" id="welcome-to-the-official-typo3-api-documentation" data-rst-anchor="apilanding">
+            <a id="apilanding"></a>
+            <h1>Welcome to the official TYPO3 API Documentation<a class="headerlink" href="#welcome-to-the-official-typo3-api-documentation" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h1>
+
+    <p>TYPO3 source code is well documented and allows you to understand many internals
+just by browsing through the various classes and methods.</p>
+
+            <div class="row card-group pb-4 row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+            <div class="card h-100">
+            <div class="card-body">
+        <h3><a href="https://api.typo3.org/main/">TYPO3 14.3 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h3>
+        <div class="card-text">
+
+    <p>Automatically generated API from the
+<a href="https://github.com/typo3/typo3">14.3 (current stable)</a> branch of TYPO3.</p>
+
         </div>
-        <div class="page-main-content">
-            <div class="rst-content">                        <nav aria-label="breadcrumbs navigation" class="breadcrumb-bar" role="navigation">
-
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="https://docs.typo3.org/">Welcome to the official TYPO3 Documentation</a></li>
-                    <li aria-current="page"  class="breadcrumb-item  active">Welcome to the official TYPO3 API Documentation</li>
-                </ol>
-                <div class="breadcrumb-additions">                <a class="btn btn-sm btn-light" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues/new/choose?title=Problem+on+https%3A%2F%2Fdocs.typo3.org%2FHome%2FApiTypo3Org.html" id="btnReportIssue" rel="nofollow noopener" target="_blank">
-                    <span class="btn-icon"><i class="fas fa-comment-dots"></i></span>
-                    <span class="btn-text">Give feedback</span>
-                </a>
-                    <a class="btn btn-sm btn-secondary" href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/edit/main/Documentation/Home/ApiTypo3Org.rst" id="btnEditOnGitHub" rel="nofollow noopener" target="_blank">
-                        <span class="btn-icon"><span class="fab fa-github"></span></span>
-                        <span class="btn-text">Edit on GitHub</span>
-                    </a>
-                </div>
-            </nav>
-
-                <article class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
-                    <div itemprop="articleBody">
-                        <!-- content start -->
-
-                        <section class="section" id="welcome-to-the-official-typo3-api-documentation" data-rst-anchor="apilanding">
-                            <a id="apilanding"></a>
-                            <h1>Welcome to the official TYPO3 API Documentation<a class="headerlink" href="#welcome-to-the-official-typo3-api-documentation" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h1>
-
-                            <p>TYPO3 source code is well documented and allows you to understand many internals
-                                just by browsing through the various classes and methods.</p>
-
-                            <div class="row card-group pb-4 row-cols-1 row-cols-md-3 g-4">
-                                <div class="col">
-                                    <div class="card h-100">
-                                        <div class="card-body">
-                                            <h3><a href="https://api.typo3.org/main/">TYPO3 14.3 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h3>
-                                            <div class="card-text">
-
-                                                <p>Automatically generated API from the
-                                                    <a href="https://github.com/typo3/typo3">14.3 (current stable)</a> branch of TYPO3.</p>
-
-                                            </div>
-                                        </div>
-                                        <div class="card-footer ">
-                                            <a href="https://api.typo3.org/main/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Index.html#start" class="btn btn-light">Docs</a>
-                                        </div>
-                                    </div>
-                                </div><div class="col">
-                                <div class="card h-100">
-                                    <div class="card-body">
-                                        <h3><a href="https://api.typo3.org/13.4/">TYPO3 13.4 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h3>
-                                        <div class="card-text">
-
-                                            <p>Automatically generated API from the
-                                                <a href="https://github.com/typo3/typo3/tree/13.4">13.4 (old stable)</a> branch of TYPO3.</p>
-
-                                        </div>
-                                    </div>
-                                    <div class="card-footer ">
-                                        <a href="https://api.typo3.org/13.4/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/13.4" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/Index.html#start" class="btn btn-light">Docs</a>
-                                    </div>
+    </div>
+                                <div class="card-footer ">
+                            <a href="https://api.typo3.org/main/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/Index.html#start" class="btn btn-light">Docs</a>
                                 </div>
-                            </div></div>
-                            <section class="section" id="api-for-older-typo3-versions" data-rst-anchor="apilanding-elts">
-                                <a id="apilanding_elts"></a>
-                                <h2>API for older TYPO3 Versions<a class="headerlink" href="#api-for-older-typo3-versions" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h2>
+    </div>
+        </div><div class="col">
+            <div class="card h-100">
+            <div class="card-body">
+        <h3><a href="https://api.typo3.org/13.4/">TYPO3 13.4 API</a><a class="headerlink" href="#card" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h3>
+        <div class="card-text">
+
+    <p>Automatically generated API from the
+<a href="https://github.com/typo3/typo3/tree/13.4">13.4 (old stable)</a> branch of TYPO3.</p>
+
+        </div>
+    </div>
+                                <div class="card-footer ">
+                            <a href="https://api.typo3.org/13.4/" class="btn btn-light">API</a> <a href="https://github.com/typo3/typo3/tree/13.4" class="btn btn-light">GitHub</a> <a href="https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/Index.html#start" class="btn btn-light">Docs</a>
+                                </div>
+    </div>
+        </div></div>
+            <section class="section" id="api-for-older-typo3-versions" data-rst-anchor="apilanding-elts">
+            <a id="apilanding_elts"></a>
+            <h2>API for older TYPO3 Versions<a class="headerlink" href="#api-for-older-typo3-versions" data-bs-toggle="modal" data-bs-target="#linkReferenceModal"  title="Reference this headline">&nbsp;<i class="fa-solid fa-link"></i></a></h2>
 
 
-                                <ul>
-                                    <li><a href="https://api.typo3.org/12.4/">TYPO3 12.4 API</a></li>
-                                </ul>
+<ul>
+    <li><a href="https://api.typo3.org/12.4/">TYPO3 12.4 API</a></li>
+</ul>
 
-                            </section>
-                        </section>
-                        <!-- content end -->
+    </section>
+    </section>
+        <!-- content end -->
+    </div>
+</article>
+
                     </div>
-                </article>
+            </div>
+        </div>
+    </main>
 
+    <div class="modal fade" id="linkReferenceModal" tabindex="-1" aria-labelledby="linkReferenceModalLabel"
+    aria-hidden="true" data-current-filename="Home/ApiTypo3Org" data-interlink-shortcode="t3docs">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="linkReferenceModalLabel">Reference to the headline</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-success d-none" id="permalink-alert-success" role="alert"></div>
+                <div class="mb-3">
+                    <div class="permalink-short-wrapper">
+                        <label for="permalink-short" class="col-form-label">Permalink (Shortlink)</label>
+                        <div class="input-group">
+                            <input class="form-control code" id="permalink-short" readonly>
+                            <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-short"><i class="far fa-clone"></i></button>
+                        </div>
+                        <p><em>Copy and freely share the link</em></p>
+                    </div>
+                    <label for="permalink-uri" class="col-form-label">URL</label>
+                    <div class="input-group">
+                        <input class="form-control code" id="permalink-uri" readonly>
+                        <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-uri"><i class="far fa-clone"></i></button>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <div class="alert alert-warning alert-permalink-rst" role="alert">This link target has no permanent anchor assigned.                        You can make a <a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/edit/main/Documentation/Home/ApiTypo3Org.rst">pull request on GitHub</a> to suggest an anchor.
+                        The link below can be used, but is prone to change if the page gets moved.
+                    </div>
+                    <label for="permalink-rst" class="col-form-label">Link in reStructuredText (reST)</label>
+                    <div class="input-group">
+                        <textarea class="form-control code" id="permalink-rst" readonly></textarea>
+                        <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-rst"><i class="far fa-clone"></i></button>
+                    </div>
+                    <p><em>Copy this link into your TYPO3 manual.</em></p>
+                </div>
+                <div class="mb-3">
+                    <label for="permalink-md" class="col-form-label">Link in Markdown</label>
+                    <div class="input-group">
+                        <textarea class="form-control code" id="permalink-md" readonly></textarea>
+                        <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-md"><i class="far fa-clone"></i></button>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="permalink-html" class="col-form-label">Link in HTML</label>
+                                        <div class="input-group">
+                        <textarea class="form-control code" id="permalink-html" readonly></textarea>
+                        <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-html"><i class="far fa-clone"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
         </div>
     </div>
-</main>
-
-    <div class="modal fade" id="linkReferenceModal" tabindex="-1" aria-labelledby="linkReferenceModalLabel"
-         aria-hidden="true" data-current-filename="Home/ApiTypo3Org" data-interlink-shortcode="t3docs">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="linkReferenceModalLabel">Reference to the headline</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="alert alert-success d-none" id="permalink-alert-success" role="alert"></div>
-                    <div class="mb-3">
-                        <div class="permalink-short-wrapper">
-                            <label for="permalink-short" class="col-form-label">Permalink (Shortlink)</label>
-                            <div class="input-group">
-                                <input class="form-control code" id="permalink-short" readonly>
-                                <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-short"><i class="far fa-clone"></i></button>
-                            </div>
-                            <p><em>Copy and freely share the link</em></p>
-                        </div>
-                        <label for="permalink-uri" class="col-form-label">URL</label>
-                        <div class="input-group">
-                            <input class="form-control code" id="permalink-uri" readonly>
-                            <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-uri"><i class="far fa-clone"></i></button>
-                        </div>
-                    </div>
-                    <div class="mb-3">
-                        <div class="alert alert-warning alert-permalink-rst" role="alert">This link target has no permanent anchor assigned.                        You can make a <a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/edit/main/Documentation/Home/ApiTypo3Org.rst">pull request on GitHub</a> to suggest an anchor.
-                            The link below can be used, but is prone to change if the page gets moved.
-                        </div>
-                        <label for="permalink-rst" class="col-form-label">Link in reStructuredText (reST)</label>
-                        <div class="input-group">
-                            <textarea class="form-control code" id="permalink-rst" readonly></textarea>
-                            <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-rst"><i class="far fa-clone"></i></button>
-                        </div>
-                        <p><em>Copy this link into your TYPO3 manual.</em></p>
-                    </div>
-                    <div class="mb-3">
-                        <label for="permalink-md" class="col-form-label">Link in Markdown</label>
-                        <div class="input-group">
-                            <textarea class="form-control code" id="permalink-md" readonly></textarea>
-                            <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-md"><i class="far fa-clone"></i></button>
-                        </div>
-                    </div>
-                    <div class="mb-3">
-                        <label for="permalink-html" class="col-form-label">Link in HTML</label>
-                        <div class="input-group">
-                            <textarea class="form-control code" id="permalink-html" readonly></textarea>
-                            <button type="button" class="btn btn-outline-secondary copy-button" data-target="permalink-html"><i class="far fa-clone"></i></button>
-                        </div>
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>    <div class="modal fade" id="generalModal" tabindex="-1" aria-labelledby="linkReferenceModalLabel"
-                   aria-hidden="true" data-current-filename="Home/ApiTypo3Org"
+</div>    <div class="modal fade" id="generalModal" tabindex="-1" aria-labelledby="linkReferenceModalLabel"
+    aria-hidden="true" data-current-filename="Home/ApiTypo3Org"
 >
     <div class="modal-dialog">
         <div class="modal-content">
@@ -270,15 +294,15 @@
         <div class="frame-container">
             <div class="frame-inner">
                 <ul class="footer-simplemenu">
-                    <li><a href="https://docs.typo3.org" title="Home" rel="nofollow noopener"><span>Home</span></a></li>
-                    <li><a href="https://typo3.slack.com/archives/C028JEPJL" title="Contact" rel="nofollow noopener"><span>Contact</span></a></li>
-                    <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues" rel="nofollow noopener" title="Issues"><span>Issues</span></a></li>
-                    <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage" rel="nofollow noopener" title="Repository"><span>Repository</span></a></li>
-                </ul>                <div class="footer-additional">
-                <p class="text-center">Last rendered: Apr 21, 2026 03:48</p>
-            </div>
+                        <li><a href="https://docs.typo3.org" title="Home" rel="nofollow noopener"><span>Home</span></a></li>
+                                                <li><a href="https://typo3.slack.com/archives/C028JEPJL" title="Contact" rel="nofollow noopener"><span>Contact</span></a></li>
+                                                <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage/issues" rel="nofollow noopener" title="Issues"><span>Issues</span></a></li>
+                                                <li><a href="https://github.com/TYPO3-Documentation/DocsTypo3Org-Homepage" rel="nofollow noopener" title="Repository"><span>Repository</span></a></li>
+                                            </ul>                <div class="footer-additional">
+                    <p class="text-center">Last rendered: Apr 23, 2026 16:38</p>
+                </div>
                 <div class="footer-meta">
-                    <div class="footer-meta-copyright">
+                                        <div class="footer-meta-copyright">
                         &copy; since 2014 by the TYPO3 contributors
                     </div>
                     <ul class="footer-meta-navigation">
@@ -290,9 +314,9 @@
         </div>
     </div>
 </footer>
-<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.22.2/js/popper.min.js"></script>
-<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.22.2/js/bootstrap.min.js"></script>
-<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.22.2/js/theme.min.js"></script>
+<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.37.1/js/popper.min.js"></script>
+<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.37.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.typo3.com/typo3documentation/theme/typo3-docs-theme/0.37.1/js/theme.min.js"></script>
 
 <!--
  Locally rendered. No tracking embedded.
