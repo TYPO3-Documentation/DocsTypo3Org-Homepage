@@ -16,14 +16,6 @@
              release="2.0"
              version="2.0"
              copyright="since 2014 by the TYPO3 contributors"/>
-    <inventory id="t3coreapimain" url="https://docs.typo3.org/m/typo3/reference-coreapi/main/en-us/"/>
-    <inventory id="t3l10n" url="https://docs.typo3.org/m/typo3/guide-frontendlocalization/12.4/en-us/"/>
-    <inventory id="t3upgrade" url="https://docs.typo3.org/m/typo3/guide-installation/12.4/en-us/"/>
-    <inventory id="ext_core" url="https://docs.typo3.org/c/typo3/cms-core/main/en-us/"/>
-    <inventory id="ext_form" url="https://docs.typo3.org/c/typo3/cms-form/main/en-us/"/>
-    <inventory id="t3fal" url="https://docs.typo3.org/m/typo3/reference-fal/main/en-us/"/>
-    <inventory id="t3inside" url="https://docs.typo3.org/m/typo3/reference-inside/main/en-us/"/>
-    <inventory id="t3services" url="https://docs.typo3.org/m/typo3/reference-services/main/en-us/"/>
     <output-format>html</output-format>
     <output-format>singlepage</output-format>
     <output-format>interlink</output-format>
