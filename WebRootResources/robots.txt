@@ -4,15 +4,16 @@
 User-agent: *
 Disallow: /getthedocs/files/
 Disallow: /services/
-Disallow: /search/*
+Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
 
 # =============================================
-# AI-specific access rules for large language models
-# Equal access for all major AI bots
+# AI and LLM-related crawlers
+# Access limited to consolidated documentation
 # =============================================
 
+User-agent: Amazonbot
 User-agent: GPTBot
 User-agent: ClaudeBot
 User-agent: Google-Extended
@@ -21,52 +22,42 @@ User-agent: PerplexityBot
 User-agent: AppleBot
 User-agent: PhindBot
 User-agent: YouBot
-User-agent: facebookexternalhit
+
+Disallow: /
+Allow: /llms.txt
+Allow: /permalink/
 
 # TYPO3 Core manuals (LTS, eLTS, dev)
-Allow: /m/typo3/*/13.4/en-us/
-Allow: /m/typo3/*/13.4/en-us/singlehtml/
-Allow: /m/typo3/*/12.4/en-us/
-Allow: /m/typo3/*/12.4/en-us/singlehtml/
-Allow: /m/typo3/*/11.5/en-us/
-Allow: /m/typo3/*/11.5/en-us/singlehtml/
-Allow: /m/typo3/*/10.4/en-us/
-Allow: /m/typo3/*/10.4/en-us/singlehtml/
-Allow: /m/typo3/*/main/en-us/
 Allow: /m/typo3/*/main/en-us/singlehtml/
+Allow: /m/typo3/*/14.3/en-us/singlehtml/
+Allow: /m/typo3/*/13.4/en-us/singlehtml/
+Allow: /m/typo3/*/12.4/en-us/singlehtml/
+Allow: /m/typo3/*/11.5/en-us/singlehtml/
+Allow: /m/typo3/*/10.4/en-us/singlehtml/
 
 # System extensions
-Allow: /c/typo3/*/13.4/en-us/
-Allow: /c/typo3/*/13.4/en-us/singlehtml/
-Allow: /c/typo3/*/12.4/en-us/
-Allow: /c/typo3/*/12.4/en-us/singlehtml/
-Allow: /c/typo3/*/main/en-us/
 Allow: /c/typo3/*/main/en-us/singlehtml/
+Allow: /c/typo3/*/14.3/en-us/singlehtml/
+Allow: /c/typo3/*/13.4/en-us/singlehtml/
+Allow: /c/typo3/*/12.4/en-us/singlehtml/
+Allow: /c/typo3/*/11.5/en-us/singlehtml/
+Allow: /c/typo3/*/10.4/en-us/singlehtml/
 
 # Official TYPO3 libraries (e.g. Fluid)
-Allow: /other/typo3fluid/*/main/en-us/
 Allow: /other/typo3fluid/*/main/en-us/singlehtml/
-Allow: /other/typo3fluid/*/2.*/en-us/
-Allow: /other/typo3fluid/*/2.*/en-us/singlehtml/
+Allow: /other/typo3fluid/*/5.3/en-us/singlehtml/
+Allow: /other/typo3fluid/*/4.6/en-us/singlehtml/
+Allow: /other/typo3fluid/*/2.16/en-us/singlehtml/
 
 # Other official manuals
-Allow: /other/typo3/*/13.4/en-us/
-Allow: /other/typo3/*/13.4/en-us/singlehtml/
-Allow: /other/typo3/*/12.4/en-us/
-Allow: /other/typo3/*/12.4/en-us/singlehtml/
-Allow: /other/typo3/*/main/en-us/
 Allow: /other/typo3/*/main/en-us/singlehtml/
+Allow: /other/typo3/*/14.3/en-us/singlehtml/
+Allow: /other/typo3/*/13.4/en-us/singlehtml/
+Allow: /other/typo3/*/12.4/en-us/singlehtml/
+Allow: /other/typo3/*/11.5/en-us/singlehtml/
+Allow: /other/typo3/*/10.4/en-us/singlehtml/
 
 # Third-party extensions
-Allow: /p/*/*/main/en-us/
-Allow: /p/*/*/main/en-us/singlehtml/
-Allow: /p/*/*/10.*/en-us/
-Allow: /p/*/*/10.*/en-us/singlehtml/
-Allow: /p/*/*/11.*/en-us/
-Allow: /p/*/*/11.*/en-us/singlehtml/
+Allow: /p/*/*/*/en-us/singlehtml/
 
-# Disallow internal or irrelevant areas
-Disallow: /search/
-Disallow: /services/
-Disallow: /getthedocs/files/
-Disallow: */draft/*
+
