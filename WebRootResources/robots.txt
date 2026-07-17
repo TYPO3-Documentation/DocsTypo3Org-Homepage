@@ -25,6 +25,7 @@ User-agent: YouBot
 
 Disallow: /
 Allow: /llms.txt
+Allow: /permalink/
 
 # TYPO3 Core manuals (LTS, eLTS, dev)
 Allow: /m/typo3/*/main/en-us/singlehtml/
