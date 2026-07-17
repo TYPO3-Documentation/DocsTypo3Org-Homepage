@@ -24,6 +24,7 @@ User-agent: PhindBot
 User-agent: YouBot
 
 Disallow: /
+Allow: /llms.txt
 
 # TYPO3 Core manuals (LTS, eLTS, dev)
 Allow: /m/typo3/*/main/en-us/singlehtml/
