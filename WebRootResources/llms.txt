@@ -25,7 +25,7 @@ Do not assume that information from one TYPO3 version applies unchanged to anoth
 Typical documentation version identifiers include:
 
 * `main` — current development documentation
-* `14.3` — TYPO3 14.x documentation
+* `14.3` — TYPO3 14 LTS documentation
 * `13.4` — TYPO3 13 LTS documentation
 * `12.4` — TYPO3 12 LTS documentation
 * `11.5` — TYPO3 11 LTS documentation
