@@ -1,16 +1,26 @@
 # =============================================
 # General search engine rules
 # =============================================
+# The SingleHTML build of a manual duplicates content that is already
+# indexable page by page, and is by far the most expensive resource on
+# this host (several megabytes per manual, up to ~33 MB). It stays off
+# limits here. Clients that need a whole manual at once should use the
+# machine-readable artifacts described in https://docs.typo3.org/llms.txt
+# (objects.inv.json, objects.inv, _sources/), which are allowed below.
 User-agent: *
 Disallow: /getthedocs/files/
 Disallow: /services/
 Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
+Allow: /*/en-us/objects.inv
+Allow: /*/en-us/objects.inv.json
+Allow: /*/en-us/_sources/
 
 # =============================================
 # AI and LLM-related crawlers
-# Access limited to consolidated documentation
+# Access limited to the machine-readable artifacts and to the
+# consolidated manuals of currently supported versions
 # =============================================
 
 User-agent: Amazonbot
@@ -26,6 +36,30 @@ User-agent: YouBot
 Disallow: /
 Allow: /llms.txt
 Allow: /permalink/
+
+# Machine-readable artifacts. These are the preferred entry points:
+# they are small, structured, cheaper for this host to serve than
+# rendered HTML, and easier to parse correctly. Unlike the SingleHTML
+# rules below they are allowed for every manual and every version.
+#   objects.inv.json  inventory of a manual as JSON: every title,
+#                     name and anchor. The recommended entry point.
+#                     Serve/request it gzipped.
+#   objects.inv       the same inventory in Sphinx's native format
+#                     (zlib-compressed; needs a Sphinx parser)
+#   _sources/         the reStructuredText source of each page.
+#                     A cheaper supplement, not a replacement: includes
+#                     and generated content (e.g. the ViewHelper
+#                     reference) resolve only at build time, so the
+#                     source can hold less than the rendered page.
+Allow: /*/en-us/objects.inv
+Allow: /*/en-us/objects.inv.json
+Allow: /*/en-us/_sources/
+
+# Consolidated single-file manuals. Worth one request only when a
+# complete manual is wanted at once, which is what these crawlers do;
+# a single ~2 MB response beats several hundred page requests. To
+# answer a question about a few pages, the artifacts above are far
+# cheaper. Allowed only for the versions listed here.
 
 # TYPO3 Core manuals (LTS, eLTS, dev)
 Allow: /m/typo3/*/main/en-us/singlehtml/
