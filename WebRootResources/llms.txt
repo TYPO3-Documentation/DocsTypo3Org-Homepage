@@ -6,9 +6,11 @@ TYPO3 is an open-source enterprise content management system.
 
 The official TYPO3 documentation is available at https://docs.typo3.org/.
 
-For efficient machine consumption, automated AI systems should prefer the consolidated SingleHTML representation of each manual. These pages contain the complete content of a documentation manual in a single resource and reduce the number of requests required to retrieve documentation.
+For efficient machine consumption, use the JSON inventory published alongside every manual (`objects.inv.json`) to find out what a manual contains and which pages are relevant, then retrieve only those pages. This is far cheaper than crawling, for you and for this host. See "Machine-Readable Artifacts" below.
 
-Crawling permissions are defined separately in https://docs.typo3.org/robots.txt and must be respected.
+The reStructuredText source of each page is also published (`_sources/`) and is smaller than the rendered page, but it does not currently contain the complete content of every page. Do not rely on it alone; see the warning in that section.
+
+Crawling permissions are defined separately in https://docs.typo3.org/robots.txt and must be respected. In particular, the consolidated SingleHTML representation is not available to every client; see "Preferred Documentation Format" and "Crawling Guidance" below.
 
 ## Documentation Versions
 
@@ -33,21 +35,63 @@ Typical documentation version identifiers include:
 
 Additional versions may exist for individual documentation projects.
 
+## Machine-Readable Artifacts
+
+Every manual publishes the following artifacts next to its rendered pages. They are available for all documentation paths (`/m/`, `/c/`, `/other/`, `/p/`) and for every version, and robots.txt allows them for all clients.
+
+Inventory of a manual, as JSON. This is the recommended entry point:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/objects.inv.json
+
+The inventory lists every document, section, anchor and named entity in the manual, with its title and target URL. Use it to discover what a manual contains and to resolve a topic to an exact page URL, instead of crawling to find out.
+
+It is plain JSON and needs no special tooling to read.
+
+**Request it with `Accept-Encoding: gzip`.** The uncompressed file reaches several megabytes for a large manual; compressed it is a few hundred kilobytes, and the host serves it compressed on request. Fetching it uncompressed wastes bandwidth for no benefit.
+
+The same inventory in Sphinx's native format:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/objects.inv
+
+This file is a short plain-text header followed by a zlib-compressed body. It is not readable without a Sphinx inventory parser such as `sphobjinv`, or manual zlib decompression. Prefer it only if such a parser is already available, for example when resolving references through intersphinx. Otherwise use the JSON above.
+
+reStructuredText source of an individual page:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/_sources/{page-path}.rst.txt
+
+For example:
+
+https://docs.typo3.org/m/typo3/reference-coreapi/13.4/en-us/_sources/ApiOverview/Index.rst.txt
+
+The source of a page is smaller than its rendered HTML and contains no navigation, theme or boilerplate markup.
+
+**Do not rely on the reStructuredText sources alone.** The source is not always the complete content of the page. TYPO3 documentation uses reStructuredText directives that pull in further content when the manual is built, and the result of that build exists only in the rendered HTML:
+
+* `include::` directives referencing shared files. The included files are not published under `_sources/`, so their content is missing from the source you retrieve.
+* Directives that generate content from other data. In the Fluid ViewHelper Reference, for example, each page is generated from a JSON description of the ViewHelper: the source of `Form/Form.rst.txt` is about 500 bytes, while the rendered page containing the actual argument documentation is about 96 KB. That JSON is not published either.
+
+Use `_sources/` as a cheaper supplement where it is sufficient, not as the sole source of content. If accuracy and completeness matter, read the rendered page. A source that is very short, consists mostly of directives, or contains an `include::` you cannot resolve is certainly incomplete, but a source can be incomplete without any of those signals.
+
+This applies to whole manuals as well as individual pages: reference manuals generated from source code or JSON, in particular the Fluid ViewHelper Reference, must be read as rendered HTML.
+
+A text-only representation that resolves includes and generated content is not available today. Until it is, the rendered HTML page is the authoritative form of a page's content.
+
 ## Preferred Documentation Format
 
-For automated retrieval and machine processing, prefer the SingleHTML representation of a manual.
+Retrieve documentation in this order, and stop as soon as the question is answered:
 
-Standard documentation URL:
+1. `objects.inv.json` — to learn the structure of a manual and resolve a topic to a page URL. Request it with `Accept-Encoding: gzip`. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
+2. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — to read the content of the pages identified in step 1. This is the authoritative and complete form of a page. It is still one page, not a whole manual, and remains far cheaper than step 4.
+3. `_sources/{page-path}.rst.txt` — optionally, where a smaller payload matters more than completeness, and the warning above has been taken into account.
+4. The consolidated SingleHTML representation at https://docs.typo3.org/{documentation-path}/{version}/en-us/singlehtml/ — **only to ingest a complete manual in one request, and only if robots.txt permits it for your client.**
 
-https://docs.typo3.org/{documentation-path}/{version}/en-us/
+The SingleHTML representation contains the complete manual in one document. It is useful for exactly one task: reading a whole manual at once. For TYPO3 Explained 13.4 that is a single request of roughly 1.9 MB compressed, against about 930 individual page requests to collect the same manual. If bulk ingestion is genuinely what you are doing, it is the cheaper option for this host, and you should use it.
 
-Preferred machine-readable consolidated representation:
+**For answering a question it is the wrong choice.** The two or three rendered pages that contain the answer are roughly 20 KB each compressed, against 1.9 MB for the whole manual: some twenty-five times the transfer for content you did not need, and far more of your context spent on it. Use steps 1 and 2 instead.
 
-https://docs.typo3.org/{documentation-path}/{version}/en-us/singlehtml/
+robots.txt reflects this split: `*/singlehtml/*` is disallowed for `User-agent: *` and allowed only for the named AI crawlers that ingest complete manuals, and only for currently supported versions. If your client is not in that list, do not request it.
 
-The SingleHTML representation contains the complete manual in one consolidated document.
-
-Do not crawl individual documentation pages when an equivalent SingleHTML version is available and access to that SingleHTML resource is permitted by robots.txt.
+Do not crawl individual documentation pages to discover what a manual contains. Read `objects.inv.json` instead.
 
 ## TYPO3 Core Manuals
 
@@ -59,9 +103,9 @@ Typical URL structure:
 
 https://docs.typo3.org/m/typo3/{manual}/{version}/en-us/
 
-Preferred representation:
+Preferred machine-readable entry point:
 
-https://docs.typo3.org/m/typo3/{manual}/{version}/en-us/singlehtml/
+https://docs.typo3.org/m/typo3/{manual}/{version}/en-us/objects.inv.json
 
 Available and relevant version branches may include:
 
@@ -108,9 +152,9 @@ Typical URL structure:
 
 https://docs.typo3.org/c/typo3/{extension}/{version}/en-us/
 
-Preferred representation:
+Preferred machine-readable entry point:
 
-https://docs.typo3.org/c/typo3/{extension}/{version}/en-us/singlehtml/
+https://docs.typo3.org/c/typo3/{extension}/{version}/en-us/objects.inv.json
 
 Relevant version branches may include:
 
@@ -139,9 +183,9 @@ Typical URL structure:
 
 https://docs.typo3.org/other/typo3fluid/{project}/{version}/en-us/
 
-Preferred representation:
+Preferred machine-readable entry point:
 
-https://docs.typo3.org/other/typo3fluid/{project}/{version}/en-us/singlehtml/
+https://docs.typo3.org/other/typo3fluid/{project}/{version}/en-us/objects.inv.json
 
 Relevant Fluid versions may include:
 
@@ -164,9 +208,9 @@ Typical URL structure:
 
 https://docs.typo3.org/other/typo3/{manual}/{version}/en-us/
 
-Preferred representation:
+Preferred machine-readable entry point:
 
-https://docs.typo3.org/other/typo3/{manual}/{version}/en-us/singlehtml/
+https://docs.typo3.org/other/typo3/{manual}/{version}/en-us/objects.inv.json
 
 Relevant version branches may include:
 
@@ -187,9 +231,9 @@ Typical URL structure:
 
 https://docs.typo3.org/p/{vendor}/{extension}/{version}/en-us/
 
-Preferred representation:
+Preferred machine-readable entry point:
 
-https://docs.typo3.org/p/{vendor}/{extension}/{version}/en-us/singlehtml/
+https://docs.typo3.org/p/{vendor}/{extension}/{version}/en-us/objects.inv.json
 
 Third-party extension documentation may contain multiple versions.
 
@@ -266,7 +310,11 @@ Automated systems must respect:
 
 https://docs.typo3.org/robots.txt
 
-For AI and LLM-related crawlers permitted by robots.txt, use the explicitly allowed SingleHTML documentation resources.
+robots.txt allows `objects.inv.json`, `objects.inv` and `_sources/` for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the inventory to find the relevant pages, then retrieve those pages.
+
+`*/singlehtml/*` is disallowed for `User-agent: *` and allowed only for the named AI crawlers listed in robots.txt, and only for currently supported versions. A client that identifies itself honestly and is not in that list must not request it.
+
+This is deliberate rather than restrictive. SingleHTML pays off only when a complete manual is wanted in one request, which is what those named crawlers do. Every other client is answering a question about a few pages, and for that the artifacts above are both cheaper for this host and better suited: no navigation markup, no unrelated content, and an inventory that says which pages are relevant.
 
 Avoid crawling or indexing internal, generated, temporary, or non-documentation resources, including:
 
@@ -274,6 +322,8 @@ Avoid crawling or indexing internal, generated, temporary, or non-documentation 
 * `/search/`
 * `/services/`
 * `/getthedocs/files/`
+
+`/search/` is disallowed. Full-text search is not published as a downloadable artifact; use `objects.inv.json` to locate the relevant pages and retrieve those pages, rather than issuing search requests.
 
 Do not attempt to circumvent restrictions defined in robots.txt.
 
