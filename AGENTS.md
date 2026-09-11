@@ -81,11 +81,11 @@ commit here.
     docs.typo3.org document root. That workflow runs with `rm: true`, so **files
     deleted here can be deleted on the live server.**
 -   `WebRootResources-api.typo3.org/**` deploys to api.typo3.org through the
-    "api.typo3.org Home Page" workflow, which is normally started by hand
-    (`workflow_dispatch`); it is also configured to run on a push to `main` under
-    that path. It uses `rm: false`, because the generated API docs live in the
-    same directory and must not be removed. See the next section — getting the
-    file ready to deploy is a manual process.
+    "api.typo3.org Home Page" workflow, which runs on a push to `main` under that
+    path and can also be started by hand (`workflow_dispatch`). It uses
+    `rm: false`, because the generated API docs live in the same directory and
+    must not be removed. **This one works** — see the comparison at the end of this section. Getting
+    the file ready to deploy is still a manual process; see the next section.
 -   Merging a PR is therefore a production deployment. Treat review of these files
     accordingly.
 
@@ -94,6 +94,33 @@ their own.** The live server links the entries one by one, so adding a new file
 or directory next to `robots.txt` needs a matching change on the server and thus
 coordination with TYPO3 GmbH. Changes to files that already exist go live
 immediately. See `WebRootResources/README.md`.
+
+### Only the docs.typo3.org target is affected
+
+The two workflows are nearly identical, use the same action and the same
+pattern, and every run of either has reported success — but only one of them
+arrives. Measured 2026-09-11:
+
+| | `apihome.yml` → api.typo3.org | `docshome.yml` → docs.typo3.org |
+|---|---|---|
+| Runs | 7 (4 on `push`, 3 by hand) | 4, all on `push` |
+| Result | all green | all green |
+| **Reaches the server** | **yes** | **no** |
+| Evidence | live page byte-identical to `main`; run at `2026-04-27T06:29:23Z`, live `Last-Modified` six seconds later | `robots.txt` and `llms.txt` frozen at `2025-03-24`; deletions do not arrive either |
+| `rm:` | `false` | `true` |
+
+So SCP from GitHub Actions to a TYPO3 GmbH host is not broken in general. Whatever
+is wrong is specific to the docs.typo3.org web root: a different set of secrets
+(`DEPLOY_DOCS_HOST`, `DEPLOY_KEY`, `TARGET_PATH`) and a document root whose
+entries are linked one by one. The useful question is not "why is deployment
+broken" but "why does the same mechanism land on the API host and not in the docs
+web root" — most likely `TARGET_PATH` no longer pointing where the web root reads
+from.
+
+The sharpest single case is PR #321: merged `2026-07-17T11:41:00Z`, its deploy run
+started `11:41:03Z` and reported success, and the file on the server never
+changed.
+
 
 ## The api.typo3.org homepage is built by hand
 
