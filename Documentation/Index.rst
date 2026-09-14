@@ -1,18 +1,18 @@
 ﻿.. include:: /Includes.rst.txt
 
-.. _start-Contributing:
-.. _upgrading-typo3:
-.. _templating:
-.. _System-Extensions:
-.. _getting-started:
-.. _extensions:
+..  _start-Contributing:
+..  _upgrading-typo3:
+..  _templating:
+..  _System-Extensions:
+..  _getting-started:
+..  _extensions:
 ..  _configuringTYPO3:
-.. _creatingmanagingcontent:
-.. _contribute:
-.. _examples:
-.. _guides:
-.. _tutorials:
-.. _start:
+..  _creatingmanagingcontent:
+..  _contribute:
+..  _examples:
+..  _guides:
+..  _tutorials:
+..  _start:
 
 ===========================================
 Welcome to the official TYPO3 Documentation
@@ -70,7 +70,7 @@ PHP.
         ..  card-footer:: `Download TYPO3 <https://get.typo3.org>`__
             :button-style: btn btn-secondary stretched-link
 
-.. _references:
+..  _references:
 
 References
 ==========
