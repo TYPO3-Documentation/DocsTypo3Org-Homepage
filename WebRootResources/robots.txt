@@ -15,9 +15,9 @@ Disallow: /services/
 Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
-Allow: /*/en-us/objects.inv
-Allow: /*/en-us/objects.inv.json
-Allow: /*/en-us/_sources/
+Allow: /*/objects.inv
+Allow: /*/objects.inv.json
+Allow: /*/_sources/
 
 # =============================================
 # AI and LLM-related crawlers
@@ -42,7 +42,8 @@ Allow: /permalink/
 # Machine-readable artifacts. These are the preferred entry points:
 # they are small, structured, cheaper for this host to serve than
 # rendered HTML, and easier to parse correctly. Unlike the SingleHTML
-# rules below they are allowed for every manual and every version.
+# rules below they are allowed for every manual, every version and
+# every language.
 #   objects.inv.json  inventory of a manual as JSON: every title,
 #                     name and anchor. The recommended entry point.
 #                     Serve/request it gzipped.
@@ -52,18 +53,17 @@ Allow: /permalink/
 #                     rendered page, without navigation or markup and
 #                     at a fraction of its size. The format to read a
 #                     page in. Published for a manual once it has been
-#                     rendered again, so not everywhere yet. Allowed
-#                     in every language, unlike the rules around it.
+#                     rendered again, so not everywhere yet.
 #   _sources/         the reStructuredText source of each page.
 #                     A cheaper supplement, not a replacement: includes
 #                     and generated content (e.g. the ViewHelper
 #                     reference) resolve only at build time, so the
 #                     source can hold less than the rendered page.
 #                     Superseded by the Markdown where that exists.
-Allow: /*/en-us/objects.inv
-Allow: /*/en-us/objects.inv.json
+Allow: /*/objects.inv
+Allow: /*/objects.inv.json
 Allow: /*.md$
-Allow: /*/en-us/_sources/
+Allow: /*/_sources/
 
 # Consolidated single-file manuals. Worth one request only when a
 # complete manual is wanted at once, which is what these crawlers do;
