@@ -7,6 +7,8 @@
 # limits here. Clients that need a whole manual at once should use the
 # machine-readable artifacts described in https://docs.typo3.org/llms.txt
 # (objects.inv.json, objects.inv, _sources/), which are allowed below.
+# A single page is best read as Markdown, at its own URL with ".md"
+# instead of ".html"; nothing here disallows it.
 User-agent: *
 Disallow: /getthedocs/files/
 Disallow: /services/
@@ -19,8 +21,8 @@ Allow: /*/en-us/_sources/
 
 # =============================================
 # AI and LLM-related crawlers
-# Access limited to the machine-readable artifacts and to the
-# consolidated manuals of currently supported versions
+# Access limited to the machine-readable artifacts, the Markdown of a
+# page, and the consolidated manuals of currently supported versions
 # =============================================
 
 User-agent: Amazonbot
@@ -46,20 +48,29 @@ Allow: /permalink/
 #                     Serve/request it gzipped.
 #   objects.inv       the same inventory in Sphinx's native format
 #                     (zlib-compressed; needs a Sphinx parser)
+#   *.md              the Markdown of a page: the same content as the
+#                     rendered page, without navigation or markup and
+#                     at a fraction of its size. The format to read a
+#                     page in. Published for a manual once it has been
+#                     rendered again, so not everywhere yet. Allowed
+#                     in every language, unlike the rules around it.
 #   _sources/         the reStructuredText source of each page.
 #                     A cheaper supplement, not a replacement: includes
 #                     and generated content (e.g. the ViewHelper
 #                     reference) resolve only at build time, so the
 #                     source can hold less than the rendered page.
+#                     Superseded by the Markdown where that exists.
 Allow: /*/en-us/objects.inv
 Allow: /*/en-us/objects.inv.json
+Allow: /*.md$
 Allow: /*/en-us/_sources/
 
 # Consolidated single-file manuals. Worth one request only when a
 # complete manual is wanted at once, which is what these crawlers do;
 # a single ~2 MB response beats several hundred page requests. To
-# answer a question about a few pages, the artifacts above are far
-# cheaper. Allowed only for the versions listed here.
+# answer a question about a few pages, read those pages as Markdown
+# instead: a few kilobytes each against ~2 MB for the whole manual.
+# Allowed only for the versions listed here.
 
 # TYPO3 Core manuals (LTS, eLTS, dev)
 Allow: /m/typo3/*/main/en-us/singlehtml/
