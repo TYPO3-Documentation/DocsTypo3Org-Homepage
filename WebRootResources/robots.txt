@@ -6,7 +6,8 @@
 # this host (several megabytes per manual, up to ~33 MB). It stays off
 # limits here. Clients that need a whole manual at once should use the
 # machine-readable artifacts described in https://docs.typo3.org/llms.txt
-# (objects.inv.json, objects.inv, _sources/), which are allowed below.
+# (toc.json, objects.inv.json, objects.inv, _sources/), which are
+# allowed below.
 # A single page is best read as Markdown, at its own URL with ".md"
 # instead of ".html"; nothing here disallows it.
 User-agent: *
@@ -15,6 +16,8 @@ Disallow: /services/
 Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
+Allow: /*/toc.json
+Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
 Allow: /*/_sources/
@@ -44,8 +47,18 @@ Allow: /permalink/
 # rendered HTML, and easier to parse correctly. Unlike the SingleHTML
 # rules below they are allowed for every manual, every version and
 # every language.
+#   toc.json          the table of contents of a manual: its pages in
+#                     reading order, nested, with their anchors. The
+#                     cheapest way to learn what a manual covers -- a
+#                     fraction of the inventory's size. Published for a
+#                     manual once it has been rendered again, so not
+#                     everywhere yet.
+#   Changelog-*.json  the TYPO3 Core Changelog by major release: every
+#                     entry with its permalink, title, kind, issue and
+#                     tags. Core Changelog only.
 #   objects.inv.json  inventory of a manual as JSON: every title,
-#                     name and anchor. The recommended entry point.
+#                     name and anchor. Use it to resolve a topic to an
+#                     exact anchor, or to reach a named entity.
 #                     Serve/request it gzipped.
 #   objects.inv       the same inventory in Sphinx's native format
 #                     (zlib-compressed; needs a Sphinx parser)
@@ -60,6 +73,8 @@ Allow: /permalink/
 #                     reference) resolve only at build time, so the
 #                     source can hold less than the rendered page.
 #                     Superseded by the Markdown where that exists.
+Allow: /*/toc.json
+Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
 Allow: /*.md$
