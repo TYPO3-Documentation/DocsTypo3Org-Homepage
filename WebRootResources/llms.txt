@@ -6,7 +6,7 @@ TYPO3 is an open-source enterprise content management system.
 
 The official TYPO3 documentation is available at https://docs.typo3.org/.
 
-For efficient machine consumption, use the JSON inventory published alongside every manual (`objects.inv.json`) to find out what a manual contains and which pages are relevant, then retrieve only those pages. This is far cheaper than crawling, for you and for this host. See "Machine-Readable Artifacts" below.
+For efficient machine consumption, use the JSON artifacts published alongside every manual -- `toc.json` for the shape of a manual and `objects.inv.json` for its inventory -- to find out what a manual contains and which pages are relevant, then retrieve only those pages. This is far cheaper than crawling, for you and for this host. See "Machine-Readable Artifacts" below.
 
 Retrieve those pages as Markdown. Pages are published as Markdown beside their HTML, at the same URL with `.md` instead of `.html`. It is the complete content of the page without navigation, theme or markup, and it is a fraction of the size. Prefer it over both the HTML page and the reStructuredText source. It is still being rolled out and is not available for every manual yet; see "Machine-Readable Artifacts" below.
 
@@ -57,6 +57,26 @@ https://docs.typo3.org/{documentation-path}/{version}/en-us/objects.inv
 
 This file is a short plain-text header followed by a zlib-compressed body. It is not readable without a Sphinx inventory parser such as `sphobjinv`, or manual zlib decompression. Prefer it only if such a parser is already available, for example when resolving references through intersphinx. Otherwise use the JSON above.
 
+Table of contents of a manual, as JSON:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/toc.json
+
+This lists the pages of a manual in the order its table of contents puts them, nested the way it nests them, each with its title and the anchor its permalink is built from. The manual's title, version and permalink pattern are stated once at the top, so a page carries only what is its own. Page paths have no file extension: append `.md` to read a page, `.html` for the rendered page.
+
+Use it to learn the shape of a manual -- what it covers, in what order, and where a topic sits in its structure. It is a fraction of the size of the inventory, because it names a page once and says nothing about what is inside it: for TYPO3 Explained 14.3, 985 pages, 27 KB against the inventory's 335 KB compressed. Use `objects.inv.json` where you need to resolve a topic to an exact anchor, or to reach a named entity such as a configuration value or a ViewHelper; the inventory lists those and this file does not.
+
+Build a page's permalink by putting its `anchor` where `{anchor}` is in the project's `permalink`. The pattern already carries the version where the manual has one.
+
+Pages no table of contents leads to are listed too, marked `"orphan": true`.
+
+**A manual has `toc.json` only once it has been rendered again since the format was introduced**, the same way the Markdown was rolled out. Where it answers 404, use `objects.inv.json` for that manual and try again another time.
+
+Index of the TYPO3 Core Changelog, as JSON:
+
+https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-{major}.json
+
+Published for the Core Changelog only, one file per major release, beside the overview page of that release. Each entry carries its permalink, its file within the manual, its title, the kind of change (`feature`, `breaking`, `deprecation`, `important`), the Forge issue, the release it belongs to and its tags. Use it to find the changes of a release, or the changes of one kind, without walking the overview page and following a redirect per entry.
+
 Markdown of an individual page. This is the recommended way to read a page:
 
 https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.md
@@ -69,7 +89,11 @@ Take the URL of the rendered page and replace `.html` with `.md`. Every rendered
 
 `<link rel="alternate" type="text/markdown" href="Index.md">`
 
-It is served as `text/markdown; charset=utf-8` and is GitHub Flavored Markdown: admonitions become alerts, tables become pipe tables, and structures Markdown has no syntax for -- definition lists, the arguments of a ViewHelper, the settings of a configuration reference -- become nested lists. A YAML front matter block carries `title`, `manual`, `version`, `permalink` and the modification date, so a file that has been copied somewhere still says what it is and where it came from.
+It is served as `text/markdown; charset=utf-8` and is GitHub Flavored Markdown: admonitions become alerts, tables become pipe tables, and structures Markdown has no syntax for -- definition lists, the arguments of a ViewHelper, the settings of a configuration reference -- become nested lists.
+
+With one addition: a heading carries the id of the HTML heading it corresponds to, written as `{#id}` after the heading text. That is the Pandoc and kramdown syntax for heading attributes, and a renderer that does not know it shows the braces literally. It is there so that a link to a section of a page still resolves once the page is Markdown.
+
+A YAML front matter block carries `title`, `manual`, `version`, `permalink`, `source` and `rendered`, so a file that has been copied somewhere still says what it is and where it came from. `rendered` is the time the manual was built, not the time the page was last edited, and it is therefore the same on every page of a manual. Manuals rendered before this field was introduced carry `modified` instead, with the same meaning; the name changes per manual as each is rendered again.
 
 The content is the same content as the rendered page. It is produced from the same build, after includes are resolved and generated directives have been expanded, so it does not have the gaps the reStructuredText source has. Links in it are absolute permalinks, which keep working wherever the file ends up.
 
@@ -108,7 +132,7 @@ The Markdown and the rendered HTML of a page carry the same content and are both
 
 Retrieve documentation in this order, and stop as soon as the question is answered:
 
-1. `objects.inv.json` — to learn the structure of a manual and resolve a topic to a page URL. Request it with `Accept-Encoding: gzip`. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
+1. `toc.json` — to learn the shape of a manual: its pages, in reading order. Small enough to read in full for most manuals; request it with `Accept-Encoding: gzip`. Where it is not published yet, or where a topic has to be resolved to an exact anchor or a named entity, use `objects.inv.json`, also gzipped. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
 2. The Markdown page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.md — to read the content of the pages identified in step 1. Complete, without navigation or markup, and a fraction of the size of the HTML.
 3. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — where no Markdown is published for that manual yet. Equally complete, several times larger. It is still one page, not a whole manual, and remains far cheaper than step 5.
 4. `_sources/{page-path}.rst.txt` — optionally, where a smaller payload matters more than completeness, and the warning above has been taken into account. Pointless where Markdown exists.
@@ -339,7 +363,7 @@ Automated systems must respect:
 
 https://docs.typo3.org/robots.txt
 
-robots.txt allows `objects.inv.json`, `objects.inv`, `_sources/` and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the inventory to find the relevant pages, then retrieve those pages as Markdown.
+robots.txt allows `toc.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
 
 `*/singlehtml/*` is disallowed for `User-agent: *` and allowed only for the named AI crawlers listed in robots.txt, and only for currently supported versions. A client that identifies itself honestly and is not in that list must not request it.
 
