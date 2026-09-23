@@ -12,7 +12,7 @@ Retrieve those pages as Markdown. Pages are published as Markdown beside their H
 
 The reStructuredText source of each page is also published (`_sources/`) and is smaller still, but it does not contain the complete content of every page. Do not rely on it alone; see the warning in that section.
 
-Crawling permissions are defined separately in https://docs.typo3.org/robots.txt and must be respected. In particular, the consolidated SingleHTML representation is not available to every client; see "Preferred Documentation Format" and "Crawling Guidance" below.
+Crawling permissions are defined separately in https://docs.typo3.org/robots.txt and must be respected; see "Crawling Guidance" below.
 
 ## Documentation Versions
 
@@ -134,15 +134,11 @@ Retrieve documentation in this order, and stop as soon as the question is answer
 
 1. `toc.json` — to learn the shape of a manual: its pages, in reading order. Small enough to read in full for most manuals; request it with `Accept-Encoding: gzip`. Where it is not published yet, or where a topic has to be resolved to an exact anchor or a named entity, use `objects.inv.json`, also gzipped. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
 2. The Markdown page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.md — to read the content of the pages identified in step 1. Complete, without navigation or markup, and a fraction of the size of the HTML.
-3. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — where no Markdown is published for that manual yet. Equally complete, several times larger. It is still one page, not a whole manual, and remains far cheaper than step 5.
+3. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — where no Markdown is published for that manual yet. Equally complete, several times larger.
 4. `_sources/{page-path}.rst.txt` — optionally, where a smaller payload matters more than completeness, and the warning above has been taken into account. Pointless where Markdown exists.
-5. The consolidated SingleHTML representation at https://docs.typo3.org/{documentation-path}/{version}/en-us/singlehtml/ — **only to ingest a complete manual in one request, and only if robots.txt permits it for your client.**
+There is no consolidated document for a whole manual. The SingleHTML representation that used to be published at `.../singlehtml/` is no longer produced, and it disappears from each manual with that manual's next render; `*/singlehtml/*` is disallowed for every client. To read a complete manual, take its pages from `toc.json` and retrieve each one as Markdown.
 
-The SingleHTML representation contains the complete manual in one document. It is useful for exactly one task: reading a whole manual at once. For TYPO3 Explained 13.4 that is a single request of roughly 1.9 MB compressed, against about 930 individual page requests to collect the same manual. If bulk ingestion is genuinely what you are doing, it is the cheaper option for this host, and you should use it.
-
-**For answering a question it is the wrong choice.** The two or three pages that contain the answer are a few kilobytes each as Markdown, or roughly 20 KB each as compressed HTML, against 1.9 MB for the whole manual: a large multiple of the transfer for content you did not need, and far more of your context spent on it. Use steps 1 and 2 instead.
-
-robots.txt reflects this split: `*/singlehtml/*` is disallowed for `User-agent: *` and allowed only for the named AI crawlers that ingest complete manuals, and only for currently supported versions. If your client is not in that list, do not request it.
+Where you have the sources of a manual rather than only this server -- every page links its repository -- the renderer can still produce one file locally: `--single-markdown` writes the whole manual as a single Markdown document, `--single-html` as a single HTML page. Neither is served from this host.
 
 Do not crawl individual documentation pages to discover what a manual contains. Read `objects.inv.json` instead.
 
@@ -365,9 +361,7 @@ https://docs.typo3.org/robots.txt
 
 robots.txt allows `toc.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
 
-`*/singlehtml/*` is disallowed for `User-agent: *` and allowed only for the named AI crawlers listed in robots.txt, and only for currently supported versions. A client that identifies itself honestly and is not in that list must not request it.
-
-This is deliberate rather than restrictive. SingleHTML pays off only when a complete manual is wanted in one request, which is what those named crawlers do. Every other client is answering a question about a few pages, and for that the artifacts above are both cheaper for this host and better suited: an inventory that says which pages are relevant, and those pages as Markdown, with no navigation markup and no unrelated content.
+`*/singlehtml/*` is disallowed for every client. That build is no longer produced; where an old copy is still on the server, it duplicates content that is available page by page and must not be crawled. To read a complete manual, work from the artifacts above: an inventory that says which pages a manual has, and those pages as Markdown, with no navigation markup and no unrelated content.
 
 Avoid crawling or indexing internal, generated, temporary, or non-documentation resources, including:
 

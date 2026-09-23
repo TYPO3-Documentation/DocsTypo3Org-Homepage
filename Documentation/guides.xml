@@ -17,7 +17,6 @@
              version="2.0"
              copyright="since 2014 by the TYPO3 contributors"/>
     <output-format>html</output-format>
-    <output-format>singlepage</output-format>
     <output-format>interlink</output-format>
     <output-format>mainmenujson</output-format>
 </guides>
