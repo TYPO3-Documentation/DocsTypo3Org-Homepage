@@ -54,28 +54,27 @@ This is the biggest difference from the other manuals. There is no staging step
 and no separate release: `.github/workflows/docshome.yml` and `apihome.yml` copy
 the files straight to the production servers over SCP.
 
-**A green workflow does not mean the change is live.** As of 2026-09-11,
-`https://docs.typo3.org/robots.txt` and `/llms.txt` both still return content with
-`Last-Modified: Mon, 24 Mar 2025`, although seven commits have changed them since
-and every deploy run reported success. Files that have not changed for years
-(`js/piwik.js`, `favicon.ico`) do match the repo, so the copy is not simply
-failing everywhere. Deletions do not propagate either: the files removed from
-this repository still answer 200 on the live server after a successful run.
+**Updates arrive, but check anyway.** The docs.typo3.org target was broken for
+about eighteen months: every run reported success while the files on the server
+never changed. That has been fixed. Verified on 2026-09-23 with PR #335 — the
+deploy run started at `16:00:41Z` and both `robots.txt` and `llms.txt` were live
+six seconds later, byte-identical to `main`.
 
-The likely cause is the linking described in `WebRootResources/README.md`: the
-live server references entries one by one, so a path that is not linked to the
-deployed directory keeps serving an old copy no matter how often the workflow
-succeeds.
+**Deletions are another matter.** Of the files this repository has removed,
+`js/extensions-search.js` and `t3SphinxThemeRtd/` are gone from the server,
+while `includes/footer.html` still answers 200. Do not assume a removal here
+takes a file off the server.
 
-After changing anything under `WebRootResources/`, check the live URL and compare
-it against the repo — do not trust the workflow's green check:
+After changing anything under `WebRootResources/`, check the live URL against
+the repo rather than trusting the workflow's green check:
 
 ```
 curl -sI https://docs.typo3.org/<file> | grep -i last-modified
+diff <(curl -s https://docs.typo3.org/<file>) WebRootResources/<file>
 ```
 
-If it has not moved, the fix is on the server and needs TYPO3 GmbH, not another
-commit here.
+If the file has not moved, the fix is on the server and needs TYPO3 GmbH, not
+another commit here.
 
 -   A push to `main` touching `WebRootResources/**` triggers the deploy to the
     docs.typo3.org document root. That workflow runs with `rm: true`, so **files
@@ -84,8 +83,8 @@ commit here.
     "api.typo3.org Home Page" workflow, which runs on a push to `main` under that
     path and can also be started by hand (`workflow_dispatch`). It uses
     `rm: false`, because the generated API docs live in the same directory and
-    must not be removed. **This one works** — see the comparison at the end of this section. Getting
-    the file ready to deploy is still a manual process; see the next section.
+    must not be removed. Getting the file ready to deploy is still a manual
+    process; see the next section.
 -   Merging a PR is therefore a production deployment. Treat review of these files
     accordingly.
 
@@ -95,32 +94,17 @@ or directory next to `robots.txt` needs a matching change on the server and thus
 coordination with TYPO3 GmbH. Changes to files that already exist go live
 immediately. See `WebRootResources/README.md`.
 
-### Only the docs.typo3.org target is affected
+### History: the docs.typo3.org target was broken until September 2026
 
-The two workflows are nearly identical, use the same action and the same
-pattern, and every run of either has reported success — but only one of them
-arrives. Measured 2026-09-11:
-
-| | `apihome.yml` → api.typo3.org | `docshome.yml` → docs.typo3.org |
-|---|---|---|
-| Runs | 7 (4 on `push`, 3 by hand) | 4, all on `push` |
-| Result | all green | all green |
-| **Reaches the server** | **yes** | **no** |
-| Evidence | live page byte-identical to `main`; run at `2026-04-27T06:29:23Z`, live `Last-Modified` six seconds later | `robots.txt` and `llms.txt` frozen at `2025-03-24`; deletions do not arrive either |
-| `rm:` | `false` | `true` |
-
-So SCP from GitHub Actions to a TYPO3 GmbH host is not broken in general. Whatever
-is wrong is specific to the docs.typo3.org web root: a different set of secrets
-(`DEPLOY_DOCS_HOST`, `DEPLOY_KEY`, `TARGET_PATH`) and a document root whose
-entries are linked one by one. The useful question is not "why is deployment
-broken" but "why does the same mechanism land on the API host and not in the docs
-web root" — most likely `TARGET_PATH` no longer pointing where the web root reads
-from.
-
-The sharpest single case is PR #321: merged `2026-07-17T11:41:00Z`, its deploy run
-started `11:41:03Z` and reported success, and the file on the server never
-changed.
-
+Both workflows use the same action and the same pattern, and both always
+reported success, but for a long time only `apihome.yml` arrived. Measured
+2026-09-11: `robots.txt` and `llms.txt` were still serving the content of
+`2025-03-24` although seven commits had changed them, and PR #321, merged
+`2026-07-17T11:41:00Z`, never reached the server. The cause was on the server
+side — the docs web root has its own secrets (`DEPLOY_DOCS_HOST`, `DEPLOY_KEY`,
+`TARGET_PATH`) and links its entries one by one, as described in
+`WebRootResources/README.md`. It was fixed before 2026-09-23; see the
+verification above.
 
 ## The api.typo3.org homepage is built by hand
 
@@ -201,8 +185,9 @@ What remains in `WebRootResources/` is `robots.txt`, `llms.txt`, `js/piwik.js`
 and `favicon.ico` — all verified in use. The leftovers of the Sphinx era
 (`t3SphinxThemeRtd/`, `services/VersionMatcher.php`, `js/extensions-search.js`,
 `includes/`) have been removed; git history has them if they are ever needed.
-They still answer 200 on the live server, because the deploy has not propagated
-the removal either — see "Deployment" above.
+Of those, `js/extensions-search.js` and `t3SphinxThemeRtd/` are gone from the
+live server, while `includes/footer.html` still answers 200 — see "Deployment"
+above.
 
 Verify against the live site before assuming a file here still does anything —
 and before deleting one, since the deploy runs with `rm: true`.
