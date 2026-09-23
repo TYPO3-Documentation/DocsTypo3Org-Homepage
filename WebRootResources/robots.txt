@@ -1,13 +1,13 @@
 # =============================================
 # General search engine rules
 # =============================================
-# The SingleHTML build of a manual duplicates content that is already
-# indexable page by page, and is by far the most expensive resource on
-# this host (several megabytes per manual, up to ~33 MB). It stays off
-# limits here. Clients that need a whole manual at once should use the
-# machine-readable artifacts described in https://docs.typo3.org/llms.txt
-# (toc.json, objects.inv.json, objects.inv, _sources/), which are
-# allowed below.
+# The SingleHTML build of a manual is no longer produced. It disappears
+# from a manual with that manual's next render; until then the old file
+# is still there, and it stays off limits: several megabytes per manual,
+# up to ~33 MB, duplicating content that is already indexable page by
+# page. Clients that need a whole manual should use the machine-readable
+# artifacts described in https://docs.typo3.org/llms.txt (toc.json,
+# objects.inv.json, objects.inv, _sources/), which are allowed below.
 # A single page is best read as Markdown, at its own URL with ".md"
 # instead of ".html"; nothing here disallows it.
 User-agent: *
@@ -24,8 +24,8 @@ Allow: /*/_sources/
 
 # =============================================
 # AI and LLM-related crawlers
-# Access limited to the machine-readable artifacts, the Markdown of a
-# page, and the consolidated manuals of currently supported versions
+# Access limited to the machine-readable artifacts and the Markdown of
+# a page
 # =============================================
 
 User-agent: Amazonbot
@@ -44,9 +44,8 @@ Allow: /permalink/
 
 # Machine-readable artifacts. These are the preferred entry points:
 # they are small, structured, cheaper for this host to serve than
-# rendered HTML, and easier to parse correctly. Unlike the SingleHTML
-# rules below they are allowed for every manual, every version and
-# every language.
+# rendered HTML, and easier to parse correctly. They are allowed for
+# every manual, every version and every language.
 #   toc.json          the table of contents of a manual: its pages in
 #                     reading order, nested, with their anchors. The
 #                     cheapest way to learn what a manual covers -- a
@@ -79,45 +78,3 @@ Allow: /*/objects.inv
 Allow: /*/objects.inv.json
 Allow: /*.md$
 Allow: /*/_sources/
-
-# Consolidated single-file manuals. Worth one request only when a
-# complete manual is wanted at once, which is what these crawlers do;
-# a single ~2 MB response beats several hundred page requests. To
-# answer a question about a few pages, read those pages as Markdown
-# instead: a few kilobytes each against ~2 MB for the whole manual.
-# Allowed only for the versions listed here.
-
-# TYPO3 Core manuals (LTS, eLTS, dev)
-Allow: /m/typo3/*/main/en-us/singlehtml/
-Allow: /m/typo3/*/14.3/en-us/singlehtml/
-Allow: /m/typo3/*/13.4/en-us/singlehtml/
-Allow: /m/typo3/*/12.4/en-us/singlehtml/
-Allow: /m/typo3/*/11.5/en-us/singlehtml/
-Allow: /m/typo3/*/10.4/en-us/singlehtml/
-
-# System extensions
-Allow: /c/typo3/*/main/en-us/singlehtml/
-Allow: /c/typo3/*/14.3/en-us/singlehtml/
-Allow: /c/typo3/*/13.4/en-us/singlehtml/
-Allow: /c/typo3/*/12.4/en-us/singlehtml/
-Allow: /c/typo3/*/11.5/en-us/singlehtml/
-Allow: /c/typo3/*/10.4/en-us/singlehtml/
-
-# Official TYPO3 libraries (e.g. Fluid)
-Allow: /other/typo3fluid/*/main/en-us/singlehtml/
-Allow: /other/typo3fluid/*/5.3/en-us/singlehtml/
-Allow: /other/typo3fluid/*/4.6/en-us/singlehtml/
-Allow: /other/typo3fluid/*/2.16/en-us/singlehtml/
-
-# Other official manuals
-Allow: /other/typo3/*/main/en-us/singlehtml/
-Allow: /other/typo3/*/14.3/en-us/singlehtml/
-Allow: /other/typo3/*/13.4/en-us/singlehtml/
-Allow: /other/typo3/*/12.4/en-us/singlehtml/
-Allow: /other/typo3/*/11.5/en-us/singlehtml/
-Allow: /other/typo3/*/10.4/en-us/singlehtml/
-
-# Third-party extensions
-Allow: /p/*/*/*/en-us/singlehtml/
-
-
