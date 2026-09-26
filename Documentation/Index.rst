@@ -82,7 +82,7 @@ References
 :doc:`TYPO3 Core changelog <changelog:Index#typo3-core-changelog>`
     Learn what is new in TYPO3 and how to migrate away from deprecated
     functionality.
-:ref:`<fluid:start>`
+:ref:`Fluid Explained <fluid:start>`
     Fluid is a PHP template engine and is the de facto standard for any
     HTML-based output in the TYPO3 CMS.
 :ref:`Fluid ViewHelper reference <t3viewhelper:start>`
