@@ -85,8 +85,12 @@ another commit here.
     `rm: false`, because the generated API docs live in the same directory and
     must not be removed. Getting the file ready to deploy is still a manual
     process; see the next section.
--   Merging a PR is therefore a production deployment. Treat review of these files
-    accordingly.
+-   Both workflows are limited to those paths: a change under `Documentation/`
+    deploys nothing. It is rendered and published by the documentation pipeline,
+    like any other manual, and only `test-documentation.yml` runs on the pull
+    request.
+-   Merging a PR that touches `WebRootResources*` is therefore a production
+    deployment. Treat review of those files accordingly.
 
 **New top-level files and directories in `WebRootResources/` do not go live on
 their own.** The live server links the entries one by one, so adding a new file
@@ -256,9 +260,9 @@ Specific to this repo:
 
 -   When a PR contains a single commit, the PR title and body must match that
     commit's subject and body exactly.
--   Remember that merging deploys to production. If a PR touches
-    `WebRootResources*`, the description should make the live effect obvious to
-    the reviewer.
+-   A PR that touches `WebRootResources*` deploys to production when it is
+    merged; its description should make that live effect obvious to the
+    reviewer. A PR that only changes `Documentation/` deploys nothing.
 
 ## References
 
