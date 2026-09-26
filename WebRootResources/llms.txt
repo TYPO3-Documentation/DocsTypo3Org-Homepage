@@ -71,6 +71,18 @@ Pages no table of contents leads to are listed too, marked `"orphan": true`.
 
 **A manual has `toc.json` only once it has been rendered again since the format was introduced**, the same way the Markdown was rolled out. Where it answers 404, use `objects.inv.json` for that manual and try again another time.
 
+Index of the PHP classes a manual speaks of, as JSON:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/classes.json
+
+Every PHP class the manual speaks of, keyed by its fully qualified name, with the places that speak of it: where the text names the class, where a code example uses it, and where the manual documents the class itself. A place carries the page and an anchor that the project's permalink pattern resolves, so a link leads to the passage rather than the top of the page.
+
+Use it to answer where a class is explained, and what else says anything about it -- a question the inventory does not answer, since `objects.inv.json` lists what a manual documents, which is the definitions alone. For TYPO3 Explained it is a few hundred kilobytes and covers about a thousand classes.
+
+The format is still settling, so read the file rather than relying on the names of its fields; it is described at https://docs.typo3.org/permalink/t3renderguides:classindexjson.
+
+**A manual has `classes.json` only once it has been rendered again since the format was introduced.** Where it answers 404, that manual has not been rendered since; try again another time.
+
 Index of the TYPO3 Core Changelog, as JSON:
 
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog-{major}.json
@@ -359,7 +371,7 @@ Automated systems must respect:
 
 https://docs.typo3.org/robots.txt
 
-robots.txt allows `toc.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
+robots.txt allows `toc.json`, `classes.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
 
 `*/singlehtml/*` is disallowed for every client. That build is no longer produced; where an old copy is still on the server, it duplicates content that is available page by page and must not be crawled. To read a complete manual, work from the artifacts above: an inventory that says which pages a manual has, and those pages as Markdown, with no navigation markup and no unrelated content.
 

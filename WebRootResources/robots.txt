@@ -7,7 +7,8 @@
 # up to ~33 MB, duplicating content that is already indexable page by
 # page. Clients that need a whole manual should use the machine-readable
 # artifacts described in https://docs.typo3.org/llms.txt (toc.json,
-# objects.inv.json, objects.inv, _sources/), which are allowed below.
+# classes.json, objects.inv.json, objects.inv, _sources/), which are
+# allowed below.
 # A single page is best read as Markdown, at its own URL with ".md"
 # instead of ".html"; nothing here disallows it.
 User-agent: *
@@ -17,6 +18,7 @@ Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
 Allow: /*/toc.json
+Allow: /*/classes.json
 Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
@@ -52,6 +54,11 @@ Allow: /permalink/
 #                     fraction of the inventory's size. Published for a
 #                     manual once it has been rendered again, so not
 #                     everywhere yet.
+#   classes.json      every PHP class a manual speaks of, and where:
+#                     the page and section, and whether the class is
+#                     named in the text, imported by an example or
+#                     documented there. Published for a manual once it
+#                     has been rendered again, so not everywhere yet.
 #   Changelog-*.json  the TYPO3 Core Changelog by major release: every
 #                     entry with its permalink, title, kind, issue and
 #                     tags. Core Changelog only.
@@ -73,6 +80,7 @@ Allow: /permalink/
 #                     source can hold less than the rendered page.
 #                     Superseded by the Markdown where that exists.
 Allow: /*/toc.json
+Allow: /*/classes.json
 Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
