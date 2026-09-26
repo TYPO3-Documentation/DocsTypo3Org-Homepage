@@ -8,7 +8,7 @@
         *   :ref:`13.4 <t3coreapi/13:start>`
         *   :ref:`15.0-dev <t3coreapi/main:start>`
 
-    *   :ref:`<fluid:start>`
+    *   :ref:`Fluid Explained <fluid:start>`
 
     *   :ref:`Fluid ViewHelper Reference <t3viewhelper:start>`
 
