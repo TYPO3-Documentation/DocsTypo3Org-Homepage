@@ -6,6 +6,8 @@ TYPO3 is an open-source enterprise content management system.
 
 The official TYPO3 documentation is available at https://docs.typo3.org/.
 
+To find a manual, its versions, and the indexes it publishes, start with `manuals.json`. Each manual also has its own `llms.txt`, which lists its indexes and its pages. See "Machine-Readable Artifacts" below.
+
 For efficient machine consumption, use the JSON artifacts published alongside every manual -- `toc.json` for the shape of a manual and `objects.inv.json` for its inventory -- to find out what a manual contains and which pages are relevant, then retrieve only those pages. This is far cheaper than crawling, for you and for this host. See "Machine-Readable Artifacts" below.
 
 Retrieve those pages as Markdown. Pages are published as Markdown beside their HTML, at the same URL with `.md` instead of `.html`. It is the complete content of the page without navigation, theme or markup, and it is a fraction of the size. Prefer it over both the HTML page and the reStructuredText source. It is still being rolled out and is not available for every manual yet; see "Machine-Readable Artifacts" below.
@@ -39,7 +41,25 @@ Additional versions may exist for individual documentation projects.
 
 ## Machine-Readable Artifacts
 
+List of the manuals, as JSON. Start here to find a manual:
+
+https://docs.typo3.org/h/typo3/docs-homepage/main/en-us/manuals.json
+
+It lists every manual in the "All Documentation" menu of docs.typo3.org, keyed by its interlink shortcode, such as `t3coreapi` for TYPO3 Explained. Each manual carries its name, the menu heading it is listed under, and its versions. Each version gives `version` as it appears in the address, and `base`, the address the manual's files are below. Append the name of an index to a `base` to fetch that index.
+
+The `files` part names the indexes a manual can have, and which manuals have each one. A version that was last rendered before an index was introduced answers 404 for it until it is rendered again.
+
+The list covers the official manuals and the system extensions. Extensions of other vendors are not in it; see "Third-Party TYPO3 Extensions" below. The format is described at https://docs.typo3.org/permalink/t3renderguides:manualsindexjson.
+
 Every manual publishes the following artifacts next to its rendered pages. They are available for all documentation paths (`/m/`, `/c/`, `/other/`, `/p/`) and for every version, and robots.txt allows them for all clients.
+
+Guide of a manual, as plain text:
+
+https://docs.typo3.org/{documentation-path}/{version}/en-us/llms.txt
+
+Each manual has its own `llms.txt`. It gives the manual's title, version, and permalink pattern. It lists the indexes this version of the manual has, and its pages in the order of its table of contents, linked as Markdown. It names only the files that exist, so it also tells you which indexes a version has.
+
+**A manual has `llms.txt` only once it has been rendered again since the format was introduced.** Where it answers 404, use `toc.json` or `objects.inv.json` for that manual.
 
 Inventory of a manual, as JSON. This is the recommended entry point:
 
@@ -144,10 +164,11 @@ The Markdown and the rendered HTML of a page carry the same content and are both
 
 Retrieve documentation in this order, and stop as soon as the question is answered:
 
-1. `toc.json` — to learn the shape of a manual: its pages, in reading order. Small enough to read in full for most manuals; request it with `Accept-Encoding: gzip`. Where it is not published yet, or where a topic has to be resolved to an exact anchor or a named entity, use `objects.inv.json`, also gzipped. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
-2. The Markdown page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.md — to read the content of the pages identified in step 1. Complete, without navigation or markup, and a fraction of the size of the HTML.
-3. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — where no Markdown is published for that manual yet. Equally complete, several times larger.
-4. `_sources/{page-path}.rst.txt` — optionally, where a smaller payload matters more than completeness, and the warning above has been taken into account. Pointless where Markdown exists.
+1. `manuals.json` — to find the manual and its versions, if you do not know them yet. The manual's own `llms.txt` then lists its indexes and its pages.
+2. `toc.json` — to learn the shape of a manual: its pages, in reading order. Small enough to read in full for most manuals; request it with `Accept-Encoding: gzip`. Where it is not published yet, or where a topic has to be resolved to an exact anchor or a named entity, use `objects.inv.json`, also gzipped. Use `objects.inv` instead only if a Sphinx inventory parser is already available.
+3. The Markdown page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.md — to read the content of the pages identified in step 2. Complete, without navigation or markup, and a fraction of the size of the HTML.
+4. The rendered page at https://docs.typo3.org/{documentation-path}/{version}/en-us/{page-path}.html — where no Markdown is published for that manual yet. Equally complete, several times larger.
+5. `_sources/{page-path}.rst.txt` — optionally, where a smaller payload matters more than completeness, and the warning above has been taken into account. Pointless where Markdown exists.
 There is no consolidated document for a whole manual. The SingleHTML representation that used to be published at `.../singlehtml/` is no longer produced, and it disappears from each manual with that manual's next render; `*/singlehtml/*` is disallowed for every client. To read a complete manual, take its pages from `toc.json` and retrieve each one as Markdown.
 
 Where you have the sources of a manual rather than only this server -- every page links its repository -- the renderer can still produce one file locally: `--single-markdown` writes the whole manual as a single Markdown document, `--single-html` as a single HTML page. Neither is served from this host.
@@ -371,7 +392,7 @@ Automated systems must respect:
 
 https://docs.typo3.org/robots.txt
 
-robots.txt allows `toc.json`, `classes.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
+robots.txt allows `manuals.json` and `sitemap-index.xml` on the homepage for all clients. It also allows `llms.txt`, `toc.json`, `classes.json`, `confvals.json`, `viewhelpers.json`, `files.json`, `objects.inv.json`, `objects.inv`, `_sources/`, the changelog index, and the Markdown of a page for all clients, for every manual and every version, as well as the rendered documentation pages themselves. Start with the table of contents or the inventory to find the relevant pages, then retrieve those pages as Markdown.
 
 `*/singlehtml/*` is disallowed for every client. That build is no longer produced; where an old copy is still on the server, it duplicates content that is available page by page and must not be crawled. To read a complete manual, work from the artifacts above: an inventory that says which pages a manual has, and those pages as Markdown, with no navigation markup and no unrelated content.
 

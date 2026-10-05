@@ -6,8 +6,9 @@
 # is still there, and it stays off limits: several megabytes per manual,
 # up to ~33 MB, duplicating content that is already indexable page by
 # page. Clients that need a whole manual should use the machine-readable
-# artifacts described in https://docs.typo3.org/llms.txt (toc.json,
-# classes.json, objects.inv.json, objects.inv, _sources/), which are
+# artifacts described in https://docs.typo3.org/llms.txt (manuals.json,
+# llms.txt, toc.json, classes.json, confvals.json, viewhelpers.json,
+# files.json, objects.inv.json, objects.inv, and _sources/), which are
 # allowed below.
 # A single page is best read as Markdown, at its own URL with ".md"
 # instead of ".html"; nothing here disallows it.
@@ -17,8 +18,12 @@ Disallow: /services/
 Disallow: /search/
 Disallow: */draft/*
 Disallow: */singlehtml/*
+Allow: /*/llms.txt
 Allow: /*/toc.json
 Allow: /*/classes.json
+Allow: /*/confvals.json
+Allow: /*/viewhelpers.json
+Allow: /*/files.json
 Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
@@ -48,6 +53,18 @@ Allow: /permalink/
 # they are small, structured, cheaper for this host to serve than
 # rendered HTML, and easier to parse correctly. They are allowed for
 # every manual, every version and every language.
+#   manuals.json      on the homepage only: every manual in the "All
+#                     Documentation" menu by its interlink shortcode,
+#                     with its name, its versions, and the address of
+#                     each version. The entry point for finding a
+#                     manual and the indexes it publishes.
+#   sitemap-index.xml on the homepage only: the sitemap.xml of every
+#                     official manual, for main, the current LTS, and
+#                     the LTS before it.
+#   llms.txt          the guide of a manual: its title, version and
+#                     permalink pattern, the indexes it has, and its
+#                     pages as Markdown. Published for a manual once it
+#                     has been rendered again, so not everywhere yet.
 #   toc.json          the table of contents of a manual: its pages in
 #                     reading order, nested, with their anchors. The
 #                     cheapest way to learn what a manual covers -- a
@@ -59,6 +76,18 @@ Allow: /permalink/
 #                     named in the text, imported by an example or
 #                     documented there. Published for a manual once it
 #                     has been rendered again, so not everywhere yet.
+#   confvals.json     every option a manual documents, with its type,
+#                     its default, and the titles that tell apart
+#                     options of the same name. Only in a manual that
+#                     documents options, once it has been rendered
+#                     again.
+#   viewhelpers.json  every ViewHelper a manual documents, by the name
+#                     a template writes, such as f:format.html, with
+#                     its arguments. Only in a manual that documents
+#                     ViewHelpers, once it has been rendered again.
+#   files.json        every file a manual defines, with its paths.
+#                     Only in a manual that defines files, once it has
+#                     been rendered again.
 #   Changelog-*.json  the TYPO3 Core Changelog by major release: every
 #                     entry with its permalink, title, kind, issue and
 #                     tags. Core Changelog only.
@@ -79,10 +108,24 @@ Allow: /permalink/
 #                     reference) resolve only at build time, so the
 #                     source can hold less than the rendered page.
 #                     Superseded by the Markdown where that exists.
+Allow: /h/typo3/docs-homepage/main/en-us/manuals.json
+Allow: /h/typo3/docs-homepage/main/en-us/sitemap-index.xml
+Allow: /*/llms.txt
 Allow: /*/toc.json
 Allow: /*/classes.json
+Allow: /*/confvals.json
+Allow: /*/viewhelpers.json
+Allow: /*/files.json
 Allow: /*/Changelog-*.json
 Allow: /*/objects.inv
 Allow: /*/objects.inv.json
 Allow: /*.md$
 Allow: /*/_sources/
+
+# =============================================
+# Sitemaps
+# The index lists the sitemap.xml of every official manual, for main,
+# the current LTS, and the LTS before it.
+# =============================================
+
+Sitemap: https://docs.typo3.org/h/typo3/docs-homepage/main/en-us/sitemap-index.xml
