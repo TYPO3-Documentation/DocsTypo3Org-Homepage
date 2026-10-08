@@ -12,6 +12,7 @@
                check-link-text="true"
                interlink-shortcode="t3docs"
                disable-version-switch="true"
+               check-headline-anchors="true"
     />
     <project title="Homepage of docs.typo3.org"
              release="2.0"

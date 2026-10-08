@@ -3,6 +3,8 @@
 ..  include:: /Includes.rst.txt
 
 
+..  _page-not-found:
+
 ====================
 Page not found (404)
 ====================
@@ -18,6 +20,8 @@ Or pick one of the following:
 *   :doc:`Third-party extensions <h2document:Basics/BasicPrinciples#third-party-extensions>`
 *   :doc:`System extensions <h2document:Basics/BasicPrinciples#system-extensions>`
 
+
+..  _page-not-found-contact:
 
 Contact
 =======
