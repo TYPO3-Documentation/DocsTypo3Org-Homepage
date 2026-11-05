@@ -94,8 +94,7 @@ References
     while TSconfig options let you customize the TYPO3 backend.
 :ref:`TCA reference <t3tca:start>`
     Complete reference of the Table Configuration Array (TCA) which
-    maps raw database tables to
-records in the TYPO3 backend and in Extbase.
+    maps raw database tables to records in the TYPO3 backend and in Extbase.
 
 ..  _further:
 
