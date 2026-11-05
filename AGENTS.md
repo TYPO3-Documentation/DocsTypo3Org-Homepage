@@ -24,7 +24,6 @@ Documentation/                    # homepage content (reST, rendered like a manu
   Index.rst                       # the homepage itself
   404.rst                         # the site-wide 404 page
   Home/                           # glue pages (overview, wiki landing)
-    ApiTypo3Org.rst               # the text of the api.typo3.org homepage
     RecentlyMovedChapters.rst     # where chapters moved between manuals are recorded
   _mainMenu.rst.txt               # the "All Documentation" menu, on EVERY manual
   mainMenu.json.rst               # renders the above to mainMenu.json
@@ -35,7 +34,7 @@ WebRootResources/                 # served at the document root of docs.typo3.or
   js/piwik.js                     # analytics, still linked by rendered pages
   favicon.ico
 WebRootResources-api.typo3.org/   # served at the document root of api.typo3.org
-  index.html                      # hand-adjusted render of Home/ApiTypo3Org.rst
+  favicon.ico                     # the page itself is generated, see below
 Documentation-GENERATED-temp/     # local render output, gitignored
 ```
 
@@ -83,8 +82,7 @@ another commit here.
     "api.typo3.org Home Page" workflow, which runs on a push to `main` under that
     path and can also be started by hand (`workflow_dispatch`). It uses
     `rm: false`, because the generated API docs live in the same directory and
-    must not be removed. Getting the file ready to deploy is still a manual
-    process; see the next section.
+    must not be removed. It deploys only the favicon; see the next section.
 -   Both workflows are limited to those paths: a change under `Documentation/`
     deploys nothing. It is rendered and published by the documentation pipeline,
     like any other manual, and only `test-documentation.yml` runs on the pull
@@ -110,36 +108,16 @@ side — the docs web root has its own secrets (`DEPLOY_DOCS_HOST`, `DEPLOY_KEY`
 `WebRootResources/README.md`. It was fixed before 2026-09-23; see the
 verification above.
 
-## The api.typo3.org homepage is built by hand
+## The api.typo3.org homepage is generated elsewhere
 
-The page at https://api.typo3.org/ is assembled from two places:
+The page at https://api.typo3.org/ does not come from this repo. The template
+`packages/typo3-api/template/home.html.twig` of `render-guides` generates it, and
+`versions.json` beside the template lists the versions. The nightly
+`api-typo3-org.yml` of `t3docs-ci-deploy` copies the page to the web root as
+`index.html`.
 
--   `Documentation/Home/ApiTypo3Org.rst` — the **text** of the page (headline,
-    the cards linking each TYPO3 version's API, the list for older versions).
--   `WebRootResources-api.typo3.org/index.html` — the **deployed page**: the
-    rendered result of that reST, adjusted by hand and committed as HTML.
-
-Nothing regenerates `index.html` automatically. `make docs` does not produce it,
-and it is not rebuilt on deploy. The process, which is not automated yet:
-
-1.  Change the wording in `Documentation/Home/ApiTypo3Org.rst`.
-2.  Render the documentation so the page comes out with the current theme.
-3.  Adjust the rendered page by hand for api.typo3.org.
-4.  Commit the finished HTML as `WebRootResources-api.typo3.org/index.html`.
-5.  Deploy by running the "api.typo3.org Home Page" workflow.
-
-Two things to watch:
-
--   **The hand adjustments are not reproducible from the reST.** `index.html`
-    contains things its source does not, such as the shortlink added in `08b2a64`,
-    alongside styling and menu changes (`0bd5181`, `80eb67d`). A fresh render
-    discards all of them, so re-apply them rather than replacing the file
-    wholesale — and never edit only `index.html` when the wording changes, or the
-    reST source falls out of date.
--   **It holds a copy of content maintained elsewhere in this repo**, such as the
-    "All Documentation" menu, and that copy does not update itself. Shared changes
-    have to be made again by hand here, as `2f01a91` and `edb02fc` show. Expect
-    the two homepages to drift, and check this file when changing the other one.
+Do not add an `index.html` to `WebRootResources-api.typo3.org/`: `apihome.yml`
+would overwrite the generated page until the next nightly build.
 
 ## Changes here that affect every manual on the server
 
