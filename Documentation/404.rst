@@ -21,6 +21,16 @@ Or pick one of the following:
 *   :doc:`System extensions <h2document:Basics/BasicPrinciples#system-extensions>`
 
 
+..  _apilanding:
+..  _apilanding_elts:
+..  _page-not-found-api-start-page:
+
+Start page of the TYPO3 API
+===========================
+
+A template of the API now generates this page. It is no longer part of this
+manual. Open the `start page of the TYPO3 API <https://api.typo3.org/>`__.
+
 ..  _page-not-found-contact:
 
 Contact
